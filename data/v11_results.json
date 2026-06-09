@@ -1,0 +1,299 @@
+{
+ "public_catholic_means": [
+  {
+   "series": "Math, Grade 4",
+   "group": "Public",
+   "2013": 241.2,
+   "chg_2013_2019": -1.2,
+   "chg_2019_2024": -2.7,
+   "chg_2013_2024": -3.9
+  },
+  {
+   "series": "Math, Grade 4",
+   "group": "Catholic",
+   "2013": 246.1,
+   "chg_2013_2019": -0.0,
+   "chg_2019_2024": 1.0,
+   "chg_2013_2024": 1.0
+  },
+  {
+   "series": "Math, Grade 8",
+   "group": "Public",
+   "2013": 283.6,
+   "chg_2013_2019": -2.6,
+   "chg_2019_2024": -8.8,
+   "chg_2013_2024": -11.4
+  },
+  {
+   "series": "Math, Grade 8",
+   "group": "Catholic",
+   "2013": 294.9,
+   "chg_2013_2019": -1.5,
+   "chg_2019_2024": -0.9,
+   "chg_2013_2024": -2.3
+  },
+  {
+   "series": "Reading, Grade 4",
+   "group": "Public",
+   "2013": 220.7,
+   "chg_2013_2019": -1.2,
+   "chg_2019_2024": -5.2,
+   "chg_2013_2024": -6.4
+  },
+  {
+   "series": "Reading, Grade 4",
+   "group": "Catholic",
+   "2013": 235.2,
+   "chg_2013_2019": -0.1,
+   "chg_2019_2024": -5.3,
+   "chg_2013_2024": -5.4
+  },
+  {
+   "series": "Reading, Grade 8",
+   "group": "Public",
+   "2013": 266.0,
+   "chg_2013_2019": -4.0,
+   "chg_2019_2024": -5.3,
+   "chg_2013_2024": -9.4
+  },
+  {
+   "series": "Reading, Grade 8",
+   "group": "Catholic",
+   "2013": 286.2,
+   "chg_2013_2019": -7.8,
+   "chg_2019_2024": -1.4,
+   "chg_2013_2024": -9.2
+  }
+ ],
+ "public_catholic_pctiles": [
+  {
+   "series": "Math, Grade 4",
+   "group": "Public",
+   "pctile": 10,
+   "chg_2013_2019": -4.2,
+   "chg_2019_2024": -7.9
+  },
+  {
+   "series": "Math, Grade 4",
+   "group": "Public",
+   "pctile": 90,
+   "chg_2013_2019": 1.5,
+   "chg_2019_2024": 0.5
+  },
+  {
+   "series": "Math, Grade 4",
+   "group": "Catholic",
+   "pctile": 10,
+   "chg_2013_2019": 0.1,
+   "chg_2019_2024": -2.2
+  },
+  {
+   "series": "Math, Grade 4",
+   "group": "Catholic",
+   "pctile": 90,
+   "chg_2013_2019": 1.5,
+   "chg_2019_2024": 2.8
+  },
+  {
+   "series": "Math, Grade 8",
+   "group": "Public",
+   "pctile": 10,
+   "chg_2013_2019": -6.7,
+   "chg_2019_2024": -12.0
+  },
+  {
+   "series": "Math, Grade 8",
+   "group": "Public",
+   "pctile": 90,
+   "chg_2013_2019": 2.9,
+   "chg_2019_2024": -5.5
+  },
+  {
+   "series": "Math, Grade 8",
+   "group": "Catholic",
+   "pctile": 10,
+   "chg_2013_2019": -3.5,
+   "chg_2019_2024": -4.8
+  },
+  {
+   "series": "Math, Grade 8",
+   "group": "Catholic",
+   "pctile": 90,
+   "chg_2013_2019": 0.5,
+   "chg_2019_2024": 4.6
+  },
+  {
+   "series": "Reading, Grade 4",
+   "group": "Public",
+   "pctile": 10,
+   "chg_2013_2019": -5.1,
+   "chg_2019_2024": -9.7
+  },
+  {
+   "series": "Reading, Grade 4",
+   "group": "Public",
+   "pctile": 90,
+   "chg_2013_2019": 1.1,
+   "chg_2019_2024": -0.9
+  },
+  {
+   "series": "Reading, Grade 4",
+   "group": "Catholic",
+   "pctile": 10,
+   "chg_2013_2019": -1.6,
+   "chg_2019_2024": -7.9
+  },
+  {
+   "series": "Reading, Grade 4",
+   "group": "Catholic",
+   "pctile": 90,
+   "chg_2013_2019": 1.3,
+   "chg_2019_2024": -3.5
+  },
+  {
+   "series": "Reading, Grade 8",
+   "group": "Public",
+   "pctile": 10,
+   "chg_2013_2019": -10.2,
+   "chg_2019_2024": -9.2
+  },
+  {
+   "series": "Reading, Grade 8",
+   "group": "Public",
+   "pctile": 90,
+   "chg_2013_2019": -0.1,
+   "chg_2019_2024": -2.1
+  },
+  {
+   "series": "Reading, Grade 8",
+   "group": "Catholic",
+   "pctile": 10,
+   "chg_2013_2019": -8.7,
+   "chg_2019_2024": -5.9
+  },
+  {
+   "series": "Reading, Grade 8",
+   "group": "Catholic",
+   "pctile": 90,
+   "chg_2013_2019": -7.6,
+   "chg_2019_2024": 2.4
+  }
+ ],
+ "waiver_group_trends_p10": [
+  {
+   "series": "Math, Grade 4",
+   "early_2011_2019": -4.6,
+   "late_2011_2019": -7.5,
+   "never_2011_2019": -5.8
+  },
+  {
+   "series": "Math, Grade 8",
+   "early_2011_2019": -7.3,
+   "late_2011_2019": -8.8,
+   "never_2011_2019": -7.7
+  },
+  {
+   "series": "Reading, Grade 4",
+   "early_2011_2019": -5.8,
+   "late_2011_2019": -10.1,
+   "never_2011_2019": -7.6
+  },
+  {
+   "series": "Reading, Grade 8",
+   "early_2011_2019": -8.3,
+   "late_2011_2019": -9.3,
+   "never_2011_2019": -10.1
+  }
+ ],
+ "waiver_did": [
+  {
+   "stat": "P10",
+   "series": "Math, Grade 4",
+   "beta_post": 0.49,
+   "se": 1.25,
+   "p": 0.695
+  },
+  {
+   "stat": "P10",
+   "series": "Math, Grade 8",
+   "beta_post": 0.23,
+   "se": 1.35,
+   "p": 0.864
+  },
+  {
+   "stat": "P10",
+   "series": "Reading, Grade 4",
+   "beta_post": 0.87,
+   "se": 1.4,
+   "p": 0.533
+  },
+  {
+   "stat": "P10",
+   "series": "Reading, Grade 8",
+   "beta_post": 1.56,
+   "se": 1.51,
+   "p": 0.303
+  },
+  {
+   "stat": "P25",
+   "series": "Math, Grade 4",
+   "beta_post": 0.31,
+   "se": 1.08,
+   "p": 0.776
+  },
+  {
+   "stat": "P25",
+   "series": "Math, Grade 8",
+   "beta_post": 0.16,
+   "se": 1.08,
+   "p": 0.88
+  },
+  {
+   "stat": "P25",
+   "series": "Reading, Grade 4",
+   "beta_post": 0.45,
+   "se": 1.05,
+   "p": 0.67
+  },
+  {
+   "stat": "P25",
+   "series": "Reading, Grade 8",
+   "beta_post": 1.12,
+   "se": 1.22,
+   "p": 0.36
+  },
+  {
+   "stat": "P90",
+   "series": "Math, Grade 4",
+   "beta_post": -0.15,
+   "se": 0.81,
+   "p": 0.849
+  },
+  {
+   "stat": "P90",
+   "series": "Math, Grade 8",
+   "beta_post": 0.78,
+   "se": 0.83,
+   "p": 0.345
+  },
+  {
+   "stat": "P90",
+   "series": "Reading, Grade 4",
+   "beta_post": 0.63,
+   "se": 0.67,
+   "p": 0.347
+  },
+  {
+   "stat": "P90",
+   "series": "Reading, Grade 8",
+   "beta_post": 0.88,
+   "se": 0.8,
+   "p": 0.273
+  }
+ ],
+ "waiver_did_pooled_p10_z": {
+  "beta": 0.092,
+  "se": 0.137,
+  "p": 0.502
+ }
+}

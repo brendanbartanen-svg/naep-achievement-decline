@@ -1,0 +1,1101 @@
+dataset,subject,grade,year,jurisdiction,stat,variable,group,value,errorFlag,displayable
+schtype_pct,MAT,4,2003,NT,PC:P1,SCHTYPE,Public,196.344000244141,0,1
+schtype_pct,MAT,4,2003,NT,PC:P2,SCHTYPE,Public,215.073999023438,0,1
+schtype_pct,MAT,4,2003,NT,PC:P5,SCHTYPE,Public,235.217999267578,0,1
+schtype_pct,MAT,4,2003,NT,PC:P7,SCHTYPE,Public,254.05599975586,0,1
+schtype_pct,MAT,4,2003,NT,PC:P9,SCHTYPE,Public,269.69599609375,0,1
+schtype_pct,MAT,4,2003,NT,PC:P1,SCHTYPE,Other private,209.982000732422,0,1
+schtype_pct,MAT,4,2003,NT,PC:P2,SCHTYPE,Other private,227.544000244141,0,1
+schtype_pct,MAT,4,2003,NT,PC:P5,SCHTYPE,Other private,246.132000732422,0,1
+schtype_pct,MAT,4,2003,NT,PC:P7,SCHTYPE,Other private,262.832000732422,0,1
+schtype_pct,MAT,4,2003,NT,PC:P9,SCHTYPE,Other private,276.99799194336,0,1
+schtype_pct,MAT,4,2003,NT,PC:P1,SCHTYPE,Catholic,210.802001953125,0,1
+schtype_pct,MAT,4,2003,NT,PC:P2,SCHTYPE,Catholic,228.065997314453,0,1
+schtype_pct,MAT,4,2003,NT,PC:P5,SCHTYPE,Catholic,244.741998291016,0,1
+schtype_pct,MAT,4,2003,NT,PC:P7,SCHTYPE,Catholic,260.859997558594,0,1
+schtype_pct,MAT,4,2003,NT,PC:P9,SCHTYPE,Catholic,274.488000488281,0,1
+schtype_pct,MAT,4,2003,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,4,2003,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,4,2003,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,4,2003,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,4,2003,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,4,2003,NT,PC:P1,SCHTYPE,Department of Defense,206.730001831055,0,1
+schtype_pct,MAT,4,2003,NT,PC:P2,SCHTYPE,Department of Defense,222.12200012207,0,1
+schtype_pct,MAT,4,2003,NT,PC:P5,SCHTYPE,Department of Defense,238.733999633789,0,1
+schtype_pct,MAT,4,2003,NT,PC:P7,SCHTYPE,Department of Defense,253.128002929688,0,1
+schtype_pct,MAT,4,2003,NT,PC:P9,SCHTYPE,Department of Defense,265.684002685547,0,1
+schtype_pct,MAT,4,2005,NT,PC:P1,SCHTYPE,Public,199.394000244141,0,1
+schtype_pct,MAT,4,2005,NT,PC:P2,SCHTYPE,Public,218.609997558594,0,1
+schtype_pct,MAT,4,2005,NT,PC:P5,SCHTYPE,Public,238.622003173828,0,1
+schtype_pct,MAT,4,2005,NT,PC:P7,SCHTYPE,Public,256.891998291016,0,1
+schtype_pct,MAT,4,2005,NT,PC:P9,SCHTYPE,Public,272.45,0,1
+schtype_pct,MAT,4,2005,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2005,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2005,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2005,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2005,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2005,NT,PC:P1,SCHTYPE,Catholic,211.805999755859,0,1
+schtype_pct,MAT,4,2005,NT,PC:P2,SCHTYPE,Catholic,227.779998779297,0,1
+schtype_pct,MAT,4,2005,NT,PC:P5,SCHTYPE,Catholic,244.405999755859,0,1
+schtype_pct,MAT,4,2005,NT,PC:P7,SCHTYPE,Catholic,260.412005615235,0,1
+schtype_pct,MAT,4,2005,NT,PC:P9,SCHTYPE,Catholic,273.705999755859,0,1
+schtype_pct,MAT,4,2005,NT,PC:P1,SCHTYPE,Bureau of Indian Education,175.571997070313,0,1
+schtype_pct,MAT,4,2005,NT,PC:P2,SCHTYPE,Bureau of Indian Education,193.499996948242,0,1
+schtype_pct,MAT,4,2005,NT,PC:P5,SCHTYPE,Bureau of Indian Education,212.366003417969,0,1
+schtype_pct,MAT,4,2005,NT,PC:P7,SCHTYPE,Bureau of Indian Education,227.752001953125,0,1
+schtype_pct,MAT,4,2005,NT,PC:P9,SCHTYPE,Bureau of Indian Education,240.801998901367,0,1
+schtype_pct,MAT,4,2005,NT,PC:P1,SCHTYPE,Department of Defense,206.972003173828,0,1
+schtype_pct,MAT,4,2005,NT,PC:P2,SCHTYPE,Department of Defense,223.020001220703,0,1
+schtype_pct,MAT,4,2005,NT,PC:P5,SCHTYPE,Department of Defense,239.971997070312,0,1
+schtype_pct,MAT,4,2005,NT,PC:P7,SCHTYPE,Department of Defense,255.581997680664,0,1
+schtype_pct,MAT,4,2005,NT,PC:P9,SCHTYPE,Department of Defense,268.885998535156,0,1
+schtype_pct,MAT,4,2007,NT,PC:P1,SCHTYPE,Public,201.220001220703,0,1
+schtype_pct,MAT,4,2007,NT,PC:P2,SCHTYPE,Public,220.923999023437,0,1
+schtype_pct,MAT,4,2007,NT,PC:P5,SCHTYPE,Public,240.974002075195,0,1
+schtype_pct,MAT,4,2007,NT,PC:P7,SCHTYPE,Public,259.181994628906,0,1
+schtype_pct,MAT,4,2007,NT,PC:P9,SCHTYPE,Public,274.2919921875,0,1
+schtype_pct,MAT,4,2007,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2007,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2007,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2007,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2007,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2007,NT,PC:P1,SCHTYPE,Catholic,213.651998901367,0,1
+schtype_pct,MAT,4,2007,NT,PC:P2,SCHTYPE,Catholic,231.565997314453,0,1
+schtype_pct,MAT,4,2007,NT,PC:P5,SCHTYPE,Catholic,247.576000976562,0,1
+schtype_pct,MAT,4,2007,NT,PC:P7,SCHTYPE,Catholic,263.329998779297,0,1
+schtype_pct,MAT,4,2007,NT,PC:P9,SCHTYPE,Catholic,276.65400390625,0,1
+schtype_pct,MAT,4,2007,NT,PC:P1,SCHTYPE,Bureau of Indian Education,171.509997558594,0,1
+schtype_pct,MAT,4,2007,NT,PC:P2,SCHTYPE,Bureau of Indian Education,189.635998535157,0,1
+schtype_pct,MAT,4,2007,NT,PC:P5,SCHTYPE,Bureau of Indian Education,208.707998657227,0,1
+schtype_pct,MAT,4,2007,NT,PC:P7,SCHTYPE,Bureau of Indian Education,227.211999511719,0,1
+schtype_pct,MAT,4,2007,NT,PC:P9,SCHTYPE,Bureau of Indian Education,242.058001708984,0,1
+schtype_pct,MAT,4,2007,NT,PC:P1,SCHTYPE,Department of Defense,208.075997924805,0,1
+schtype_pct,MAT,4,2007,NT,PC:P2,SCHTYPE,Department of Defense,224.587997436523,0,1
+schtype_pct,MAT,4,2007,NT,PC:P5,SCHTYPE,Department of Defense,241.579998779297,0,1
+schtype_pct,MAT,4,2007,NT,PC:P7,SCHTYPE,Department of Defense,257.017993164063,0,1
+schtype_pct,MAT,4,2007,NT,PC:P9,SCHTYPE,Department of Defense,270.217993164063,0,1
+schtype_pct,MAT,4,2009,NT,PC:P1,SCHTYPE,Public,201.162002563477,0,1
+schtype_pct,MAT,4,2009,NT,PC:P2,SCHTYPE,Public,220.554000854492,0,1
+schtype_pct,MAT,4,2009,NT,PC:P5,SCHTYPE,Public,240.615997314453,0,1
+schtype_pct,MAT,4,2009,NT,PC:P7,SCHTYPE,Public,259.20400390625,0,1
+schtype_pct,MAT,4,2009,NT,PC:P9,SCHTYPE,Public,274.819995117188,0,1
+schtype_pct,MAT,4,2009,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2009,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2009,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2009,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2009,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2009,NT,PC:P1,SCHTYPE,Catholic,211.760000610352,0,1
+schtype_pct,MAT,4,2009,NT,PC:P2,SCHTYPE,Catholic,228.046002197266,0,1
+schtype_pct,MAT,4,2009,NT,PC:P5,SCHTYPE,Catholic,246.017999267578,0,1
+schtype_pct,MAT,4,2009,NT,PC:P7,SCHTYPE,Catholic,262.638006591797,0,1
+schtype_pct,MAT,4,2009,NT,PC:P9,SCHTYPE,Catholic,277.317999267578,0,1
+schtype_pct,MAT,4,2009,NT,PC:P1,SCHTYPE,Bureau of Indian Education,172.670001220703,0,1
+schtype_pct,MAT,4,2009,NT,PC:P2,SCHTYPE,Bureau of Indian Education,188.570001220703,0,1
+schtype_pct,MAT,4,2009,NT,PC:P5,SCHTYPE,Bureau of Indian Education,207.152001953125,0,1
+schtype_pct,MAT,4,2009,NT,PC:P7,SCHTYPE,Bureau of Indian Education,225.026000976563,0,1
+schtype_pct,MAT,4,2009,NT,PC:P9,SCHTYPE,Bureau of Indian Education,241.32799987793,0,1
+schtype_pct,MAT,4,2009,NT,PC:P1,SCHTYPE,Department of Defense,208.542001342773,0,1
+schtype_pct,MAT,4,2009,NT,PC:P2,SCHTYPE,Department of Defense,224.37200012207,0,1
+schtype_pct,MAT,4,2009,NT,PC:P5,SCHTYPE,Department of Defense,241.239999389648,0,1
+schtype_pct,MAT,4,2009,NT,PC:P7,SCHTYPE,Department of Defense,257.234002685547,0,1
+schtype_pct,MAT,4,2009,NT,PC:P9,SCHTYPE,Department of Defense,270.647998046875,0,1
+schtype_pct,MAT,4,2011,NT,PC:P1,SCHTYPE,Public,202.104000854492,0,1
+schtype_pct,MAT,4,2011,NT,PC:P2,SCHTYPE,Public,221.505999755859,0,1
+schtype_pct,MAT,4,2011,NT,PC:P5,SCHTYPE,Public,241.557998657227,0,1
+schtype_pct,MAT,4,2011,NT,PC:P7,SCHTYPE,Public,260.284002685547,0,1
+schtype_pct,MAT,4,2011,NT,PC:P9,SCHTYPE,Public,275.967999267578,0,1
+schtype_pct,MAT,4,2011,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2011,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2011,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2011,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2011,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2011,NT,PC:P1,SCHTYPE,Catholic,211.435995483398,0,1
+schtype_pct,MAT,4,2011,NT,PC:P2,SCHTYPE,Catholic,229.041998291016,0,1
+schtype_pct,MAT,4,2011,NT,PC:P5,SCHTYPE,Catholic,246.343997192383,0,1
+schtype_pct,MAT,4,2011,NT,PC:P7,SCHTYPE,Catholic,262.142004394531,0,1
+schtype_pct,MAT,4,2011,NT,PC:P9,SCHTYPE,Catholic,275.477996826172,0,1
+schtype_pct,MAT,4,2011,NT,PC:P1,SCHTYPE,Bureau of Indian Education,176.534002685547,0,1
+schtype_pct,MAT,4,2011,NT,PC:P2,SCHTYPE,Bureau of Indian Education,194.326000976562,0,1
+schtype_pct,MAT,4,2011,NT,PC:P5,SCHTYPE,Bureau of Indian Education,213.657998657226,0,1
+schtype_pct,MAT,4,2011,NT,PC:P7,SCHTYPE,Bureau of Indian Education,232.551998901367,0,1
+schtype_pct,MAT,4,2011,NT,PC:P9,SCHTYPE,Bureau of Indian Education,248.473999023437,0,1
+schtype_pct,MAT,4,2011,NT,PC:P1,SCHTYPE,Department of Defense,208.717999267578,0,1
+schtype_pct,MAT,4,2011,NT,PC:P2,SCHTYPE,Department of Defense,224.852001953125,0,1
+schtype_pct,MAT,4,2011,NT,PC:P5,SCHTYPE,Department of Defense,242.016003417969,0,1
+schtype_pct,MAT,4,2011,NT,PC:P7,SCHTYPE,Department of Defense,257.984002685547,0,1
+schtype_pct,MAT,4,2011,NT,PC:P9,SCHTYPE,Department of Defense,271.54400024414,0,1
+schtype_pct,MAT,4,2013,NT,PC:P1,SCHTYPE,Public,202.360001373291,0,1
+schtype_pct,MAT,4,2013,NT,PC:P2,SCHTYPE,Public,221.987500762939,0,1
+schtype_pct,MAT,4,2013,NT,PC:P5,SCHTYPE,Public,242.640999603272,0,1
+schtype_pct,MAT,4,2013,NT,PC:P7,SCHTYPE,Public,261.769499206543,0,1
+schtype_pct,MAT,4,2013,NT,PC:P9,SCHTYPE,Public,277.972500610352,0,1
+schtype_pct,MAT,4,2013,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2013,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2013,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2013,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2013,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2013,NT,PC:P1,SCHTYPE,Catholic,210.131497955322,0,1
+schtype_pct,MAT,4,2013,NT,PC:P2,SCHTYPE,Catholic,228.967999267578,0,1
+schtype_pct,MAT,4,2013,NT,PC:P5,SCHTYPE,Catholic,247.722999572754,0,1
+schtype_pct,MAT,4,2013,NT,PC:P7,SCHTYPE,Catholic,264.859997558594,0,1
+schtype_pct,MAT,4,2013,NT,PC:P9,SCHTYPE,Catholic,279.191499328613,0,1
+schtype_pct,MAT,4,2013,NT,PC:P1,SCHTYPE,Bureau of Indian Education,180.148500823975,0,1
+schtype_pct,MAT,4,2013,NT,PC:P2,SCHTYPE,Bureau of Indian Education,194.977001190186,0,1
+schtype_pct,MAT,4,2013,NT,PC:P5,SCHTYPE,Bureau of Indian Education,211.476499938965,0,1
+schtype_pct,MAT,4,2013,NT,PC:P7,SCHTYPE,Bureau of Indian Education,230.503999328613,0,1
+schtype_pct,MAT,4,2013,NT,PC:P9,SCHTYPE,Bureau of Indian Education,248.719500732422,0,1
+schtype_pct,MAT,4,2013,NT,PC:P1,SCHTYPE,Department of Defense,213.077000427246,0,1
+schtype_pct,MAT,4,2013,NT,PC:P2,SCHTYPE,Department of Defense,229.421500396729,0,1
+schtype_pct,MAT,4,2013,NT,PC:P5,SCHTYPE,Department of Defense,246.021000671387,0,1
+schtype_pct,MAT,4,2013,NT,PC:P7,SCHTYPE,Department of Defense,261.974499511719,0,1
+schtype_pct,MAT,4,2013,NT,PC:P9,SCHTYPE,Department of Defense,275.642999267578,0,1
+schtype_pct,MAT,4,2015,NT,PC:P1,SCHTYPE,Public,200.894499969482,0,1
+schtype_pct,MAT,4,2015,NT,PC:P2,SCHTYPE,Public,220.614499664307,0,1
+schtype_pct,MAT,4,2015,NT,PC:P5,SCHTYPE,Public,241.183499908447,0,1
+schtype_pct,MAT,4,2015,NT,PC:P7,SCHTYPE,Public,260.392500305176,0,1
+schtype_pct,MAT,4,2015,NT,PC:P9,SCHTYPE,Public,276.895997619629,0,1
+schtype_pct,MAT,4,2015,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2015,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2015,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2015,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2015,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2015,NT,PC:P1,SCHTYPE,Catholic,213.983500671387,0,1
+schtype_pct,MAT,4,2015,NT,PC:P2,SCHTYPE,Catholic,230.287500762939,0,1
+schtype_pct,MAT,4,2015,NT,PC:P5,SCHTYPE,Catholic,247.790999603271,0,1
+schtype_pct,MAT,4,2015,NT,PC:P7,SCHTYPE,Catholic,264.238998413086,0,1
+schtype_pct,MAT,4,2015,NT,PC:P9,SCHTYPE,Catholic,278.86549987793,0,1
+schtype_pct,MAT,4,2015,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,272,0
+schtype_pct,MAT,4,2015,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,272,0
+schtype_pct,MAT,4,2015,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,272,0
+schtype_pct,MAT,4,2015,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,272,0
+schtype_pct,MAT,4,2015,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,272,0
+schtype_pct,MAT,4,2015,NT,PC:P1,SCHTYPE,Department of Defense,214.624501037598,0,1
+schtype_pct,MAT,4,2015,NT,PC:P2,SCHTYPE,Department of Defense,230.89700012207,0,1
+schtype_pct,MAT,4,2015,NT,PC:P5,SCHTYPE,Department of Defense,248.368000030518,0,1
+schtype_pct,MAT,4,2015,NT,PC:P7,SCHTYPE,Department of Defense,265.199502563477,0,1
+schtype_pct,MAT,4,2015,NT,PC:P9,SCHTYPE,Department of Defense,279.004000854492,0,1
+schtype_pct,MAT,4,2017,NT,PC:P1,SCHTYPE,Public,197.272500610352,0,1
+schtype_pct,MAT,4,2017,NT,PC:P2,SCHTYPE,Public,218.514499664307,0,1
+schtype_pct,MAT,4,2017,NT,PC:P5,SCHTYPE,Public,240.704000091553,0,1
+schtype_pct,MAT,4,2017,NT,PC:P7,SCHTYPE,Public,261.27799987793,0,1
+schtype_pct,MAT,4,2017,NT,PC:P9,SCHTYPE,Public,278.593501281738,0,1
+schtype_pct,MAT,4,2017,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2017,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2017,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2017,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2017,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2017,NT,PC:P1,SCHTYPE,Catholic,208.895999908447,0,1
+schtype_pct,MAT,4,2017,NT,PC:P2,SCHTYPE,Catholic,227.412000274658,0,1
+schtype_pct,MAT,4,2017,NT,PC:P5,SCHTYPE,Catholic,246.836499023437,0,1
+schtype_pct,MAT,4,2017,NT,PC:P7,SCHTYPE,Catholic,264.065498352051,0,1
+schtype_pct,MAT,4,2017,NT,PC:P9,SCHTYPE,Catholic,279.274501037598,0,1
+schtype_pct,MAT,4,2017,NT,PC:P1,SCHTYPE,Bureau of Indian Education,185.584999084473,0,1
+schtype_pct,MAT,4,2017,NT,PC:P2,SCHTYPE,Bureau of Indian Education,198.131999969482,0,1
+schtype_pct,MAT,4,2017,NT,PC:P5,SCHTYPE,Bureau of Indian Education,215.583501434326,0,1
+schtype_pct,MAT,4,2017,NT,PC:P7,SCHTYPE,Bureau of Indian Education,231.686500549316,0,1
+schtype_pct,MAT,4,2017,NT,PC:P9,SCHTYPE,Bureau of Indian Education,249.623999786377,0,1
+schtype_pct,MAT,4,2017,NT,PC:P1,SCHTYPE,Department of Defense,216.294499969482,0,1
+schtype_pct,MAT,4,2017,NT,PC:P2,SCHTYPE,Department of Defense,232.27500076294,0,1
+schtype_pct,MAT,4,2017,NT,PC:P5,SCHTYPE,Department of Defense,249.381500244141,0,1
+schtype_pct,MAT,4,2017,NT,PC:P7,SCHTYPE,Department of Defense,265.675999450684,0,1
+schtype_pct,MAT,4,2017,NT,PC:P9,SCHTYPE,Department of Defense,280.288500976563,0,1
+schtype_pct,MAT,4,2019,NT,PC:P1,SCHTYPE,Public,198.185500335693,0,1
+schtype_pct,MAT,4,2019,NT,PC:P2,SCHTYPE,Public,219.825501251221,0,1
+schtype_pct,MAT,4,2019,NT,PC:P5,SCHTYPE,Public,241.603998565674,0,1
+schtype_pct,MAT,4,2019,NT,PC:P7,SCHTYPE,Public,261.909498596192,0,1
+schtype_pct,MAT,4,2019,NT,PC:P9,SCHTYPE,Public,279.461000061035,0,1
+schtype_pct,MAT,4,2019,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2019,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2019,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2019,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2019,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2019,NT,PC:P1,SCHTYPE,Catholic,210.248000335693,0,1
+schtype_pct,MAT,4,2019,NT,PC:P2,SCHTYPE,Catholic,228.385499572754,0,1
+schtype_pct,MAT,4,2019,NT,PC:P5,SCHTYPE,Catholic,247.475501251221,0,1
+schtype_pct,MAT,4,2019,NT,PC:P7,SCHTYPE,Catholic,265.571000671387,0,1
+schtype_pct,MAT,4,2019,NT,PC:P9,SCHTYPE,Catholic,280.696499633789,0,1
+schtype_pct,MAT,4,2019,NT,PC:P1,SCHTYPE,Bureau of Indian Education,179.876499938965,0,1
+schtype_pct,MAT,4,2019,NT,PC:P2,SCHTYPE,Bureau of Indian Education,197.612500762939,0,1
+schtype_pct,MAT,4,2019,NT,PC:P5,SCHTYPE,Bureau of Indian Education,216.086998748779,0,1
+schtype_pct,MAT,4,2019,NT,PC:P7,SCHTYPE,Bureau of Indian Education,233.735498046875,0,1
+schtype_pct,MAT,4,2019,NT,PC:P9,SCHTYPE,Bureau of Indian Education,248.461000061035,0,1
+schtype_pct,MAT,4,2019,NT,PC:P1,SCHTYPE,Department of Defense,218.646499633789,0,1
+schtype_pct,MAT,4,2019,NT,PC:P2,SCHTYPE,Department of Defense,234.523501586914,0,1
+schtype_pct,MAT,4,2019,NT,PC:P5,SCHTYPE,Department of Defense,251.306500244141,0,1
+schtype_pct,MAT,4,2019,NT,PC:P7,SCHTYPE,Department of Defense,267.67149810791,0,1
+schtype_pct,MAT,4,2019,NT,PC:P9,SCHTYPE,Department of Defense,281.802998352051,0,1
+schtype_pct,MAT,4,2022,NT,PC:P1,SCHTYPE,Public,190.157501220703,0,1
+schtype_pct,MAT,4,2022,NT,PC:P2,SCHTYPE,Public,212.658501434326,0,1
+schtype_pct,MAT,4,2022,NT,PC:P5,SCHTYPE,Public,236.488999938965,0,1
+schtype_pct,MAT,4,2022,NT,PC:P7,SCHTYPE,Public,258.224996948242,0,1
+schtype_pct,MAT,4,2022,NT,PC:P9,SCHTYPE,Public,276.889001464844,0,1
+schtype_pct,MAT,4,2022,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2022,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2022,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2022,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2022,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2022,NT,PC:P1,SCHTYPE,Catholic,209.904000854492,0,1
+schtype_pct,MAT,4,2022,NT,PC:P2,SCHTYPE,Catholic,227.781999206543,0,1
+schtype_pct,MAT,4,2022,NT,PC:P5,SCHTYPE,Catholic,246.163499450684,0,1
+schtype_pct,MAT,4,2022,NT,PC:P7,SCHTYPE,Catholic,264.047499084473,0,1
+schtype_pct,MAT,4,2022,NT,PC:P9,SCHTYPE,Catholic,281.472499084473,0,1
+schtype_pct,MAT,4,2022,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,4,2022,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,4,2022,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,4,2022,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,4,2022,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,4,2022,NT,PC:P1,SCHTYPE,Department of Defense,217.069999694824,0,1
+schtype_pct,MAT,4,2022,NT,PC:P2,SCHTYPE,Department of Defense,233.21549987793,0,1
+schtype_pct,MAT,4,2022,NT,PC:P5,SCHTYPE,Department of Defense,249.942501831055,0,1
+schtype_pct,MAT,4,2022,NT,PC:P7,SCHTYPE,Department of Defense,267.010501098633,0,1
+schtype_pct,MAT,4,2022,NT,PC:P9,SCHTYPE,Department of Defense,281.860501098633,0,1
+schtype_pct,MAT,4,2024,NT,PC:P1,SCHTYPE,Public,190.273000335693,0,1
+schtype_pct,MAT,4,2024,NT,PC:P2,SCHTYPE,Public,214.722999572754,0,1
+schtype_pct,MAT,4,2024,NT,PC:P5,SCHTYPE,Public,239.90950012207,0,1
+schtype_pct,MAT,4,2024,NT,PC:P7,SCHTYPE,Public,261.854501342773,0,1
+schtype_pct,MAT,4,2024,NT,PC:P9,SCHTYPE,Public,279.93399810791,0,1
+schtype_pct,MAT,4,2024,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2024,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2024,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2024,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2024,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,4,2024,NT,PC:P1,SCHTYPE,Catholic,208.040999603272,0,1
+schtype_pct,MAT,4,2024,NT,PC:P2,SCHTYPE,Catholic,228.186999511719,0,1
+schtype_pct,MAT,4,2024,NT,PC:P5,SCHTYPE,Catholic,248.945998382568,0,1
+schtype_pct,MAT,4,2024,NT,PC:P7,SCHTYPE,Catholic,267.557498168945,0,1
+schtype_pct,MAT,4,2024,NT,PC:P9,SCHTYPE,Catholic,283.502496337891,0,1
+schtype_pct,MAT,4,2024,NT,PC:P1,SCHTYPE,Bureau of Indian Education,164.541500854492,0,1
+schtype_pct,MAT,4,2024,NT,PC:P2,SCHTYPE,Bureau of Indian Education,184.19400100708,0,1
+schtype_pct,MAT,4,2024,NT,PC:P5,SCHTYPE,Bureau of Indian Education,206.220499420166,0,1
+schtype_pct,MAT,4,2024,NT,PC:P7,SCHTYPE,Bureau of Indian Education,227.231000518799,0,1
+schtype_pct,MAT,4,2024,NT,PC:P9,SCHTYPE,Bureau of Indian Education,246.350999450684,0,1
+schtype_pct,MAT,4,2024,NT,PC:P1,SCHTYPE,Department of Defense,216.273998260498,0,1
+schtype_pct,MAT,4,2024,NT,PC:P2,SCHTYPE,Department of Defense,233.775999450684,0,1
+schtype_pct,MAT,4,2024,NT,PC:P5,SCHTYPE,Department of Defense,251.833499145508,0,1
+schtype_pct,MAT,4,2024,NT,PC:P7,SCHTYPE,Department of Defense,268.687501525879,0,1
+schtype_pct,MAT,4,2024,NT,PC:P9,SCHTYPE,Department of Defense,283.519500732422,0,1
+schtype_pct,MAT,8,2003,NT,PC:P1,SCHTYPE,Public,228.483996582031,0,1
+schtype_pct,MAT,8,2003,NT,PC:P2,SCHTYPE,Public,252.680001831055,0,1
+schtype_pct,MAT,8,2003,NT,PC:P5,SCHTYPE,Public,277.812005615235,0,1
+schtype_pct,MAT,8,2003,NT,PC:P7,SCHTYPE,Public,301.415997314453,0,1
+schtype_pct,MAT,8,2003,NT,PC:P9,SCHTYPE,Public,321.285998535156,0,1
+schtype_pct,MAT,8,2003,NT,PC:P1,SCHTYPE,Other private,249.088000488281,0,1
+schtype_pct,MAT,8,2003,NT,PC:P2,SCHTYPE,Other private,273.509991455078,0,1
+schtype_pct,MAT,8,2003,NT,PC:P5,SCHTYPE,Other private,296.161999511719,0,1
+schtype_pct,MAT,8,2003,NT,PC:P7,SCHTYPE,Other private,317.647998046875,0,1
+schtype_pct,MAT,8,2003,NT,PC:P9,SCHTYPE,Other private,335.758001708984,0,1
+schtype_pct,MAT,8,2003,NT,PC:P1,SCHTYPE,Catholic,248.561999511719,0,1
+schtype_pct,MAT,8,2003,NT,PC:P2,SCHTYPE,Catholic,268.446002197266,0,1
+schtype_pct,MAT,8,2003,NT,PC:P5,SCHTYPE,Catholic,290.772003173828,0,1
+schtype_pct,MAT,8,2003,NT,PC:P7,SCHTYPE,Catholic,311.221997070312,0,1
+schtype_pct,MAT,8,2003,NT,PC:P9,SCHTYPE,Catholic,329.216003417969,0,1
+schtype_pct,MAT,8,2003,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2003,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2003,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2003,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2003,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2003,NT,PC:P1,SCHTYPE,Department of Defense,248.607998657227,0,1
+schtype_pct,MAT,8,2003,NT,PC:P2,SCHTYPE,Department of Defense,266.855999755859,0,1
+schtype_pct,MAT,8,2003,NT,PC:P5,SCHTYPE,Department of Defense,285.8419921875,0,1
+schtype_pct,MAT,8,2003,NT,PC:P7,SCHTYPE,Department of Defense,304.150006103516,0,1
+schtype_pct,MAT,8,2003,NT,PC:P9,SCHTYPE,Department of Defense,323.862005615234,0,1
+schtype_pct,MAT,8,2005,NT,PC:P1,SCHTYPE,Public,230.088000488281,0,1
+schtype_pct,MAT,8,2005,NT,PC:P2,SCHTYPE,Public,254.048001098633,0,1
+schtype_pct,MAT,8,2005,NT,PC:P5,SCHTYPE,Public,278.891998291016,0,1
+schtype_pct,MAT,8,2005,NT,PC:P7,SCHTYPE,Public,302.602001953125,0,1
+schtype_pct,MAT,8,2005,NT,PC:P9,SCHTYPE,Public,323.05,0,1
+schtype_pct,MAT,8,2005,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2005,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2005,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2005,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2005,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2005,NT,PC:P1,SCHTYPE,Catholic,248.814001464844,0,1
+schtype_pct,MAT,8,2005,NT,PC:P2,SCHTYPE,Catholic,269.223999023438,0,1
+schtype_pct,MAT,8,2005,NT,PC:P5,SCHTYPE,Catholic,291.157995605469,0,1
+schtype_pct,MAT,8,2005,NT,PC:P7,SCHTYPE,Catholic,312.265997314453,0,1
+schtype_pct,MAT,8,2005,NT,PC:P9,SCHTYPE,Catholic,330.264001464844,0,1
+schtype_pct,MAT,8,2005,NT,PC:P1,SCHTYPE,Bureau of Indian Education,203.248001098633,0,1
+schtype_pct,MAT,8,2005,NT,PC:P2,SCHTYPE,Bureau of Indian Education,222.456002807617,0,1
+schtype_pct,MAT,8,2005,NT,PC:P5,SCHTYPE,Bureau of Indian Education,244.666000366211,0,1
+schtype_pct,MAT,8,2005,NT,PC:P7,SCHTYPE,Bureau of Indian Education,264.5,0,1
+schtype_pct,MAT,8,2005,NT,PC:P9,SCHTYPE,Bureau of Indian Education,283.515997314453,0,1
+schtype_pct,MAT,8,2005,NT,PC:P1,SCHTYPE,Department of Defense,243.669998168945,0,1
+schtype_pct,MAT,8,2005,NT,PC:P2,SCHTYPE,Department of Defense,263.385998535156,0,1
+schtype_pct,MAT,8,2005,NT,PC:P5,SCHTYPE,Department of Defense,284.484002685547,0,1
+schtype_pct,MAT,8,2005,NT,PC:P7,SCHTYPE,Department of Defense,305.999993896484,0,1
+schtype_pct,MAT,8,2005,NT,PC:P9,SCHTYPE,Department of Defense,323.771997070312,0,1
+schtype_pct,MAT,8,2007,NT,PC:P1,SCHTYPE,Public,233.529995727539,0,1
+schtype_pct,MAT,8,2007,NT,PC:P2,SCHTYPE,Public,256.659997558594,0,1
+schtype_pct,MAT,8,2007,NT,PC:P5,SCHTYPE,Public,281.420007324219,0,1
+schtype_pct,MAT,8,2007,NT,PC:P7,SCHTYPE,Public,305.152001953125,0,1
+schtype_pct,MAT,8,2007,NT,PC:P9,SCHTYPE,Public,325.45,0,1
+schtype_pct,MAT,8,2007,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2007,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2007,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2007,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2007,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2007,NT,PC:P1,SCHTYPE,Catholic,250.973995971679,0,1
+schtype_pct,MAT,8,2007,NT,PC:P2,SCHTYPE,Catholic,270.972003173828,0,1
+schtype_pct,MAT,8,2007,NT,PC:P5,SCHTYPE,Catholic,292.034002685547,0,1
+schtype_pct,MAT,8,2007,NT,PC:P7,SCHTYPE,Catholic,313.529998779297,0,1
+schtype_pct,MAT,8,2007,NT,PC:P9,SCHTYPE,Catholic,331.934002685547,0,1
+schtype_pct,MAT,8,2007,NT,PC:P1,SCHTYPE,Bureau of Indian Education,202.290002441406,0,1
+schtype_pct,MAT,8,2007,NT,PC:P2,SCHTYPE,Bureau of Indian Education,222.606002807617,0,1
+schtype_pct,MAT,8,2007,NT,PC:P5,SCHTYPE,Bureau of Indian Education,244.654000854492,0,1
+schtype_pct,MAT,8,2007,NT,PC:P7,SCHTYPE,Bureau of Indian Education,265.36000366211,0,1
+schtype_pct,MAT,8,2007,NT,PC:P9,SCHTYPE,Bureau of Indian Education,285.319995117188,0,1
+schtype_pct,MAT,8,2007,NT,PC:P1,SCHTYPE,Department of Defense,247.004000854492,0,1
+schtype_pct,MAT,8,2007,NT,PC:P2,SCHTYPE,Department of Defense,264.472003173828,0,1
+schtype_pct,MAT,8,2007,NT,PC:P5,SCHTYPE,Department of Defense,285.536004638672,0,1
+schtype_pct,MAT,8,2007,NT,PC:P7,SCHTYPE,Department of Defense,306.002008056641,0,1
+schtype_pct,MAT,8,2007,NT,PC:P9,SCHTYPE,Department of Defense,323.288000488281,0,1
+schtype_pct,MAT,8,2009,NT,PC:P1,SCHTYPE,Public,234.505999755859,0,1
+schtype_pct,MAT,8,2009,NT,PC:P2,SCHTYPE,Public,257.871997070313,0,1
+schtype_pct,MAT,8,2009,NT,PC:P5,SCHTYPE,Public,282.780004882812,0,1
+schtype_pct,MAT,8,2009,NT,PC:P7,SCHTYPE,Public,306.93798828125,0,1
+schtype_pct,MAT,8,2009,NT,PC:P9,SCHTYPE,Public,327.642004394531,0,1
+schtype_pct,MAT,8,2009,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2009,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2009,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2009,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2009,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2009,NT,PC:P1,SCHTYPE,Catholic,257.181997680664,0,1
+schtype_pct,MAT,8,2009,NT,PC:P2,SCHTYPE,Catholic,275.839996337891,0,1
+schtype_pct,MAT,8,2009,NT,PC:P5,SCHTYPE,Catholic,296.473992919922,0,1
+schtype_pct,MAT,8,2009,NT,PC:P7,SCHTYPE,Catholic,317.684002685547,0,1
+schtype_pct,MAT,8,2009,NT,PC:P9,SCHTYPE,Catholic,337.753997802734,0,1
+schtype_pct,MAT,8,2009,NT,PC:P1,SCHTYPE,Bureau of Indian Education,206.182000732422,0,1
+schtype_pct,MAT,8,2009,NT,PC:P2,SCHTYPE,Bureau of Indian Education,226.020001220703,0,1
+schtype_pct,MAT,8,2009,NT,PC:P5,SCHTYPE,Bureau of Indian Education,247.943997192383,0,1
+schtype_pct,MAT,8,2009,NT,PC:P7,SCHTYPE,Bureau of Indian Education,269.603997802734,0,1
+schtype_pct,MAT,8,2009,NT,PC:P9,SCHTYPE,Bureau of Indian Education,289.217999267578,0,1
+schtype_pct,MAT,8,2009,NT,PC:P1,SCHTYPE,Department of Defense,247.255999755859,0,1
+schtype_pct,MAT,8,2009,NT,PC:P2,SCHTYPE,Department of Defense,266.656005859375,0,1
+schtype_pct,MAT,8,2009,NT,PC:P5,SCHTYPE,Department of Defense,288.138000488281,0,1
+schtype_pct,MAT,8,2009,NT,PC:P7,SCHTYPE,Department of Defense,308.5080078125,0,1
+schtype_pct,MAT,8,2009,NT,PC:P9,SCHTYPE,Department of Defense,326.202001953125,0,1
+schtype_pct,MAT,8,2011,NT,PC:P1,SCHTYPE,Public,235.792004394531,0,1
+schtype_pct,MAT,8,2011,NT,PC:P2,SCHTYPE,Public,258.930004882813,0,1
+schtype_pct,MAT,8,2011,NT,PC:P5,SCHTYPE,Public,283.69800415039,0,1
+schtype_pct,MAT,8,2011,NT,PC:P7,SCHTYPE,Public,307.675994873047,0,1
+schtype_pct,MAT,8,2011,NT,PC:P9,SCHTYPE,Public,328.5,0,1
+schtype_pct,MAT,8,2011,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2011,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2011,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2011,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2011,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2011,NT,PC:P1,SCHTYPE,Catholic,253.381997680664,0,1
+schtype_pct,MAT,8,2011,NT,PC:P2,SCHTYPE,Catholic,273.802001953125,0,1
+schtype_pct,MAT,8,2011,NT,PC:P5,SCHTYPE,Catholic,295.740002441406,0,1
+schtype_pct,MAT,8,2011,NT,PC:P7,SCHTYPE,Catholic,317.469995117188,0,1
+schtype_pct,MAT,8,2011,NT,PC:P9,SCHTYPE,Catholic,336.382000732422,0,1
+schtype_pct,MAT,8,2011,NT,PC:P1,SCHTYPE,Bureau of Indian Education,208.963998413086,0,1
+schtype_pct,MAT,8,2011,NT,PC:P2,SCHTYPE,Bureau of Indian Education,228.266003417969,0,1
+schtype_pct,MAT,8,2011,NT,PC:P5,SCHTYPE,Bureau of Indian Education,249.799996948242,0,1
+schtype_pct,MAT,8,2011,NT,PC:P7,SCHTYPE,Bureau of Indian Education,271.520007324219,0,1
+schtype_pct,MAT,8,2011,NT,PC:P9,SCHTYPE,Bureau of Indian Education,291.636004638672,0,1
+schtype_pct,MAT,8,2011,NT,PC:P1,SCHTYPE,Department of Defense,248.17399597168,0,1
+schtype_pct,MAT,8,2011,NT,PC:P2,SCHTYPE,Department of Defense,267.607995605469,0,1
+schtype_pct,MAT,8,2011,NT,PC:P5,SCHTYPE,Department of Defense,288.533996582031,0,1
+schtype_pct,MAT,8,2011,NT,PC:P7,SCHTYPE,Department of Defense,308.641998291016,0,1
+schtype_pct,MAT,8,2011,NT,PC:P9,SCHTYPE,Department of Defense,326.490002441406,0,1
+schtype_pct,MAT,8,2013,NT,PC:P1,SCHTYPE,Public,236.473000335693,0,1
+schtype_pct,MAT,8,2013,NT,PC:P2,SCHTYPE,Public,259.836001586914,0,1
+schtype_pct,MAT,8,2013,NT,PC:P5,SCHTYPE,Public,284.612998962402,0,1
+schtype_pct,MAT,8,2013,NT,PC:P7,SCHTYPE,Public,308.693002319336,0,1
+schtype_pct,MAT,8,2013,NT,PC:P9,SCHTYPE,Public,329.56000213623,0,1
+schtype_pct,MAT,8,2013,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2013,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2013,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2013,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2013,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2013,NT,PC:P1,SCHTYPE,Catholic,251.757498931885,0,1
+schtype_pct,MAT,8,2013,NT,PC:P2,SCHTYPE,Catholic,272.612002563477,0,1
+schtype_pct,MAT,8,2013,NT,PC:P5,SCHTYPE,Catholic,295.585000610352,0,1
+schtype_pct,MAT,8,2013,NT,PC:P7,SCHTYPE,Catholic,317.621000671387,0,1
+schtype_pct,MAT,8,2013,NT,PC:P9,SCHTYPE,Catholic,336.917001342773,0,1
+schtype_pct,MAT,8,2013,NT,PC:P1,SCHTYPE,Bureau of Indian Education,208.45899887085,0,1
+schtype_pct,MAT,8,2013,NT,PC:P2,SCHTYPE,Bureau of Indian Education,229.353002166748,0,1
+schtype_pct,MAT,8,2013,NT,PC:P5,SCHTYPE,Bureau of Indian Education,249.532001495362,0,1
+schtype_pct,MAT,8,2013,NT,PC:P7,SCHTYPE,Bureau of Indian Education,271.750497436524,0,1
+schtype_pct,MAT,8,2013,NT,PC:P9,SCHTYPE,Bureau of Indian Education,289.494999694824,0,1
+schtype_pct,MAT,8,2013,NT,PC:P1,SCHTYPE,Department of Defense,251.902500152588,0,1
+schtype_pct,MAT,8,2013,NT,PC:P2,SCHTYPE,Department of Defense,270.216998291016,0,1
+schtype_pct,MAT,8,2013,NT,PC:P5,SCHTYPE,Department of Defense,290.850999450684,0,1
+schtype_pct,MAT,8,2013,NT,PC:P7,SCHTYPE,Department of Defense,311.504499816895,0,1
+schtype_pct,MAT,8,2013,NT,PC:P9,SCHTYPE,Department of Defense,328.817994689942,0,1
+schtype_pct,MAT,8,2015,NT,PC:P1,SCHTYPE,Public,233.656998443604,0,1
+schtype_pct,MAT,8,2015,NT,PC:P2,SCHTYPE,Public,256.809997558594,0,1
+schtype_pct,MAT,8,2015,NT,PC:P5,SCHTYPE,Public,281.87749786377,0,1
+schtype_pct,MAT,8,2015,NT,PC:P7,SCHTYPE,Public,306.687998962402,0,1
+schtype_pct,MAT,8,2015,NT,PC:P9,SCHTYPE,Public,328.185504150391,0,1
+schtype_pct,MAT,8,2015,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2015,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2015,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2015,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2015,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2015,NT,PC:P1,SCHTYPE,Catholic,250.876501464844,0,1
+schtype_pct,MAT,8,2015,NT,PC:P2,SCHTYPE,Catholic,270.457002258301,0,1
+schtype_pct,MAT,8,2015,NT,PC:P5,SCHTYPE,Catholic,293.867501831055,0,1
+schtype_pct,MAT,8,2015,NT,PC:P7,SCHTYPE,Catholic,316.009001159668,0,1
+schtype_pct,MAT,8,2015,NT,PC:P9,SCHTYPE,Catholic,335.430001831055,0,1
+schtype_pct,MAT,8,2015,NT,PC:P1,SCHTYPE,Bureau of Indian Education,213.287998962402,0,1
+schtype_pct,MAT,8,2015,NT,PC:P2,SCHTYPE,Bureau of Indian Education,231.966999816895,0,1
+schtype_pct,MAT,8,2015,NT,PC:P5,SCHTYPE,Bureau of Indian Education,252.584498596191,0,1
+schtype_pct,MAT,8,2015,NT,PC:P7,SCHTYPE,Bureau of Indian Education,272.507498168945,0,1
+schtype_pct,MAT,8,2015,NT,PC:P9,SCHTYPE,Bureau of Indian Education,291.687004089355,0,1
+schtype_pct,MAT,8,2015,NT,PC:P1,SCHTYPE,Department of Defense,251.621998596192,0,1
+schtype_pct,MAT,8,2015,NT,PC:P2,SCHTYPE,Department of Defense,270.290997314453,0,1
+schtype_pct,MAT,8,2015,NT,PC:P5,SCHTYPE,Department of Defense,290.586502075195,0,1
+schtype_pct,MAT,8,2015,NT,PC:P7,SCHTYPE,Department of Defense,312.342497253418,0,1
+schtype_pct,MAT,8,2015,NT,PC:P9,SCHTYPE,Department of Defense,330.959503173828,0,1
+schtype_pct,MAT,8,2017,NT,PC:P1,SCHTYPE,Public,232.102500152588,0,1
+schtype_pct,MAT,8,2017,NT,PC:P2,SCHTYPE,Public,255.006498718262,0,1
+schtype_pct,MAT,8,2017,NT,PC:P5,SCHTYPE,Public,281.668502807617,0,1
+schtype_pct,MAT,8,2017,NT,PC:P7,SCHTYPE,Public,308.896496582031,0,1
+schtype_pct,MAT,8,2017,NT,PC:P9,SCHTYPE,Public,332.441499328614,0,1
+schtype_pct,MAT,8,2017,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2017,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2017,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2017,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2017,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2017,NT,PC:P1,SCHTYPE,Catholic,252.373999023438,0,1
+schtype_pct,MAT,8,2017,NT,PC:P2,SCHTYPE,Catholic,272.239501953125,0,1
+schtype_pct,MAT,8,2017,NT,PC:P5,SCHTYPE,Catholic,294.295500183106,0,1
+schtype_pct,MAT,8,2017,NT,PC:P7,SCHTYPE,Catholic,316.545001220703,0,1
+schtype_pct,MAT,8,2017,NT,PC:P9,SCHTYPE,Catholic,335.816999816895,0,1
+schtype_pct,MAT,8,2017,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2017,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2017,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2017,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2017,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2017,NT,PC:P1,SCHTYPE,Department of Defense,252.65599822998,0,1
+schtype_pct,MAT,8,2017,NT,PC:P2,SCHTYPE,Department of Defense,270.786999511719,0,1
+schtype_pct,MAT,8,2017,NT,PC:P5,SCHTYPE,Department of Defense,291.699002075195,0,1
+schtype_pct,MAT,8,2017,NT,PC:P7,SCHTYPE,Department of Defense,315.18450012207,0,1
+schtype_pct,MAT,8,2017,NT,PC:P9,SCHTYPE,Department of Defense,335.324499511719,0,1
+schtype_pct,MAT,8,2019,NT,PC:P1,SCHTYPE,Public,229.734000396729,0,1
+schtype_pct,MAT,8,2019,NT,PC:P2,SCHTYPE,Public,253.730999755859,0,1
+schtype_pct,MAT,8,2019,NT,PC:P5,SCHTYPE,Public,280.955999755859,0,1
+schtype_pct,MAT,8,2019,NT,PC:P7,SCHTYPE,Public,308.439501953125,0,1
+schtype_pct,MAT,8,2019,NT,PC:P9,SCHTYPE,Public,332.431999206543,0,1
+schtype_pct,MAT,8,2019,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2019,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2019,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2019,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2019,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2019,NT,PC:P1,SCHTYPE,Catholic,248.22200088501,0,1
+schtype_pct,MAT,8,2019,NT,PC:P2,SCHTYPE,Catholic,270.229498291016,0,1
+schtype_pct,MAT,8,2019,NT,PC:P5,SCHTYPE,Catholic,293.78999786377,0,1
+schtype_pct,MAT,8,2019,NT,PC:P7,SCHTYPE,Catholic,317.835499572754,0,1
+schtype_pct,MAT,8,2019,NT,PC:P9,SCHTYPE,Catholic,337.369500732422,0,1
+schtype_pct,MAT,8,2019,NT,PC:P1,SCHTYPE,Bureau of Indian Education,209.142000579834,0,1
+schtype_pct,MAT,8,2019,NT,PC:P2,SCHTYPE,Bureau of Indian Education,229.793000030518,0,1
+schtype_pct,MAT,8,2019,NT,PC:P5,SCHTYPE,Bureau of Indian Education,251.47550201416,0,1
+schtype_pct,MAT,8,2019,NT,PC:P7,SCHTYPE,Bureau of Indian Education,272.191497802734,0,1
+schtype_pct,MAT,8,2019,NT,PC:P9,SCHTYPE,Bureau of Indian Education,290.135498046875,0,1
+schtype_pct,MAT,8,2019,NT,PC:P1,SCHTYPE,Department of Defense,250.922499847412,0,1
+schtype_pct,MAT,8,2019,NT,PC:P2,SCHTYPE,Department of Defense,270.252998352051,0,1
+schtype_pct,MAT,8,2019,NT,PC:P5,SCHTYPE,Department of Defense,292.036503601074,0,1
+schtype_pct,MAT,8,2019,NT,PC:P7,SCHTYPE,Department of Defense,313.969000244141,0,1
+schtype_pct,MAT,8,2019,NT,PC:P9,SCHTYPE,Department of Defense,333.923997497559,0,1
+schtype_pct,MAT,8,2022,NT,PC:P1,SCHTYPE,Public,223.137998962402,0,1
+schtype_pct,MAT,8,2022,NT,PC:P2,SCHTYPE,Public,245.986499786377,0,1
+schtype_pct,MAT,8,2022,NT,PC:P5,SCHTYPE,Public,272.574995422363,0,1
+schtype_pct,MAT,8,2022,NT,PC:P7,SCHTYPE,Public,299.629504394531,0,1
+schtype_pct,MAT,8,2022,NT,PC:P9,SCHTYPE,Public,323.937496948242,0,1
+schtype_pct,MAT,8,2022,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2022,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2022,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2022,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2022,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2022,NT,PC:P1,SCHTYPE,Catholic,243.081000518799,0,1
+schtype_pct,MAT,8,2022,NT,PC:P2,SCHTYPE,Catholic,263.410499572754,0,1
+schtype_pct,MAT,8,2022,NT,PC:P5,SCHTYPE,Catholic,287.686500549316,0,1
+schtype_pct,MAT,8,2022,NT,PC:P7,SCHTYPE,Catholic,310.672001647949,0,1
+schtype_pct,MAT,8,2022,NT,PC:P9,SCHTYPE,Catholic,333.641998291016,0,1
+schtype_pct,MAT,8,2022,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2022,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2022,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2022,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2022,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,MAT,8,2022,NT,PC:P1,SCHTYPE,Department of Defense,249.81849975586,0,1
+schtype_pct,MAT,8,2022,NT,PC:P2,SCHTYPE,Department of Defense,269.96350402832,0,1
+schtype_pct,MAT,8,2022,NT,PC:P5,SCHTYPE,Department of Defense,291.621501159668,0,1
+schtype_pct,MAT,8,2022,NT,PC:P7,SCHTYPE,Department of Defense,313.278503417969,0,1
+schtype_pct,MAT,8,2022,NT,PC:P9,SCHTYPE,Department of Defense,334.164498901367,0,1
+schtype_pct,MAT,8,2024,NT,PC:P1,SCHTYPE,Public,217.777998352051,0,1
+schtype_pct,MAT,8,2024,NT,PC:P2,SCHTYPE,Public,242.857499694824,0,1
+schtype_pct,MAT,8,2024,NT,PC:P5,SCHTYPE,Public,271.862501525879,0,1
+schtype_pct,MAT,8,2024,NT,PC:P7,SCHTYPE,Public,301.532000732422,0,1
+schtype_pct,MAT,8,2024,NT,PC:P9,SCHTYPE,Public,326.911502075195,0,1
+schtype_pct,MAT,8,2024,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2024,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2024,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2024,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2024,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,MAT,8,2024,NT,PC:P1,SCHTYPE,Catholic,243.408000183106,0,1
+schtype_pct,MAT,8,2024,NT,PC:P2,SCHTYPE,Catholic,266.489501953125,0,1
+schtype_pct,MAT,8,2024,NT,PC:P5,SCHTYPE,Catholic,291.765998840332,0,1
+schtype_pct,MAT,8,2024,NT,PC:P7,SCHTYPE,Catholic,318.614498901367,0,1
+schtype_pct,MAT,8,2024,NT,PC:P9,SCHTYPE,Catholic,341.976502990723,0,1
+schtype_pct,MAT,8,2024,NT,PC:P1,SCHTYPE,Bureau of Indian Education,194.686000061035,0,1
+schtype_pct,MAT,8,2024,NT,PC:P2,SCHTYPE,Bureau of Indian Education,214.718500518799,0,1
+schtype_pct,MAT,8,2024,NT,PC:P5,SCHTYPE,Bureau of Indian Education,238.831498718262,0,1
+schtype_pct,MAT,8,2024,NT,PC:P7,SCHTYPE,Bureau of Indian Education,262.561499023438,0,1
+schtype_pct,MAT,8,2024,NT,PC:P9,SCHTYPE,Bureau of Indian Education,284.974502563477,0,1
+schtype_pct,MAT,8,2024,NT,PC:P1,SCHTYPE,Department of Defense,248.935501098633,0,1
+schtype_pct,MAT,8,2024,NT,PC:P2,SCHTYPE,Department of Defense,268.914001464844,0,1
+schtype_pct,MAT,8,2024,NT,PC:P5,SCHTYPE,Department of Defense,290.955999755859,0,1
+schtype_pct,MAT,8,2024,NT,PC:P7,SCHTYPE,Department of Defense,314.462498474121,0,1
+schtype_pct,MAT,8,2024,NT,PC:P9,SCHTYPE,Department of Defense,334.933499145508,0,1
+schtype_pct,RED,4,2003,NT,PC:P1,SCHTYPE,Public,166.774002075195,0,1
+schtype_pct,RED,4,2003,NT,PC:P2,SCHTYPE,Public,192.729998779297,0,1
+schtype_pct,RED,4,2003,NT,PC:P5,SCHTYPE,Public,219.120001220703,0,1
+schtype_pct,RED,4,2003,NT,PC:P7,SCHTYPE,Public,242.743997192383,0,1
+schtype_pct,RED,4,2003,NT,PC:P9,SCHTYPE,Public,261.953997802735,0,1
+schtype_pct,RED,4,2003,NT,PC:P1,SCHTYPE,Other private,190.705999755859,0,1
+schtype_pct,RED,4,2003,NT,PC:P2,SCHTYPE,Other private,213.842001342774,0,1
+schtype_pct,RED,4,2003,NT,PC:P5,SCHTYPE,Other private,236.350003051758,0,1
+schtype_pct,RED,4,2003,NT,PC:P7,SCHTYPE,Other private,256.823999023438,0,1
+schtype_pct,RED,4,2003,NT,PC:P9,SCHTYPE,Other private,274.097991943359,0,1
+schtype_pct,RED,4,2003,NT,PC:P1,SCHTYPE,Catholic,193.386001586914,0,1
+schtype_pct,RED,4,2003,NT,PC:P2,SCHTYPE,Catholic,214.747998046875,0,1
+schtype_pct,RED,4,2003,NT,PC:P5,SCHTYPE,Catholic,236.303997802734,0,1
+schtype_pct,RED,4,2003,NT,PC:P7,SCHTYPE,Catholic,256.577996826172,0,1
+schtype_pct,RED,4,2003,NT,PC:P9,SCHTYPE,Catholic,274.108001708984,0,1
+schtype_pct,RED,4,2003,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,4,2003,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,4,2003,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,4,2003,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,4,2003,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,4,2003,NT,PC:P1,SCHTYPE,Department of Defense,179.432000732422,0,1
+schtype_pct,RED,4,2003,NT,PC:P2,SCHTYPE,Department of Defense,202.972000122071,0,1
+schtype_pct,RED,4,2003,NT,PC:P5,SCHTYPE,Department of Defense,225.625997924805,0,1
+schtype_pct,RED,4,2003,NT,PC:P7,SCHTYPE,Department of Defense,247.925997924805,0,1
+schtype_pct,RED,4,2003,NT,PC:P9,SCHTYPE,Department of Defense,266.609997558594,0,1
+schtype_pct,RED,4,2005,NT,PC:P1,SCHTYPE,Public,169.105996704102,0,1
+schtype_pct,RED,4,2005,NT,PC:P2,SCHTYPE,Public,194.044000244141,0,1
+schtype_pct,RED,4,2005,NT,PC:P5,SCHTYPE,Public,219.757998657226,0,1
+schtype_pct,RED,4,2005,NT,PC:P7,SCHTYPE,Public,242.681997680664,0,1
+schtype_pct,RED,4,2005,NT,PC:P9,SCHTYPE,Public,261.685998535156,0,1
+schtype_pct,RED,4,2005,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2005,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2005,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2005,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2005,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2005,NT,PC:P1,SCHTYPE,Catholic,193.035995483398,0,1
+schtype_pct,RED,4,2005,NT,PC:P2,SCHTYPE,Catholic,213.512002563477,0,1
+schtype_pct,RED,4,2005,NT,PC:P5,SCHTYPE,Catholic,235.026000976563,0,1
+schtype_pct,RED,4,2005,NT,PC:P7,SCHTYPE,Catholic,255.294000244141,0,1
+schtype_pct,RED,4,2005,NT,PC:P9,SCHTYPE,Catholic,272.85,0,1
+schtype_pct,RED,4,2005,NT,PC:P1,SCHTYPE,Bureau of Indian Education,136.324002075195,0,1
+schtype_pct,RED,4,2005,NT,PC:P2,SCHTYPE,Bureau of Indian Education,154.802001953125,0,1
+schtype_pct,RED,4,2005,NT,PC:P5,SCHTYPE,Bureau of Indian Education,176.40599975586,0,1
+schtype_pct,RED,4,2005,NT,PC:P7,SCHTYPE,Bureau of Indian Education,201.994000244141,0,1
+schtype_pct,RED,4,2005,NT,PC:P9,SCHTYPE,Bureau of Indian Education,223.150003051758,0,1
+schtype_pct,RED,4,2005,NT,PC:P1,SCHTYPE,Department of Defense,188.325997924805,0,1
+schtype_pct,RED,4,2005,NT,PC:P2,SCHTYPE,Department of Defense,207.641998291015,0,1
+schtype_pct,RED,4,2005,NT,PC:P5,SCHTYPE,Department of Defense,227.429998779297,0,1
+schtype_pct,RED,4,2005,NT,PC:P7,SCHTYPE,Department of Defense,246.15,0,1
+schtype_pct,RED,4,2005,NT,PC:P9,SCHTYPE,Department of Defense,261.993994140625,0,1
+schtype_pct,RED,4,2007,NT,PC:P1,SCHTYPE,Public,172.803997802734,0,1
+schtype_pct,RED,4,2007,NT,PC:P2,SCHTYPE,Public,197.813995361328,0,1
+schtype_pct,RED,4,2007,NT,PC:P5,SCHTYPE,Public,222.243997192383,0,1
+schtype_pct,RED,4,2007,NT,PC:P7,SCHTYPE,Public,244.298001098633,0,1
+schtype_pct,RED,4,2007,NT,PC:P9,SCHTYPE,Public,262.946002197265,0,1
+schtype_pct,RED,4,2007,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2007,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2007,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2007,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2007,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2007,NT,PC:P1,SCHTYPE,Catholic,191.697998046875,0,1
+schtype_pct,RED,4,2007,NT,PC:P2,SCHTYPE,Catholic,213.441998291016,0,1
+schtype_pct,RED,4,2007,NT,PC:P5,SCHTYPE,Catholic,233.464001464844,0,1
+schtype_pct,RED,4,2007,NT,PC:P7,SCHTYPE,Catholic,253.868002319336,0,1
+schtype_pct,RED,4,2007,NT,PC:P9,SCHTYPE,Catholic,269.722003173828,0,1
+schtype_pct,RED,4,2007,NT,PC:P1,SCHTYPE,Bureau of Indian Education,136.016000366211,0,1
+schtype_pct,RED,4,2007,NT,PC:P2,SCHTYPE,Bureau of Indian Education,158.151998901367,0,1
+schtype_pct,RED,4,2007,NT,PC:P5,SCHTYPE,Bureau of Indian Education,180.91000366211,0,1
+schtype_pct,RED,4,2007,NT,PC:P7,SCHTYPE,Bureau of Indian Education,203.850003051758,0,1
+schtype_pct,RED,4,2007,NT,PC:P9,SCHTYPE,Bureau of Indian Education,223.889999389649,0,1
+schtype_pct,RED,4,2007,NT,PC:P1,SCHTYPE,Department of Defense,191.761999511719,0,1
+schtype_pct,RED,4,2007,NT,PC:P2,SCHTYPE,Department of Defense,211.338003540039,0,1
+schtype_pct,RED,4,2007,NT,PC:P5,SCHTYPE,Department of Defense,231.006002807618,0,1
+schtype_pct,RED,4,2007,NT,PC:P7,SCHTYPE,Department of Defense,248.75,0,1
+schtype_pct,RED,4,2007,NT,PC:P9,SCHTYPE,Department of Defense,264.315997314453,0,1
+schtype_pct,RED,4,2009,NT,PC:P1,SCHTYPE,Public,173.27600402832,0,1
+schtype_pct,RED,4,2009,NT,PC:P2,SCHTYPE,Public,197.834002685547,0,1
+schtype_pct,RED,4,2009,NT,PC:P5,SCHTYPE,Public,222.103997802734,0,1
+schtype_pct,RED,4,2009,NT,PC:P7,SCHTYPE,Public,244.12600402832,0,1
+schtype_pct,RED,4,2009,NT,PC:P9,SCHTYPE,Public,262.598004150391,0,1
+schtype_pct,RED,4,2009,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2009,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2009,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2009,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2009,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2009,NT,PC:P1,SCHTYPE,Catholic,195.555996704102,0,1
+schtype_pct,RED,4,2009,NT,PC:P2,SCHTYPE,Catholic,215.690002441406,0,1
+schtype_pct,RED,4,2009,NT,PC:P5,SCHTYPE,Catholic,237.62399597168,0,1
+schtype_pct,RED,4,2009,NT,PC:P7,SCHTYPE,Catholic,257.935998535156,0,1
+schtype_pct,RED,4,2009,NT,PC:P9,SCHTYPE,Catholic,274.560003662109,0,1
+schtype_pct,RED,4,2009,NT,PC:P1,SCHTYPE,Bureau of Indian Education,134.852001953125,0,1
+schtype_pct,RED,4,2009,NT,PC:P2,SCHTYPE,Bureau of Indian Education,157.642001342773,0,1
+schtype_pct,RED,4,2009,NT,PC:P5,SCHTYPE,Bureau of Indian Education,182.188000488281,0,1
+schtype_pct,RED,4,2009,NT,PC:P7,SCHTYPE,Bureau of Indian Education,206.971997070313,0,1
+schtype_pct,RED,4,2009,NT,PC:P9,SCHTYPE,Bureau of Indian Education,226.839999389648,0,1
+schtype_pct,RED,4,2009,NT,PC:P1,SCHTYPE,Department of Defense,190.479998779297,0,1
+schtype_pct,RED,4,2009,NT,PC:P2,SCHTYPE,Department of Defense,210.030001831055,0,1
+schtype_pct,RED,4,2009,NT,PC:P5,SCHTYPE,Department of Defense,230.02799987793,0,1
+schtype_pct,RED,4,2009,NT,PC:P7,SCHTYPE,Department of Defense,248.395999145508,0,1
+schtype_pct,RED,4,2009,NT,PC:P9,SCHTYPE,Department of Defense,264.244000244141,0,1
+schtype_pct,RED,4,2011,NT,PC:P1,SCHTYPE,Public,173.029995727539,0,1
+schtype_pct,RED,4,2011,NT,PC:P2,SCHTYPE,Public,198.273999023438,0,1
+schtype_pct,RED,4,2011,NT,PC:P5,SCHTYPE,Public,222.951998901367,0,1
+schtype_pct,RED,4,2011,NT,PC:P7,SCHTYPE,Public,244.849996948242,0,1
+schtype_pct,RED,4,2011,NT,PC:P9,SCHTYPE,Public,263.216003417969,0,1
+schtype_pct,RED,4,2011,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2011,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2011,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2011,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2011,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2011,NT,PC:P1,SCHTYPE,Catholic,194.745999145508,0,1
+schtype_pct,RED,4,2011,NT,PC:P2,SCHTYPE,Catholic,216.488003540039,0,1
+schtype_pct,RED,4,2011,NT,PC:P5,SCHTYPE,Catholic,237.655999755859,0,1
+schtype_pct,RED,4,2011,NT,PC:P7,SCHTYPE,Catholic,256.276000976563,0,1
+schtype_pct,RED,4,2011,NT,PC:P9,SCHTYPE,Catholic,273.05,0,1
+schtype_pct,RED,4,2011,NT,PC:P1,SCHTYPE,Bureau of Indian Education,136.507998657227,0,1
+schtype_pct,RED,4,2011,NT,PC:P2,SCHTYPE,Bureau of Indian Education,158.222000122071,0,1
+schtype_pct,RED,4,2011,NT,PC:P5,SCHTYPE,Bureau of Indian Education,183.088000488281,0,1
+schtype_pct,RED,4,2011,NT,PC:P7,SCHTYPE,Bureau of Indian Education,207.379998779297,0,1
+schtype_pct,RED,4,2011,NT,PC:P9,SCHTYPE,Bureau of Indian Education,226.956002807617,0,1
+schtype_pct,RED,4,2011,NT,PC:P1,SCHTYPE,Department of Defense,194.007998657226,0,1
+schtype_pct,RED,4,2011,NT,PC:P2,SCHTYPE,Department of Defense,212.210000610351,0,1
+schtype_pct,RED,4,2011,NT,PC:P5,SCHTYPE,Department of Defense,230.848001098633,0,1
+schtype_pct,RED,4,2011,NT,PC:P7,SCHTYPE,Department of Defense,247.870001220703,0,1
+schtype_pct,RED,4,2011,NT,PC:P9,SCHTYPE,Department of Defense,263.232000732422,0,1
+schtype_pct,RED,4,2013,NT,PC:P1,SCHTYPE,Public,172.076999664307,0,1
+schtype_pct,RED,4,2013,NT,PC:P2,SCHTYPE,Public,198.931999969482,0,1
+schtype_pct,RED,4,2013,NT,PC:P5,SCHTYPE,Public,224.25950088501,0,1
+schtype_pct,RED,4,2013,NT,PC:P7,SCHTYPE,Public,246.195999145508,0,1
+schtype_pct,RED,4,2013,NT,PC:P9,SCHTYPE,Public,264.35950012207,0,1
+schtype_pct,RED,4,2013,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2013,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2013,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2013,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2013,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2013,NT,PC:P1,SCHTYPE,Catholic,194.887501525879,0,1
+schtype_pct,RED,4,2013,NT,PC:P2,SCHTYPE,Catholic,216.5375,0,1
+schtype_pct,RED,4,2013,NT,PC:P5,SCHTYPE,Catholic,237.330500793457,0,1
+schtype_pct,RED,4,2013,NT,PC:P7,SCHTYPE,Catholic,256.153001403809,0,1
+schtype_pct,RED,4,2013,NT,PC:P9,SCHTYPE,Catholic,272.59100189209,0,1
+schtype_pct,RED,4,2013,NT,PC:P1,SCHTYPE,Bureau of Indian Education,136.754500579834,0,1
+schtype_pct,RED,4,2013,NT,PC:P2,SCHTYPE,Bureau of Indian Education,157.622001647949,0,1
+schtype_pct,RED,4,2013,NT,PC:P5,SCHTYPE,Bureau of Indian Education,179.916500854492,0,1
+schtype_pct,RED,4,2013,NT,PC:P7,SCHTYPE,Bureau of Indian Education,205.289000701904,0,1
+schtype_pct,RED,4,2013,NT,PC:P9,SCHTYPE,Bureau of Indian Education,225.252000427246,0,1
+schtype_pct,RED,4,2013,NT,PC:P1,SCHTYPE,Department of Defense,196.950999450684,0,1
+schtype_pct,RED,4,2013,NT,PC:P2,SCHTYPE,Department of Defense,215.135501098633,0,1
+schtype_pct,RED,4,2013,NT,PC:P5,SCHTYPE,Department of Defense,233.558000946045,0,1
+schtype_pct,RED,4,2013,NT,PC:P7,SCHTYPE,Department of Defense,250.829500579834,0,1
+schtype_pct,RED,4,2013,NT,PC:P9,SCHTYPE,Department of Defense,265.675498962402,0,1
+schtype_pct,RED,4,2015,NT,PC:P1,SCHTYPE,Public,172.567499542236,0,1
+schtype_pct,RED,4,2015,NT,PC:P2,SCHTYPE,Public,199.578500366211,0,1
+schtype_pct,RED,4,2015,NT,PC:P5,SCHTYPE,Public,225.056000518799,0,1
+schtype_pct,RED,4,2015,NT,PC:P7,SCHTYPE,Public,246.878498840332,0,1
+schtype_pct,RED,4,2015,NT,PC:P9,SCHTYPE,Public,264.878503417969,0,1
+schtype_pct,RED,4,2015,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2015,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2015,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2015,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2015,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2015,NT,PC:P1,SCHTYPE,Catholic,196.413001251221,0,1
+schtype_pct,RED,4,2015,NT,PC:P2,SCHTYPE,Catholic,218.166000366211,0,1
+schtype_pct,RED,4,2015,NT,PC:P5,SCHTYPE,Catholic,239.75599899292,0,1
+schtype_pct,RED,4,2015,NT,PC:P7,SCHTYPE,Catholic,258.637002563477,0,1
+schtype_pct,RED,4,2015,NT,PC:P9,SCHTYPE,Catholic,275.397499084473,0,1
+schtype_pct,RED,4,2015,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,272,0
+schtype_pct,RED,4,2015,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,272,0
+schtype_pct,RED,4,2015,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,272,0
+schtype_pct,RED,4,2015,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,272,0
+schtype_pct,RED,4,2015,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,272,0
+schtype_pct,RED,4,2015,NT,PC:P1,SCHTYPE,Department of Defense,197.238999938965,0,1
+schtype_pct,RED,4,2015,NT,PC:P2,SCHTYPE,Department of Defense,217.176000213623,0,1
+schtype_pct,RED,4,2015,NT,PC:P5,SCHTYPE,Department of Defense,235.92550201416,0,1
+schtype_pct,RED,4,2015,NT,PC:P7,SCHTYPE,Department of Defense,252.777000427246,0,1
+schtype_pct,RED,4,2015,NT,PC:P9,SCHTYPE,Department of Defense,266.886503601074,0,1
+schtype_pct,RED,4,2017,NT,PC:P1,SCHTYPE,Public,169.457000732422,0,1
+schtype_pct,RED,4,2017,NT,PC:P2,SCHTYPE,Public,197.577001190186,0,1
+schtype_pct,RED,4,2017,NT,PC:P5,SCHTYPE,Public,224.840998840332,0,1
+schtype_pct,RED,4,2017,NT,PC:P7,SCHTYPE,Public,247.716498565674,0,1
+schtype_pct,RED,4,2017,NT,PC:P9,SCHTYPE,Public,265.96849975586,0,1
+schtype_pct,RED,4,2017,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2017,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2017,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2017,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2017,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2017,NT,PC:P1,SCHTYPE,Catholic,194.158499908447,0,1
+schtype_pct,RED,4,2017,NT,PC:P2,SCHTYPE,Catholic,216.363999938965,0,1
+schtype_pct,RED,4,2017,NT,PC:P5,SCHTYPE,Catholic,237.503499603271,0,1
+schtype_pct,RED,4,2017,NT,PC:P7,SCHTYPE,Catholic,256.214498138428,0,1
+schtype_pct,RED,4,2017,NT,PC:P9,SCHTYPE,Catholic,271.77749786377,0,1
+schtype_pct,RED,4,2017,NT,PC:P1,SCHTYPE,Bureau of Indian Education,133.478001022339,0,1
+schtype_pct,RED,4,2017,NT,PC:P2,SCHTYPE,Bureau of Indian Education,157.880499267578,0,1
+schtype_pct,RED,4,2017,NT,PC:P5,SCHTYPE,Bureau of Indian Education,179.914998626709,0,1
+schtype_pct,RED,4,2017,NT,PC:P7,SCHTYPE,Bureau of Indian Education,201.116998291016,0,1
+schtype_pct,RED,4,2017,NT,PC:P9,SCHTYPE,Bureau of Indian Education,223.856998443603,0,1
+schtype_pct,RED,4,2017,NT,PC:P1,SCHTYPE,Department of Defense,197.503497314453,0,1
+schtype_pct,RED,4,2017,NT,PC:P2,SCHTYPE,Department of Defense,217.586999511719,0,1
+schtype_pct,RED,4,2017,NT,PC:P5,SCHTYPE,Department of Defense,236.888500976562,0,1
+schtype_pct,RED,4,2017,NT,PC:P7,SCHTYPE,Department of Defense,254.394499969482,0,1
+schtype_pct,RED,4,2017,NT,PC:P9,SCHTYPE,Department of Defense,268.823001098633,0,1
+schtype_pct,RED,4,2019,NT,PC:P1,SCHTYPE,Public,166.930001068115,0,1
+schtype_pct,RED,4,2019,NT,PC:P2,SCHTYPE,Public,195.619000244141,0,1
+schtype_pct,RED,4,2019,NT,PC:P5,SCHTYPE,Public,223.560500335693,0,1
+schtype_pct,RED,4,2019,NT,PC:P7,SCHTYPE,Public,246.905500793457,0,1
+schtype_pct,RED,4,2019,NT,PC:P9,SCHTYPE,Public,265.457998657227,0,1
+schtype_pct,RED,4,2019,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2019,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2019,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2019,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2019,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2019,NT,PC:P1,SCHTYPE,Catholic,193.279000091553,0,1
+schtype_pct,RED,4,2019,NT,PC:P2,SCHTYPE,Catholic,215.777001190186,0,1
+schtype_pct,RED,4,2019,NT,PC:P5,SCHTYPE,Catholic,237.787501525879,0,1
+schtype_pct,RED,4,2019,NT,PC:P7,SCHTYPE,Catholic,257.13399810791,0,1
+schtype_pct,RED,4,2019,NT,PC:P9,SCHTYPE,Catholic,273.922500610352,0,1
+schtype_pct,RED,4,2019,NT,PC:P1,SCHTYPE,Bureau of Indian Education,140.129999542236,0,1
+schtype_pct,RED,4,2019,NT,PC:P2,SCHTYPE,Bureau of Indian Education,162.434999847412,0,1
+schtype_pct,RED,4,2019,NT,PC:P5,SCHTYPE,Bureau of Indian Education,186.810498809815,0,1
+schtype_pct,RED,4,2019,NT,PC:P7,SCHTYPE,Bureau of Indian Education,211.716500854492,0,1
+schtype_pct,RED,4,2019,NT,PC:P9,SCHTYPE,Bureau of Indian Education,231.321001434326,0,1
+schtype_pct,RED,4,2019,NT,PC:P1,SCHTYPE,Department of Defense,196.225999450684,0,1
+schtype_pct,RED,4,2019,NT,PC:P2,SCHTYPE,Department of Defense,217.340500640869,0,1
+schtype_pct,RED,4,2019,NT,PC:P5,SCHTYPE,Department of Defense,237.509499359131,0,1
+schtype_pct,RED,4,2019,NT,PC:P7,SCHTYPE,Department of Defense,255.427000427246,0,1
+schtype_pct,RED,4,2019,NT,PC:P9,SCHTYPE,Department of Defense,270.20249786377,0,1
+schtype_pct,RED,4,2022,NT,PC:P1,SCHTYPE,Public,160.467499542236,0,1
+schtype_pct,RED,4,2022,NT,PC:P2,SCHTYPE,Public,189.89049911499,0,1
+schtype_pct,RED,4,2022,NT,PC:P5,SCHTYPE,Public,220.137501525879,0,1
+schtype_pct,RED,4,2022,NT,PC:P7,SCHTYPE,Public,245.231500244141,0,1
+schtype_pct,RED,4,2022,NT,PC:P9,SCHTYPE,Public,264.915501403809,0,1
+schtype_pct,RED,4,2022,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2022,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2022,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2022,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2022,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2022,NT,PC:P1,SCHTYPE,Catholic,189.442498779297,0,1
+schtype_pct,RED,4,2022,NT,PC:P2,SCHTYPE,Catholic,211.724501037598,0,1
+schtype_pct,RED,4,2022,NT,PC:P5,SCHTYPE,Catholic,235.552500152588,0,1
+schtype_pct,RED,4,2022,NT,PC:P7,SCHTYPE,Catholic,255.748498535156,0,1
+schtype_pct,RED,4,2022,NT,PC:P9,SCHTYPE,Catholic,273.243501281738,0,1
+schtype_pct,RED,4,2022,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,4,2022,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,4,2022,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,4,2022,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,4,2022,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,4,2022,NT,PC:P1,SCHTYPE,Department of Defense,188.983501434326,0,1
+schtype_pct,RED,4,2022,NT,PC:P2,SCHTYPE,Department of Defense,214.054001617432,0,1
+schtype_pct,RED,4,2022,NT,PC:P5,SCHTYPE,Department of Defense,238.176499176025,0,1
+schtype_pct,RED,4,2022,NT,PC:P7,SCHTYPE,Department of Defense,258.835496520996,0,1
+schtype_pct,RED,4,2022,NT,PC:P9,SCHTYPE,Department of Defense,275.730499267578,0,1
+schtype_pct,RED,4,2024,NT,PC:P1,SCHTYPE,Public,157.243499755859,0,1
+schtype_pct,RED,4,2024,NT,PC:P2,SCHTYPE,Public,187.463499450684,0,1
+schtype_pct,RED,4,2024,NT,PC:P5,SCHTYPE,Public,218.097498321533,0,1
+schtype_pct,RED,4,2024,NT,PC:P7,SCHTYPE,Public,243.972999572754,0,1
+schtype_pct,RED,4,2024,NT,PC:P9,SCHTYPE,Public,264.543502807617,0,1
+schtype_pct,RED,4,2024,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2024,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2024,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2024,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2024,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,4,2024,NT,PC:P1,SCHTYPE,Catholic,185.330000305176,0,1
+schtype_pct,RED,4,2024,NT,PC:P2,SCHTYPE,Catholic,209.998499298096,0,1
+schtype_pct,RED,4,2024,NT,PC:P5,SCHTYPE,Catholic,232.797500610352,0,1
+schtype_pct,RED,4,2024,NT,PC:P7,SCHTYPE,Catholic,253.047499847412,0,1
+schtype_pct,RED,4,2024,NT,PC:P9,SCHTYPE,Catholic,270.414500427246,0,1
+schtype_pct,RED,4,2024,NT,PC:P1,SCHTYPE,Bureau of Indian Education,128.478500747681,0,1
+schtype_pct,RED,4,2024,NT,PC:P2,SCHTYPE,Bureau of Indian Education,152.809999084473,0,1
+schtype_pct,RED,4,2024,NT,PC:P5,SCHTYPE,Bureau of Indian Education,179.18150100708,0,1
+schtype_pct,RED,4,2024,NT,PC:P7,SCHTYPE,Bureau of Indian Education,206.443000030518,0,1
+schtype_pct,RED,4,2024,NT,PC:P9,SCHTYPE,Bureau of Indian Education,228.100498962402,0,1
+schtype_pct,RED,4,2024,NT,PC:P1,SCHTYPE,Department of Defense,189.215999603272,0,1
+schtype_pct,RED,4,2024,NT,PC:P2,SCHTYPE,Department of Defense,212.54049911499,0,1
+schtype_pct,RED,4,2024,NT,PC:P5,SCHTYPE,Department of Defense,236.677500152588,0,1
+schtype_pct,RED,4,2024,NT,PC:P7,SCHTYPE,Department of Defense,258.023503112793,0,1
+schtype_pct,RED,4,2024,NT,PC:P9,SCHTYPE,Department of Defense,275.366499328613,0,1
+schtype_pct,RED,8,2003,NT,PC:P1,SCHTYPE,Public,215.233999633789,0,1
+schtype_pct,RED,8,2003,NT,PC:P2,SCHTYPE,Public,239.721997070312,0,1
+schtype_pct,RED,8,2003,NT,PC:P5,SCHTYPE,Public,263.988000488281,0,1
+schtype_pct,RED,8,2003,NT,PC:P7,SCHTYPE,Public,285.731994628906,0,1
+schtype_pct,RED,8,2003,NT,PC:P9,SCHTYPE,Public,303.867999267578,0,1
+schtype_pct,RED,8,2003,NT,PC:P1,SCHTYPE,Other private,243.095999145508,0,1
+schtype_pct,RED,8,2003,NT,PC:P2,SCHTYPE,Other private,263.564001464844,0,1
+schtype_pct,RED,8,2003,NT,PC:P5,SCHTYPE,Other private,285.663995361328,0,1
+schtype_pct,RED,8,2003,NT,PC:P7,SCHTYPE,Other private,305.55,0,1
+schtype_pct,RED,8,2003,NT,PC:P9,SCHTYPE,Other private,322.492004394531,0,1
+schtype_pct,RED,8,2003,NT,PC:P1,SCHTYPE,Catholic,243.401998901367,0,1
+schtype_pct,RED,8,2003,NT,PC:P2,SCHTYPE,Catholic,262.34599609375,0,1
+schtype_pct,RED,8,2003,NT,PC:P5,SCHTYPE,Catholic,281.973999023438,0,1
+schtype_pct,RED,8,2003,NT,PC:P7,SCHTYPE,Catholic,300.848004150391,0,1
+schtype_pct,RED,8,2003,NT,PC:P9,SCHTYPE,Catholic,318.534002685547,0,1
+schtype_pct,RED,8,2003,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,8,2003,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,8,2003,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,8,2003,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,8,2003,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,8,2003,NT,PC:P1,SCHTYPE,Department of Defense,228.991998291016,0,1
+schtype_pct,RED,8,2003,NT,PC:P2,SCHTYPE,Department of Defense,251.723999023438,0,1
+schtype_pct,RED,8,2003,NT,PC:P5,SCHTYPE,Department of Defense,271.232000732422,0,1
+schtype_pct,RED,8,2003,NT,PC:P7,SCHTYPE,Department of Defense,291.688000488281,0,1
+schtype_pct,RED,8,2003,NT,PC:P9,SCHTYPE,Department of Defense,310.409997558594,0,1
+schtype_pct,RED,8,2005,NT,PC:P1,SCHTYPE,Public,214.122003173828,0,1
+schtype_pct,RED,8,2005,NT,PC:P2,SCHTYPE,Public,238.410000610352,0,1
+schtype_pct,RED,8,2005,NT,PC:P5,SCHTYPE,Public,262.721990966797,0,1
+schtype_pct,RED,8,2005,NT,PC:P7,SCHTYPE,Public,284.744000244141,0,1
+schtype_pct,RED,8,2005,NT,PC:P9,SCHTYPE,Public,303.353997802735,0,1
+schtype_pct,RED,8,2005,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2005,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2005,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2005,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2005,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2005,NT,PC:P1,SCHTYPE,Catholic,242.194000244141,0,1
+schtype_pct,RED,8,2005,NT,PC:P2,SCHTYPE,Catholic,260.774005126953,0,1
+schtype_pct,RED,8,2005,NT,PC:P5,SCHTYPE,Catholic,280.253997802734,0,1
+schtype_pct,RED,8,2005,NT,PC:P7,SCHTYPE,Catholic,299.947998046875,0,1
+schtype_pct,RED,8,2005,NT,PC:P9,SCHTYPE,Catholic,317.55400390625,0,1
+schtype_pct,RED,8,2005,NT,PC:P1,SCHTYPE,Bureau of Indian Education,184.745999145508,0,1
+schtype_pct,RED,8,2005,NT,PC:P2,SCHTYPE,Bureau of Indian Education,208.083999633789,0,1
+schtype_pct,RED,8,2005,NT,PC:P5,SCHTYPE,Bureau of Indian Education,231.996002197266,0,1
+schtype_pct,RED,8,2005,NT,PC:P7,SCHTYPE,Bureau of Indian Education,254.767999267578,0,1
+schtype_pct,RED,8,2005,NT,PC:P9,SCHTYPE,Bureau of Indian Education,272.952001953125,0,1
+schtype_pct,RED,8,2005,NT,PC:P1,SCHTYPE,Department of Defense,233.891998291016,0,1
+schtype_pct,RED,8,2005,NT,PC:P2,SCHTYPE,Department of Defense,252.479998779297,0,1
+schtype_pct,RED,8,2005,NT,PC:P5,SCHTYPE,Department of Defense,271.876000976562,0,1
+schtype_pct,RED,8,2005,NT,PC:P7,SCHTYPE,Department of Defense,290.020001220703,0,1
+schtype_pct,RED,8,2005,NT,PC:P9,SCHTYPE,Department of Defense,305.774005126953,0,1
+schtype_pct,RED,8,2007,NT,PC:P1,SCHTYPE,Public,215.832000732422,0,1
+schtype_pct,RED,8,2007,NT,PC:P2,SCHTYPE,Public,240.195999145508,0,1
+schtype_pct,RED,8,2007,NT,PC:P5,SCHTYPE,Public,263.560003662109,0,1
+schtype_pct,RED,8,2007,NT,PC:P7,SCHTYPE,Public,284.873992919922,0,1
+schtype_pct,RED,8,2007,NT,PC:P9,SCHTYPE,Public,302.718005371094,0,1
+schtype_pct,RED,8,2007,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2007,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2007,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2007,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2007,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2007,NT,PC:P1,SCHTYPE,Catholic,244.516000366211,0,1
+schtype_pct,RED,8,2007,NT,PC:P2,SCHTYPE,Catholic,263.524005126953,0,1
+schtype_pct,RED,8,2007,NT,PC:P5,SCHTYPE,Catholic,282.798004150391,0,1
+schtype_pct,RED,8,2007,NT,PC:P7,SCHTYPE,Catholic,302.134002685547,0,1
+schtype_pct,RED,8,2007,NT,PC:P9,SCHTYPE,Catholic,319.096008300781,0,1
+schtype_pct,RED,8,2007,NT,PC:P1,SCHTYPE,Bureau of Indian Education,185.747998046875,0,1
+schtype_pct,RED,8,2007,NT,PC:P2,SCHTYPE,Bureau of Indian Education,207.878002929688,0,1
+schtype_pct,RED,8,2007,NT,PC:P5,SCHTYPE,Bureau of Indian Education,229.585995483398,0,1
+schtype_pct,RED,8,2007,NT,PC:P7,SCHTYPE,Bureau of Indian Education,250.211999511719,0,1
+schtype_pct,RED,8,2007,NT,PC:P9,SCHTYPE,Bureau of Indian Education,268.205993652344,0,1
+schtype_pct,RED,8,2007,NT,PC:P1,SCHTYPE,Department of Defense,238.041998291016,0,1
+schtype_pct,RED,8,2007,NT,PC:P2,SCHTYPE,Department of Defense,256.058001708985,0,1
+schtype_pct,RED,8,2007,NT,PC:P5,SCHTYPE,Department of Defense,274.008001708984,0,1
+schtype_pct,RED,8,2007,NT,PC:P7,SCHTYPE,Department of Defense,290.897998046875,0,1
+schtype_pct,RED,8,2007,NT,PC:P9,SCHTYPE,Department of Defense,306.193994140625,0,1
+schtype_pct,RED,8,2009,NT,PC:P1,SCHTYPE,Public,217.576000976563,0,1
+schtype_pct,RED,8,2009,NT,PC:P2,SCHTYPE,Public,241.551998901367,0,1
+schtype_pct,RED,8,2009,NT,PC:P5,SCHTYPE,Public,264.90599975586,0,1
+schtype_pct,RED,8,2009,NT,PC:P7,SCHTYPE,Public,285.946002197266,0,1
+schtype_pct,RED,8,2009,NT,PC:P9,SCHTYPE,Public,303.677996826172,0,1
+schtype_pct,RED,8,2009,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2009,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2009,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2009,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2009,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2009,NT,PC:P1,SCHTYPE,Catholic,245.603997802734,0,1
+schtype_pct,RED,8,2009,NT,PC:P2,SCHTYPE,Catholic,263.571997070313,0,1
+schtype_pct,RED,8,2009,NT,PC:P5,SCHTYPE,Catholic,281.973999023438,0,1
+schtype_pct,RED,8,2009,NT,PC:P7,SCHTYPE,Catholic,299.481994628906,0,1
+schtype_pct,RED,8,2009,NT,PC:P9,SCHTYPE,Catholic,316.285998535156,0,1
+schtype_pct,RED,8,2009,NT,PC:P1,SCHTYPE,Bureau of Indian Education,185.57200012207,0,1
+schtype_pct,RED,8,2009,NT,PC:P2,SCHTYPE,Bureau of Indian Education,207.323999023437,0,1
+schtype_pct,RED,8,2009,NT,PC:P5,SCHTYPE,Bureau of Indian Education,230.32799987793,0,1
+schtype_pct,RED,8,2009,NT,PC:P7,SCHTYPE,Bureau of Indian Education,252.005999755859,0,1
+schtype_pct,RED,8,2009,NT,PC:P9,SCHTYPE,Bureau of Indian Education,269.934002685547,0,1
+schtype_pct,RED,8,2009,NT,PC:P1,SCHTYPE,Department of Defense,238.123999023438,0,1
+schtype_pct,RED,8,2009,NT,PC:P2,SCHTYPE,Department of Defense,255.664004516601,0,1
+schtype_pct,RED,8,2009,NT,PC:P5,SCHTYPE,Department of Defense,273.953997802734,0,1
+schtype_pct,RED,8,2009,NT,PC:P7,SCHTYPE,Department of Defense,290.961999511719,0,1
+schtype_pct,RED,8,2009,NT,PC:P9,SCHTYPE,Department of Defense,305.134002685547,0,1
+schtype_pct,RED,8,2011,NT,PC:P1,SCHTYPE,Public,219.102005004883,0,1
+schtype_pct,RED,8,2011,NT,PC:P2,SCHTYPE,Public,242.601998901367,0,1
+schtype_pct,RED,8,2011,NT,PC:P5,SCHTYPE,Public,265.614001464844,0,1
+schtype_pct,RED,8,2011,NT,PC:P7,SCHTYPE,Public,287.094000244141,0,1
+schtype_pct,RED,8,2011,NT,PC:P9,SCHTYPE,Public,305.377990722656,0,1
+schtype_pct,RED,8,2011,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2011,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2011,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2011,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2011,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2011,NT,PC:P1,SCHTYPE,Catholic,245.392001342773,0,1
+schtype_pct,RED,8,2011,NT,PC:P2,SCHTYPE,Catholic,264.763995361328,0,1
+schtype_pct,RED,8,2011,NT,PC:P5,SCHTYPE,Catholic,284.420001220703,0,1
+schtype_pct,RED,8,2011,NT,PC:P7,SCHTYPE,Catholic,302.885998535156,0,1
+schtype_pct,RED,8,2011,NT,PC:P9,SCHTYPE,Catholic,319.325994873047,0,1
+schtype_pct,RED,8,2011,NT,PC:P1,SCHTYPE,Bureau of Indian Education,192.612005615234,0,1
+schtype_pct,RED,8,2011,NT,PC:P2,SCHTYPE,Bureau of Indian Education,214.885998535156,0,1
+schtype_pct,RED,8,2011,NT,PC:P5,SCHTYPE,Bureau of Indian Education,235.95,0,1
+schtype_pct,RED,8,2011,NT,PC:P7,SCHTYPE,Bureau of Indian Education,254.862005615234,0,1
+schtype_pct,RED,8,2011,NT,PC:P9,SCHTYPE,Bureau of Indian Education,271.834002685547,0,1
+schtype_pct,RED,8,2011,NT,PC:P1,SCHTYPE,Department of Defense,238.213998413086,0,1
+schtype_pct,RED,8,2011,NT,PC:P2,SCHTYPE,Department of Defense,255.608001708984,0,1
+schtype_pct,RED,8,2011,NT,PC:P5,SCHTYPE,Department of Defense,273.367999267578,0,1
+schtype_pct,RED,8,2011,NT,PC:P7,SCHTYPE,Department of Defense,290.520007324219,0,1
+schtype_pct,RED,8,2011,NT,PC:P9,SCHTYPE,Department of Defense,305.164001464844,0,1
+schtype_pct,RED,8,2013,NT,PC:P1,SCHTYPE,Public,221.700500488281,0,1
+schtype_pct,RED,8,2013,NT,PC:P2,SCHTYPE,Public,244.879499816894,0,1
+schtype_pct,RED,8,2013,NT,PC:P5,SCHTYPE,Public,267.934497070313,0,1
+schtype_pct,RED,8,2013,NT,PC:P7,SCHTYPE,Public,289.490002441406,0,1
+schtype_pct,RED,8,2013,NT,PC:P9,SCHTYPE,Public,307.993000793457,0,1
+schtype_pct,RED,8,2013,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2013,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2013,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2013,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2013,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2013,NT,PC:P1,SCHTYPE,Catholic,247.812499237061,0,1
+schtype_pct,RED,8,2013,NT,PC:P2,SCHTYPE,Catholic,266.925001525879,0,1
+schtype_pct,RED,8,2013,NT,PC:P5,SCHTYPE,Catholic,287.581497192383,0,1
+schtype_pct,RED,8,2013,NT,PC:P7,SCHTYPE,Catholic,306.525999450684,0,1
+schtype_pct,RED,8,2013,NT,PC:P9,SCHTYPE,Catholic,323.022496032715,0,1
+schtype_pct,RED,8,2013,NT,PC:P1,SCHTYPE,Bureau of Indian Education,196.793000030518,0,1
+schtype_pct,RED,8,2013,NT,PC:P2,SCHTYPE,Bureau of Indian Education,217.690498352051,0,1
+schtype_pct,RED,8,2013,NT,PC:P5,SCHTYPE,Bureau of Indian Education,237.279499816894,0,1
+schtype_pct,RED,8,2013,NT,PC:P7,SCHTYPE,Bureau of Indian Education,254.417999267578,0,1
+schtype_pct,RED,8,2013,NT,PC:P9,SCHTYPE,Bureau of Indian Education,268.655998229981,0,1
+schtype_pct,RED,8,2013,NT,PC:P1,SCHTYPE,Department of Defense,241.799499511719,0,1
+schtype_pct,RED,8,2013,NT,PC:P2,SCHTYPE,Department of Defense,259.566499328613,0,1
+schtype_pct,RED,8,2013,NT,PC:P5,SCHTYPE,Department of Defense,277.751498413086,0,1
+schtype_pct,RED,8,2013,NT,PC:P7,SCHTYPE,Department of Defense,295.42799987793,0,1
+schtype_pct,RED,8,2013,NT,PC:P9,SCHTYPE,Department of Defense,311.104498291016,0,1
+schtype_pct,RED,8,2015,NT,PC:P1,SCHTYPE,Public,218.247500610352,0,1
+schtype_pct,RED,8,2015,NT,PC:P2,SCHTYPE,Public,242.785000610352,0,1
+schtype_pct,RED,8,2015,NT,PC:P5,SCHTYPE,Public,266.388999938965,0,1
+schtype_pct,RED,8,2015,NT,PC:P7,SCHTYPE,Public,288.105499267578,0,1
+schtype_pct,RED,8,2015,NT,PC:P9,SCHTYPE,Public,306.43800201416,0,1
+schtype_pct,RED,8,2015,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2015,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2015,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2015,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2015,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2015,NT,PC:P1,SCHTYPE,Catholic,245.438500213623,0,1
+schtype_pct,RED,8,2015,NT,PC:P2,SCHTYPE,Catholic,264.653997802734,0,1
+schtype_pct,RED,8,2015,NT,PC:P5,SCHTYPE,Catholic,284.81900177002,0,1
+schtype_pct,RED,8,2015,NT,PC:P7,SCHTYPE,Catholic,304.117498779297,0,1
+schtype_pct,RED,8,2015,NT,PC:P9,SCHTYPE,Catholic,320.728999328613,0,1
+schtype_pct,RED,8,2015,NT,PC:P1,SCHTYPE,Bureau of Indian Education,194.376499176025,0,1
+schtype_pct,RED,8,2015,NT,PC:P2,SCHTYPE,Bureau of Indian Education,214.426998901367,0,1
+schtype_pct,RED,8,2015,NT,PC:P5,SCHTYPE,Bureau of Indian Education,236.677000427246,0,1
+schtype_pct,RED,8,2015,NT,PC:P7,SCHTYPE,Bureau of Indian Education,257.379000091553,0,1
+schtype_pct,RED,8,2015,NT,PC:P9,SCHTYPE,Bureau of Indian Education,275.137998962402,0,1
+schtype_pct,RED,8,2015,NT,PC:P1,SCHTYPE,Department of Defense,243.157501220703,0,1
+schtype_pct,RED,8,2015,NT,PC:P2,SCHTYPE,Department of Defense,261.278497314453,0,1
+schtype_pct,RED,8,2015,NT,PC:P5,SCHTYPE,Department of Defense,278.919500732422,0,1
+schtype_pct,RED,8,2015,NT,PC:P7,SCHTYPE,Department of Defense,295.359001159668,0,1
+schtype_pct,RED,8,2015,NT,PC:P9,SCHTYPE,Department of Defense,309.333000183105,0,1
+schtype_pct,RED,8,2017,NT,PC:P1,SCHTYPE,Public,217.901500701904,0,1
+schtype_pct,RED,8,2017,NT,PC:P2,SCHTYPE,Public,243.322998809814,0,1
+schtype_pct,RED,8,2017,NT,PC:P5,SCHTYPE,Public,267.808500671387,0,1
+schtype_pct,RED,8,2017,NT,PC:P7,SCHTYPE,Public,290.084001159668,0,1
+schtype_pct,RED,8,2017,NT,PC:P9,SCHTYPE,Public,308.896499633789,0,1
+schtype_pct,RED,8,2017,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2017,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2017,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2017,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2017,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2017,NT,PC:P1,SCHTYPE,Catholic,245.775498962402,0,1
+schtype_pct,RED,8,2017,NT,PC:P2,SCHTYPE,Catholic,264.778001403809,0,1
+schtype_pct,RED,8,2017,NT,PC:P5,SCHTYPE,Catholic,284.968496704102,0,1
+schtype_pct,RED,8,2017,NT,PC:P7,SCHTYPE,Catholic,303.491500854492,0,1
+schtype_pct,RED,8,2017,NT,PC:P9,SCHTYPE,Catholic,319.569998168946,0,1
+schtype_pct,RED,8,2017,NT,PC:P1,SCHTYPE,Bureau of Indian Education,192.234498596191,0,1
+schtype_pct,RED,8,2017,NT,PC:P2,SCHTYPE,Bureau of Indian Education,218.10950088501,0,1
+schtype_pct,RED,8,2017,NT,PC:P5,SCHTYPE,Bureau of Indian Education,238.325500488281,0,1
+schtype_pct,RED,8,2017,NT,PC:P7,SCHTYPE,Bureau of Indian Education,258.403000640869,0,1
+schtype_pct,RED,8,2017,NT,PC:P9,SCHTYPE,Bureau of Indian Education,275.758502197266,0,1
+schtype_pct,RED,8,2017,NT,PC:P1,SCHTYPE,Department of Defense,244.831999969482,0,1
+schtype_pct,RED,8,2017,NT,PC:P2,SCHTYPE,Department of Defense,263.84649810791,0,1
+schtype_pct,RED,8,2017,NT,PC:P5,SCHTYPE,Department of Defense,281.932499694824,0,1
+schtype_pct,RED,8,2017,NT,PC:P7,SCHTYPE,Department of Defense,299.270503234863,0,1
+schtype_pct,RED,8,2017,NT,PC:P9,SCHTYPE,Department of Defense,314.348500061035,0,1
+schtype_pct,RED,8,2019,NT,PC:P1,SCHTYPE,Public,211.477498626709,0,1
+schtype_pct,RED,8,2019,NT,PC:P2,SCHTYPE,Public,238.562998962402,0,1
+schtype_pct,RED,8,2019,NT,PC:P5,SCHTYPE,Public,264.904499816895,0,1
+schtype_pct,RED,8,2019,NT,PC:P7,SCHTYPE,Public,288.362997436523,0,1
+schtype_pct,RED,8,2019,NT,PC:P9,SCHTYPE,Public,307.923503112793,0,1
+schtype_pct,RED,8,2019,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2019,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2019,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2019,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2019,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2019,NT,PC:P1,SCHTYPE,Catholic,239.110499572754,0,1
+schtype_pct,RED,8,2019,NT,PC:P2,SCHTYPE,Catholic,259.90400390625,0,1
+schtype_pct,RED,8,2019,NT,PC:P5,SCHTYPE,Catholic,279.90650177002,0,1
+schtype_pct,RED,8,2019,NT,PC:P7,SCHTYPE,Catholic,298.508497619629,0,1
+schtype_pct,RED,8,2019,NT,PC:P9,SCHTYPE,Catholic,315.461999511719,0,1
+schtype_pct,RED,8,2019,NT,PC:P1,SCHTYPE,Bureau of Indian Education,189.083499908447,0,1
+schtype_pct,RED,8,2019,NT,PC:P2,SCHTYPE,Bureau of Indian Education,211.267000579834,0,1
+schtype_pct,RED,8,2019,NT,PC:P5,SCHTYPE,Bureau of Indian Education,234.949499511719,0,1
+schtype_pct,RED,8,2019,NT,PC:P7,SCHTYPE,Bureau of Indian Education,256.225997924805,0,1
+schtype_pct,RED,8,2019,NT,PC:P9,SCHTYPE,Bureau of Indian Education,274.883500671387,0,1
+schtype_pct,RED,8,2019,NT,PC:P1,SCHTYPE,Department of Defense,244.1,0,1
+schtype_pct,RED,8,2019,NT,PC:P2,SCHTYPE,Department of Defense,263.323503112793,0,1
+schtype_pct,RED,8,2019,NT,PC:P5,SCHTYPE,Department of Defense,282.504002380371,0,1
+schtype_pct,RED,8,2019,NT,PC:P7,SCHTYPE,Department of Defense,299.307498168945,0,1
+schtype_pct,RED,8,2019,NT,PC:P9,SCHTYPE,Department of Defense,313.556994628906,0,1
+schtype_pct,RED,8,2022,NT,PC:P1,SCHTYPE,Public,207.935499572754,0,1
+schtype_pct,RED,8,2022,NT,PC:P2,SCHTYPE,Public,234.780500793457,0,1
+schtype_pct,RED,8,2022,NT,PC:P5,SCHTYPE,Public,261.640496826172,0,1
+schtype_pct,RED,8,2022,NT,PC:P7,SCHTYPE,Public,285.584999084473,0,1
+schtype_pct,RED,8,2022,NT,PC:P9,SCHTYPE,Public,305.819500732422,0,1
+schtype_pct,RED,8,2022,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2022,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2022,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2022,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2022,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2022,NT,PC:P1,SCHTYPE,Catholic,239.3625,0,1
+schtype_pct,RED,8,2022,NT,PC:P2,SCHTYPE,Catholic,260.501501464844,0,1
+schtype_pct,RED,8,2022,NT,PC:P5,SCHTYPE,Catholic,281.448498535156,0,1
+schtype_pct,RED,8,2022,NT,PC:P7,SCHTYPE,Catholic,300.932499694824,0,1
+schtype_pct,RED,8,2022,NT,PC:P9,SCHTYPE,Catholic,318.390501403809,0,1
+schtype_pct,RED,8,2022,NT,PC:P1,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,8,2022,NT,PC:P2,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,8,2022,NT,PC:P5,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,8,2022,NT,PC:P7,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,8,2022,NT,PC:P9,SCHTYPE,Bureau of Indian Education,999,257,0
+schtype_pct,RED,8,2022,NT,PC:P1,SCHTYPE,Department of Defense,243.858999633789,0,1
+schtype_pct,RED,8,2022,NT,PC:P2,SCHTYPE,Department of Defense,264.204997253418,0,1
+schtype_pct,RED,8,2022,NT,PC:P5,SCHTYPE,Department of Defense,283.965501403809,0,1
+schtype_pct,RED,8,2022,NT,PC:P7,SCHTYPE,Department of Defense,302.274502563477,0,1
+schtype_pct,RED,8,2022,NT,PC:P9,SCHTYPE,Department of Defense,317.962998962402,0,1
+schtype_pct,RED,8,2024,NT,PC:P1,SCHTYPE,Public,202.238499450684,0,1
+schtype_pct,RED,8,2024,NT,PC:P2,SCHTYPE,Public,231.087001800537,0,1
+schtype_pct,RED,8,2024,NT,PC:P5,SCHTYPE,Public,259.820002746582,0,1
+schtype_pct,RED,8,2024,NT,PC:P7,SCHTYPE,Public,284.983999633789,0,1
+schtype_pct,RED,8,2024,NT,PC:P9,SCHTYPE,Public,305.818000793457,0,1
+schtype_pct,RED,8,2024,NT,PC:P1,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2024,NT,PC:P2,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2024,NT,PC:P5,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2024,NT,PC:P7,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2024,NT,PC:P9,SCHTYPE,Other private,999,272,0
+schtype_pct,RED,8,2024,NT,PC:P1,SCHTYPE,Catholic,233.168999481201,0,1
+schtype_pct,RED,8,2024,NT,PC:P2,SCHTYPE,Catholic,256.07200012207,0,1
+schtype_pct,RED,8,2024,NT,PC:P5,SCHTYPE,Catholic,278.509501647949,0,1
+schtype_pct,RED,8,2024,NT,PC:P7,SCHTYPE,Catholic,299.885998535156,0,1
+schtype_pct,RED,8,2024,NT,PC:P9,SCHTYPE,Catholic,317.904498291016,0,1
+schtype_pct,RED,8,2024,NT,PC:P1,SCHTYPE,Bureau of Indian Education,181.239499664307,0,1
+schtype_pct,RED,8,2024,NT,PC:P2,SCHTYPE,Bureau of Indian Education,204.402000427246,0,1
+schtype_pct,RED,8,2024,NT,PC:P5,SCHTYPE,Bureau of Indian Education,231.345999908447,0,1
+schtype_pct,RED,8,2024,NT,PC:P7,SCHTYPE,Bureau of Indian Education,255.529500579834,0,1
+schtype_pct,RED,8,2024,NT,PC:P9,SCHTYPE,Bureau of Indian Education,275.025999450684,0,1
+schtype_pct,RED,8,2024,NT,PC:P1,SCHTYPE,Department of Defense,242.971502685547,0,1
+schtype_pct,RED,8,2024,NT,PC:P2,SCHTYPE,Department of Defense,263.03699798584,0,1
+schtype_pct,RED,8,2024,NT,PC:P5,SCHTYPE,Department of Defense,283.558999633789,0,1
+schtype_pct,RED,8,2024,NT,PC:P7,SCHTYPE,Department of Defense,302.688500976563,0,1
+schtype_pct,RED,8,2024,NT,PC:P9,SCHTYPE,Department of Defense,319.222497558594,0,1

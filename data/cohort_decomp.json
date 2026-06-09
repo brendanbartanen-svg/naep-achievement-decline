@@ -1,0 +1,90 @@
+{
+ "pseudo_growth": {
+  "Math": [
+   {
+    "g8year": 2007,
+    "cohort_g4year": 2003,
+    "growth": 46.41743819635701
+   },
+   {
+    "g8year": 2009,
+    "cohort_g4year": 2005,
+    "growth": 45.03907258473697
+   },
+   {
+    "g8year": 2011,
+    "cohort_g4year": 2007,
+    "growth": 44.13544968679
+   },
+   {
+    "g8year": 2013,
+    "cohort_g4year": 2009,
+    "growth": 44.93495477149099
+   },
+   {
+    "g8year": 2015,
+    "cohort_g4year": 2011,
+    "growth": 41.53870304021601
+   },
+   {
+    "g8year": 2017,
+    "cohort_g4year": 2013,
+    "growth": 41.29189298482902
+   },
+   {
+    "g8year": 2019,
+    "cohort_g4year": 2015,
+    "growth": 41.612572370923004
+   }
+  ],
+  "Reading": [
+   {
+    "g8year": 2007,
+    "cohort_g4year": 2003,
+    "growth": 44.555482820693015
+   },
+   {
+    "g8year": 2009,
+    "cohort_g4year": 2005,
+    "growth": 45.02653287344501
+   },
+   {
+    "g8year": 2011,
+    "cohort_g4year": 2007,
+    "growth": 44.20983102378102
+   },
+   {
+    "g8year": 2013,
+    "cohort_g4year": 2009,
+    "growth": 46.65337395211296
+   },
+   {
+    "g8year": 2015,
+    "cohort_g4year": 2011,
+    "growth": 44.228751153928016
+   },
+   {
+    "g8year": 2017,
+    "cohort_g4year": 2013,
+    "growth": 44.74578619091298
+   },
+   {
+    "g8year": 2019,
+    "cohort_g4year": 2015,
+    "growth": 40.63187481036098
+   }
+  ]
+ },
+ "decomp_2013_2019": {
+  "Math": {
+   "d_g8": -2.6,
+   "d_entry": 0.7,
+   "d_growth": -3.3
+  },
+  "Reading": {
+   "d_g8": -4.4,
+   "d_entry": 1.6,
+   "d_growth": -6.0
+  }
+ }
+}
