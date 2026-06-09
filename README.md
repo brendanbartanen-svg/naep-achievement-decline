@@ -1,7 +1,8 @@
 # Why Did American Student Achievement Decline?
 
 Self-contained analysis verifying the post-2013 NAEP decline and testing eight candidate
-explanations, plus three discriminating tests (v1.1). Final deliverable: `report/report.pdf` (20 pp).
+explanations, three discriminating tests (v1.1), and two mechanism checks (v1.2).
+Final deliverable: `report/report.pdf` (22 pp).
 
 ## Structure
 - `naep_pull.py` — pulls main-NAEP national means/percentiles, subgroups (race, sex, NSLP),
@@ -11,6 +12,10 @@ explanations, plus three discriminating tests (v1.1). Final deliverable: `report
 - `data/waivers.csv` — state ESEA/NCLB waiver approval dates (ED/CRS/EdWeek, agent-verified)
 - `analyze_cohort.py` — cohort-vs-period decomposition (pseudo-growth G4→G8)
 - `analyze_v11.py` — public-vs-Catholic comparison; waiver event study/DiD on state P10
+- `analyze_doseresponse.py` — state NAEP changes vs CSDH 2020-21 virtual share and vs
+  rise in chronic absenteeism (FutureEd); `data/external/` holds the downloaded sources
+- `analyze_absence.py` — within-NAEP attendance crosswalk (B018101): shares, gradients,
+  Kitagawa decomposition → `data/absence_results.json`
 - `data/ltt.csv` — NAEP Long-Term Trend means (hand-compiled from Digest tables 221.85/222.85,
   cross-validated against the LTT Data Service API; see `evidence/ltt_evidence.md`)
 - `analyze.py` — main analysis: trend decomposition, percentile divergence, 90-10 gaps,
@@ -42,3 +47,9 @@ cd report && tectonic report.tex
   schools (never under NCLB accountability) declined in step with publics pre-pandemic;
   (iii) waiver event study — state P10 scores show no relationship to when states were
   released from NCLB (pooled DiD +0.09 z, p=0.50).
+- v1.2 mechanism checks: (i) between-state variation in 2020-21 virtual schooling explains
+  almost none of between-state NAEP declines (pooled −0.04 pts/10pp virtual, p=0.80) — the
+  district-level closure effect washes out under state aggregation; (ii) NAEP's own absence
+  item shows disengagement rising pre-pandemic (3+ days absent: ~19.5% 2013 → 24% 2019 →
+  ~30% 2024) and a Kitagawa decomposition attributes 25-42% of the 2019-24 declines (but
+  only 7-19% of pre-pandemic G8 declines) to the absence shift.

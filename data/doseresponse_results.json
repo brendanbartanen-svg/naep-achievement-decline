@@ -1,0 +1,70 @@
+{
+ "Math G4": {
+  "series": "Math G4",
+  "n": 48,
+  "drop~virt b(per10pp)": -0.33,
+  "p1": 0.133,
+  "recov~virt b": 0.08,
+  "p2": 0.596,
+  "net~virt b": -0.26,
+  "p3": 0.27,
+  "net~dAbs b(per pp)": -0.24,
+  "p4": 0.222,
+  "joint: virt": -0.18,
+  "joint: dAbs": -0.17
+ },
+ "Math G8": {
+  "series": "Math G8",
+  "n": 48,
+  "drop~virt b(per10pp)": -0.18,
+  "p1": 0.346,
+  "recov~virt b": -0.1,
+  "p2": 0.466,
+  "net~virt b": -0.28,
+  "p3": 0.171,
+  "net~dAbs b(per pp)": -0.17,
+  "p4": 0.254,
+  "joint: virt": -0.28,
+  "joint: dAbs": -0.06
+ },
+ "Reading G4": {
+  "series": "Reading G4",
+  "n": 48,
+  "drop~virt b(per10pp)": -0.02,
+  "p1": 0.928,
+  "recov~virt b": 0.09,
+  "p2": 0.62,
+  "net~virt b": 0.07,
+  "p3": 0.771,
+  "net~dAbs b(per pp)": -0.09,
+  "p4": 0.672,
+  "joint: virt": 0.13,
+  "joint: dAbs": -0.14
+ },
+ "Reading G8": {
+  "series": "Reading G8",
+  "n": 48,
+  "drop~virt b(per10pp)": 0.36,
+  "p1": 0.048,
+  "recov~virt b": -0.09,
+  "p2": 0.56,
+  "net~virt b": 0.27,
+  "p3": 0.187,
+  "net~dAbs b(per pp)": -0.08,
+  "p4": 0.557,
+  "joint: virt": 0.44,
+  "joint: dAbs": -0.25
+ },
+ "pooled_d_1922_virt": {
+  "b_per10pp": -0.04,
+  "p": 0.804
+ },
+ "pooled_d_1924_virt": {
+  "b_per10pp": -0.05,
+  "p": 0.787
+ },
+ "pooled_d1924_dabs": {
+  "b_per_pp": -0.14,
+  "p": 0.309
+ }
+}
