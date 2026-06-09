@@ -1,0 +1,77 @@
+{
+ "permutation": {
+  "beta_obs_z": 0.092,
+  "p_perm": 0.463,
+  "sd_perm": 0.124,
+  "MDE80_z": 0.349
+ },
+ "permutation_g8math_pts": {
+  "beta_obs": 0.23,
+  "p_perm": 0.8555,
+  "MDE80_pts": 3.24
+ },
+ "pretrend": {
+  "stat": 8.46,
+  "p": 0.076
+ },
+ "sector_tests": [
+  {
+   "series": "Math, Grade 4",
+   "cath_chg_2013_19": -0.0,
+   "z": -0.0,
+   "dd_2019_24_pub_minus_cath": -3.7,
+   "z_dd": -1.23
+  },
+  {
+   "series": "Math, Grade 8",
+   "cath_chg_2013_19": -1.5,
+   "z": -0.66,
+   "dd_2019_24_pub_minus_cath": -7.9,
+   "z_dd": -2.63
+  },
+  {
+   "series": "Reading, Grade 4",
+   "cath_chg_2013_19": -0.1,
+   "z": -0.04,
+   "dd_2019_24_pub_minus_cath": 0.1,
+   "z_dd": 0.03
+  },
+  {
+   "series": "Reading, Grade 8",
+   "cath_chg_2013_19": -7.8,
+   "z": -3.45,
+   "dd_2019_24_pub_minus_cath": -3.9,
+   "z_dd": -1.3
+  }
+ ],
+ "dose_robustness": [
+  {
+   "series": "Math G4",
+   "WLS b/10pp": 0.03,
+   "p_wls": 0.827,
+   "noDC b/10pp": -0.25,
+   "p_noDC": 0.23
+  },
+  {
+   "series": "Math G8",
+   "WLS b/10pp": 0.03,
+   "p_wls": 0.91,
+   "noDC b/10pp": -0.16,
+   "p_noDC": 0.407
+  },
+  {
+   "series": "Reading G4",
+   "WLS b/10pp": 0.01,
+   "p_wls": 0.976,
+   "noDC b/10pp": 0.03,
+   "p_noDC": 0.883
+  },
+  {
+   "series": "Reading G8",
+   "WLS b/10pp": 0.3,
+   "p_wls": 0.184,
+   "noDC b/10pp": 0.32,
+   "p_noDC": 0.087
+  }
+ ]
+}

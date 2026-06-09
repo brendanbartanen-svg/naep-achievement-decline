@@ -1,8 +1,9 @@
 # Why Did American Student Achievement Decline?
 
 Self-contained analysis verifying the post-2013 NAEP decline and testing eight candidate
-explanations, three discriminating tests (v1.1), and two mechanism checks (v1.2).
-Final deliverable: `report/report.pdf` (22 pp).
+explanations, three discriminating tests (v1.1), two mechanism checks (v1.2), and an
+inference/robustness upgrade with a verified related-literature positioning (v1.3).
+Final deliverable: `report/report.pdf` (24 pp).
 
 ## Structure
 - `naep_pull.py` — pulls main-NAEP national means/percentiles, subgroups (race, sex, NSLP),
@@ -16,6 +17,11 @@ Final deliverable: `report/report.pdf` (22 pp).
   rise in chronic absenteeism (FutureEd); `data/external/` holds the downloaded sources
 - `analyze_absence.py` — within-NAEP attendance crosswalk (B018101): shares, gradients,
   Kitagawa decomposition → `data/absence_results.json`
+- `analyze_v13.py` — robustness/inference: permutation (randomization) inference and MDE
+  for the waiver DiD, pre-trend test, sector z-tests on published SEs, weighted dose-response
+- `evidence/novelty_check.md` — agent-verified positioning vs closest prior work
+  (Dewey et al. 2026; Malkus 2025 "Testing Theories of Why"; Wyckoff 2025; Petrilli 2020;
+  Malkus 2015; Barnum 2022)
 - `data/ltt.csv` — NAEP Long-Term Trend means (hand-compiled from Digest tables 221.85/222.85,
   cross-validated against the LTT Data Service API; see `evidence/ltt_evidence.md`)
 - `analyze.py` — main analysis: trend decomposition, percentile divergence, 90-10 gaps,
@@ -47,6 +53,13 @@ cd report && tectonic report.tex
   schools (never under NCLB accountability) declined in step with publics pre-pandemic;
   (iii) waiver event study — state P10 scores show no relationship to when states were
   released from NCLB (pooled DiD +0.09 z, p=0.50).
+- v1.3 credibility upgrade: waiver null holds under randomization inference (perm p=0.46;
+  pre-trend p=0.08 caveat) and is informative — MDE80 ≈ 3.2 pts on G8 math P10, under half
+  the Dee-Jacob NCLB effect (~7 pts); sector test formalized with published SEs (Catholic
+  G8 reading 2013-19 decline z=−3.4; math uninformative; 2019-24 G8 math divergence z=−2.6);
+  novelty verified: first staggered waiver event study on state NAEP percentiles (Dewey et
+  al. 2026 call this counterfactual "never tested"), first formal cohort/period decomposition,
+  first systematic sector test of the accountability hypothesis.
 - v1.2 mechanism checks: (i) between-state variation in 2020-21 virtual schooling explains
   almost none of between-state NAEP declines (pooled −0.04 pts/10pp virtual, p=0.80) — the
   district-level closure effect washes out under state aggregation; (ii) NAEP's own absence
