@@ -1,0 +1,2075 @@
+dataset,subject,grade,year,jurisdiction,jurisLabel,stat,variable,group,value,errorFlag,displayable
+national,MAT,4,1990,NT,National,MN:MN,TOTAL,All students,213.065106513695,8,1
+national,MAT,4,1990,NT,National,PC:P1,TOTAL,All students,171.05599975586,8,1
+national,MAT,4,1990,NT,National,PC:P2,TOTAL,All students,192.846002197266,8,1
+national,MAT,4,1990,NT,National,PC:P5,TOTAL,All students,213.962002563477,8,1
+national,MAT,4,1990,NT,National,PC:P7,TOTAL,All students,234.688003540039,8,1
+national,MAT,4,1990,NT,National,PC:P9,TOTAL,All students,253.267999267578,8,1
+national,MAT,4,1992,NT,National,MN:MN,TOTAL,All students,219.711297946388,8,1
+national,MAT,4,1992,NT,National,PC:P1,TOTAL,All students,177.463998413086,8,1
+national,MAT,4,1992,NT,National,PC:P2,TOTAL,All students,198.855999755859,8,1
+national,MAT,4,1992,NT,National,PC:P5,TOTAL,All students,221.396002197265,8,1
+national,MAT,4,1992,NT,National,PC:P7,TOTAL,All students,241.836001586914,8,1
+national,MAT,4,1992,NT,National,PC:P9,TOTAL,All students,259.085998535156,8,1
+national,MAT,4,1996,NT,National,MN:MN,TOTAL,All students,223.914417135957,8,1
+national,MAT,4,1996,NT,National,PC:P1,TOTAL,All students,182.117999267578,8,1
+national,MAT,4,1996,NT,National,PC:P2,TOTAL,All students,203.567999267578,8,1
+national,MAT,4,1996,NT,National,PC:P5,TOTAL,All students,225.838000488281,8,1
+national,MAT,4,1996,NT,National,PC:P7,TOTAL,All students,245.573999023438,8,1
+national,MAT,4,1996,NT,National,PC:P9,TOTAL,All students,262.485998535156,8,1
+national,MAT,4,2000,NT,National,MN:MN,TOTAL,All students,225.582028357341,0,1
+national,MAT,4,2000,NT,National,PC:P1,TOTAL,All students,184.016000366211,0,1
+national,MAT,4,2000,NT,National,PC:P2,TOTAL,All students,204.536001586914,0,1
+national,MAT,4,2000,NT,National,PC:P5,TOTAL,All students,227.058001708984,0,1
+national,MAT,4,2000,NT,National,PC:P7,TOTAL,All students,247.871997070312,0,1
+national,MAT,4,2000,NT,National,PC:P9,TOTAL,All students,264.869995117188,0,1
+national,MAT,4,2003,NT,National,MN:MN,TOTAL,All students,234.928248674653,0,1
+national,MAT,4,2003,NT,National,PC:P1,TOTAL,All students,197.400003051758,0,1
+national,MAT,4,2003,NT,National,PC:P2,TOTAL,All students,216.187997436523,0,1
+national,MAT,4,2003,NT,National,PC:P5,TOTAL,All students,236.292001342774,0,1
+national,MAT,4,2003,NT,National,PC:P7,TOTAL,All students,254.987997436523,0,1
+national,MAT,4,2003,NT,National,PC:P9,TOTAL,All students,270.421997070313,0,1
+national,MAT,4,2005,NT,National,MN:MN,TOTAL,All students,237.870745610556,0,1
+national,MAT,4,2005,NT,National,PC:P1,TOTAL,All students,200.438000488281,0,1
+national,MAT,4,2005,NT,National,PC:P2,TOTAL,All students,219.57200012207,0,1
+national,MAT,4,2005,NT,National,PC:P5,TOTAL,All students,239.393997192383,0,1
+national,MAT,4,2005,NT,National,PC:P7,TOTAL,All students,257.540002441406,0,1
+national,MAT,4,2005,NT,National,PC:P9,TOTAL,All students,272.941998291016,0,1
+national,MAT,4,2007,NT,National,MN:MN,TOTAL,All students,239.715769387218,0,1
+national,MAT,4,2007,NT,National,PC:P1,TOTAL,All students,202.129995727539,0,1
+national,MAT,4,2007,NT,National,PC:P2,TOTAL,All students,221.838003540039,0,1
+national,MAT,4,2007,NT,National,PC:P5,TOTAL,All students,241.644000244141,0,1
+national,MAT,4,2007,NT,National,PC:P7,TOTAL,All students,259.632000732422,0,1
+national,MAT,4,2007,NT,National,PC:P9,TOTAL,All students,274.608001708985,0,1
+national,MAT,4,2009,NT,National,MN:MN,TOTAL,All students,239.67186877293,0,1
+national,MAT,4,2009,NT,National,PC:P1,TOTAL,All students,202.051998901367,0,1
+national,MAT,4,2009,NT,National,PC:P2,TOTAL,All students,221.251998901367,0,1
+national,MAT,4,2009,NT,National,PC:P5,TOTAL,All students,241.194000244141,0,1
+national,MAT,4,2009,NT,National,PC:P7,TOTAL,All students,259.672003173828,0,1
+national,MAT,4,2009,NT,National,PC:P9,TOTAL,All students,275.151995849609,0,1
+national,MAT,4,2011,NT,National,MN:MN,TOTAL,All students,240.6832058282,0,1
+national,MAT,4,2011,NT,National,PC:P1,TOTAL,All students,202.766000366211,0,1
+national,MAT,4,2011,NT,National,PC:P2,TOTAL,All students,222.197998046875,0,1
+national,MAT,4,2011,NT,National,PC:P5,TOTAL,All students,242.17200012207,0,1
+national,MAT,4,2011,NT,National,PC:P7,TOTAL,All students,260.774005126953,0,1
+national,MAT,4,2011,NT,National,PC:P9,TOTAL,All students,276.379998779297,0,1
+national,MAT,4,2013,NT,National,MN:MN,TOTAL,All students,241.550783175736,0,1
+national,MAT,4,2013,NT,National,PC:P1,TOTAL,All students,202.815000915527,0,1
+national,MAT,4,2013,NT,National,PC:P2,TOTAL,All students,222.445499420166,0,1
+national,MAT,4,2013,NT,National,PC:P5,TOTAL,All students,243.034499359131,0,1
+national,MAT,4,2013,NT,National,PC:P7,TOTAL,All students,262.074998474121,0,1
+national,MAT,4,2013,NT,National,PC:P9,TOTAL,All students,278.212002563477,0,1
+national,MAT,4,2015,NT,National,MN:MN,TOTAL,All students,240.389287044695,0,1
+national,MAT,4,2015,NT,National,PC:P1,TOTAL,All students,201.554000854492,0,1
+national,MAT,4,2015,NT,National,PC:P2,TOTAL,All students,221.261999511719,0,1
+national,MAT,4,2015,NT,National,PC:P5,TOTAL,All students,241.711499023438,0,1
+national,MAT,4,2015,NT,National,PC:P7,TOTAL,All students,260.843501281738,0,1
+national,MAT,4,2015,NT,National,PC:P9,TOTAL,All students,277.302500915527,0,1
+national,MAT,4,2017,NT,National,MN:MN,TOTAL,All students,239.722230131194,0,1
+national,MAT,4,2017,NT,National,PC:P1,TOTAL,All students,198.116999816895,0,1
+national,MAT,4,2017,NT,National,PC:P2,TOTAL,All students,219.27149887085,0,1
+national,MAT,4,2017,NT,National,PC:P5,TOTAL,All students,241.294498443604,0,1
+national,MAT,4,2017,NT,National,PC:P7,TOTAL,All students,261.682499694824,0,1
+national,MAT,4,2017,NT,National,PC:P9,TOTAL,All students,278.847001647949,0,1
+national,MAT,4,2019,NT,National,MN:MN,TOTAL,All students,240.526149981042,0,1
+national,MAT,4,2019,NT,National,PC:P1,TOTAL,All students,198.929501342774,0,1
+national,MAT,4,2019,NT,National,PC:P2,TOTAL,All students,220.472998809814,0,1
+national,MAT,4,2019,NT,National,PC:P5,TOTAL,All students,242.123498535156,0,1
+national,MAT,4,2019,NT,National,PC:P7,TOTAL,All students,262.338500976563,0,1
+national,MAT,4,2019,NT,National,PC:P9,TOTAL,All students,279.794996643067,0,1
+national,MAT,4,2022,NT,National,MN:MN,TOTAL,All students,235.956261835704,0,1
+national,MAT,4,2022,NT,National,PC:P1,TOTAL,All students,191.531000518799,0,1
+national,MAT,4,2022,NT,National,PC:P2,TOTAL,All students,214.128499603272,0,1
+national,MAT,4,2022,NT,National,PC:P5,TOTAL,All students,237.622999572754,0,1
+national,MAT,4,2022,NT,National,PC:P7,TOTAL,All students,259.095999145508,0,1
+national,MAT,4,2022,NT,National,PC:P9,TOTAL,All students,277.565000915527,0,1
+national,MAT,4,2024,NT,National,MN:MN,TOTAL,All students,237.490934055562,0,1
+national,MAT,4,2024,NT,National,PC:P1,TOTAL,All students,190.965998077393,0,1
+national,MAT,4,2024,NT,National,PC:P2,TOTAL,All students,215.29400100708,0,1
+national,MAT,4,2024,NT,National,PC:P5,TOTAL,All students,240.039500427246,0,1
+national,MAT,4,2024,NT,National,PC:P7,TOTAL,All students,261.796002197266,0,1
+national,MAT,4,2024,NT,National,PC:P9,TOTAL,All students,279.712998962402,0,1
+national,MAT,8,1990,NT,National,MN:MN,TOTAL,All students,262.553400251886,8,1
+national,MAT,8,1990,NT,National,PC:P1,TOTAL,All students,214.963998413086,8,1
+national,MAT,8,1990,NT,National,PC:P2,TOTAL,All students,238.695999145508,8,1
+national,MAT,8,1990,NT,National,PC:P5,TOTAL,All students,263.622009277344,8,1
+national,MAT,8,1990,NT,National,PC:P7,TOTAL,All students,288.009997558594,8,1
+national,MAT,8,1990,NT,National,PC:P9,TOTAL,All students,307.1,8,1
+national,MAT,8,1992,NT,National,MN:MN,TOTAL,All students,268.392274387605,8,1
+national,MAT,8,1992,NT,National,PC:P1,TOTAL,All students,220.657998657227,8,1
+national,MAT,8,1992,NT,National,PC:P2,TOTAL,All students,243.274002075195,8,1
+national,MAT,8,1992,NT,National,PC:P5,TOTAL,All students,269.277996826172,8,1
+national,MAT,8,1992,NT,National,PC:P7,TOTAL,All students,294.426000976563,8,1
+national,MAT,8,1992,NT,National,PC:P9,TOTAL,All students,314.796002197266,8,1
+national,MAT,8,1996,NT,National,MN:MN,TOTAL,All students,271.961881841507,8,1
+national,MAT,8,1996,NT,National,PC:P1,TOTAL,All students,224.011996459961,8,1
+national,MAT,8,1996,NT,National,PC:P2,TOTAL,All students,248.404000854492,8,1
+national,MAT,8,1996,NT,National,PC:P5,TOTAL,All students,273.407995605469,8,1
+national,MAT,8,1996,NT,National,PC:P7,TOTAL,All students,297.613995361328,8,1
+national,MAT,8,1996,NT,National,PC:P9,TOTAL,All students,317.491998291016,8,1
+national,MAT,8,2000,NT,National,MN:MN,TOTAL,All students,273.100133791048,0,1
+national,MAT,8,2000,NT,National,PC:P1,TOTAL,All students,223.183999633789,0,1
+national,MAT,8,2000,NT,National,PC:P2,TOTAL,All students,248.5,0,1
+national,MAT,8,2000,NT,National,PC:P5,TOTAL,All students,275.086004638672,0,1
+national,MAT,8,2000,NT,National,PC:P7,TOTAL,All students,299.730004882813,0,1
+national,MAT,8,2000,NT,National,PC:P9,TOTAL,All students,320.30199584961,0,1
+national,MAT,8,2003,NT,National,MN:MN,TOTAL,All students,277.563392032194,0,1
+national,MAT,8,2003,NT,National,PC:P1,TOTAL,All students,229.919998168945,0,1
+national,MAT,8,2003,NT,National,PC:P2,TOTAL,All students,254.145999145508,0,1
+national,MAT,8,2003,NT,National,PC:P5,TOTAL,All students,279.303997802735,0,1
+national,MAT,8,2003,NT,National,PC:P7,TOTAL,All students,302.876000976562,0,1
+national,MAT,8,2003,NT,National,PC:P9,TOTAL,All students,322.6419921875,0,1
+national,MAT,8,2005,NT,National,MN:MN,TOTAL,All students,278.819811032215,0,1
+national,MAT,8,2005,NT,National,PC:P1,TOTAL,All students,231.47799987793,0,1
+national,MAT,8,2005,NT,National,PC:P2,TOTAL,All students,255.379998779297,0,1
+national,MAT,8,2005,NT,National,PC:P5,TOTAL,All students,280.218005371094,0,1
+national,MAT,8,2005,NT,National,PC:P7,TOTAL,All students,303.89800415039,0,1
+national,MAT,8,2005,NT,National,PC:P9,TOTAL,All students,324.297998046875,0,1
+national,MAT,8,2007,NT,National,MN:MN,TOTAL,All students,281.34568687101,0,1
+national,MAT,8,2007,NT,National,PC:P1,TOTAL,All students,234.666000366211,0,1
+national,MAT,8,2007,NT,National,PC:P2,TOTAL,All students,257.855993652344,0,1
+national,MAT,8,2007,NT,National,PC:P5,TOTAL,All students,282.611999511719,0,1
+national,MAT,8,2007,NT,National,PC:P7,TOTAL,All students,306.326000976563,0,1
+national,MAT,8,2007,NT,National,PC:P9,TOTAL,All students,326.603997802734,0,1
+national,MAT,8,2009,NT,National,MN:MN,TOTAL,All students,282.909818195293,0,1
+national,MAT,8,2009,NT,National,PC:P1,TOTAL,All students,235.807995605469,0,1
+national,MAT,8,2009,NT,National,PC:P2,TOTAL,All students,259.24599609375,0,1
+national,MAT,8,2009,NT,National,PC:P5,TOTAL,All students,284.106005859375,0,1
+national,MAT,8,2009,NT,National,PC:P7,TOTAL,All students,308.159991455078,0,1
+national,MAT,8,2009,NT,National,PC:P9,TOTAL,All students,328.644000244141,0,1
+national,MAT,8,2011,NT,National,MN:MN,TOTAL,All students,283.851219074008,0,1
+national,MAT,8,2011,NT,National,PC:P1,TOTAL,All students,236.882000732422,0,1
+national,MAT,8,2011,NT,National,PC:P2,TOTAL,All students,260.075994873047,0,1
+national,MAT,8,2011,NT,National,PC:P5,TOTAL,All students,284.915997314453,0,1
+national,MAT,8,2011,NT,National,PC:P7,TOTAL,All students,308.835992431641,0,1
+national,MAT,8,2011,NT,National,PC:P9,TOTAL,All students,329.438006591797,0,1
+national,MAT,8,2013,NT,National,MN:MN,TOTAL,All students,284.606823544421,0,1
+national,MAT,8,2013,NT,National,PC:P1,TOTAL,All students,237.404000091553,0,1
+national,MAT,8,2013,NT,National,PC:P2,TOTAL,All students,260.778503417969,0,1
+national,MAT,8,2013,NT,National,PC:P5,TOTAL,All students,285.596000671387,0,1
+national,MAT,8,2013,NT,National,PC:P7,TOTAL,All students,309.709002685547,0,1
+national,MAT,8,2013,NT,National,PC:P9,TOTAL,All students,330.614999389649,0,1
+national,MAT,8,2015,NT,National,MN:MN,TOTAL,All students,282.221908868416,0,1
+national,MAT,8,2015,NT,National,PC:P1,TOTAL,All students,234.578499603272,0,1
+national,MAT,8,2015,NT,National,PC:P2,TOTAL,All students,257.707502746582,0,1
+national,MAT,8,2015,NT,National,PC:P5,TOTAL,All students,282.871998596191,0,1
+national,MAT,8,2015,NT,National,PC:P7,TOTAL,All students,307.699501037598,0,1
+national,MAT,8,2015,NT,National,PC:P9,TOTAL,All students,329.000997924805,0,1
+national,MAT,8,2017,NT,National,MN:MN,TOTAL,All students,282.842676160565,0,1
+national,MAT,8,2017,NT,National,PC:P1,TOTAL,All students,233.103000640869,0,1
+national,MAT,8,2017,NT,National,PC:P2,TOTAL,All students,256.10950012207,0,1
+national,MAT,8,2017,NT,National,PC:P5,TOTAL,All students,282.708999633789,0,1
+national,MAT,8,2017,NT,National,PC:P7,TOTAL,All students,309.685998535157,0,1
+national,MAT,8,2017,NT,National,PC:P9,TOTAL,All students,332.946499633789,0,1
+national,MAT,8,2019,NT,National,MN:MN,TOTAL,All students,282.001859415618,0,1
+national,MAT,8,2019,NT,National,PC:P1,TOTAL,All students,230.776998901367,0,1
+national,MAT,8,2019,NT,National,PC:P2,TOTAL,All students,254.816000366211,0,1
+national,MAT,8,2019,NT,National,PC:P5,TOTAL,All students,282.101998901367,0,1
+national,MAT,8,2019,NT,National,PC:P7,TOTAL,All students,309.454998779297,0,1
+national,MAT,8,2019,NT,National,PC:P9,TOTAL,All students,333.275498962403,0,1
+national,MAT,8,2022,NT,National,MN:MN,TOTAL,All students,274.266213337059,0,1
+national,MAT,8,2022,NT,National,PC:P1,TOTAL,All students,224.337500762939,0,1
+national,MAT,8,2022,NT,National,PC:P2,TOTAL,All students,247.235000610352,0,1
+national,MAT,8,2022,NT,National,PC:P5,TOTAL,All students,273.81199798584,0,1
+national,MAT,8,2022,NT,National,PC:P7,TOTAL,All students,300.789999389649,0,1
+national,MAT,8,2022,NT,National,PC:P9,TOTAL,All students,324.93800201416,0,1
+national,MAT,8,2024,NT,National,MN:MN,TOTAL,All students,273.833456014299,0,1
+national,MAT,8,2024,NT,National,PC:P1,TOTAL,All students,219.338998413086,0,1
+national,MAT,8,2024,NT,National,PC:P2,TOTAL,All students,244.673500823975,0,1
+national,MAT,8,2024,NT,National,PC:P5,TOTAL,All students,273.654997253418,0,1
+national,MAT,8,2024,NT,National,PC:P7,TOTAL,All students,302.988499450684,0,1
+national,MAT,8,2024,NT,National,PC:P9,TOTAL,All students,328.276998901367,0,1
+national,RED,4,1992,NT,National,MN:MN,TOTAL,All students,216.737233780509,8,1
+national,RED,4,1992,NT,National,PC:P1,TOTAL,All students,169.525997924805,8,1
+national,RED,4,1992,NT,National,PC:P2,TOTAL,All students,193.974002075196,8,1
+national,RED,4,1992,NT,National,PC:P5,TOTAL,All students,219.205999755859,8,1
+national,RED,4,1992,NT,National,PC:P7,TOTAL,All students,241.589999389648,8,1
+national,RED,4,1992,NT,National,PC:P9,TOTAL,All students,260.912005615234,8,1
+national,RED,4,1994,NT,National,MN:MN,TOTAL,All students,214.261426003004,8,1
+national,RED,4,1994,NT,National,PC:P1,TOTAL,All students,158.568002319336,8,1
+national,RED,4,1994,NT,National,PC:P2,TOTAL,All students,189.210000610351,8,1
+national,RED,4,1994,NT,National,PC:P5,TOTAL,All students,218.581997680664,8,1
+national,RED,4,1994,NT,National,PC:P7,TOTAL,All students,242.940002441406,8,1
+national,RED,4,1994,NT,National,PC:P9,TOTAL,All students,262.617999267578,8,1
+national,RED,4,1998,NT,National,MN:MN,TOTAL,All students,214.766393936642,0,1
+national,RED,4,1998,NT,National,PC:P1,TOTAL,All students,162.804000854492,0,1
+national,RED,4,1998,NT,National,PC:P2,TOTAL,All students,190.597998046875,0,1
+national,RED,4,1998,NT,National,PC:P5,TOTAL,All students,217.45,0,1
+national,RED,4,1998,NT,National,PC:P7,TOTAL,All students,242.437997436524,0,1
+national,RED,4,1998,NT,National,PC:P9,TOTAL,All students,262.131994628906,0,1
+national,RED,4,2000,NT,National,MN:MN,TOTAL,All students,213.361418767004,0,1
+national,RED,4,2000,NT,National,PC:P1,TOTAL,All students,159.494000244141,0,1
+national,RED,4,2000,NT,National,PC:P2,TOTAL,All students,189.148004150391,0,1
+national,RED,4,2000,NT,National,PC:P5,TOTAL,All students,217.503997802734,0,1
+national,RED,4,2000,NT,National,PC:P7,TOTAL,All students,242.649996948242,0,1
+national,RED,4,2000,NT,National,PC:P9,TOTAL,All students,261.819995117188,0,1
+national,RED,4,2002,NT,National,MN:MN,TOTAL,All students,218.584045295246,0,1
+national,RED,4,2002,NT,National,PC:P1,TOTAL,All students,170.401998901367,0,1
+national,RED,4,2002,NT,National,PC:P2,TOTAL,All students,195.589996337891,0,1
+national,RED,4,2002,NT,National,PC:P5,TOTAL,All students,221.296002197266,0,1
+national,RED,4,2002,NT,National,PC:P7,TOTAL,All students,244.133999633789,0,1
+national,RED,4,2002,NT,National,PC:P9,TOTAL,All students,262.582000732422,0,1
+national,RED,4,2003,NT,National,MN:MN,TOTAL,All students,218.23619516439,0,1
+national,RED,4,2003,NT,National,PC:P1,TOTAL,All students,168.638000488281,0,1
+national,RED,4,2003,NT,National,PC:P2,TOTAL,All students,194.655996704101,0,1
+national,RED,4,2003,NT,National,PC:P5,TOTAL,All students,220.973999023438,0,1
+national,RED,4,2003,NT,National,PC:P7,TOTAL,All students,244.421997070313,0,1
+national,RED,4,2003,NT,National,PC:P9,TOTAL,All students,263.560009765625,0,1
+national,RED,4,2005,NT,National,MN:MN,TOTAL,All students,218.983462655828,0,1
+national,RED,4,2005,NT,National,PC:P1,TOTAL,All students,170.843997192383,0,1
+national,RED,4,2005,NT,National,PC:P2,TOTAL,All students,195.82200012207,0,1
+national,RED,4,2005,NT,National,PC:P5,TOTAL,All students,221.454000854492,0,1
+national,RED,4,2005,NT,National,PC:P7,TOTAL,All students,244.324005126953,0,1
+national,RED,4,2005,NT,National,PC:P9,TOTAL,All students,263.249993896485,0,1
+national,RED,4,2007,NT,National,MN:MN,TOTAL,All students,220.988929569513,0,1
+national,RED,4,2007,NT,National,PC:P1,TOTAL,All students,174.317999267578,0,1
+national,RED,4,2007,NT,National,PC:P2,TOTAL,All students,199.292001342774,0,1
+national,RED,4,2007,NT,National,PC:P5,TOTAL,All students,223.561999511719,0,1
+national,RED,4,2007,NT,National,PC:P7,TOTAL,All students,245.544000244141,0,1
+national,RED,4,2007,NT,National,PC:P9,TOTAL,All students,264.116003417969,0,1
+national,RED,4,2009,NT,National,MN:MN,TOTAL,All students,220.94494004277,0,1
+national,RED,4,2009,NT,National,PC:P1,TOTAL,All students,174.811999511719,0,1
+national,RED,4,2009,NT,National,PC:P2,TOTAL,All students,199.199996948242,0,1
+national,RED,4,2009,NT,National,PC:P5,TOTAL,All students,223.472003173828,0,1
+national,RED,4,2009,NT,National,PC:P7,TOTAL,All students,245.412002563477,0,1
+national,RED,4,2009,NT,National,PC:P9,TOTAL,All students,263.847998046875,0,1
+national,RED,4,2011,NT,National,MN:MN,TOTAL,All students,221.214563315162,0,1
+national,RED,4,2011,NT,National,PC:P1,TOTAL,All students,174.362002563477,0,1
+national,RED,4,2011,NT,National,PC:P2,TOTAL,All students,199.552001953125,0,1
+national,RED,4,2011,NT,National,PC:P5,TOTAL,All students,224.154000854492,0,1
+national,RED,4,2011,NT,National,PC:P7,TOTAL,All students,245.987997436523,0,1
+national,RED,4,2011,NT,National,PC:P9,TOTAL,All students,264.275994873047,0,1
+national,RED,4,2013,NT,National,MN:MN,TOTAL,All students,221.832168044373,0,1
+national,RED,4,2013,NT,National,PC:P1,TOTAL,All students,173.527501678467,0,1
+national,RED,4,2013,NT,National,PC:P2,TOTAL,All students,200.235998535156,0,1
+national,RED,4,2013,NT,National,PC:P5,TOTAL,All students,225.386501312256,0,1
+national,RED,4,2013,NT,National,PC:P7,TOTAL,All students,247.179499816895,0,1
+national,RED,4,2013,NT,National,PC:P9,TOTAL,All students,265.330998229981,0,1
+national,RED,4,2015,NT,National,MN:MN,TOTAL,All students,222.51778238114,0,1
+national,RED,4,2015,NT,National,PC:P1,TOTAL,All students,173.923500061035,0,1
+national,RED,4,2015,NT,National,PC:P2,TOTAL,All students,200.739497375488,0,1
+national,RED,4,2015,NT,National,PC:P5,TOTAL,All students,226.138501739502,0,1
+national,RED,4,2015,NT,National,PC:P7,TOTAL,All students,247.992499542236,0,1
+national,RED,4,2015,NT,National,PC:P9,TOTAL,All students,266.018502807617,0,1
+national,RED,4,2017,NT,National,MN:MN,TOTAL,All students,221.892902768779,0,1
+national,RED,4,2017,NT,National,PC:P1,TOTAL,All students,170.879000091553,0,1
+national,RED,4,2017,NT,National,PC:P2,TOTAL,All students,198.834999847412,0,1
+national,RED,4,2017,NT,National,PC:P5,TOTAL,All students,225.954501342773,0,1
+national,RED,4,2017,NT,National,PC:P7,TOTAL,All students,248.619499969482,0,1
+national,RED,4,2017,NT,National,PC:P9,TOTAL,All students,266.704997253418,0,1
+national,RED,4,2019,NT,National,MN:MN,TOTAL,All students,220.474059149004,0,1
+national,RED,4,2019,NT,National,PC:P1,TOTAL,All students,168.299001312256,0,1
+national,RED,4,2019,NT,National,PC:P2,TOTAL,All students,196.978498840332,0,1
+national,RED,4,2019,NT,National,PC:P5,TOTAL,All students,224.634999084473,0,1
+national,RED,4,2019,NT,National,PC:P7,TOTAL,All students,247.704000854492,0,1
+national,RED,4,2019,NT,National,PC:P9,TOTAL,All students,266.070997619629,0,1
+national,RED,4,2022,NT,National,MN:MN,TOTAL,All students,217.494490502989,0,1
+national,RED,4,2022,NT,National,PC:P1,TOTAL,All students,162.241999053955,0,1
+national,RED,4,2022,NT,National,PC:P2,TOTAL,All students,191.762000274658,0,1
+national,RED,4,2022,NT,National,PC:P5,TOTAL,All students,221.583999633789,0,1
+national,RED,4,2022,NT,National,PC:P7,TOTAL,All students,246.305500793457,0,1
+national,RED,4,2022,NT,National,PC:P9,TOTAL,All students,265.815002441406,0,1
+national,RED,4,2024,NT,National,MN:MN,TOTAL,All students,215.044096718576,0,1
+national,RED,4,2024,NT,National,PC:P1,TOTAL,All students,158.333000183105,0,1
+national,RED,4,2024,NT,National,PC:P2,TOTAL,All students,188.66549987793,0,1
+national,RED,4,2024,NT,National,PC:P5,TOTAL,All students,219.023501586914,0,1
+national,RED,4,2024,NT,National,PC:P7,TOTAL,All students,244.544499206543,0,1
+national,RED,4,2024,NT,National,PC:P9,TOTAL,All students,264.765495300293,0,1
+national,RED,8,1992,NT,National,MN:MN,TOTAL,All students,260.037676237691,8,1
+national,RED,8,1992,NT,National,PC:P1,TOTAL,All students,212.518002319336,8,1
+national,RED,8,1992,NT,National,PC:P2,TOTAL,All students,236.52200012207,8,1
+national,RED,8,1992,NT,National,PC:P5,TOTAL,All students,262.137994384766,8,1
+national,RED,8,1992,NT,National,PC:P7,TOTAL,All students,285.067993164063,8,1
+national,RED,8,1992,NT,National,PC:P9,TOTAL,All students,304.516003417969,8,1
+national,RED,8,1994,NT,National,MN:MN,TOTAL,All students,259.643122329506,8,1
+national,RED,8,1994,NT,National,PC:P1,TOTAL,All students,210.629998779297,8,1
+national,RED,8,1994,NT,National,PC:P2,TOTAL,All students,236.336001586914,8,1
+national,RED,8,1994,NT,National,PC:P5,TOTAL,All students,262.25400390625,8,1
+national,RED,8,1994,NT,National,PC:P7,TOTAL,All students,285.533996582031,8,1
+national,RED,8,1994,NT,National,PC:P9,TOTAL,All students,304.831988525391,8,1
+national,RED,8,1998,NT,National,MN:MN,TOTAL,All students,262.939002183963,0,1
+national,RED,8,1998,NT,National,PC:P1,TOTAL,All students,216.068002319336,0,1
+national,RED,8,1998,NT,National,PC:P2,TOTAL,All students,240.93200378418,0,1
+national,RED,8,1998,NT,National,PC:P5,TOTAL,All students,265.960003662109,0,1
+national,RED,8,1998,NT,National,PC:P7,TOTAL,All students,287.571990966797,0,1
+national,RED,8,1998,NT,National,PC:P9,TOTAL,All students,305.501995849609,0,1
+national,RED,8,2002,NT,National,MN:MN,TOTAL,All students,264.341940975291,0,1
+national,RED,8,2002,NT,National,PC:P1,TOTAL,All students,220.202001953125,0,1
+national,RED,8,2002,NT,National,PC:P2,TOTAL,All students,243.551998901367,0,1
+national,RED,8,2002,NT,National,PC:P5,TOTAL,All students,266.871990966797,0,1
+national,RED,8,2002,NT,National,PC:P7,TOTAL,All students,287.7,0,1
+national,RED,8,2002,NT,National,PC:P9,TOTAL,All students,305.102008056641,0,1
+national,RED,8,2003,NT,National,MN:MN,TOTAL,All students,263.290273386919,0,1
+national,RED,8,2003,NT,National,PC:P1,TOTAL,All students,217.05,0,1
+national,RED,8,2003,NT,National,PC:P2,TOTAL,All students,241.628002929688,0,1
+national,RED,8,2003,NT,National,PC:P5,TOTAL,All students,265.913995361328,0,1
+national,RED,8,2003,NT,National,PC:P7,TOTAL,All students,287.734002685547,0,1
+national,RED,8,2003,NT,National,PC:P9,TOTAL,All students,306.029998779297,0,1
+national,RED,8,2005,NT,National,MN:MN,TOTAL,All students,262.169658855575,0,1
+national,RED,8,2005,NT,National,PC:P1,TOTAL,All students,215.809997558594,0,1
+national,RED,8,2005,NT,National,PC:P2,TOTAL,All students,240.183999633789,0,1
+national,RED,8,2005,NT,National,PC:P5,TOTAL,All students,264.5080078125,0,1
+national,RED,8,2005,NT,National,PC:P7,TOTAL,All students,286.488000488281,0,1
+national,RED,8,2005,NT,National,PC:P9,TOTAL,All students,305.194006347656,0,1
+national,RED,8,2007,NT,National,MN:MN,TOTAL,All students,262.791677985083,0,1
+national,RED,8,2007,NT,National,PC:P1,TOTAL,All students,217.401998901367,0,1
+national,RED,8,2007,NT,National,PC:P2,TOTAL,All students,241.870001220703,0,1
+national,RED,8,2007,NT,National,PC:P5,TOTAL,All students,265.355999755859,0,1
+national,RED,8,2007,NT,National,PC:P7,TOTAL,All students,286.7,0,1
+national,RED,8,2007,NT,National,PC:P9,TOTAL,All students,304.740002441406,0,1
+national,RED,8,2009,NT,National,MN:MN,TOTAL,All students,264.009995529273,0,1
+national,RED,8,2009,NT,National,PC:P1,TOTAL,All students,219.308001708984,0,1
+national,RED,8,2009,NT,National,PC:P2,TOTAL,All students,243.338003540039,0,1
+national,RED,8,2009,NT,National,PC:P5,TOTAL,All students,266.606005859375,0,1
+national,RED,8,2009,NT,National,PC:P7,TOTAL,All students,287.607995605469,0,1
+national,RED,8,2009,NT,National,PC:P9,TOTAL,All students,305.366003417969,0,1
+national,RED,8,2011,NT,National,MN:MN,TOTAL,All students,265.198760593294,0,1
+national,RED,8,2011,NT,National,PC:P1,TOTAL,All students,220.714001464844,0,1
+national,RED,8,2011,NT,National,PC:P2,TOTAL,All students,244.117999267578,0,1
+national,RED,8,2011,NT,National,PC:P5,TOTAL,All students,267.194000244141,0,1
+national,RED,8,2011,NT,National,PC:P7,TOTAL,All students,288.779992675781,0,1
+national,RED,8,2011,NT,National,PC:P9,TOTAL,All students,307.089996337891,0,1
+national,RED,8,2013,NT,National,MN:MN,TOTAL,All students,267.598313994883,0,1
+national,RED,8,2013,NT,National,PC:P1,TOTAL,All students,223.117499542236,0,1
+national,RED,8,2013,NT,National,PC:P2,TOTAL,All students,246.31900100708,0,1
+national,RED,8,2013,NT,National,PC:P5,TOTAL,All students,269.458500671387,0,1
+national,RED,8,2013,NT,National,PC:P7,TOTAL,All students,291.168499755859,0,1
+national,RED,8,2013,NT,National,PC:P9,TOTAL,All students,309.816003417969,0,1
+national,RED,8,2015,NT,National,MN:MN,TOTAL,All students,265.44331446909,0,1
+national,RED,8,2015,NT,National,PC:P1,TOTAL,All students,219.720000457764,0,1
+national,RED,8,2015,NT,National,PC:P2,TOTAL,All students,244.208000946045,0,1
+national,RED,8,2015,NT,National,PC:P5,TOTAL,All students,267.820500183105,0,1
+national,RED,8,2015,NT,National,PC:P7,TOTAL,All students,289.536999511719,0,1
+national,RED,8,2015,NT,National,PC:P9,TOTAL,All students,307.901000976563,0,1
+national,RED,8,2017,NT,National,MN:MN,TOTAL,All students,266.577954235286,0,1
+national,RED,8,2017,NT,National,PC:P1,TOTAL,All students,219.305001068115,0,1
+national,RED,8,2017,NT,National,PC:P2,TOTAL,All students,244.678500366211,0,1
+national,RED,8,2017,NT,National,PC:P5,TOTAL,All students,269.078498840332,0,1
+national,RED,8,2017,NT,National,PC:P7,TOTAL,All students,291.247003173828,0,1
+national,RED,8,2017,NT,National,PC:P9,TOTAL,All students,309.97149810791,0,1
+national,RED,8,2019,NT,National,MN:MN,TOTAL,All students,263.149657191501,0,1
+national,RED,8,2019,NT,National,PC:P1,TOTAL,All students,212.907500457764,0,1
+national,RED,8,2019,NT,National,PC:P2,TOTAL,All students,239.941999053955,0,1
+national,RED,8,2019,NT,National,PC:P5,TOTAL,All students,266.108497619629,0,1
+national,RED,8,2019,NT,National,PC:P7,TOTAL,All students,289.358000183106,0,1
+national,RED,8,2019,NT,National,PC:P9,TOTAL,All students,308.732000732422,0,1
+national,RED,8,2022,NT,National,MN:MN,TOTAL,All students,260.46922366966,0,1
+national,RED,8,2022,NT,National,PC:P1,TOTAL,All students,209.417999267578,0,1
+national,RED,8,2022,NT,National,PC:P2,TOTAL,All students,236.356500244141,0,1
+national,RED,8,2022,NT,National,PC:P5,TOTAL,All students,263.162503051758,0,1
+national,RED,8,2022,NT,National,PC:P7,TOTAL,All students,286.85899810791,0,1
+national,RED,8,2022,NT,National,PC:P9,TOTAL,All students,306.844996643067,0,1
+national,RED,8,2024,NT,National,MN:MN,TOTAL,All students,258.049833763416,0,1
+national,RED,8,2024,NT,National,PC:P1,TOTAL,All students,203.993999481201,0,1
+national,RED,8,2024,NT,National,PC:P2,TOTAL,All students,232.726000213623,0,1
+national,RED,8,2024,NT,National,PC:P5,TOTAL,All students,261.206001281738,0,1
+national,RED,8,2024,NT,National,PC:P7,TOTAL,All students,286.152003479004,0,1
+national,RED,8,2024,NT,National,PC:P9,TOTAL,All students,306.860502624512,0,1
+subgroup,MAT,4,2003,NT,National,MN:MN,SDRACE,White,243.396952824264,512,1
+subgroup,MAT,4,2003,NT,National,MN:MN,SDRACE,Black,216.109736148863,512,1
+subgroup,MAT,4,2003,NT,National,MN:MN,SDRACE,Hispanic,221.867077578828,512,1
+subgroup,MAT,4,2003,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,246.398355508668,512,1
+subgroup,MAT,4,2003,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,223.151833927304,512,1
+subgroup,MAT,4,2003,NT,National,MN:MN,SDRACE,Two or more races,236.872180276288,512,1
+subgroup,MAT,4,2005,NT,National,MN:MN,SDRACE,White,246.091147993016,512,1
+subgroup,MAT,4,2005,NT,National,MN:MN,SDRACE,Black,219.849150492877,512,1
+subgroup,MAT,4,2005,NT,National,MN:MN,SDRACE,Hispanic,225.602961737035,512,1
+subgroup,MAT,4,2005,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,251.021916848136,512,1
+subgroup,MAT,4,2005,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,226.294740401058,512,1
+subgroup,MAT,4,2005,NT,National,MN:MN,SDRACE,Two or more races,240.966676096056,512,1
+subgroup,MAT,4,2007,NT,National,MN:MN,SDRACE,White,248.122596826993,512,1
+subgroup,MAT,4,2007,NT,National,MN:MN,SDRACE,Black,222.204561604537,512,1
+subgroup,MAT,4,2007,NT,National,MN:MN,SDRACE,Hispanic,226.913531527272,512,1
+subgroup,MAT,4,2007,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,253.3678875001,512,1
+subgroup,MAT,4,2007,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,227.916165723309,512,1
+subgroup,MAT,4,2007,NT,National,MN:MN,SDRACE,Two or more races,240.870507094077,512,1
+subgroup,MAT,4,2009,NT,National,MN:MN,SDRACE,White,248.06072984103,512,1
+subgroup,MAT,4,2009,NT,National,MN:MN,SDRACE,Black,222.324894725687,512,1
+subgroup,MAT,4,2009,NT,National,MN:MN,SDRACE,Hispanic,227.489841131172,512,1
+subgroup,MAT,4,2009,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,254.800168326347,512,1
+subgroup,MAT,4,2009,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,224.897759547538,512,1
+subgroup,MAT,4,2009,NT,National,MN:MN,SDRACE,Two or more races,242.674515904552,512,1
+subgroup,MAT,4,2011,NT,National,MN:MN,SDRACE,White,248.959306621472,512,1
+subgroup,MAT,4,2011,NT,National,MN:MN,SDRACE,Black,223.920682937967,512,1
+subgroup,MAT,4,2011,NT,National,MN:MN,SDRACE,Hispanic,229.136862411836,512,1
+subgroup,MAT,4,2011,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,255.884616287912,512,1
+subgroup,MAT,4,2011,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,225.13663293234,512,1
+subgroup,MAT,4,2011,NT,National,MN:MN,SDRACE,Two or more races,245.322098016052,512,1
+subgroup,MAT,4,2013,NT,National,MN:MN,SDRACE,White,250.030295378214,512,1
+subgroup,MAT,4,2013,NT,National,MN:MN,SDRACE,Black,224.299319838017,512,1
+subgroup,MAT,4,2013,NT,National,MN:MN,SDRACE,Hispanic,230.678415433667,512,1
+subgroup,MAT,4,2013,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,257.589943576412,512,1
+subgroup,MAT,4,2013,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,226.764091908516,512,1
+subgroup,MAT,4,2013,NT,National,MN:MN,SDRACE,Two or more races,244.739787891305,512,1
+subgroup,MAT,4,2015,NT,National,MN:MN,SDRACE,White,248.323061657372,512,1
+subgroup,MAT,4,2015,NT,National,MN:MN,SDRACE,Black,223.969267882559,512,1
+subgroup,MAT,4,2015,NT,National,MN:MN,SDRACE,Hispanic,230.317834187276,512,1
+subgroup,MAT,4,2015,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,257.118140305611,512,1
+subgroup,MAT,4,2015,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,227.208434059934,512,1
+subgroup,MAT,4,2015,NT,National,MN:MN,SDRACE,Two or more races,244.906117364813,512,1
+subgroup,MAT,4,2017,NT,National,MN:MN,SDRACE,White,248.241466981801,512,1
+subgroup,MAT,4,2017,NT,National,MN:MN,SDRACE,Black,222.998608204461,512,1
+subgroup,MAT,4,2017,NT,National,MN:MN,SDRACE,Hispanic,229.36090034546,512,1
+subgroup,MAT,4,2017,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,257.902401852709,512,1
+subgroup,MAT,4,2017,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,227.280434361703,512,1
+subgroup,MAT,4,2017,NT,National,MN:MN,SDRACE,Two or more races,244.693696460973,512,1
+subgroup,MAT,4,2019,NT,National,MN:MN,SDRACE,White,248.866370056935,512,1
+subgroup,MAT,4,2019,NT,National,MN:MN,SDRACE,Black,224.157386140513,512,1
+subgroup,MAT,4,2019,NT,National,MN:MN,SDRACE,Hispanic,230.828108199398,512,1
+subgroup,MAT,4,2019,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,259.97419112116,512,1
+subgroup,MAT,4,2019,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,226.829329745889,512,1
+subgroup,MAT,4,2019,NT,National,MN:MN,SDRACE,Two or more races,243.708301020741,512,1
+subgroup,MAT,4,2022,NT,National,MN:MN,SDRACE,White,245.721309395091,512,1
+subgroup,MAT,4,2022,NT,National,MN:MN,SDRACE,Black,216.76778807212,512,1
+subgroup,MAT,4,2022,NT,National,MN:MN,SDRACE,Hispanic,224.286889945166,512,1
+subgroup,MAT,4,2022,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,256.907924828307,512,1
+subgroup,MAT,4,2022,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,221.10549853402,512,1
+subgroup,MAT,4,2022,NT,National,MN:MN,SDRACE,Two or more races,238.575519841352,512,1
+subgroup,MAT,4,2024,NT,National,MN:MN,SDRACE,White,246.920588133659,512,1
+subgroup,MAT,4,2024,NT,National,MN:MN,SDRACE,Black,219.71068748101,512,1
+subgroup,MAT,4,2024,NT,National,MN:MN,SDRACE,Hispanic,227.10120078496,512,1
+subgroup,MAT,4,2024,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,256.720216558839,512,1
+subgroup,MAT,4,2024,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,217.614423562901,512,1
+subgroup,MAT,4,2024,NT,National,MN:MN,SDRACE,Two or more races,241.011162812256,512,1
+subgroup,MAT,4,2003,NT,National,MN:MN,GENDER,Male,236.374627290483,0,1
+subgroup,MAT,4,2003,NT,National,MN:MN,GENDER,Female,233.413514195156,0,1
+subgroup,MAT,4,2005,NT,National,MN:MN,GENDER,Male,239.110300159146,0,1
+subgroup,MAT,4,2005,NT,National,MN:MN,GENDER,Female,236.597881626944,0,1
+subgroup,MAT,4,2007,NT,National,MN:MN,GENDER,Male,240.790442883871,0,1
+subgroup,MAT,4,2007,NT,National,MN:MN,GENDER,Female,238.623432293906,0,1
+subgroup,MAT,4,2009,NT,National,MN:MN,GENDER,Male,240.617649238848,0,1
+subgroup,MAT,4,2009,NT,National,MN:MN,GENDER,Female,238.694419737433,0,1
+subgroup,MAT,4,2011,NT,National,MN:MN,GENDER,Male,241.418249556628,0,1
+subgroup,MAT,4,2011,NT,National,MN:MN,GENDER,Female,239.924383581844,0,1
+subgroup,MAT,4,2013,NT,National,MN:MN,GENDER,Male,242.121651125819,0,1
+subgroup,MAT,4,2013,NT,National,MN:MN,GENDER,Female,240.960811117942,0,1
+subgroup,MAT,4,2015,NT,National,MN:MN,GENDER,Male,241.312621864431,0,1
+subgroup,MAT,4,2015,NT,National,MN:MN,GENDER,Female,239.427067153334,0,1
+subgroup,MAT,4,2017,NT,National,MN:MN,GENDER,Male,240.81240899453,0,1
+subgroup,MAT,4,2017,NT,National,MN:MN,GENDER,Female,238.594000227854,0,1
+subgroup,MAT,4,2019,NT,National,MN:MN,GENDER,Male,242.07488666438,0,1
+subgroup,MAT,4,2019,NT,National,MN:MN,GENDER,Female,238.930827325445,0,1
+subgroup,MAT,4,2022,NT,National,MN:MN,GENDER,Male,238.696097416883,0,1
+subgroup,MAT,4,2022,NT,National,MN:MN,GENDER,Female,233.143410151035,0,1
+subgroup,MAT,4,2024,NT,National,MN:MN,GENDER,Male,240.208259192599,0,1
+subgroup,MAT,4,2024,NT,National,MN:MN,GENDER,Female,234.694360071385,0,1
+subgroup,MAT,4,2003,NT,National,MN:MN,SLUNCH3,Eligible,221.601694509837,0,1
+subgroup,MAT,4,2003,NT,National,MN:MN,SLUNCH3,Not eligible,244.41973192087,0,1
+subgroup,MAT,4,2003,NT,National,MN:MN,SLUNCH3,Information not available,241.416647955048,0,1
+subgroup,MAT,4,2005,NT,National,MN:MN,SLUNCH3,Eligible,225.262532200927,0,1
+subgroup,MAT,4,2005,NT,National,MN:MN,SLUNCH3,Not eligible,247.502914823827,0,1
+subgroup,MAT,4,2005,NT,National,MN:MN,SLUNCH3,Information not available,244.29917002614,0,1
+subgroup,MAT,4,2007,NT,National,MN:MN,SLUNCH3,Eligible,227.041231827107,0,1
+subgroup,MAT,4,2007,NT,National,MN:MN,SLUNCH3,Not eligible,249.173945409428,0,1
+subgroup,MAT,4,2007,NT,National,MN:MN,SLUNCH3,Information not available,246.49697134862,0,1
+subgroup,MAT,4,2009,NT,National,MN:MN,SLUNCH3,Eligible,227.412677759255,0,1
+subgroup,MAT,4,2009,NT,National,MN:MN,SLUNCH3,Not eligible,250.016346224332,0,1
+subgroup,MAT,4,2009,NT,National,MN:MN,SLUNCH3,Information not available,245.758966691009,0,1
+subgroup,MAT,4,2011,NT,National,MN:MN,SLUNCH3,Eligible,229.122208279749,0,1
+subgroup,MAT,4,2011,NT,National,MN:MN,SLUNCH3,Not eligible,252.01501914093,0,1
+subgroup,MAT,4,2011,NT,National,MN:MN,SLUNCH3,Information not available,248.545001935641,0,1
+subgroup,MAT,4,2013,NT,National,MN:MN,SLUNCH3,Eligible,230.037953917026,0,1
+subgroup,MAT,4,2013,NT,National,MN:MN,SLUNCH3,Not eligible,253.703070609522,0,1
+subgroup,MAT,4,2013,NT,National,MN:MN,SLUNCH3,Information not available,249.218470477566,0,1
+subgroup,MAT,4,2015,NT,National,MN:MN,SLUNCH3,Eligible,229.27487300675,0,1
+subgroup,MAT,4,2015,NT,National,MN:MN,SLUNCH3,Not eligible,252.968662741052,0,1
+subgroup,MAT,4,2015,NT,National,MN:MN,SLUNCH3,Information not available,247.778692875875,0,1
+subgroup,MAT,4,2017,NT,National,MN:MN,SLUNCH3,Eligible,228.005048585094,0,1
+subgroup,MAT,4,2017,NT,National,MN:MN,SLUNCH3,Not eligible,252.418508611138,0,1
+subgroup,MAT,4,2017,NT,National,MN:MN,SLUNCH3,Information not available,246.908998674571,0,1
+subgroup,MAT,4,2019,NT,National,MN:MN,SLUNCH3,Eligible,228.975339366792,0,1
+subgroup,MAT,4,2019,NT,National,MN:MN,SLUNCH3,Not eligible,253.129539131009,0,1
+subgroup,MAT,4,2019,NT,National,MN:MN,SLUNCH3,Information not available,246.593231106594,0,1
+subgroup,MAT,4,2022,NT,National,MN:MN,SLUNCH3,Eligible,222.733791787239,0,1
+subgroup,MAT,4,2022,NT,National,MN:MN,SLUNCH3,Not eligible,248.399622951353,0,1
+subgroup,MAT,4,2022,NT,National,MN:MN,SLUNCH3,Information not available,246.968321251497,0,1
+subgroup,MAT,4,2024,NT,National,MN:MN,SLUNCH3,Eligible,999,288,0
+subgroup,MAT,4,2024,NT,National,MN:MN,SLUNCH3,Not eligible,999,288,0
+subgroup,MAT,4,2024,NT,National,MN:MN,SLUNCH3,Information not available,999,288,0
+subgroup,MAT,8,2003,NT,National,MN:MN,SDRACE,White,287.723562534003,512,1
+subgroup,MAT,8,2003,NT,National,MN:MN,SDRACE,Black,252.227810335721,512,1
+subgroup,MAT,8,2003,NT,National,MN:MN,SDRACE,Hispanic,258.992335189963,512,1
+subgroup,MAT,8,2003,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,290.872277704077,512,1
+subgroup,MAT,8,2003,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,262.924416445957,512,1
+subgroup,MAT,8,2003,NT,National,MN:MN,SDRACE,Two or more races,280.275030635666,512,1
+subgroup,MAT,8,2005,NT,National,MN:MN,SDRACE,White,288.668102654333,512,1
+subgroup,MAT,8,2005,NT,National,MN:MN,SDRACE,Black,254.772385395124,512,1
+subgroup,MAT,8,2005,NT,National,MN:MN,SDRACE,Hispanic,261.928846908151,512,1
+subgroup,MAT,8,2005,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,295.234257018567,512,1
+subgroup,MAT,8,2005,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,263.996651788484,512,1
+subgroup,MAT,8,2005,NT,National,MN:MN,SDRACE,Two or more races,279.896048795334,512,1
+subgroup,MAT,8,2007,NT,National,MN:MN,SDRACE,White,291.26429310404,512,1
+subgroup,MAT,8,2007,NT,National,MN:MN,SDRACE,Black,259.519804684164,512,1
+subgroup,MAT,8,2007,NT,National,MN:MN,SDRACE,Hispanic,264.771331240265,512,1
+subgroup,MAT,8,2007,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,296.948701385082,512,1
+subgroup,MAT,8,2007,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,263.555306459057,512,1
+subgroup,MAT,8,2007,NT,National,MN:MN,SDRACE,Two or more races,285.218647755564,512,1
+subgroup,MAT,8,2009,NT,National,MN:MN,SDRACE,White,292.912469844773,512,1
+subgroup,MAT,8,2009,NT,National,MN:MN,SDRACE,Black,260.860409906804,512,1
+subgroup,MAT,8,2009,NT,National,MN:MN,SDRACE,Hispanic,266.439133307272,512,1
+subgroup,MAT,8,2009,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,300.859461332353,512,1
+subgroup,MAT,8,2009,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,265.576896864005,512,1
+subgroup,MAT,8,2009,NT,National,MN:MN,SDRACE,Two or more races,285.898117801029,512,1
+subgroup,MAT,8,2011,NT,National,MN:MN,SDRACE,White,293.448014904551,512,1
+subgroup,MAT,8,2011,NT,National,MN:MN,SDRACE,Black,262.376061035643,512,1
+subgroup,MAT,8,2011,NT,National,MN:MN,SDRACE,Hispanic,270.031408614987,512,1
+subgroup,MAT,8,2011,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,302.628246538807,512,1
+subgroup,MAT,8,2011,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,265.342347155381,512,1
+subgroup,MAT,8,2011,NT,National,MN:MN,SDRACE,Two or more races,288.421068824637,512,1
+subgroup,MAT,8,2013,NT,National,MN:MN,SDRACE,White,293.977006398574,512,1
+subgroup,MAT,8,2013,NT,National,MN:MN,SDRACE,Black,263.155623680551,512,1
+subgroup,MAT,8,2013,NT,National,MN:MN,SDRACE,Hispanic,271.548098006754,512,1
+subgroup,MAT,8,2013,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,306.352945113372,512,1
+subgroup,MAT,8,2013,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,269.418334947121,512,1
+subgroup,MAT,8,2013,NT,National,MN:MN,SDRACE,Two or more races,287.653242032018,512,1
+subgroup,MAT,8,2015,NT,National,MN:MN,SDRACE,White,291.815064368474,512,1
+subgroup,MAT,8,2015,NT,National,MN:MN,SDRACE,Black,260.262978496633,512,1
+subgroup,MAT,8,2015,NT,National,MN:MN,SDRACE,Hispanic,269.816923762279,512,1
+subgroup,MAT,8,2015,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,305.506697285968,512,1
+subgroup,MAT,8,2015,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,267.148177841391,512,1
+subgroup,MAT,8,2015,NT,National,MN:MN,SDRACE,Two or more races,284.833031057819,512,1
+subgroup,MAT,8,2017,NT,National,MN:MN,SDRACE,White,292.646074867999,512,1
+subgroup,MAT,8,2017,NT,National,MN:MN,SDRACE,Black,260.386362487875,512,1
+subgroup,MAT,8,2017,NT,National,MN:MN,SDRACE,Hispanic,269.019033581211,512,1
+subgroup,MAT,8,2017,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,309.528848452337,512,1
+subgroup,MAT,8,2017,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,267.443649867373,512,1
+subgroup,MAT,8,2017,NT,National,MN:MN,SDRACE,Two or more races,286.985380611669,512,1
+subgroup,MAT,8,2019,NT,National,MN:MN,SDRACE,White,292.284471772489,512,1
+subgroup,MAT,8,2019,NT,National,MN:MN,SDRACE,Black,259.79751364509,512,1
+subgroup,MAT,8,2019,NT,National,MN:MN,SDRACE,Hispanic,268.219488872625,512,1
+subgroup,MAT,8,2019,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,309.892685649496,512,1
+subgroup,MAT,8,2019,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,261.936532046544,512,1
+subgroup,MAT,8,2019,NT,National,MN:MN,SDRACE,Two or more races,286.354430447051,512,1
+subgroup,MAT,8,2022,NT,National,MN:MN,SDRACE,White,284.719024534508,512,1
+subgroup,MAT,8,2022,NT,National,MN:MN,SDRACE,Black,252.948481783035,512,1
+subgroup,MAT,8,2022,NT,National,MN:MN,SDRACE,Hispanic,261.39094576253,512,1
+subgroup,MAT,8,2022,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,303.957993172645,512,1
+subgroup,MAT,8,2022,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,258.288234858918,512,1
+subgroup,MAT,8,2022,NT,National,MN:MN,SDRACE,Two or more races,276.276368964261,512,1
+subgroup,MAT,8,2024,NT,National,MN:MN,SDRACE,White,285.722735634548,512,1
+subgroup,MAT,8,2024,NT,National,MN:MN,SDRACE,Black,251.716071531747,512,1
+subgroup,MAT,8,2024,NT,National,MN:MN,SDRACE,Hispanic,258.402857074293,512,1
+subgroup,MAT,8,2024,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,305.2250604991,512,1
+subgroup,MAT,8,2024,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,252.363046996303,512,1
+subgroup,MAT,8,2024,NT,National,MN:MN,SDRACE,Two or more races,278.285617380652,512,1
+subgroup,MAT,8,2003,NT,National,MN:MN,GENDER,Male,278.481390278416,0,1
+subgroup,MAT,8,2003,NT,National,MN:MN,GENDER,Female,276.635168668642,0,1
+subgroup,MAT,8,2005,NT,National,MN:MN,GENDER,Male,279.611462356877,0,1
+subgroup,MAT,8,2005,NT,National,MN:MN,GENDER,Female,278.012774437486,0,1
+subgroup,MAT,8,2007,NT,National,MN:MN,GENDER,Male,282.401156942204,0,1
+subgroup,MAT,8,2007,NT,National,MN:MN,GENDER,Female,280.275499483433,0,1
+subgroup,MAT,8,2009,NT,National,MN:MN,GENDER,Male,283.949152246134,0,1
+subgroup,MAT,8,2009,NT,National,MN:MN,GENDER,Female,281.857276657372,0,1
+subgroup,MAT,8,2011,NT,National,MN:MN,GENDER,Male,284.450839634055,0,1
+subgroup,MAT,8,2011,NT,National,MN:MN,GENDER,Female,283.233973819607,0,1
+subgroup,MAT,8,2013,NT,National,MN:MN,GENDER,Male,284.920605651738,0,1
+subgroup,MAT,8,2013,NT,National,MN:MN,GENDER,Female,284.281132915207,0,1
+subgroup,MAT,8,2015,NT,National,MN:MN,GENDER,Male,282.227538904007,0,1
+subgroup,MAT,8,2015,NT,National,MN:MN,GENDER,Female,282.216089021966,0,1
+subgroup,MAT,8,2017,NT,National,MN:MN,GENDER,Male,283.279442291304,0,1
+subgroup,MAT,8,2017,NT,National,MN:MN,GENDER,Female,282.392135342523,0,1
+subgroup,MAT,8,2019,NT,National,MN:MN,GENDER,Male,281.919801248836,0,1
+subgroup,MAT,8,2019,NT,National,MN:MN,GENDER,Female,282.087284871349,0,1
+subgroup,MAT,8,2022,NT,National,MN:MN,GENDER,Male,275.407334645128,0,1
+subgroup,MAT,8,2022,NT,National,MN:MN,GENDER,Female,273.074600567284,0,1
+subgroup,MAT,8,2024,NT,National,MN:MN,GENDER,Male,275.800060910089,0,1
+subgroup,MAT,8,2024,NT,National,MN:MN,GENDER,Female,271.78208965483,0,1
+subgroup,MAT,8,2003,NT,National,MN:MN,SLUNCH3,Eligible,259.123559770046,0,1
+subgroup,MAT,8,2003,NT,National,MN:MN,SLUNCH3,Not eligible,287.091747003598,0,1
+subgroup,MAT,8,2003,NT,National,MN:MN,SLUNCH3,Information not available,285.34774829828,0,1
+subgroup,MAT,8,2005,NT,National,MN:MN,SLUNCH3,Eligible,261.625962062739,0,1
+subgroup,MAT,8,2005,NT,National,MN:MN,SLUNCH3,Not eligible,288.427821891899,0,1
+subgroup,MAT,8,2005,NT,National,MN:MN,SLUNCH3,Information not available,289.146138967228,0,1
+subgroup,MAT,8,2007,NT,National,MN:MN,SLUNCH3,Eligible,264.866142018996,0,1
+subgroup,MAT,8,2007,NT,National,MN:MN,SLUNCH3,Not eligible,291.16993397315,0,1
+subgroup,MAT,8,2007,NT,National,MN:MN,SLUNCH3,Information not available,291.340330440995,0,1
+subgroup,MAT,8,2009,NT,National,MN:MN,SLUNCH3,Eligible,266.397728557755,0,1
+subgroup,MAT,8,2009,NT,National,MN:MN,SLUNCH3,Not eligible,293.520815100458,0,1
+subgroup,MAT,8,2009,NT,National,MN:MN,SLUNCH3,Information not available,295.041278573038,0,1
+subgroup,MAT,8,2011,NT,National,MN:MN,SLUNCH3,Eligible,268.994905964016,0,1
+subgroup,MAT,8,2011,NT,National,MN:MN,SLUNCH3,Not eligible,295.557662445179,0,1
+subgroup,MAT,8,2011,NT,National,MN:MN,SLUNCH3,Information not available,296.159101669774,0,1
+subgroup,MAT,8,2013,NT,National,MN:MN,SLUNCH3,Eligible,269.886863592064,0,1
+subgroup,MAT,8,2013,NT,National,MN:MN,SLUNCH3,Not eligible,297.10758215368,0,1
+subgroup,MAT,8,2013,NT,National,MN:MN,SLUNCH3,Information not available,297.484317403555,0,1
+subgroup,MAT,8,2015,NT,National,MN:MN,SLUNCH3,Eligible,268.022808401314,0,1
+subgroup,MAT,8,2015,NT,National,MN:MN,SLUNCH3,Not eligible,295.836850044453,0,1
+subgroup,MAT,8,2015,NT,National,MN:MN,SLUNCH3,Information not available,294.090559854018,0,1
+subgroup,MAT,8,2017,NT,National,MN:MN,SLUNCH3,Eligible,266.952675477979,0,1
+subgroup,MAT,8,2017,NT,National,MN:MN,SLUNCH3,Not eligible,296.345339004071,0,1
+subgroup,MAT,8,2017,NT,National,MN:MN,SLUNCH3,Information not available,295.775224360444,0,1
+subgroup,MAT,8,2019,NT,National,MN:MN,SLUNCH3,Eligible,266.253465565054,0,1
+subgroup,MAT,8,2019,NT,National,MN:MN,SLUNCH3,Not eligible,296.083544446509,0,1
+subgroup,MAT,8,2019,NT,National,MN:MN,SLUNCH3,Information not available,294.003975698999,0,1
+subgroup,MAT,8,2022,NT,National,MN:MN,SLUNCH3,Eligible,259.520906635837,0,1
+subgroup,MAT,8,2022,NT,National,MN:MN,SLUNCH3,Not eligible,287.211082752428,0,1
+subgroup,MAT,8,2022,NT,National,MN:MN,SLUNCH3,Information not available,285.491960615246,0,1
+subgroup,MAT,8,2024,NT,National,MN:MN,SLUNCH3,Eligible,999,288,0
+subgroup,MAT,8,2024,NT,National,MN:MN,SLUNCH3,Not eligible,999,288,0
+subgroup,MAT,8,2024,NT,National,MN:MN,SLUNCH3,Information not available,999,288,0
+subgroup,RED,4,2003,NT,National,MN:MN,SDRACE,White,228.583131519893,512,1
+subgroup,RED,4,2003,NT,National,MN:MN,SDRACE,Black,197.945513755829,512,1
+subgroup,RED,4,2003,NT,National,MN:MN,SDRACE,Hispanic,200.486763515198,512,1
+subgroup,RED,4,2003,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,225.83223726687,512,1
+subgroup,RED,4,2003,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,201.779661287206,512,1
+subgroup,RED,4,2003,NT,National,MN:MN,SDRACE,Two or more races,222.987357610199,512,1
+subgroup,RED,4,2005,NT,National,MN:MN,SDRACE,White,228.932666470408,512,1
+subgroup,RED,4,2005,NT,National,MN:MN,SDRACE,Black,199.825969014124,512,1
+subgroup,RED,4,2005,NT,National,MN:MN,SDRACE,Hispanic,202.543142679053,512,1
+subgroup,RED,4,2005,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,228.642696889788,512,1
+subgroup,RED,4,2005,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,203.741005216036,512,1
+subgroup,RED,4,2005,NT,National,MN:MN,SDRACE,Two or more races,222.800360026575,512,1
+subgroup,RED,4,2007,NT,National,MN:MN,SDRACE,White,230.544649311402,512,1
+subgroup,RED,4,2007,NT,National,MN:MN,SDRACE,Black,203.401233647908,512,1
+subgroup,RED,4,2007,NT,National,MN:MN,SDRACE,Hispanic,204.721221175315,512,1
+subgroup,RED,4,2007,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,232.10837058495,512,1
+subgroup,RED,4,2007,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,203.179237951061,512,1
+subgroup,RED,4,2007,NT,National,MN:MN,SDRACE,Two or more races,224.699629128477,512,1
+subgroup,RED,4,2009,NT,National,MN:MN,SDRACE,White,230.289326276908,512,1
+subgroup,RED,4,2009,NT,National,MN:MN,SDRACE,Black,204.514651280414,512,1
+subgroup,RED,4,2009,NT,National,MN:MN,SDRACE,Hispanic,205.093582505088,512,1
+subgroup,RED,4,2009,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,234.839638813246,512,1
+subgroup,RED,4,2009,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,203.946808077732,512,1
+subgroup,RED,4,2009,NT,National,MN:MN,SDRACE,Two or more races,226.191346775846,512,1
+subgroup,RED,4,2011,NT,National,MN:MN,SDRACE,White,230.704472034014,512,1
+subgroup,RED,4,2011,NT,National,MN:MN,SDRACE,Black,205.295942058513,512,1
+subgroup,RED,4,2011,NT,National,MN:MN,SDRACE,Hispanic,206.290892089359,512,1
+subgroup,RED,4,2011,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,234.595681218637,512,1
+subgroup,RED,4,2011,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,202.34733655828,512,1
+subgroup,RED,4,2011,NT,National,MN:MN,SDRACE,Two or more races,226.956822064439,512,1
+subgroup,RED,4,2013,NT,National,MN:MN,SDRACE,White,231.804340921632,512,1
+subgroup,RED,4,2013,NT,National,MN:MN,SDRACE,Black,205.691945827326,512,1
+subgroup,RED,4,2013,NT,National,MN:MN,SDRACE,Hispanic,207.168892527083,512,1
+subgroup,RED,4,2013,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,235.047133265187,512,1
+subgroup,RED,4,2013,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,205.217639827682,512,1
+subgroup,RED,4,2013,NT,National,MN:MN,SDRACE,Two or more races,226.571686433169,512,1
+subgroup,RED,4,2015,NT,National,MN:MN,SDRACE,White,232.391619376122,512,1
+subgroup,RED,4,2015,NT,National,MN:MN,SDRACE,Black,206.308672188118,512,1
+subgroup,RED,4,2015,NT,National,MN:MN,SDRACE,Hispanic,208.461299127727,512,1
+subgroup,RED,4,2015,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,238.569678581874,512,1
+subgroup,RED,4,2015,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,205.431597808645,512,1
+subgroup,RED,4,2015,NT,National,MN:MN,SDRACE,Two or more races,227.263014640122,512,1
+subgroup,RED,4,2017,NT,National,MN:MN,SDRACE,White,231.810360767915,512,1
+subgroup,RED,4,2017,NT,National,MN:MN,SDRACE,Black,206.245938057977,512,1
+subgroup,RED,4,2017,NT,National,MN:MN,SDRACE,Hispanic,208.665997457571,512,1
+subgroup,RED,4,2017,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,238.892975456697,512,1
+subgroup,RED,4,2017,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,201.932870210774,512,1
+subgroup,RED,4,2017,NT,National,MN:MN,SDRACE,Two or more races,227.159025952878,512,1
+subgroup,RED,4,2019,NT,National,MN:MN,SDRACE,White,230.232942321897,512,1
+subgroup,RED,4,2019,NT,National,MN:MN,SDRACE,Black,203.52933960889,512,1
+subgroup,RED,4,2019,NT,National,MN:MN,SDRACE,Hispanic,208.82122765659,512,1
+subgroup,RED,4,2019,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,237.299457016033,512,1
+subgroup,RED,4,2019,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,204.411695549172,512,1
+subgroup,RED,4,2019,NT,National,MN:MN,SDRACE,Two or more races,225.689873606741,512,1
+subgroup,RED,4,2022,NT,National,MN:MN,SDRACE,White,227.027081460487,512,1
+subgroup,RED,4,2022,NT,National,MN:MN,SDRACE,Black,198.803652870851,512,1
+subgroup,RED,4,2022,NT,National,MN:MN,SDRACE,Hispanic,205.277763686736,512,1
+subgroup,RED,4,2022,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,239.14826443726,512,1
+subgroup,RED,4,2022,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,197.410090849176,512,1
+subgroup,RED,4,2022,NT,National,MN:MN,SDRACE,Two or more races,223.064031935964,512,1
+subgroup,RED,4,2024,NT,National,MN:MN,SDRACE,White,224.643298801059,512,1
+subgroup,RED,4,2024,NT,National,MN:MN,SDRACE,Black,199.067302222175,512,1
+subgroup,RED,4,2024,NT,National,MN:MN,SDRACE,Hispanic,203.171540875014,512,1
+subgroup,RED,4,2024,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,234.787312693253,512,1
+subgroup,RED,4,2024,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,194.968820850698,512,1
+subgroup,RED,4,2024,NT,National,MN:MN,SDRACE,Two or more races,219.63522267413,512,1
+subgroup,RED,4,2003,NT,National,MN:MN,GENDER,Male,214.621972477112,0,1
+subgroup,RED,4,2003,NT,National,MN:MN,GENDER,Female,221.932971026279,0,1
+subgroup,RED,4,2005,NT,National,MN:MN,GENDER,Male,215.884605826,0,1
+subgroup,RED,4,2005,NT,National,MN:MN,GENDER,Female,222.1178716172,0,1
+subgroup,RED,4,2007,NT,National,MN:MN,GENDER,Male,217.660444069806,0,1
+subgroup,RED,4,2007,NT,National,MN:MN,GENDER,Female,224.343821126287,0,1
+subgroup,RED,4,2009,NT,National,MN:MN,GENDER,Male,217.6064797938,0,1
+subgroup,RED,4,2009,NT,National,MN:MN,GENDER,Female,224.346767744986,0,1
+subgroup,RED,4,2011,NT,National,MN:MN,GENDER,Male,217.954679405018,0,1
+subgroup,RED,4,2011,NT,National,MN:MN,GENDER,Female,224.556708383405,0,1
+subgroup,RED,4,2013,NT,National,MN:MN,GENDER,Male,218.521182877144,0,1
+subgroup,RED,4,2013,NT,National,MN:MN,GENDER,Female,225.236352794624,0,1
+subgroup,RED,4,2015,NT,National,MN:MN,GENDER,Male,219.167590737729,0,1
+subgroup,RED,4,2015,NT,National,MN:MN,GENDER,Female,225.960609217576,0,1
+subgroup,RED,4,2017,NT,National,MN:MN,GENDER,Male,218.965781884268,0,1
+subgroup,RED,4,2017,NT,National,MN:MN,GENDER,Female,224.920430140936,0,1
+subgroup,RED,4,2019,NT,National,MN:MN,GENDER,Male,216.825727911242,0,1
+subgroup,RED,4,2019,NT,National,MN:MN,GENDER,Female,224.258006453452,0,1
+subgroup,RED,4,2022,NT,National,MN:MN,GENDER,Male,214.425058369113,0,1
+subgroup,RED,4,2022,NT,National,MN:MN,GENDER,Female,220.635375211664,0,1
+subgroup,RED,4,2024,NT,National,MN:MN,GENDER,Male,210.981733315616,0,1
+subgroup,RED,4,2024,NT,National,MN:MN,GENDER,Female,219.249312551951,0,1
+subgroup,RED,4,2003,NT,National,MN:MN,SLUNCH3,Eligible,201.271359121157,0,1
+subgroup,RED,4,2003,NT,National,MN:MN,SLUNCH3,Not eligible,229.401499241326,0,1
+subgroup,RED,4,2003,NT,National,MN:MN,SLUNCH3,Information not available,229.93303963221,0,1
+subgroup,RED,4,2005,NT,National,MN:MN,SLUNCH3,Eligible,202.861464590746,0,1
+subgroup,RED,4,2005,NT,National,MN:MN,SLUNCH3,Not eligible,230.043417601637,0,1
+subgroup,RED,4,2005,NT,National,MN:MN,SLUNCH3,Information not available,231.848001355485,0,1
+subgroup,RED,4,2007,NT,National,MN:MN,SLUNCH3,Eligible,205.022471030061,0,1
+subgroup,RED,4,2007,NT,National,MN:MN,SLUNCH3,Not eligible,232.024429318486,0,1
+subgroup,RED,4,2007,NT,National,MN:MN,SLUNCH3,Information not available,232.807073459841,0,1
+subgroup,RED,4,2009,NT,National,MN:MN,SLUNCH3,Eligible,206.022551220082,0,1
+subgroup,RED,4,2009,NT,National,MN:MN,SLUNCH3,Not eligible,232.21800320698,0,1
+subgroup,RED,4,2009,NT,National,MN:MN,SLUNCH3,Information not available,235.607721847746,0,1
+subgroup,RED,4,2011,NT,National,MN:MN,SLUNCH3,Eligible,206.871770607323,0,1
+subgroup,RED,4,2011,NT,National,MN:MN,SLUNCH3,Not eligible,234.588459873043,0,1
+subgroup,RED,4,2011,NT,National,MN:MN,SLUNCH3,Information not available,234.918641599911,0,1
+subgroup,RED,4,2013,NT,National,MN:MN,SLUNCH3,Eligible,207.464591401199,0,1
+subgroup,RED,4,2013,NT,National,MN:MN,SLUNCH3,Not eligible,236.128979848007,0,1
+subgroup,RED,4,2013,NT,National,MN:MN,SLUNCH3,Information not available,236.61937298704,0,1
+subgroup,RED,4,2015,NT,National,MN:MN,SLUNCH3,Eligible,209.258765003019,0,1
+subgroup,RED,4,2015,NT,National,MN:MN,SLUNCH3,Not eligible,236.858798264408,0,1
+subgroup,RED,4,2015,NT,National,MN:MN,SLUNCH3,Information not available,236.418943560505,0,1
+subgroup,RED,4,2017,NT,National,MN:MN,SLUNCH3,Eligible,208.190520865098,0,1
+subgroup,RED,4,2017,NT,National,MN:MN,SLUNCH3,Not eligible,235.932439849969,0,1
+subgroup,RED,4,2017,NT,National,MN:MN,SLUNCH3,Information not available,235.20053837727,0,1
+subgroup,RED,4,2019,NT,National,MN:MN,SLUNCH3,Eligible,207.010966420509,0,1
+subgroup,RED,4,2019,NT,National,MN:MN,SLUNCH3,Not eligible,234.847638238922,0,1
+subgroup,RED,4,2019,NT,National,MN:MN,SLUNCH3,Information not available,231.83648365834,0,1
+subgroup,RED,4,2022,NT,National,MN:MN,SLUNCH3,Eligible,202.776609546797,0,1
+subgroup,RED,4,2022,NT,National,MN:MN,SLUNCH3,Not eligible,231.109145765343,0,1
+subgroup,RED,4,2022,NT,National,MN:MN,SLUNCH3,Information not available,232.388843408377,0,1
+subgroup,RED,4,2024,NT,National,MN:MN,SLUNCH3,Eligible,999,288,0
+subgroup,RED,4,2024,NT,National,MN:MN,SLUNCH3,Not eligible,999,288,0
+subgroup,RED,4,2024,NT,National,MN:MN,SLUNCH3,Information not available,999,288,0
+subgroup,RED,8,2003,NT,National,MN:MN,SDRACE,White,272.25143074202,512,1
+subgroup,RED,8,2003,NT,National,MN:MN,SDRACE,Black,244.48685654173,512,1
+subgroup,RED,8,2003,NT,National,MN:MN,SDRACE,Hispanic,245.283082946249,512,1
+subgroup,RED,8,2003,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,270.1839583391,512,1
+subgroup,RED,8,2003,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,246.210496237566,512,1
+subgroup,RED,8,2003,NT,National,MN:MN,SDRACE,Two or more races,265.811414322267,512,1
+subgroup,RED,8,2005,NT,National,MN:MN,SDRACE,White,271.030298635702,512,1
+subgroup,RED,8,2005,NT,National,MN:MN,SDRACE,Black,242.982616340734,512,1
+subgroup,RED,8,2005,NT,National,MN:MN,SDRACE,Hispanic,246.212896228718,512,1
+subgroup,RED,8,2005,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,270.913056258574,512,1
+subgroup,RED,8,2005,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,248.946743820613,512,1
+subgroup,RED,8,2005,NT,National,MN:MN,SDRACE,Two or more races,266.195752071412,512,1
+subgroup,RED,8,2007,NT,National,MN:MN,SDRACE,White,271.981329482797,512,1
+subgroup,RED,8,2007,NT,National,MN:MN,SDRACE,Black,244.70488137726,512,1
+subgroup,RED,8,2007,NT,National,MN:MN,SDRACE,Hispanic,246.814647760382,512,1
+subgroup,RED,8,2007,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,270.629498272485,512,1
+subgroup,RED,8,2007,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,247.136910844556,512,1
+subgroup,RED,8,2007,NT,National,MN:MN,SDRACE,Two or more races,264.75845969018,512,1
+subgroup,RED,8,2009,NT,National,MN:MN,SDRACE,White,272.860577556904,512,1
+subgroup,RED,8,2009,NT,National,MN:MN,SDRACE,Black,246.384644843888,512,1
+subgroup,RED,8,2009,NT,National,MN:MN,SDRACE,Hispanic,249.075050020005,512,1
+subgroup,RED,8,2009,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,274.168571683759,512,1
+subgroup,RED,8,2009,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,251.229813783981,512,1
+subgroup,RED,8,2009,NT,National,MN:MN,SDRACE,Two or more races,267.347046875736,512,1
+subgroup,RED,8,2011,NT,National,MN:MN,SDRACE,White,273.862834895785,512,1
+subgroup,RED,8,2011,NT,National,MN:MN,SDRACE,Black,248.663725848208,512,1
+subgroup,RED,8,2011,NT,National,MN:MN,SDRACE,Hispanic,252.219280842413,512,1
+subgroup,RED,8,2011,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,275.424578454927,512,1
+subgroup,RED,8,2011,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,251.953030870755,512,1
+subgroup,RED,8,2011,NT,National,MN:MN,SDRACE,Two or more races,269.448731470139,512,1
+subgroup,RED,8,2013,NT,National,MN:MN,SDRACE,White,276.135248293509,512,1
+subgroup,RED,8,2013,NT,National,MN:MN,SDRACE,Black,250.464651036112,512,1
+subgroup,RED,8,2013,NT,National,MN:MN,SDRACE,Hispanic,255.523993548289,512,1
+subgroup,RED,8,2013,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,280.256873372831,512,1
+subgroup,RED,8,2013,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,251.122755160903,512,1
+subgroup,RED,8,2013,NT,National,MN:MN,SDRACE,Two or more races,271.347934016737,512,1
+subgroup,RED,8,2015,NT,National,MN:MN,SDRACE,White,274.444596401722,512,1
+subgroup,RED,8,2015,NT,National,MN:MN,SDRACE,Black,248.021568758802,512,1
+subgroup,RED,8,2015,NT,National,MN:MN,SDRACE,Hispanic,253.467236041011,512,1
+subgroup,RED,8,2015,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,279.847782171985,512,1
+subgroup,RED,8,2015,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,252.292664280955,512,1
+subgroup,RED,8,2015,NT,National,MN:MN,SDRACE,Two or more races,269.12192191037,512,1
+subgroup,RED,8,2017,NT,National,MN:MN,SDRACE,White,274.801875700752,512,1
+subgroup,RED,8,2017,NT,National,MN:MN,SDRACE,Black,249.357147677166,512,1
+subgroup,RED,8,2017,NT,National,MN:MN,SDRACE,Hispanic,255.319337817867,512,1
+subgroup,RED,8,2017,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,281.7983742154,512,1
+subgroup,RED,8,2017,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,252.586315855372,512,1
+subgroup,RED,8,2017,NT,National,MN:MN,SDRACE,Two or more races,272.453516803232,512,1
+subgroup,RED,8,2019,NT,National,MN:MN,SDRACE,White,272.257354392843,512,1
+subgroup,RED,8,2019,NT,National,MN:MN,SDRACE,Black,244.365182288416,512,1
+subgroup,RED,8,2019,NT,National,MN:MN,SDRACE,Hispanic,251.811583137978,512,1
+subgroup,RED,8,2019,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,281.46682903089,512,1
+subgroup,RED,8,2019,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,248.004017865848,512,1
+subgroup,RED,8,2019,NT,National,MN:MN,SDRACE,Two or more races,266.993557397325,512,1
+subgroup,RED,8,2022,NT,National,MN:MN,SDRACE,White,268.442726791758,512,1
+subgroup,RED,8,2022,NT,National,MN:MN,SDRACE,Black,243.9023010864,512,1
+subgroup,RED,8,2022,NT,National,MN:MN,SDRACE,Hispanic,250.760558465823,512,1
+subgroup,RED,8,2022,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,281.191426367913,512,1
+subgroup,RED,8,2022,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,246.134203995722,512,1
+subgroup,RED,8,2022,NT,National,MN:MN,SDRACE,Two or more races,265.323973007264,512,1
+subgroup,RED,8,2024,NT,National,MN:MN,SDRACE,White,267.12003413918,512,1
+subgroup,RED,8,2024,NT,National,MN:MN,SDRACE,Black,243.19031112728,512,1
+subgroup,RED,8,2024,NT,National,MN:MN,SDRACE,Hispanic,245.405157938939,512,1
+subgroup,RED,8,2024,NT,National,MN:MN,SDRACE,Asian/Pacific Islander,280.059749332733,512,1
+subgroup,RED,8,2024,NT,National,MN:MN,SDRACE,American Indian/Alaska Native,245.937264416877,512,1
+subgroup,RED,8,2024,NT,National,MN:MN,SDRACE,Two or more races,262.749510629809,512,1
+subgroup,RED,8,2003,NT,National,MN:MN,GENDER,Male,258.035069520163,0,1
+subgroup,RED,8,2003,NT,National,MN:MN,GENDER,Female,268.572926705327,0,1
+subgroup,RED,8,2005,NT,National,MN:MN,GENDER,Male,256.94942635613,0,1
+subgroup,RED,8,2005,NT,National,MN:MN,GENDER,Female,267.41480119012,0,1
+subgroup,RED,8,2007,NT,National,MN:MN,GENDER,Male,257.707041368432,0,1
+subgroup,RED,8,2007,NT,National,MN:MN,GENDER,Female,267.884730047592,0,1
+subgroup,RED,8,2009,NT,National,MN:MN,GENDER,Male,259.432366606409,0,1
+subgroup,RED,8,2009,NT,National,MN:MN,GENDER,Female,268.64410161675,0,1
+subgroup,RED,8,2011,NT,National,MN:MN,GENDER,Male,260.635449790696,0,1
+subgroup,RED,8,2011,NT,National,MN:MN,GENDER,Female,269.853614620438,0,1
+subgroup,RED,8,2013,NT,National,MN:MN,GENDER,Male,262.644398954939,0,1
+subgroup,RED,8,2013,NT,National,MN:MN,GENDER,Female,272.703478861112,0,1
+subgroup,RED,8,2015,NT,National,MN:MN,GENDER,Male,260.675779516411,0,1
+subgroup,RED,8,2015,NT,National,MN:MN,GENDER,Female,270.375901217884,0,1
+subgroup,RED,8,2017,NT,National,MN:MN,GENDER,Male,261.738496216665,0,1
+subgroup,RED,8,2017,NT,National,MN:MN,GENDER,Female,271.571964762118,0,1
+subgroup,RED,8,2019,NT,National,MN:MN,GENDER,Male,257.685694792777,0,1
+subgroup,RED,8,2019,NT,National,MN:MN,GENDER,Female,268.832479039177,0,1
+subgroup,RED,8,2022,NT,National,MN:MN,GENDER,Male,256.383489280204,0,1
+subgroup,RED,8,2022,NT,National,MN:MN,GENDER,Female,264.733114012391,0,1
+subgroup,RED,8,2024,NT,National,MN:MN,GENDER,Male,253.242967543149,0,1
+subgroup,RED,8,2024,NT,National,MN:MN,GENDER,Female,262.988224948164,0,1
+subgroup,RED,8,2003,NT,National,MN:MN,SLUNCH3,Eligible,246.649343916959,0,1
+subgroup,RED,8,2003,NT,National,MN:MN,SLUNCH3,Not eligible,271.449773856079,0,1
+subgroup,RED,8,2003,NT,National,MN:MN,SLUNCH3,Information not available,272.293781277028,0,1
+subgroup,RED,8,2005,NT,National,MN:MN,SLUNCH3,Eligible,246.804752428691,0,1
+subgroup,RED,8,2005,NT,National,MN:MN,SLUNCH3,Not eligible,270.230368101768,0,1
+subgroup,RED,8,2005,NT,National,MN:MN,SLUNCH3,Information not available,274.898111923898,0,1
+subgroup,RED,8,2007,NT,National,MN:MN,SLUNCH3,Eligible,247.303083206068,0,1
+subgroup,RED,8,2007,NT,National,MN:MN,SLUNCH3,Not eligible,271.304626587024,0,1
+subgroup,RED,8,2007,NT,National,MN:MN,SLUNCH3,Information not available,277.298618120778,0,1
+subgroup,RED,8,2009,NT,National,MN:MN,SLUNCH3,Eligible,248.796882620305,0,1
+subgroup,RED,8,2009,NT,National,MN:MN,SLUNCH3,Not eligible,273.134482964442,0,1
+subgroup,RED,8,2009,NT,National,MN:MN,SLUNCH3,Information not available,279.576344940504,0,1
+subgroup,RED,8,2011,NT,National,MN:MN,SLUNCH3,Eligible,251.513508136066,0,1
+subgroup,RED,8,2011,NT,National,MN:MN,SLUNCH3,Not eligible,275.179306355791,0,1
+subgroup,RED,8,2011,NT,National,MN:MN,SLUNCH3,Information not available,282.600958454489,0,1
+subgroup,RED,8,2013,NT,National,MN:MN,SLUNCH3,Eligible,254.011570979305,0,1
+subgroup,RED,8,2013,NT,National,MN:MN,SLUNCH3,Not eligible,278.203405339692,0,1
+subgroup,RED,8,2013,NT,National,MN:MN,SLUNCH3,Information not available,286.426488592946,0,1
+subgroup,RED,8,2015,NT,National,MN:MN,SLUNCH3,Eligible,252.674540675263,0,1
+subgroup,RED,8,2015,NT,National,MN:MN,SLUNCH3,Not eligible,276.67118516725,0,1
+subgroup,RED,8,2015,NT,National,MN:MN,SLUNCH3,Information not available,281.543306099064,0,1
+subgroup,RED,8,2017,NT,National,MN:MN,SLUNCH3,Eligible,253.283033545322,0,1
+subgroup,RED,8,2017,NT,National,MN:MN,SLUNCH3,Not eligible,277.458943258603,0,1
+subgroup,RED,8,2017,NT,National,MN:MN,SLUNCH3,Information not available,279.922020748267,0,1
+subgroup,RED,8,2019,NT,National,MN:MN,SLUNCH3,Eligible,249.57724615345,0,1
+subgroup,RED,8,2019,NT,National,MN:MN,SLUNCH3,Not eligible,274.942322980796,0,1
+subgroup,RED,8,2019,NT,National,MN:MN,SLUNCH3,Information not available,276.080691440544,0,1
+subgroup,RED,8,2022,NT,National,MN:MN,SLUNCH3,Eligible,247.989750736241,0,1
+subgroup,RED,8,2022,NT,National,MN:MN,SLUNCH3,Not eligible,270.667694128323,0,1
+subgroup,RED,8,2022,NT,National,MN:MN,SLUNCH3,Information not available,274.184767900421,0,1
+subgroup,RED,8,2024,NT,National,MN:MN,SLUNCH3,Eligible,999,288,0
+subgroup,RED,8,2024,NT,National,MN:MN,SLUNCH3,Not eligible,999,288,0
+subgroup,RED,8,2024,NT,National,MN:MN,SLUNCH3,Information not available,999,288,0
+state,MAT,4,2013,AK,Alaska,MN:MN,TOTAL,All students,236.122004416339,0,1
+state,MAT,4,2013,AL,Alabama,MN:MN,TOTAL,All students,232.861332466148,0,1
+state,MAT,4,2013,AR,Arkansas,MN:MN,TOTAL,All students,239.89052210005,0,1
+state,MAT,4,2013,AZ,Arizona,MN:MN,TOTAL,All students,240.304911470576,0,1
+state,MAT,4,2013,CA,California,MN:MN,TOTAL,All students,233.654464624413,0,1
+state,MAT,4,2013,CO,Colorado,MN:MN,TOTAL,All students,246.975708032011,0,1
+state,MAT,4,2013,CT,Connecticut,MN:MN,TOTAL,All students,243.440297394202,0,1
+state,MAT,4,2013,DC,District of Columbia,MN:MN,TOTAL,All students,228.567253872576,0,1
+state,MAT,4,2013,DE,Delaware,MN:MN,TOTAL,All students,243.107758182676,0,1
+state,MAT,4,2013,FL,Florida,MN:MN,TOTAL,All students,241.675809566843,0,1
+state,MAT,4,2013,GA,Georgia,MN:MN,TOTAL,All students,240.04723664593,0,1
+state,MAT,4,2013,HI,Hawaii,MN:MN,TOTAL,All students,243.308618941163,0,1
+state,MAT,4,2013,ID,Idaho,MN:MN,TOTAL,All students,240.722019842936,0,1
+state,MAT,4,2015,AK,Alaska,MN:MN,TOTAL,All students,236.328416950897,0,1
+state,MAT,4,2015,AL,Alabama,MN:MN,TOTAL,All students,230.977422662321,0,1
+state,MAT,4,2015,AR,Arkansas,MN:MN,TOTAL,All students,235.215469726642,0,1
+state,MAT,4,2015,AZ,Arizona,MN:MN,TOTAL,All students,237.61175542795,0,1
+state,MAT,4,2015,CA,California,MN:MN,TOTAL,All students,231.549345006155,0,1
+state,MAT,4,2015,CO,Colorado,MN:MN,TOTAL,All students,241.563575620412,0,1
+state,MAT,4,2015,CT,Connecticut,MN:MN,TOTAL,All students,240.159468855002,0,1
+state,MAT,4,2015,DC,District of Columbia,MN:MN,TOTAL,All students,231.307525116183,0,1
+state,MAT,4,2015,DE,Delaware,MN:MN,TOTAL,All students,238.67801881991,0,1
+state,MAT,4,2015,FL,Florida,MN:MN,TOTAL,All students,242.664320928614,0,1
+state,MAT,4,2015,GA,Georgia,MN:MN,TOTAL,All students,236.452519256357,0,1
+state,MAT,4,2015,HI,Hawaii,MN:MN,TOTAL,All students,237.895806837329,0,1
+state,MAT,4,2015,ID,Idaho,MN:MN,TOTAL,All students,238.799624712685,0,1
+state,MAT,4,2017,AK,Alaska,MN:MN,TOTAL,All students,230.456277558902,0,1
+state,MAT,4,2017,AL,Alabama,MN:MN,TOTAL,All students,232.170687741509,0,1
+state,MAT,4,2017,AR,Arkansas,MN:MN,TOTAL,All students,233.848143678937,0,1
+state,MAT,4,2017,AZ,Arizona,MN:MN,TOTAL,All students,234.435788152091,0,1
+state,MAT,4,2017,CA,California,MN:MN,TOTAL,All students,232.262940994562,0,1
+state,MAT,4,2017,CO,Colorado,MN:MN,TOTAL,All students,240.695016615505,0,1
+state,MAT,4,2017,CT,Connecticut,MN:MN,TOTAL,All students,239.237650900737,0,1
+state,MAT,4,2017,DC,District of Columbia,MN:MN,TOTAL,All students,231.320462145503,0,1
+state,MAT,4,2017,DE,Delaware,MN:MN,TOTAL,All students,236.127561706187,0,1
+state,MAT,4,2017,FL,Florida,MN:MN,TOTAL,All students,246.367695779459,0,1
+state,MAT,4,2017,GA,Georgia,MN:MN,TOTAL,All students,236.383603027145,0,1
+state,MAT,4,2017,HI,Hawaii,MN:MN,TOTAL,All students,237.919768737113,0,1
+state,MAT,4,2017,ID,Idaho,MN:MN,TOTAL,All students,239.967514081181,0,1
+state,MAT,4,2019,AK,Alaska,MN:MN,TOTAL,All students,232.307478546218,0,1
+state,MAT,4,2019,AL,Alabama,MN:MN,TOTAL,All students,229.651002236322,0,1
+state,MAT,4,2019,AR,Arkansas,MN:MN,TOTAL,All students,233.252134193681,0,1
+state,MAT,4,2019,AZ,Arizona,MN:MN,TOTAL,All students,237.610210406623,0,1
+state,MAT,4,2019,CA,California,MN:MN,TOTAL,All students,234.721975584843,0,1
+state,MAT,4,2019,CO,Colorado,MN:MN,TOTAL,All students,241.865586480222,0,1
+state,MAT,4,2019,CT,Connecticut,MN:MN,TOTAL,All students,243.259501751646,0,1
+state,MAT,4,2019,DC,District of Columbia,MN:MN,TOTAL,All students,234.635176052935,0,1
+state,MAT,4,2019,DE,Delaware,MN:MN,TOTAL,All students,239.319659530785,0,1
+state,MAT,4,2019,FL,Florida,MN:MN,TOTAL,All students,245.957606496751,0,1
+state,MAT,4,2019,GA,Georgia,MN:MN,TOTAL,All students,237.64845420903,0,1
+state,MAT,4,2019,HI,Hawaii,MN:MN,TOTAL,All students,238.567337144858,0,1
+state,MAT,4,2019,ID,Idaho,MN:MN,TOTAL,All students,241.898735184844,0,1
+state,MAT,4,2022,AK,Alaska,MN:MN,TOTAL,All students,225.922597958835,0,1
+state,MAT,4,2022,AL,Alabama,MN:MN,TOTAL,All students,230.040391972661,0,1
+state,MAT,4,2022,AR,Arkansas,MN:MN,TOTAL,All students,228.139333985482,0,1
+state,MAT,4,2022,AZ,Arizona,MN:MN,TOTAL,All students,231.980559496722,0,1
+state,MAT,4,2022,CA,California,MN:MN,TOTAL,All students,230.359415140154,0,1
+state,MAT,4,2022,CO,Colorado,MN:MN,TOTAL,All students,236.172808336636,0,1
+state,MAT,4,2022,CT,Connecticut,MN:MN,TOTAL,All students,236.35632336505,0,1
+state,MAT,4,2022,DC,District of Columbia,MN:MN,TOTAL,All students,222.646202562346,0,1
+state,MAT,4,2022,DE,Delaware,MN:MN,TOTAL,All students,225.578602208135,0,1
+state,MAT,4,2022,FL,Florida,MN:MN,TOTAL,All students,240.830495893201,0,1
+state,MAT,4,2022,GA,Georgia,MN:MN,TOTAL,All students,234.909523946632,0,1
+state,MAT,4,2022,HI,Hawaii,MN:MN,TOTAL,All students,236.503680670391,0,1
+state,MAT,4,2022,ID,Idaho,MN:MN,TOTAL,All students,236.195232283923,0,1
+state,MAT,4,2024,AK,Alaska,MN:MN,TOTAL,All students,225.86016343228,0,1
+state,MAT,4,2024,AL,Alabama,MN:MN,TOTAL,All students,236.355959126276,0,1
+state,MAT,4,2024,AR,Arkansas,MN:MN,TOTAL,All students,230.328747037708,0,1
+state,MAT,4,2024,AZ,Arizona,MN:MN,TOTAL,All students,232.411041027918,0,1
+state,MAT,4,2024,CA,California,MN:MN,TOTAL,All students,233.045256814784,0,1
+state,MAT,4,2024,CO,Colorado,MN:MN,TOTAL,All students,239.130602948527,0,1
+state,MAT,4,2024,CT,Connecticut,MN:MN,TOTAL,All students,239.072043031639,0,1
+state,MAT,4,2024,DC,District of Columbia,MN:MN,TOTAL,All students,230.63341251517,0,1
+state,MAT,4,2024,DE,Delaware,MN:MN,TOTAL,All students,233.189119009454,0,1
+state,MAT,4,2024,FL,Florida,MN:MN,TOTAL,All students,243.403898434956,0,1
+state,MAT,4,2024,GA,Georgia,MN:MN,TOTAL,All students,236.11018744542,0,1
+state,MAT,4,2024,HI,Hawaii,MN:MN,TOTAL,All students,239.279784817586,0,1
+state,MAT,4,2024,ID,Idaho,MN:MN,TOTAL,All students,238.393222009771,0,1
+state,MAT,4,2013,IA,Iowa,MN:MN,TOTAL,All students,245.793505546843,0,1
+state,MAT,4,2013,IL,Illinois,MN:MN,TOTAL,All students,239.000204017003,0,1
+state,MAT,4,2013,IN,Indiana,MN:MN,TOTAL,All students,248.596777358002,0,1
+state,MAT,4,2013,KS,Kansas,MN:MN,TOTAL,All students,246.185701870944,0,1
+state,MAT,4,2013,KY,Kentucky,MN:MN,TOTAL,All students,241.469926794712,0,1
+state,MAT,4,2013,LA,Louisiana,MN:MN,TOTAL,All students,231.36630864379,0,1
+state,MAT,4,2013,MA,Massachusetts,MN:MN,TOTAL,All students,253.033785201779,0,1
+state,MAT,4,2013,MD,Maryland,MN:MN,TOTAL,All students,245.169379546775,0,1
+state,MAT,4,2013,ME,Maine,MN:MN,TOTAL,All students,245.847001798672,0,1
+state,MAT,4,2013,MI,Michigan,MN:MN,TOTAL,All students,236.819778402754,0,1
+state,MAT,4,2013,MN,Minnesota,MN:MN,TOTAL,All students,253.420961133202,0,1
+state,MAT,4,2013,MO,Missouri,MN:MN,TOTAL,All students,239.548361930055,0,1
+state,MAT,4,2013,MS,Mississippi,MN:MN,TOTAL,All students,231.105721411129,0,1
+state,MAT,4,2015,IA,Iowa,MN:MN,TOTAL,All students,243.339911874178,0,1
+state,MAT,4,2015,IL,Illinois,MN:MN,TOTAL,All students,237.307813789509,0,1
+state,MAT,4,2015,IN,Indiana,MN:MN,TOTAL,All students,247.652183620087,0,1
+state,MAT,4,2015,KS,Kansas,MN:MN,TOTAL,All students,241.067208517258,0,1
+state,MAT,4,2015,KY,Kentucky,MN:MN,TOTAL,All students,241.727761931052,0,1
+state,MAT,4,2015,LA,Louisiana,MN:MN,TOTAL,All students,234.28190182677,0,1
+state,MAT,4,2015,MA,Massachusetts,MN:MN,TOTAL,All students,250.565777826282,0,1
+state,MAT,4,2015,MD,Maryland,MN:MN,TOTAL,All students,239.49975090765,0,1
+state,MAT,4,2015,ME,Maine,MN:MN,TOTAL,All students,242.244654099765,0,1
+state,MAT,4,2015,MI,Michigan,MN:MN,TOTAL,All students,235.728893690295,0,1
+state,MAT,4,2015,MN,Minnesota,MN:MN,TOTAL,All students,249.575846952089,0,1
+state,MAT,4,2015,MO,Missouri,MN:MN,TOTAL,All students,238.964922500718,0,1
+state,MAT,4,2015,MS,Mississippi,MN:MN,TOTAL,All students,234.243053139768,0,1
+state,MAT,4,2017,IA,Iowa,MN:MN,TOTAL,All students,243.107484364402,0,1
+state,MAT,4,2017,IL,Illinois,MN:MN,TOTAL,All students,238.118947435674,0,1
+state,MAT,4,2017,IN,Indiana,MN:MN,TOTAL,All students,246.513750055807,0,1
+state,MAT,4,2017,KS,Kansas,MN:MN,TOTAL,All students,241.21280456721,0,1
+state,MAT,4,2017,KY,Kentucky,MN:MN,TOTAL,All students,239.17825740582,0,1
+state,MAT,4,2017,LA,Louisiana,MN:MN,TOTAL,All students,228.971745398005,0,1
+state,MAT,4,2017,MA,Massachusetts,MN:MN,TOTAL,All students,249.102673909928,0,1
+state,MAT,4,2017,MD,Maryland,MN:MN,TOTAL,All students,240.601277324157,0,1
+state,MAT,4,2017,ME,Maine,MN:MN,TOTAL,All students,239.898994523321,0,1
+state,MAT,4,2017,MI,Michigan,MN:MN,TOTAL,All students,235.555472547462,0,1
+state,MAT,4,2017,MN,Minnesota,MN:MN,TOTAL,All students,248.804302567269,0,1
+state,MAT,4,2017,MO,Missouri,MN:MN,TOTAL,All students,239.502289164298,0,1
+state,MAT,4,2017,MS,Mississippi,MN:MN,TOTAL,All students,234.69419302812,0,1
+state,MAT,4,2019,IA,Iowa,MN:MN,TOTAL,All students,240.688738120696,0,1
+state,MAT,4,2019,IL,Illinois,MN:MN,TOTAL,All students,237.397321832596,0,1
+state,MAT,4,2019,IN,Indiana,MN:MN,TOTAL,All students,244.883129817521,0,1
+state,MAT,4,2019,KS,Kansas,MN:MN,TOTAL,All students,239.439793698183,0,1
+state,MAT,4,2019,KY,Kentucky,MN:MN,TOTAL,All students,239.310713003117,0,1
+state,MAT,4,2019,LA,Louisiana,MN:MN,TOTAL,All students,231.29741319736,0,1
+state,MAT,4,2019,MA,Massachusetts,MN:MN,TOTAL,All students,247.319439954575,0,1
+state,MAT,4,2019,MD,Maryland,MN:MN,TOTAL,All students,238.562488491722,0,1
+state,MAT,4,2019,ME,Maine,MN:MN,TOTAL,All students,240.757590343136,0,1
+state,MAT,4,2019,MI,Michigan,MN:MN,TOTAL,All students,236.15158485638,0,1
+state,MAT,4,2019,MN,Minnesota,MN:MN,TOTAL,All students,248.409532777318,0,1
+state,MAT,4,2019,MO,Missouri,MN:MN,TOTAL,All students,238.41019058942,0,1
+state,MAT,4,2019,MS,Mississippi,MN:MN,TOTAL,All students,240.706890333851,0,1
+state,MAT,4,2022,IA,Iowa,MN:MN,TOTAL,All students,239.83342021025,0,1
+state,MAT,4,2022,IL,Illinois,MN:MN,TOTAL,All students,237.075790494613,0,1
+state,MAT,4,2022,IN,Indiana,MN:MN,TOTAL,All students,239.153293809039,0,1
+state,MAT,4,2022,KS,Kansas,MN:MN,TOTAL,All students,235.033207865411,0,1
+state,MAT,4,2022,KY,Kentucky,MN:MN,TOTAL,All students,233.803481017921,0,1
+state,MAT,4,2022,LA,Louisiana,MN:MN,TOTAL,All students,228.570107111528,0,1
+state,MAT,4,2022,MA,Massachusetts,MN:MN,TOTAL,All students,241.731762244644,0,1
+state,MAT,4,2022,MD,Maryland,MN:MN,TOTAL,All students,228.586724100303,0,1
+state,MAT,4,2022,ME,Maine,MN:MN,TOTAL,All students,233.073315407841,0,1
+state,MAT,4,2022,MI,Michigan,MN:MN,TOTAL,All students,232.197403225126,0,1
+state,MAT,4,2022,MN,Minnesota,MN:MN,TOTAL,All students,239.007740578057,0,1
+state,MAT,4,2022,MO,Missouri,MN:MN,TOTAL,All students,232.379298228844,0,1
+state,MAT,4,2022,MS,Mississippi,MN:MN,TOTAL,All students,233.55895949206,0,1
+state,MAT,4,2024,IA,Iowa,MN:MN,TOTAL,All students,237.044692259729,0,1
+state,MAT,4,2024,IL,Illinois,MN:MN,TOTAL,All students,236.08064733098,0,1
+state,MAT,4,2024,IN,Indiana,MN:MN,TOTAL,All students,240.306516485348,0,1
+state,MAT,4,2024,KS,Kansas,MN:MN,TOTAL,All students,237.200871575632,0,1
+state,MAT,4,2024,KY,Kentucky,MN:MN,TOTAL,All students,237.814142432078,0,1
+state,MAT,4,2024,LA,Louisiana,MN:MN,TOTAL,All students,234.547746507391,0,1
+state,MAT,4,2024,MA,Massachusetts,MN:MN,TOTAL,All students,246.487761431851,0,1
+state,MAT,4,2024,MD,Maryland,MN:MN,TOTAL,All students,234.086300580707,0,1
+state,MAT,4,2024,ME,Maine,MN:MN,TOTAL,All students,233.133613316906,0,1
+state,MAT,4,2024,MI,Michigan,MN:MN,TOTAL,All students,235.219572950459,0,1
+state,MAT,4,2024,MN,Minnesota,MN:MN,TOTAL,All students,240.6602718931,0,1
+state,MAT,4,2024,MO,Missouri,MN:MN,TOTAL,All students,235.003290605205,0,1
+state,MAT,4,2024,MS,Mississippi,MN:MN,TOTAL,All students,239.175986882916,0,1
+state,MAT,4,2013,MT,Montana,MN:MN,TOTAL,All students,243.69888459472,0,1
+state,MAT,4,2013,NC,North Carolina,MN:MN,TOTAL,All students,244.801732892983,0,1
+state,MAT,4,2013,ND,North Dakota,MN:MN,TOTAL,All students,246.424794889496,0,1
+state,MAT,4,2013,NE,Nebraska,MN:MN,TOTAL,All students,243.157929125431,0,1
+state,MAT,4,2013,NH,New Hampshire,MN:MN,TOTAL,All students,252.993525166642,0,1
+state,MAT,4,2013,NJ,New Jersey,MN:MN,TOTAL,All students,246.870909198593,0,1
+state,MAT,4,2013,NM,New Mexico,MN:MN,TOTAL,All students,232.781432931356,0,1
+state,MAT,4,2013,NV,Nevada,MN:MN,TOTAL,All students,236.262899387868,0,1
+state,MAT,4,2013,NY,New York,MN:MN,TOTAL,All students,240.349816866839,0,1
+state,MAT,4,2013,OH,Ohio,MN:MN,TOTAL,All students,245.549796905114,0,1
+state,MAT,4,2013,OK,Oklahoma,MN:MN,TOTAL,All students,238.92187747804,0,1
+state,MAT,4,2013,OR,Oregon,MN:MN,TOTAL,All students,240.099252018006,0,1
+state,MAT,4,2013,PA,Pennsylvania,MN:MN,TOTAL,All students,244.012619964297,0,1
+state,MAT,4,2015,MT,Montana,MN:MN,TOTAL,All students,241.287048262014,0,1
+state,MAT,4,2015,NC,North Carolina,MN:MN,TOTAL,All students,243.742266788879,0,1
+state,MAT,4,2015,ND,North Dakota,MN:MN,TOTAL,All students,244.71383057758,0,1
+state,MAT,4,2015,NE,Nebraska,MN:MN,TOTAL,All students,243.863666875446,0,1
+state,MAT,4,2015,NH,New Hampshire,MN:MN,TOTAL,All students,249.150621351838,0,1
+state,MAT,4,2015,NJ,New Jersey,MN:MN,TOTAL,All students,245.383220077076,0,1
+state,MAT,4,2015,NM,New Mexico,MN:MN,TOTAL,All students,231.167235964367,0,1
+state,MAT,4,2015,NV,Nevada,MN:MN,TOTAL,All students,233.827016206925,0,1
+state,MAT,4,2015,NY,New York,MN:MN,TOTAL,All students,236.796927043204,0,1
+state,MAT,4,2015,OH,Ohio,MN:MN,TOTAL,All students,243.598591203345,0,1
+state,MAT,4,2015,OK,Oklahoma,MN:MN,TOTAL,All students,239.760481447062,0,1
+state,MAT,4,2015,OR,Oregon,MN:MN,TOTAL,All students,237.74670893826,0,1
+state,MAT,4,2015,PA,Pennsylvania,MN:MN,TOTAL,All students,243.312239940824,0,1
+state,MAT,4,2017,MT,Montana,MN:MN,TOTAL,All students,240.721634498618,0,1
+state,MAT,4,2017,NC,North Carolina,MN:MN,TOTAL,All students,240.951393074866,0,1
+state,MAT,4,2017,ND,North Dakota,MN:MN,TOTAL,All students,244.243515259852,0,1
+state,MAT,4,2017,NE,Nebraska,MN:MN,TOTAL,All students,245.59067458725,0,1
+state,MAT,4,2017,NH,New Hampshire,MN:MN,TOTAL,All students,245.319838570829,0,1
+state,MAT,4,2017,NJ,New Jersey,MN:MN,TOTAL,All students,247.855231175611,0,1
+state,MAT,4,2017,NM,New Mexico,MN:MN,TOTAL,All students,229.704281935704,0,1
+state,MAT,4,2017,NV,Nevada,MN:MN,TOTAL,All students,231.685162157891,0,1
+state,MAT,4,2017,NY,New York,MN:MN,TOTAL,All students,235.548457260667,0,1
+state,MAT,4,2017,OH,Ohio,MN:MN,TOTAL,All students,240.928372101796,0,1
+state,MAT,4,2017,OK,Oklahoma,MN:MN,TOTAL,All students,237.326270225647,0,1
+state,MAT,4,2017,OR,Oregon,MN:MN,TOTAL,All students,233.132459994163,0,1
+state,MAT,4,2017,PA,Pennsylvania,MN:MN,TOTAL,All students,241.672327208486,0,1
+state,MAT,4,2019,MT,Montana,MN:MN,TOTAL,All students,241.113189876112,0,1
+state,MAT,4,2019,NC,North Carolina,MN:MN,TOTAL,All students,241.408136375873,0,1
+state,MAT,4,2019,ND,North Dakota,MN:MN,TOTAL,All students,242.928390806625,0,1
+state,MAT,4,2019,NE,Nebraska,MN:MN,TOTAL,All students,243.770986026308,0,1
+state,MAT,4,2019,NH,New Hampshire,MN:MN,TOTAL,All students,244.559196330017,0,1
+state,MAT,4,2019,NJ,New Jersey,MN:MN,TOTAL,All students,245.931598653239,0,1
+state,MAT,4,2019,NM,New Mexico,MN:MN,TOTAL,All students,231.110316729628,0,1
+state,MAT,4,2019,NV,Nevada,MN:MN,TOTAL,All students,235.626272636424,0,1
+state,MAT,4,2019,NY,New York,MN:MN,TOTAL,All students,236.730707220478,0,1
+state,MAT,4,2019,OH,Ohio,MN:MN,TOTAL,All students,241.140473457804,0,1
+state,MAT,4,2019,OK,Oklahoma,MN:MN,TOTAL,All students,237.195424934057,0,1
+state,MAT,4,2019,OR,Oregon,MN:MN,TOTAL,All students,236.3490312284,0,1
+state,MAT,4,2019,PA,Pennsylvania,MN:MN,TOTAL,All students,243.936852140578,0,1
+state,MAT,4,2022,MT,Montana,MN:MN,TOTAL,All students,238.518895520345,0,1
+state,MAT,4,2022,NC,North Carolina,MN:MN,TOTAL,All students,235.957627640276,0,1
+state,MAT,4,2022,ND,North Dakota,MN:MN,TOTAL,All students,240.081124069965,0,1
+state,MAT,4,2022,NE,Nebraska,MN:MN,TOTAL,All students,241.558709889839,0,1
+state,MAT,4,2022,NH,New Hampshire,MN:MN,TOTAL,All students,239.394150930647,0,1
+state,MAT,4,2022,NJ,New Jersey,MN:MN,TOTAL,All students,239.230609256602,0,1
+state,MAT,4,2022,NM,New Mexico,MN:MN,TOTAL,All students,221.253589461799,0,1
+state,MAT,4,2022,NV,Nevada,MN:MN,TOTAL,All students,229.348243023475,0,1
+state,MAT,4,2022,NY,New York,MN:MN,TOTAL,All students,227.090134168793,0,1
+state,MAT,4,2022,OH,Ohio,MN:MN,TOTAL,All students,237.758856634656,0,1
+state,MAT,4,2022,OK,Oklahoma,MN:MN,TOTAL,All students,229.48759926715,0,1
+state,MAT,4,2022,OR,Oregon,MN:MN,TOTAL,All students,228.191726191097,0,1
+state,MAT,4,2022,PA,Pennsylvania,MN:MN,TOTAL,All students,237.53877160192,0,1
+state,MAT,4,2024,MT,Montana,MN:MN,TOTAL,All students,238.465072783869,0,1
+state,MAT,4,2024,NC,North Carolina,MN:MN,TOTAL,All students,238.860887882283,0,1
+state,MAT,4,2024,ND,North Dakota,MN:MN,TOTAL,All students,241.278881602246,0,1
+state,MAT,4,2024,NE,Nebraska,MN:MN,TOTAL,All students,238.195943793891,0,1
+state,MAT,4,2024,NH,New Hampshire,MN:MN,TOTAL,All students,241.558459320301,0,1
+state,MAT,4,2024,NJ,New Jersey,MN:MN,TOTAL,All students,240.135843141786,0,1
+state,MAT,4,2024,NM,New Mexico,MN:MN,TOTAL,All students,223.846267718318,0,1
+state,MAT,4,2024,NV,Nevada,MN:MN,TOTAL,All students,233.240940328459,0,1
+state,MAT,4,2024,NY,New York,MN:MN,TOTAL,All students,234.164922603209,0,1
+state,MAT,4,2024,OH,Ohio,MN:MN,TOTAL,All students,239.415517232463,0,1
+state,MAT,4,2024,OK,Oklahoma,MN:MN,TOTAL,All students,232.559491861293,0,1
+state,MAT,4,2024,OR,Oregon,MN:MN,TOTAL,All students,228.69019534372,0,1
+state,MAT,4,2024,PA,Pennsylvania,MN:MN,TOTAL,All students,238.183256578996,0,1
+state,MAT,4,2013,RI,Rhode Island,MN:MN,TOTAL,All students,241.416735236635,0,1
+state,MAT,4,2013,SC,South Carolina,MN:MN,TOTAL,All students,236.625899742704,0,1
+state,MAT,4,2013,SD,South Dakota,MN:MN,TOTAL,All students,240.981099722242,0,1
+state,MAT,4,2013,TN,Tennessee,MN:MN,TOTAL,All students,239.774787022732,0,1
+state,MAT,4,2013,TX,Texas,MN:MN,TOTAL,All students,241.926288740505,0,1
+state,MAT,4,2013,UT,Utah,MN:MN,TOTAL,All students,242.820688734808,0,1
+state,MAT,4,2013,VA,Virginia,MN:MN,TOTAL,All students,246.177456938875,0,1
+state,MAT,4,2013,VT,Vermont,MN:MN,TOTAL,All students,247.803294738209,0,1
+state,MAT,4,2013,WA,Washington,MN:MN,TOTAL,All students,246.288338069866,0,1
+state,MAT,4,2013,WI,Wisconsin,MN:MN,TOTAL,All students,244.706291648161,0,1
+state,MAT,4,2013,WV,West Virginia,MN:MN,TOTAL,All students,237.440632664342,0,1
+state,MAT,4,2013,WY,Wyoming,MN:MN,TOTAL,All students,246.522400920115,0,1
+state,MAT,4,2015,RI,Rhode Island,MN:MN,TOTAL,All students,238.001729682764,0,1
+state,MAT,4,2015,SC,South Carolina,MN:MN,TOTAL,All students,237.089571458614,0,1
+state,MAT,4,2015,SD,South Dakota,MN:MN,TOTAL,All students,239.723094945658,0,1
+state,MAT,4,2015,TN,Tennessee,MN:MN,TOTAL,All students,240.667395743119,0,1
+state,MAT,4,2015,TX,Texas,MN:MN,TOTAL,All students,244.00247204328,0,1
+state,MAT,4,2015,UT,Utah,MN:MN,TOTAL,All students,242.562787058815,0,1
+state,MAT,4,2015,VA,Virginia,MN:MN,TOTAL,All students,246.612621705962,0,1
+state,MAT,4,2015,VT,Vermont,MN:MN,TOTAL,All students,243.250399158154,0,1
+state,MAT,4,2015,WA,Washington,MN:MN,TOTAL,All students,244.981422185301,0,1
+state,MAT,4,2015,WI,Wisconsin,MN:MN,TOTAL,All students,243.310211318799,0,1
+state,MAT,4,2015,WV,West Virginia,MN:MN,TOTAL,All students,235.204661462065,0,1
+state,MAT,4,2015,WY,Wyoming,MN:MN,TOTAL,All students,246.759764467268,0,1
+state,MAT,4,2017,RI,Rhode Island,MN:MN,TOTAL,All students,237.554934304512,0,1
+state,MAT,4,2017,SC,South Carolina,MN:MN,TOTAL,All students,234.043992967064,0,1
+state,MAT,4,2017,SD,South Dakota,MN:MN,TOTAL,All students,241.58894696354,0,1
+state,MAT,4,2017,TN,Tennessee,MN:MN,TOTAL,All students,236.692515382765,0,1
+state,MAT,4,2017,TX,Texas,MN:MN,TOTAL,All students,240.943670668029,0,1
+state,MAT,4,2017,UT,Utah,MN:MN,TOTAL,All students,242.480766246533,0,1
+state,MAT,4,2017,VA,Virginia,MN:MN,TOTAL,All students,248.041059058675,0,1
+state,MAT,4,2017,VT,Vermont,MN:MN,TOTAL,All students,240.893297189484,0,1
+state,MAT,4,2017,WA,Washington,MN:MN,TOTAL,All students,241.701000965358,0,1
+state,MAT,4,2017,WI,Wisconsin,MN:MN,TOTAL,All students,240.389213393097,0,1
+state,MAT,4,2017,WV,West Virginia,MN:MN,TOTAL,All students,236.057018907755,0,1
+state,MAT,4,2017,WY,Wyoming,MN:MN,TOTAL,All students,247.820619209134,0,1
+state,MAT,4,2019,RI,Rhode Island,MN:MN,TOTAL,All students,239.344046162253,0,1
+state,MAT,4,2019,SC,South Carolina,MN:MN,TOTAL,All students,236.754522609384,0,1
+state,MAT,4,2019,SD,South Dakota,MN:MN,TOTAL,All students,241.296277726994,0,1
+state,MAT,4,2019,TN,Tennessee,MN:MN,TOTAL,All students,239.698504109313,0,1
+state,MAT,4,2019,TX,Texas,MN:MN,TOTAL,All students,243.616542643714,0,1
+state,MAT,4,2019,UT,Utah,MN:MN,TOTAL,All students,243.78904583418,0,1
+state,MAT,4,2019,VA,Virginia,MN:MN,TOTAL,All students,246.88947954089,0,1
+state,MAT,4,2019,VT,Vermont,MN:MN,TOTAL,All students,238.89989740832,0,1
+state,MAT,4,2019,WA,Washington,MN:MN,TOTAL,All students,239.510817473469,0,1
+state,MAT,4,2019,WI,Wisconsin,MN:MN,TOTAL,All students,241.671245223046,0,1
+state,MAT,4,2019,WV,West Virginia,MN:MN,TOTAL,All students,231.496137336298,0,1
+state,MAT,4,2019,WY,Wyoming,MN:MN,TOTAL,All students,245.843439854955,0,1
+state,MAT,4,2022,RI,Rhode Island,MN:MN,TOTAL,All students,234.129852061607,0,1
+state,MAT,4,2022,SC,South Carolina,MN:MN,TOTAL,All students,234.223641874243,0,1
+state,MAT,4,2022,SD,South Dakota,MN:MN,TOTAL,All students,239.006671594519,0,1
+state,MAT,4,2022,TN,Tennessee,MN:MN,TOTAL,All students,236.354104669682,0,1
+state,MAT,4,2022,TX,Texas,MN:MN,TOTAL,All students,238.575823946802,0,1
+state,MAT,4,2022,UT,Utah,MN:MN,TOTAL,All students,239.614085877439,0,1
+state,MAT,4,2022,VA,Virginia,MN:MN,TOTAL,All students,236.356488308729,0,1
+state,MAT,4,2022,VT,Vermont,MN:MN,TOTAL,All students,234.294361311545,0,1
+state,MAT,4,2022,WA,Washington,MN:MN,TOTAL,All students,234.932798634431,0,1
+state,MAT,4,2022,WI,Wisconsin,MN:MN,TOTAL,All students,240.257786107227,0,1
+state,MAT,4,2022,WV,West Virginia,MN:MN,TOTAL,All students,225.967562111513,0,1
+state,MAT,4,2022,WY,Wyoming,MN:MN,TOTAL,All students,243.145741572247,0,1
+state,MAT,4,2024,RI,Rhode Island,MN:MN,TOTAL,All students,237.290396564683,0,1
+state,MAT,4,2024,SC,South Carolina,MN:MN,TOTAL,All students,237.645887316993,0,1
+state,MAT,4,2024,SD,South Dakota,MN:MN,TOTAL,All students,239.879239545987,0,1
+state,MAT,4,2024,TN,Tennessee,MN:MN,TOTAL,All students,239.617193029088,0,1
+state,MAT,4,2024,TX,Texas,MN:MN,TOTAL,All students,240.511211199661,0,1
+state,MAT,4,2024,UT,Utah,MN:MN,TOTAL,All students,241.543618050597,0,1
+state,MAT,4,2024,VA,Virginia,MN:MN,TOTAL,All students,237.874352771351,0,1
+state,MAT,4,2024,VT,Vermont,MN:MN,TOTAL,All students,234.847178316997,0,1
+state,MAT,4,2024,WA,Washington,MN:MN,TOTAL,All students,237.591286070576,0,1
+state,MAT,4,2024,WI,Wisconsin,MN:MN,TOTAL,All students,239.251217690431,0,1
+state,MAT,4,2024,WV,West Virginia,MN:MN,TOTAL,All students,231.514376150963,0,1
+state,MAT,4,2024,WY,Wyoming,MN:MN,TOTAL,All students,243.400492750607,0,1
+state,MAT,8,2013,AK,Alaska,MN:MN,TOTAL,All students,281.559572836526,0,1
+state,MAT,8,2013,AL,Alabama,MN:MN,TOTAL,All students,269.194280616502,0,1
+state,MAT,8,2013,AR,Arkansas,MN:MN,TOTAL,All students,277.914802456258,0,1
+state,MAT,8,2013,AZ,Arizona,MN:MN,TOTAL,All students,279.722267962505,0,1
+state,MAT,8,2013,CA,California,MN:MN,TOTAL,All students,275.901350652197,0,1
+state,MAT,8,2013,CO,Colorado,MN:MN,TOTAL,All students,289.68180010958,0,1
+state,MAT,8,2013,CT,Connecticut,MN:MN,TOTAL,All students,285.243972274119,0,1
+state,MAT,8,2013,DC,District of Columbia,MN:MN,TOTAL,All students,265.259365712508,0,1
+state,MAT,8,2013,DE,Delaware,MN:MN,TOTAL,All students,282.338298596548,0,1
+state,MAT,8,2013,FL,Florida,MN:MN,TOTAL,All students,280.855839554008,0,1
+state,MAT,8,2013,GA,Georgia,MN:MN,TOTAL,All students,279.179110912454,0,1
+state,MAT,8,2013,HI,Hawaii,MN:MN,TOTAL,All students,281.412922288425,0,1
+state,MAT,8,2013,ID,Idaho,MN:MN,TOTAL,All students,286.413881629757,0,1
+state,MAT,8,2015,AK,Alaska,MN:MN,TOTAL,All students,280.493456179845,0,1
+state,MAT,8,2015,AL,Alabama,MN:MN,TOTAL,All students,266.555318518065,0,1
+state,MAT,8,2015,AR,Arkansas,MN:MN,TOTAL,All students,275.064756412469,0,1
+state,MAT,8,2015,AZ,Arizona,MN:MN,TOTAL,All students,282.919489420654,0,1
+state,MAT,8,2015,CA,California,MN:MN,TOTAL,All students,275.324573012154,0,1
+state,MAT,8,2015,CO,Colorado,MN:MN,TOTAL,All students,285.539188724412,0,1
+state,MAT,8,2015,CT,Connecticut,MN:MN,TOTAL,All students,283.956677264342,0,1
+state,MAT,8,2015,DC,District of Columbia,MN:MN,TOTAL,All students,263.059776256545,0,1
+state,MAT,8,2015,DE,Delaware,MN:MN,TOTAL,All students,279.810243773994,0,1
+state,MAT,8,2015,FL,Florida,MN:MN,TOTAL,All students,275.323817958749,0,1
+state,MAT,8,2015,GA,Georgia,MN:MN,TOTAL,All students,278.711796774375,0,1
+state,MAT,8,2015,HI,Hawaii,MN:MN,TOTAL,All students,279.340145034503,0,1
+state,MAT,8,2015,ID,Idaho,MN:MN,TOTAL,All students,283.742325345327,0,1
+state,MAT,8,2017,AK,Alaska,MN:MN,TOTAL,All students,277.015571755108,0,1
+state,MAT,8,2017,AL,Alabama,MN:MN,TOTAL,All students,268.312020240893,0,1
+state,MAT,8,2017,AR,Arkansas,MN:MN,TOTAL,All students,273.75990725281,0,1
+state,MAT,8,2017,AZ,Arizona,MN:MN,TOTAL,All students,282.248145284054,0,1
+state,MAT,8,2017,CA,California,MN:MN,TOTAL,All students,276.638200063835,0,1
+state,MAT,8,2017,CO,Colorado,MN:MN,TOTAL,All students,286.247717546748,0,1
+state,MAT,8,2017,CT,Connecticut,MN:MN,TOTAL,All students,284.144330330681,0,1
+state,MAT,8,2017,DC,District of Columbia,MN:MN,TOTAL,All students,265.779770573735,0,1
+state,MAT,8,2017,DE,Delaware,MN:MN,TOTAL,All students,278.023498869959,0,1
+state,MAT,8,2017,FL,Florida,MN:MN,TOTAL,All students,279.120415156315,0,1
+state,MAT,8,2017,GA,Georgia,MN:MN,TOTAL,All students,281.035487532394,0,1
+state,MAT,8,2017,HI,Hawaii,MN:MN,TOTAL,All students,277.336845826814,0,1
+state,MAT,8,2017,ID,Idaho,MN:MN,TOTAL,All students,284.371732938877,0,1
+state,MAT,8,2019,AK,Alaska,MN:MN,TOTAL,All students,274.337800740009,0,1
+state,MAT,8,2019,AL,Alabama,MN:MN,TOTAL,All students,268.703898571044,0,1
+state,MAT,8,2019,AR,Arkansas,MN:MN,TOTAL,All students,274.36319198523,0,1
+state,MAT,8,2019,AZ,Arizona,MN:MN,TOTAL,All students,279.932021743214,0,1
+state,MAT,8,2019,CA,California,MN:MN,TOTAL,All students,275.608909198641,0,1
+state,MAT,8,2019,CO,Colorado,MN:MN,TOTAL,All students,284.665952434847,0,1
+state,MAT,8,2019,CT,Connecticut,MN:MN,TOTAL,All students,286.15885457416,0,1
+state,MAT,8,2019,DC,District of Columbia,MN:MN,TOTAL,All students,269.177407753284,0,1
+state,MAT,8,2019,DE,Delaware,MN:MN,TOTAL,All students,276.702658183838,0,1
+state,MAT,8,2019,FL,Florida,MN:MN,TOTAL,All students,278.523344698988,0,1
+state,MAT,8,2019,GA,Georgia,MN:MN,TOTAL,All students,279.494668007891,0,1
+state,MAT,8,2019,HI,Hawaii,MN:MN,TOTAL,All students,275.333259928456,0,1
+state,MAT,8,2019,ID,Idaho,MN:MN,TOTAL,All students,285.94211965174,0,1
+state,MAT,8,2022,AK,Alaska,MN:MN,TOTAL,All students,269.920753201375,0,1
+state,MAT,8,2022,AL,Alabama,MN:MN,TOTAL,All students,264.357254326719,0,1
+state,MAT,8,2022,AR,Arkansas,MN:MN,TOTAL,All students,266.882790691024,0,1
+state,MAT,8,2022,AZ,Arizona,MN:MN,TOTAL,All students,270.703745274723,0,1
+state,MAT,8,2022,CA,California,MN:MN,TOTAL,All students,269.80832014388,0,1
+state,MAT,8,2022,CO,Colorado,MN:MN,TOTAL,All students,275.11103568145,0,1
+state,MAT,8,2022,CT,Connecticut,MN:MN,TOTAL,All students,276.487510664734,0,1
+state,MAT,8,2022,DC,District of Columbia,MN:MN,TOTAL,All students,259.526301016105,0,1
+state,MAT,8,2022,DE,Delaware,MN:MN,TOTAL,All students,264.24710941302,0,1
+state,MAT,8,2022,FL,Florida,MN:MN,TOTAL,All students,271.204381546513,0,1
+state,MAT,8,2022,GA,Georgia,MN:MN,TOTAL,All students,271.284517856992,0,1
+state,MAT,8,2022,HI,Hawaii,MN:MN,TOTAL,All students,270.104073959356,0,1
+state,MAT,8,2022,ID,Idaho,MN:MN,TOTAL,All students,281.772509748784,0,1
+state,MAT,8,2024,AK,Alaska,MN:MN,TOTAL,All students,263.962652757225,0,1
+state,MAT,8,2024,AL,Alabama,MN:MN,TOTAL,All students,261.769896296059,0,1
+state,MAT,8,2024,AR,Arkansas,MN:MN,TOTAL,All students,266.194833728906,0,1
+state,MAT,8,2024,AZ,Arizona,MN:MN,TOTAL,All students,269.656164092934,0,1
+state,MAT,8,2024,CA,California,MN:MN,TOTAL,All students,268.779817602202,0,1
+state,MAT,8,2024,CO,Colorado,MN:MN,TOTAL,All students,278.107689530909,0,1
+state,MAT,8,2024,CT,Connecticut,MN:MN,TOTAL,All students,276.674248483695,0,1
+state,MAT,8,2024,DC,District of Columbia,MN:MN,TOTAL,All students,261.538791377155,0,1
+state,MAT,8,2024,DE,Delaware,MN:MN,TOTAL,All students,263.057137020663,0,1
+state,MAT,8,2024,FL,Florida,MN:MN,TOTAL,All students,267.242907869627,0,1
+state,MAT,8,2024,GA,Georgia,MN:MN,TOTAL,All students,268.65580533609,0,1
+state,MAT,8,2024,HI,Hawaii,MN:MN,TOTAL,All students,270.041103022353,0,1
+state,MAT,8,2024,ID,Idaho,MN:MN,TOTAL,All students,278.104478921394,0,1
+state,MAT,8,2013,IA,Iowa,MN:MN,TOTAL,All students,285.07013777479,0,1
+state,MAT,8,2013,IL,Illinois,MN:MN,TOTAL,All students,284.897647164169,0,1
+state,MAT,8,2013,IN,Indiana,MN:MN,TOTAL,All students,287.767653833023,0,1
+state,MAT,8,2013,KS,Kansas,MN:MN,TOTAL,All students,289.518256078135,0,1
+state,MAT,8,2013,KY,Kentucky,MN:MN,TOTAL,All students,280.64544247635,0,1
+state,MAT,8,2013,LA,Louisiana,MN:MN,TOTAL,All students,272.760966478426,0,1
+state,MAT,8,2013,MA,Massachusetts,MN:MN,TOTAL,All students,300.568235011147,0,1
+state,MAT,8,2013,MD,Maryland,MN:MN,TOTAL,All students,286.641381102957,0,1
+state,MAT,8,2013,ME,Maine,MN:MN,TOTAL,All students,288.731159737956,0,1
+state,MAT,8,2013,MI,Michigan,MN:MN,TOTAL,All students,280.133597093752,0,1
+state,MAT,8,2013,MN,Minnesota,MN:MN,TOTAL,All students,294.592972603507,0,1
+state,MAT,8,2013,MO,Missouri,MN:MN,TOTAL,All students,282.988457911702,0,1
+state,MAT,8,2013,MS,Mississippi,MN:MN,TOTAL,All students,271.160967287249,0,1
+state,MAT,8,2015,IA,Iowa,MN:MN,TOTAL,All students,286.41621998599,0,1
+state,MAT,8,2015,IL,Illinois,MN:MN,TOTAL,All students,281.968567276813,0,1
+state,MAT,8,2015,IN,Indiana,MN:MN,TOTAL,All students,287.175201077669,0,1
+state,MAT,8,2015,KS,Kansas,MN:MN,TOTAL,All students,283.871096311731,0,1
+state,MAT,8,2015,KY,Kentucky,MN:MN,TOTAL,All students,277.947260135803,0,1
+state,MAT,8,2015,LA,Louisiana,MN:MN,TOTAL,All students,268.432355132751,0,1
+state,MAT,8,2015,MA,Massachusetts,MN:MN,TOTAL,All students,296.908571436848,0,1
+state,MAT,8,2015,MD,Maryland,MN:MN,TOTAL,All students,283.149034098785,0,1
+state,MAT,8,2015,ME,Maine,MN:MN,TOTAL,All students,284.875476957911,0,1
+state,MAT,8,2015,MI,Michigan,MN:MN,TOTAL,All students,278.168651923457,0,1
+state,MAT,8,2015,MN,Minnesota,MN:MN,TOTAL,All students,294.147777973073,0,1
+state,MAT,8,2015,MO,Missouri,MN:MN,TOTAL,All students,280.821425670635,0,1
+state,MAT,8,2015,MS,Mississippi,MN:MN,TOTAL,All students,270.580479347121,0,1
+state,MAT,8,2017,IA,Iowa,MN:MN,TOTAL,All students,286.239418158172,0,1
+state,MAT,8,2017,IL,Illinois,MN:MN,TOTAL,All students,281.617997668016,0,1
+state,MAT,8,2017,IN,Indiana,MN:MN,TOTAL,All students,287.705639463898,0,1
+state,MAT,8,2017,KS,Kansas,MN:MN,TOTAL,All students,285.283507884924,0,1
+state,MAT,8,2017,KY,Kentucky,MN:MN,TOTAL,All students,277.714161796085,0,1
+state,MAT,8,2017,LA,Louisiana,MN:MN,TOTAL,All students,266.506760283641,0,1
+state,MAT,8,2017,MA,Massachusetts,MN:MN,TOTAL,All students,297.0422252108,0,1
+state,MAT,8,2017,MD,Maryland,MN:MN,TOTAL,All students,280.910245611123,0,1
+state,MAT,8,2017,ME,Maine,MN:MN,TOTAL,All students,284.003007342022,0,1
+state,MAT,8,2017,MI,Michigan,MN:MN,TOTAL,All students,279.505454699336,0,1
+state,MAT,8,2017,MN,Minnesota,MN:MN,TOTAL,All students,293.962375743927,0,1
+state,MAT,8,2017,MO,Missouri,MN:MN,TOTAL,All students,280.596021606445,0,1
+state,MAT,8,2017,MS,Mississippi,MN:MN,TOTAL,All students,270.91490754267,0,1
+state,MAT,8,2019,IA,Iowa,MN:MN,TOTAL,All students,281.669713374579,0,1
+state,MAT,8,2019,IL,Illinois,MN:MN,TOTAL,All students,282.563770056396,0,1
+state,MAT,8,2019,IN,Indiana,MN:MN,TOTAL,All students,285.649347493642,0,1
+state,MAT,8,2019,KS,Kansas,MN:MN,TOTAL,All students,282.211700315563,0,1
+state,MAT,8,2019,KY,Kentucky,MN:MN,TOTAL,All students,278.100386552262,0,1
+state,MAT,8,2019,LA,Louisiana,MN:MN,TOTAL,All students,271.644680137411,0,1
+state,MAT,8,2019,MA,Massachusetts,MN:MN,TOTAL,All students,294.474574539442,0,1
+state,MAT,8,2019,MD,Maryland,MN:MN,TOTAL,All students,280.14582776331,0,1
+state,MAT,8,2019,ME,Maine,MN:MN,TOTAL,All students,282.36862288029,0,1
+state,MAT,8,2019,MI,Michigan,MN:MN,TOTAL,All students,280.282357130411,0,1
+state,MAT,8,2019,MN,Minnesota,MN:MN,TOTAL,All students,290.785141202164,0,1
+state,MAT,8,2019,MO,Missouri,MN:MN,TOTAL,All students,280.764001089291,0,1
+state,MAT,8,2019,MS,Mississippi,MN:MN,TOTAL,All students,273.728901931209,0,1
+state,MAT,8,2022,IA,Iowa,MN:MN,TOTAL,All students,277.131073214538,0,1
+state,MAT,8,2022,IL,Illinois,MN:MN,TOTAL,All students,275.19506288848,0,1
+state,MAT,8,2022,IN,Indiana,MN:MN,TOTAL,All students,278.646365196182,0,1
+state,MAT,8,2022,KS,Kansas,MN:MN,TOTAL,All students,271.962245177771,0,1
+state,MAT,8,2022,KY,Kentucky,MN:MN,TOTAL,All students,269.412552664086,0,1
+state,MAT,8,2022,LA,Louisiana,MN:MN,TOTAL,All students,265.597428091717,0,1
+state,MAT,8,2022,MA,Massachusetts,MN:MN,TOTAL,All students,283.587656613142,0,1
+state,MAT,8,2022,MD,Maryland,MN:MN,TOTAL,All students,268.704351919459,0,1
+state,MAT,8,2022,ME,Maine,MN:MN,TOTAL,All students,272.539339217101,0,1
+state,MAT,8,2022,MI,Michigan,MN:MN,TOTAL,All students,272.550704280738,0,1
+state,MAT,8,2022,MN,Minnesota,MN:MN,TOTAL,All students,280.066020971965,0,1
+state,MAT,8,2022,MO,Missouri,MN:MN,TOTAL,All students,272.153313847836,0,1
+state,MAT,8,2022,MS,Mississippi,MN:MN,TOTAL,All students,265.566589217948,0,1
+state,MAT,8,2024,IA,Iowa,MN:MN,TOTAL,All students,274.823931474603,0,1
+state,MAT,8,2024,IL,Illinois,MN:MN,TOTAL,All students,277.416365661062,0,1
+state,MAT,8,2024,IN,Indiana,MN:MN,TOTAL,All students,278.185063694114,0,1
+state,MAT,8,2024,KS,Kansas,MN:MN,TOTAL,All students,274.136728097293,0,1
+state,MAT,8,2024,KY,Kentucky,MN:MN,TOTAL,All students,270.813300352469,0,1
+state,MAT,8,2024,LA,Louisiana,MN:MN,TOTAL,All students,266.783263695595,0,1
+state,MAT,8,2024,MA,Massachusetts,MN:MN,TOTAL,All students,283.465558985794,0,1
+state,MAT,8,2024,MD,Maryland,MN:MN,TOTAL,All students,268.213759837437,0,1
+state,MAT,8,2024,ME,Maine,MN:MN,TOTAL,All students,272.621883145892,0,1
+state,MAT,8,2024,MI,Michigan,MN:MN,TOTAL,All students,269.978773980969,0,1
+state,MAT,8,2024,MN,Minnesota,MN:MN,TOTAL,All students,282.087420612381,0,1
+state,MAT,8,2024,MO,Missouri,MN:MN,TOTAL,All students,270.363197434814,0,1
+state,MAT,8,2024,MS,Mississippi,MN:MN,TOTAL,All students,269.060485008035,0,1
+state,MAT,8,2013,MT,Montana,MN:MN,TOTAL,All students,289.228453008852,0,1
+state,MAT,8,2013,NC,North Carolina,MN:MN,TOTAL,All students,285.645388424867,0,1
+state,MAT,8,2013,ND,North Dakota,MN:MN,TOTAL,All students,290.515111260981,0,1
+state,MAT,8,2013,NE,Nebraska,MN:MN,TOTAL,All students,285.061348473454,0,1
+state,MAT,8,2013,NH,New Hampshire,MN:MN,TOTAL,All students,295.665123344221,0,1
+state,MAT,8,2013,NJ,New Jersey,MN:MN,TOTAL,All students,296.053351131027,0,1
+state,MAT,8,2013,NM,New Mexico,MN:MN,TOTAL,All students,272.761808894229,0,1
+state,MAT,8,2013,NV,Nevada,MN:MN,TOTAL,All students,278.28668090862,0,1
+state,MAT,8,2013,NY,New York,MN:MN,TOTAL,All students,281.807787831651,0,1
+state,MAT,8,2013,OH,Ohio,MN:MN,TOTAL,All students,289.528096752185,0,1
+state,MAT,8,2013,OK,Oklahoma,MN:MN,TOTAL,All students,275.506732026577,0,1
+state,MAT,8,2013,OR,Oregon,MN:MN,TOTAL,All students,283.524589064024,0,1
+state,MAT,8,2013,PA,Pennsylvania,MN:MN,TOTAL,All students,289.623651633339,0,1
+state,MAT,8,2015,MT,Montana,MN:MN,TOTAL,All students,287.464005517244,0,1
+state,MAT,8,2015,NC,North Carolina,MN:MN,TOTAL,All students,281.331091062317,0,1
+state,MAT,8,2015,ND,North Dakota,MN:MN,TOTAL,All students,288.244147214039,0,1
+state,MAT,8,2015,NE,Nebraska,MN:MN,TOTAL,All students,286.498563486228,0,1
+state,MAT,8,2015,NH,New Hampshire,MN:MN,TOTAL,All students,294.413018726344,0,1
+state,MAT,8,2015,NJ,New Jersey,MN:MN,TOTAL,All students,293.36593817877,0,1
+state,MAT,8,2015,NM,New Mexico,MN:MN,TOTAL,All students,270.897534405553,0,1
+state,MAT,8,2015,NV,Nevada,MN:MN,TOTAL,All students,275.171868843271,0,1
+state,MAT,8,2015,NY,New York,MN:MN,TOTAL,All students,280.089220069279,0,1
+state,MAT,8,2015,OH,Ohio,MN:MN,TOTAL,All students,285.061955059169,0,1
+state,MAT,8,2015,OK,Oklahoma,MN:MN,TOTAL,All students,274.58598213814,0,1
+state,MAT,8,2015,OR,Oregon,MN:MN,TOTAL,All students,282.814899352646,0,1
+state,MAT,8,2015,PA,Pennsylvania,MN:MN,TOTAL,All students,283.668415444349,0,1
+state,MAT,8,2017,MT,Montana,MN:MN,TOTAL,All students,285.600436850241,0,1
+state,MAT,8,2017,NC,North Carolina,MN:MN,TOTAL,All students,281.926028447068,0,1
+state,MAT,8,2017,ND,North Dakota,MN:MN,TOTAL,All students,288.172322165675,0,1
+state,MAT,8,2017,NE,Nebraska,MN:MN,TOTAL,All students,288.405955332178,0,1
+state,MAT,8,2017,NH,New Hampshire,MN:MN,TOTAL,All students,293.290654433387,0,1
+state,MAT,8,2017,NJ,New Jersey,MN:MN,TOTAL,All students,291.698552399307,0,1
+state,MAT,8,2017,NM,New Mexico,MN:MN,TOTAL,All students,269.374084020303,0,1
+state,MAT,8,2017,NV,Nevada,MN:MN,TOTAL,All students,275.365455514069,0,1
+state,MAT,8,2017,NY,New York,MN:MN,TOTAL,All students,281.687999953596,0,1
+state,MAT,8,2017,OH,Ohio,MN:MN,TOTAL,All students,287.714266317975,0,1
+state,MAT,8,2017,OK,Oklahoma,MN:MN,TOTAL,All students,274.688883411113,0,1
+state,MAT,8,2017,OR,Oregon,MN:MN,TOTAL,All students,282.173028442268,0,1
+state,MAT,8,2017,PA,Pennsylvania,MN:MN,TOTAL,All students,286.393832326288,0,1
+state,MAT,8,2019,MT,Montana,MN:MN,TOTAL,All students,283.959458490694,0,1
+state,MAT,8,2019,NC,North Carolina,MN:MN,TOTAL,All students,283.658856062479,0,1
+state,MAT,8,2019,ND,North Dakota,MN:MN,TOTAL,All students,285.564288588419,0,1
+state,MAT,8,2019,NE,Nebraska,MN:MN,TOTAL,All students,285.012542020259,0,1
+state,MAT,8,2019,NH,New Hampshire,MN:MN,TOTAL,All students,287.222902107093,0,1
+state,MAT,8,2019,NJ,New Jersey,MN:MN,TOTAL,All students,291.822771925628,0,1
+state,MAT,8,2019,NM,New Mexico,MN:MN,TOTAL,All students,268.765610592655,0,1
+state,MAT,8,2019,NV,Nevada,MN:MN,TOTAL,All students,273.785362545259,0,1
+state,MAT,8,2019,NY,New York,MN:MN,TOTAL,All students,280.409057321774,0,1
+state,MAT,8,2019,OH,Ohio,MN:MN,TOTAL,All students,285.713236558856,0,1
+state,MAT,8,2019,OK,Oklahoma,MN:MN,TOTAL,All students,276.466247861619,0,1
+state,MAT,8,2019,OR,Oregon,MN:MN,TOTAL,All students,279.50040459144,0,1
+state,MAT,8,2019,PA,Pennsylvania,MN:MN,TOTAL,All students,285.023991890132,0,1
+state,MAT,8,2022,MT,Montana,MN:MN,TOTAL,All students,277.427645069317,0,1
+state,MAT,8,2022,NC,North Carolina,MN:MN,TOTAL,All students,273.7014173315,0,1
+state,MAT,8,2022,ND,North Dakota,MN:MN,TOTAL,All students,278.398280639293,0,1
+state,MAT,8,2022,NE,Nebraska,MN:MN,TOTAL,All students,279.384056562137,0,1
+state,MAT,8,2022,NH,New Hampshire,MN:MN,TOTAL,All students,278.582040087953,0,1
+state,MAT,8,2022,NJ,New Jersey,MN:MN,TOTAL,All students,280.886098306047,0,1
+state,MAT,8,2022,NM,New Mexico,MN:MN,TOTAL,All students,258.983453539708,0,1
+state,MAT,8,2022,NV,Nevada,MN:MN,TOTAL,All students,269.218060945172,0,1
+state,MAT,8,2022,NY,New York,MN:MN,TOTAL,All students,274.271532623993,0,1
+state,MAT,8,2022,OH,Ohio,MN:MN,TOTAL,All students,276.057123181032,0,1
+state,MAT,8,2022,OK,Oklahoma,MN:MN,TOTAL,All students,263.899682323539,0,1
+state,MAT,8,2022,OR,Oregon,MN:MN,TOTAL,All students,270.277716552741,0,1
+state,MAT,8,2022,PA,Pennsylvania,MN:MN,TOTAL,All students,274.274094979368,0,1
+state,MAT,8,2024,MT,Montana,MN:MN,TOTAL,All students,279.082095551632,0,1
+state,MAT,8,2024,NC,North Carolina,MN:MN,TOTAL,All students,275.821517956785,0,1
+state,MAT,8,2024,ND,North Dakota,MN:MN,TOTAL,All students,279.765445425712,0,1
+state,MAT,8,2024,NE,Nebraska,MN:MN,TOTAL,All students,279.8834957478,0,1
+state,MAT,8,2024,NH,New Hampshire,MN:MN,TOTAL,All students,279.7446422881,0,1
+state,MAT,8,2024,NJ,New Jersey,MN:MN,TOTAL,All students,281.684697993032,0,1
+state,MAT,8,2024,NM,New Mexico,MN:MN,TOTAL,All students,256.210854081077,0,1
+state,MAT,8,2024,NV,Nevada,MN:MN,TOTAL,All students,265.177161678326,0,1
+state,MAT,8,2024,NY,New York,MN:MN,TOTAL,All students,270.851723995752,0,1
+state,MAT,8,2024,OH,Ohio,MN:MN,TOTAL,All students,278.81272056262,0,1
+state,MAT,8,2024,OK,Oklahoma,MN:MN,TOTAL,All students,264.454031154883,0,1
+state,MAT,8,2024,OR,Oregon,MN:MN,TOTAL,All students,267.940475829647,0,1
+state,MAT,8,2024,PA,Pennsylvania,MN:MN,TOTAL,All students,276.245914941856,0,1
+state,MAT,8,2013,RI,Rhode Island,MN:MN,TOTAL,All students,284.092212214805,0,1
+state,MAT,8,2013,SC,South Carolina,MN:MN,TOTAL,All students,279.824608578537,0,1
+state,MAT,8,2013,SD,South Dakota,MN:MN,TOTAL,All students,287.270390625653,0,1
+state,MAT,8,2013,TN,Tennessee,MN:MN,TOTAL,All students,277.720127269641,0,1
+state,MAT,8,2013,TX,Texas,MN:MN,TOTAL,All students,288.198967599188,0,1
+state,MAT,8,2013,UT,Utah,MN:MN,TOTAL,All students,284.331486246838,0,1
+state,MAT,8,2013,VA,Virginia,MN:MN,TOTAL,All students,288.142959517699,0,1
+state,MAT,8,2013,VT,Vermont,MN:MN,TOTAL,All students,295.469562357463,0,1
+state,MAT,8,2013,WA,Washington,MN:MN,TOTAL,All students,289.956988743835,0,1
+state,MAT,8,2013,WI,Wisconsin,MN:MN,TOTAL,All students,288.745780841654,0,1
+state,MAT,8,2013,WV,West Virginia,MN:MN,TOTAL,All students,274.430134697899,0,1
+state,MAT,8,2013,WY,Wyoming,MN:MN,TOTAL,All students,288.119137263578,0,1
+state,MAT,8,2015,RI,Rhode Island,MN:MN,TOTAL,All students,281.445219579398,0,1
+state,MAT,8,2015,SC,South Carolina,MN:MN,TOTAL,All students,275.827866191395,0,1
+state,MAT,8,2015,SD,South Dakota,MN:MN,TOTAL,All students,284.64140569224,0,1
+state,MAT,8,2015,TN,Tennessee,MN:MN,TOTAL,All students,278.203380665353,0,1
+state,MAT,8,2015,TX,Texas,MN:MN,TOTAL,All students,283.793540280437,0,1
+state,MAT,8,2015,UT,Utah,MN:MN,TOTAL,All students,286.116911188659,0,1
+state,MAT,8,2015,VA,Virginia,MN:MN,TOTAL,All students,287.709298675278,0,1
+state,MAT,8,2015,VT,Vermont,MN:MN,TOTAL,All students,290.355191159079,0,1
+state,MAT,8,2015,WA,Washington,MN:MN,TOTAL,All students,286.513107597489,0,1
+state,MAT,8,2015,WI,Wisconsin,MN:MN,TOTAL,All students,289.077749211995,0,1
+state,MAT,8,2015,WV,West Virginia,MN:MN,TOTAL,All students,271.45070884715,0,1
+state,MAT,8,2015,WY,Wyoming,MN:MN,TOTAL,All students,286.666547067471,0,1
+state,MAT,8,2017,RI,Rhode Island,MN:MN,TOTAL,All students,277.180125645798,0,1
+state,MAT,8,2017,SC,South Carolina,MN:MN,TOTAL,All students,274.67382111862,0,1
+state,MAT,8,2017,SD,South Dakota,MN:MN,TOTAL,All students,286.376159534544,0,1
+state,MAT,8,2017,TN,Tennessee,MN:MN,TOTAL,All students,278.777735468651,0,1
+state,MAT,8,2017,TX,Texas,MN:MN,TOTAL,All students,282.320510342396,0,1
+state,MAT,8,2017,UT,Utah,MN:MN,TOTAL,All students,286.816559110458,0,1
+state,MAT,8,2017,VA,Virginia,MN:MN,TOTAL,All students,290.081407427647,0,1
+state,MAT,8,2017,VT,Vermont,MN:MN,TOTAL,All students,287.62338824063,0,1
+state,MAT,8,2017,WA,Washington,MN:MN,TOTAL,All students,289.131257183192,0,1
+state,MAT,8,2017,WI,Wisconsin,MN:MN,TOTAL,All students,288.143144315469,0,1
+state,MAT,8,2017,WV,West Virginia,MN:MN,TOTAL,All students,273.415853633933,0,1
+state,MAT,8,2017,WY,Wyoming,MN:MN,TOTAL,All students,288.761811740442,0,1
+state,MAT,8,2019,RI,Rhode Island,MN:MN,TOTAL,All students,275.672073085529,0,1
+state,MAT,8,2019,SC,South Carolina,MN:MN,TOTAL,All students,276.350019464145,0,1
+state,MAT,8,2019,SD,South Dakota,MN:MN,TOTAL,All students,287.087942904959,0,1
+state,MAT,8,2019,TN,Tennessee,MN:MN,TOTAL,All students,280.079035689218,0,1
+state,MAT,8,2019,TX,Texas,MN:MN,TOTAL,All students,279.651107847019,0,1
+state,MAT,8,2019,UT,Utah,MN:MN,TOTAL,All students,284.930389419443,0,1
+state,MAT,8,2019,VA,Virginia,MN:MN,TOTAL,All students,287.060200768469,0,1
+state,MAT,8,2019,VT,Vermont,MN:MN,TOTAL,All students,286.603416708406,0,1
+state,MAT,8,2019,WA,Washington,MN:MN,TOTAL,All students,285.807107019211,0,1
+state,MAT,8,2019,WI,Wisconsin,MN:MN,TOTAL,All students,288.660002957986,0,1
+state,MAT,8,2019,WV,West Virginia,MN:MN,TOTAL,All students,272.349307597102,0,1
+state,MAT,8,2019,WY,Wyoming,MN:MN,TOTAL,All students,286.313953952443,0,1
+state,MAT,8,2022,RI,Rhode Island,MN:MN,TOTAL,All students,270.298634314462,0,1
+state,MAT,8,2022,SC,South Carolina,MN:MN,TOTAL,All students,269.021048643419,0,1
+state,MAT,8,2022,SD,South Dakota,MN:MN,TOTAL,All students,281.437492016736,0,1
+state,MAT,8,2022,TN,Tennessee,MN:MN,TOTAL,All students,271.975664197667,0,1
+state,MAT,8,2022,TX,Texas,MN:MN,TOTAL,All students,272.668875879933,0,1
+state,MAT,8,2022,UT,Utah,MN:MN,TOTAL,All students,282.211027508016,0,1
+state,MAT,8,2022,VA,Virginia,MN:MN,TOTAL,All students,279.171622575254,0,1
+state,MAT,8,2022,VT,Vermont,MN:MN,TOTAL,All students,276.46389349941,0,1
+state,MAT,8,2022,WA,Washington,MN:MN,TOTAL,All students,276.080305359728,0,1
+state,MAT,8,2022,WI,Wisconsin,MN:MN,TOTAL,All students,281.139616394597,0,1
+state,MAT,8,2022,WV,West Virginia,MN:MN,TOTAL,All students,260.387466246551,0,1
+state,MAT,8,2022,WY,Wyoming,MN:MN,TOTAL,All students,280.926498009233,0,1
+state,MAT,8,2024,RI,Rhode Island,MN:MN,TOTAL,All students,269.826789466172,0,1
+state,MAT,8,2024,SC,South Carolina,MN:MN,TOTAL,All students,268.006371115326,0,1
+state,MAT,8,2024,SD,South Dakota,MN:MN,TOTAL,All students,281.101137171665,0,1
+state,MAT,8,2024,TN,Tennessee,MN:MN,TOTAL,All students,275.982987568614,0,1
+state,MAT,8,2024,TX,Texas,MN:MN,TOTAL,All students,269.393041368541,0,1
+state,MAT,8,2024,UT,Utah,MN:MN,TOTAL,All students,281.79013940125,0,1
+state,MAT,8,2024,VA,Virginia,MN:MN,TOTAL,All students,274.988689820791,0,1
+state,MAT,8,2024,VT,Vermont,MN:MN,TOTAL,All students,275.617660941484,0,1
+state,MAT,8,2024,WA,Washington,MN:MN,TOTAL,All students,273.665174159465,0,1
+state,MAT,8,2024,WI,Wisconsin,MN:MN,TOTAL,All students,282.649633523366,0,1
+state,MAT,8,2024,WV,West Virginia,MN:MN,TOTAL,All students,260.769078185284,0,1
+state,MAT,8,2024,WY,Wyoming,MN:MN,TOTAL,All students,278.315324001753,0,1
+state,RED,4,2013,AK,Alaska,MN:MN,TOTAL,All students,209.347288173954,0,1
+state,RED,4,2013,AL,Alabama,MN:MN,TOTAL,All students,218.57595339188,0,1
+state,RED,4,2013,AR,Arkansas,MN:MN,TOTAL,All students,218.523885266815,0,1
+state,RED,4,2013,AZ,Arizona,MN:MN,TOTAL,All students,213.134131480866,0,1
+state,RED,4,2013,CA,California,MN:MN,TOTAL,All students,212.545967893063,0,1
+state,RED,4,2013,CO,Colorado,MN:MN,TOTAL,All students,226.663219629357,0,1
+state,RED,4,2013,CT,Connecticut,MN:MN,TOTAL,All students,229.58159936534,0,1
+state,RED,4,2013,DC,District of Columbia,MN:MN,TOTAL,All students,205.613936927868,0,1
+state,RED,4,2013,DE,Delaware,MN:MN,TOTAL,All students,225.77165116252,0,1
+state,RED,4,2013,FL,Florida,MN:MN,TOTAL,All students,227.46317661052,0,1
+state,RED,4,2013,GA,Georgia,MN:MN,TOTAL,All students,221.836712514568,0,1
+state,RED,4,2013,HI,Hawaii,MN:MN,TOTAL,All students,214.843879930676,0,1
+state,RED,4,2013,ID,Idaho,MN:MN,TOTAL,All students,219.302985951792,0,1
+state,RED,4,2015,AK,Alaska,MN:MN,TOTAL,All students,212.792600219066,0,1
+state,RED,4,2015,AL,Alabama,MN:MN,TOTAL,All students,217.049089788052,0,1
+state,RED,4,2015,AR,Arkansas,MN:MN,TOTAL,All students,218.077496215637,0,1
+state,RED,4,2015,AZ,Arizona,MN:MN,TOTAL,All students,215.311336461445,0,1
+state,RED,4,2015,CA,California,MN:MN,TOTAL,All students,212.677948539849,0,1
+state,RED,4,2015,CO,Colorado,MN:MN,TOTAL,All students,224.023224923274,0,1
+state,RED,4,2015,CT,Connecticut,MN:MN,TOTAL,All students,228.947543364196,0,1
+state,RED,4,2015,DC,District of Columbia,MN:MN,TOTAL,All students,212.305347670353,0,1
+state,RED,4,2015,DE,Delaware,MN:MN,TOTAL,All students,223.698696847081,0,1
+state,RED,4,2015,FL,Florida,MN:MN,TOTAL,All students,227.188968975009,0,1
+state,RED,4,2015,GA,Georgia,MN:MN,TOTAL,All students,222.013497271819,0,1
+state,RED,4,2015,HI,Hawaii,MN:MN,TOTAL,All students,215.124313046421,0,1
+state,RED,4,2015,ID,Idaho,MN:MN,TOTAL,All students,221.690066165659,0,1
+state,RED,4,2017,AK,Alaska,MN:MN,TOTAL,All students,207.037630115797,0,1
+state,RED,4,2017,AL,Alabama,MN:MN,TOTAL,All students,216.419813531011,0,1
+state,RED,4,2017,AR,Arkansas,MN:MN,TOTAL,All students,216.108025728181,0,1
+state,RED,4,2017,AZ,Arizona,MN:MN,TOTAL,All students,215.465951944676,0,1
+state,RED,4,2017,CA,California,MN:MN,TOTAL,All students,215.421814242133,0,1
+state,RED,4,2017,CO,Colorado,MN:MN,TOTAL,All students,224.691618694193,0,1
+state,RED,4,2017,CT,Connecticut,MN:MN,TOTAL,All students,228.35531240737,0,1
+state,RED,4,2017,DC,District of Columbia,MN:MN,TOTAL,All students,213.382008766233,0,1
+state,RED,4,2017,DE,Delaware,MN:MN,TOTAL,All students,221.482217417377,0,1
+state,RED,4,2017,FL,Florida,MN:MN,TOTAL,All students,228.272622052382,0,1
+state,RED,4,2017,GA,Georgia,MN:MN,TOTAL,All students,219.682925180546,0,1
+state,RED,4,2017,HI,Hawaii,MN:MN,TOTAL,All students,216.364536553619,0,1
+state,RED,4,2017,ID,Idaho,MN:MN,TOTAL,All students,222.791065689088,0,1
+state,RED,4,2019,AK,Alaska,MN:MN,TOTAL,All students,204.373572021553,0,1
+state,RED,4,2019,AL,Alabama,MN:MN,TOTAL,All students,211.728520409549,0,1
+state,RED,4,2019,AR,Arkansas,MN:MN,TOTAL,All students,215.054222154958,0,1
+state,RED,4,2019,AZ,Arizona,MN:MN,TOTAL,All students,215.841230797164,0,1
+state,RED,4,2019,CA,California,MN:MN,TOTAL,All students,216.48126594299,0,1
+state,RED,4,2019,CO,Colorado,MN:MN,TOTAL,All students,224.862437298555,0,1
+state,RED,4,2019,CT,Connecticut,MN:MN,TOTAL,All students,224.34981661865,0,1
+state,RED,4,2019,DC,District of Columbia,MN:MN,TOTAL,All students,214.278715504121,0,1
+state,RED,4,2019,DE,Delaware,MN:MN,TOTAL,All students,217.686784683225,0,1
+state,RED,4,2019,FL,Florida,MN:MN,TOTAL,All students,224.71226131,0,1
+state,RED,4,2019,GA,Georgia,MN:MN,TOTAL,All students,217.982568037342,0,1
+state,RED,4,2019,HI,Hawaii,MN:MN,TOTAL,All students,217.532057714727,0,1
+state,RED,4,2019,ID,Idaho,MN:MN,TOTAL,All students,222.505864271442,0,1
+state,RED,4,2022,AK,Alaska,MN:MN,TOTAL,All students,203.834393388451,0,1
+state,RED,4,2022,AL,Alabama,MN:MN,TOTAL,All students,213.304803954478,0,1
+state,RED,4,2022,AR,Arkansas,MN:MN,TOTAL,All students,211.952401971433,0,1
+state,RED,4,2022,AZ,Arizona,MN:MN,TOTAL,All students,215.478915088885,0,1
+state,RED,4,2022,CA,California,MN:MN,TOTAL,All students,214.38813409151,0,1
+state,RED,4,2022,CO,Colorado,MN:MN,TOTAL,All students,222.853892245728,0,1
+state,RED,4,2022,CT,Connecticut,MN:MN,TOTAL,All students,219.147978324754,0,1
+state,RED,4,2022,DC,District of Columbia,MN:MN,TOTAL,All students,206.753141538805,0,1
+state,RED,4,2022,DE,Delaware,MN:MN,TOTAL,All students,208.301570070164,0,1
+state,RED,4,2022,FL,Florida,MN:MN,TOTAL,All students,224.739478076644,0,1
+state,RED,4,2022,GA,Georgia,MN:MN,TOTAL,All students,215.882292250826,0,1
+state,RED,4,2022,HI,Hawaii,MN:MN,TOTAL,All students,218.815079671815,0,1
+state,RED,4,2022,ID,Idaho,MN:MN,TOTAL,All students,214.885235432219,0,1
+state,RED,4,2024,AK,Alaska,MN:MN,TOTAL,All students,201.593475467698,0,1
+state,RED,4,2024,AL,Alabama,MN:MN,TOTAL,All students,213.209999777534,0,1
+state,RED,4,2024,AR,Arkansas,MN:MN,TOTAL,All students,209.703975948749,0,1
+state,RED,4,2024,AZ,Arizona,MN:MN,TOTAL,All students,208.095149457954,0,1
+state,RED,4,2024,CA,California,MN:MN,TOTAL,All students,211.742395779622,0,1
+state,RED,4,2024,CO,Colorado,MN:MN,TOTAL,All students,220.919411381867,0,1
+state,RED,4,2024,CT,Connecticut,MN:MN,TOTAL,All students,219.159136069453,0,1
+state,RED,4,2024,DC,District of Columbia,MN:MN,TOTAL,All students,209.178441326426,0,1
+state,RED,4,2024,DE,Delaware,MN:MN,TOTAL,All students,209.530546360739,0,1
+state,RED,4,2024,FL,Florida,MN:MN,TOTAL,All students,218.223941250067,0,1
+state,RED,4,2024,GA,Georgia,MN:MN,TOTAL,All students,214.358708339384,0,1
+state,RED,4,2024,HI,Hawaii,MN:MN,TOTAL,All students,215.793175321881,0,1
+state,RED,4,2024,ID,Idaho,MN:MN,TOTAL,All students,215.656201065876,0,1
+state,RED,4,2013,IA,Iowa,MN:MN,TOTAL,All students,223.815804634611,0,1
+state,RED,4,2013,IL,Illinois,MN:MN,TOTAL,All students,218.540183872207,0,1
+state,RED,4,2013,IN,Indiana,MN:MN,TOTAL,All students,225.332340846939,0,1
+state,RED,4,2013,KS,Kansas,MN:MN,TOTAL,All students,223.386368779104,0,1
+state,RED,4,2013,KY,Kentucky,MN:MN,TOTAL,All students,224.427540486587,0,1
+state,RED,4,2013,LA,Louisiana,MN:MN,TOTAL,All students,210.454963224321,0,1
+state,RED,4,2013,MA,Massachusetts,MN:MN,TOTAL,All students,232.373155972773,0,1
+state,RED,4,2013,MD,Maryland,MN:MN,TOTAL,All students,232.055973147422,0,1
+state,RED,4,2013,ME,Maine,MN:MN,TOTAL,All students,224.833289019918,0,1
+state,RED,4,2013,MI,Michigan,MN:MN,TOTAL,All students,217.36516772932,0,1
+state,RED,4,2013,MN,Minnesota,MN:MN,TOTAL,All students,227.030741772012,0,1
+state,RED,4,2013,MO,Missouri,MN:MN,TOTAL,All students,222.334185909416,0,1
+state,RED,4,2013,MS,Mississippi,MN:MN,TOTAL,All students,208.518536453726,0,1
+state,RED,4,2015,IA,Iowa,MN:MN,TOTAL,All students,223.62939884096,0,1
+state,RED,4,2015,IL,Illinois,MN:MN,TOTAL,All students,222.022267695473,0,1
+state,RED,4,2015,IN,Indiana,MN:MN,TOTAL,All students,227.278891330949,0,1
+state,RED,4,2015,KS,Kansas,MN:MN,TOTAL,All students,221.089880424307,0,1
+state,RED,4,2015,KY,Kentucky,MN:MN,TOTAL,All students,228.055168332762,0,1
+state,RED,4,2015,LA,Louisiana,MN:MN,TOTAL,All students,216.199337216284,0,1
+state,RED,4,2015,MA,Massachusetts,MN:MN,TOTAL,All students,235.27542341879,0,1
+state,RED,4,2015,MD,Maryland,MN:MN,TOTAL,All students,222.944189619399,0,1
+state,RED,4,2015,ME,Maine,MN:MN,TOTAL,All students,223.728607946102,0,1
+state,RED,4,2015,MI,Michigan,MN:MN,TOTAL,All students,216.306630194926,0,1
+state,RED,4,2015,MN,Minnesota,MN:MN,TOTAL,All students,223.352919981062,0,1
+state,RED,4,2015,MO,Missouri,MN:MN,TOTAL,All students,222.72551679114,0,1
+state,RED,4,2015,MS,Mississippi,MN:MN,TOTAL,All students,214.110686915211,0,1
+state,RED,4,2017,IA,Iowa,MN:MN,TOTAL,All students,221.74726754679,0,1
+state,RED,4,2017,IL,Illinois,MN:MN,TOTAL,All students,220.365898453327,0,1
+state,RED,4,2017,IN,Indiana,MN:MN,TOTAL,All students,226.417994745998,0,1
+state,RED,4,2017,KS,Kansas,MN:MN,TOTAL,All students,223.268429173451,0,1
+state,RED,4,2017,KY,Kentucky,MN:MN,TOTAL,All students,224.080585290071,0,1
+state,RED,4,2017,LA,Louisiana,MN:MN,TOTAL,All students,211.600527874868,0,1
+state,RED,4,2017,MA,Massachusetts,MN:MN,TOTAL,All students,235.699696767687,0,1
+state,RED,4,2017,MD,Maryland,MN:MN,TOTAL,All students,225.04933454894,0,1
+state,RED,4,2017,ME,Maine,MN:MN,TOTAL,All students,221.388602644001,0,1
+state,RED,4,2017,MI,Michigan,MN:MN,TOTAL,All students,217.753242013193,0,1
+state,RED,4,2017,MN,Minnesota,MN:MN,TOTAL,All students,224.538513441395,0,1
+state,RED,4,2017,MO,Missouri,MN:MN,TOTAL,All students,222.681081128122,0,1
+state,RED,4,2017,MS,Mississippi,MN:MN,TOTAL,All students,215.203305690064,0,1
+state,RED,4,2019,IA,Iowa,MN:MN,TOTAL,All students,220.502917093727,0,1
+state,RED,4,2019,IL,Illinois,MN:MN,TOTAL,All students,218.172226008408,0,1
+state,RED,4,2019,IN,Indiana,MN:MN,TOTAL,All students,221.812962059612,0,1
+state,RED,4,2019,KS,Kansas,MN:MN,TOTAL,All students,219.133566574447,0,1
+state,RED,4,2019,KY,Kentucky,MN:MN,TOTAL,All students,220.929888641558,0,1
+state,RED,4,2019,LA,Louisiana,MN:MN,TOTAL,All students,209.873121958397,0,1
+state,RED,4,2019,MA,Massachusetts,MN:MN,TOTAL,All students,231.091059288799,0,1
+state,RED,4,2019,MD,Maryland,MN:MN,TOTAL,All students,219.838944928094,0,1
+state,RED,4,2019,ME,Maine,MN:MN,TOTAL,All students,221.236527103754,0,1
+state,RED,4,2019,MI,Michigan,MN:MN,TOTAL,All students,218.266956539571,0,1
+state,RED,4,2019,MN,Minnesota,MN:MN,TOTAL,All students,222.393248950052,0,1
+state,RED,4,2019,MO,Missouri,MN:MN,TOTAL,All students,218.00163625009,0,1
+state,RED,4,2019,MS,Mississippi,MN:MN,TOTAL,All students,219.342215016725,0,1
+state,RED,4,2022,IA,Iowa,MN:MN,TOTAL,All students,218.019791217283,0,1
+state,RED,4,2022,IL,Illinois,MN:MN,TOTAL,All students,217.777584290905,0,1
+state,RED,4,2022,IN,Indiana,MN:MN,TOTAL,All students,217.363500242914,0,1
+state,RED,4,2022,KS,Kansas,MN:MN,TOTAL,All students,214.682441301693,0,1
+state,RED,4,2022,KY,Kentucky,MN:MN,TOTAL,All students,216.597654865333,0,1
+state,RED,4,2022,LA,Louisiana,MN:MN,TOTAL,All students,212.335700553312,0,1
+state,RED,4,2022,MA,Massachusetts,MN:MN,TOTAL,All students,226.803604642226,0,1
+state,RED,4,2022,MD,Maryland,MN:MN,TOTAL,All students,212.480141744086,0,1
+state,RED,4,2022,ME,Maine,MN:MN,TOTAL,All students,212.813075931121,0,1
+state,RED,4,2022,MI,Michigan,MN:MN,TOTAL,All students,211.841478223351,0,1
+state,RED,4,2022,MN,Minnesota,MN:MN,TOTAL,All students,215.468384880638,0,1
+state,RED,4,2022,MO,Missouri,MN:MN,TOTAL,All students,213.355231570616,0,1
+state,RED,4,2022,MS,Mississippi,MN:MN,TOTAL,All students,217.160500079958,0,1
+state,RED,4,2024,IA,Iowa,MN:MN,TOTAL,All students,214.627071244476,0,1
+state,RED,4,2024,IL,Illinois,MN:MN,TOTAL,All students,214.249807124294,0,1
+state,RED,4,2024,IN,Indiana,MN:MN,TOTAL,All students,220.13827410544,0,1
+state,RED,4,2024,KS,Kansas,MN:MN,TOTAL,All students,213.120245284913,0,1
+state,RED,4,2024,KY,Kentucky,MN:MN,TOTAL,All students,218.031788045287,0,1
+state,RED,4,2024,LA,Louisiana,MN:MN,TOTAL,All students,215.976174842941,0,1
+state,RED,4,2024,MA,Massachusetts,MN:MN,TOTAL,All students,224.778472538661,0,1
+state,RED,4,2024,MD,Maryland,MN:MN,TOTAL,All students,215.643199419369,0,1
+state,RED,4,2024,ME,Maine,MN:MN,TOTAL,All students,209.598296517843,0,1
+state,RED,4,2024,MI,Michigan,MN:MN,TOTAL,All students,209.14085321949,0,1
+state,RED,4,2024,MN,Minnesota,MN:MN,TOTAL,All students,214.44062758755,0,1
+state,RED,4,2024,MO,Missouri,MN:MN,TOTAL,All students,211.900404385859,0,1
+state,RED,4,2024,MS,Mississippi,MN:MN,TOTAL,All students,218.501197673508,0,1
+state,RED,4,2013,MT,Montana,MN:MN,TOTAL,All students,222.982749322942,0,1
+state,RED,4,2013,NC,North Carolina,MN:MN,TOTAL,All students,222.227715159886,0,1
+state,RED,4,2013,ND,North Dakota,MN:MN,TOTAL,All students,224.083385001522,0,1
+state,RED,4,2013,NE,Nebraska,MN:MN,TOTAL,All students,223.252785111637,0,1
+state,RED,4,2013,NH,New Hampshire,MN:MN,TOTAL,All students,231.998366395397,0,1
+state,RED,4,2013,NJ,New Jersey,MN:MN,TOTAL,All students,228.719744067642,0,1
+state,RED,4,2013,NM,New Mexico,MN:MN,TOTAL,All students,205.756405354204,0,1
+state,RED,4,2013,NV,Nevada,MN:MN,TOTAL,All students,213.755313618138,0,1
+state,RED,4,2013,NY,New York,MN:MN,TOTAL,All students,223.81336257734,0,1
+state,RED,4,2013,OH,Ohio,MN:MN,TOTAL,All students,223.887746136742,0,1
+state,RED,4,2013,OK,Oklahoma,MN:MN,TOTAL,All students,216.988876495215,0,1
+state,RED,4,2013,OR,Oregon,MN:MN,TOTAL,All students,219.132674237737,0,1
+state,RED,4,2013,PA,Pennsylvania,MN:MN,TOTAL,All students,226.402323612221,0,1
+state,RED,4,2015,MT,Montana,MN:MN,TOTAL,All students,224.757393529067,0,1
+state,RED,4,2015,NC,North Carolina,MN:MN,TOTAL,All students,225.810590900179,0,1
+state,RED,4,2015,ND,North Dakota,MN:MN,TOTAL,All students,224.69198435116,0,1
+state,RED,4,2015,NE,Nebraska,MN:MN,TOTAL,All students,226.634610885937,0,1
+state,RED,4,2015,NH,New Hampshire,MN:MN,TOTAL,All students,231.949847648112,0,1
+state,RED,4,2015,NJ,New Jersey,MN:MN,TOTAL,All students,229.487674441138,0,1
+state,RED,4,2015,NM,New Mexico,MN:MN,TOTAL,All students,207.240446376377,0,1
+state,RED,4,2015,NV,Nevada,MN:MN,TOTAL,All students,214.425584466776,0,1
+state,RED,4,2015,NY,New York,MN:MN,TOTAL,All students,222.646303197703,0,1
+state,RED,4,2015,OH,Ohio,MN:MN,TOTAL,All students,224.930419714072,0,1
+state,RED,4,2015,OK,Oklahoma,MN:MN,TOTAL,All students,221.830510126344,0,1
+state,RED,4,2015,OR,Oregon,MN:MN,TOTAL,All students,220.222719958397,0,1
+state,RED,4,2015,PA,Pennsylvania,MN:MN,TOTAL,All students,226.670774068,0,1
+state,RED,4,2017,MT,Montana,MN:MN,TOTAL,All students,222.326721838733,0,1
+state,RED,4,2017,NC,North Carolina,MN:MN,TOTAL,All students,223.930906236334,0,1
+state,RED,4,2017,ND,North Dakota,MN:MN,TOTAL,All students,221.519265852407,0,1
+state,RED,4,2017,NE,Nebraska,MN:MN,TOTAL,All students,224.096224936306,0,1
+state,RED,4,2017,NH,New Hampshire,MN:MN,TOTAL,All students,228.900649270634,0,1
+state,RED,4,2017,NJ,New Jersey,MN:MN,TOTAL,All students,232.943318467524,0,1
+state,RED,4,2017,NM,New Mexico,MN:MN,TOTAL,All students,207.704353543603,0,1
+state,RED,4,2017,NV,Nevada,MN:MN,TOTAL,All students,214.841696166346,0,1
+state,RED,4,2017,NY,New York,MN:MN,TOTAL,All students,221.884015359739,0,1
+state,RED,4,2017,OH,Ohio,MN:MN,TOTAL,All students,225.261138107432,0,1
+state,RED,4,2017,OK,Oklahoma,MN:MN,TOTAL,All students,216.587775171729,0,1
+state,RED,4,2017,OR,Oregon,MN:MN,TOTAL,All students,217.531072963868,0,1
+state,RED,4,2017,PA,Pennsylvania,MN:MN,TOTAL,All students,224.924702323396,0,1
+state,RED,4,2019,MT,Montana,MN:MN,TOTAL,All students,221.67913092515,0,1
+state,RED,4,2019,NC,North Carolina,MN:MN,TOTAL,All students,221.280043715178,0,1
+state,RED,4,2019,ND,North Dakota,MN:MN,TOTAL,All students,221.177007147619,0,1
+state,RED,4,2019,NE,Nebraska,MN:MN,TOTAL,All students,222.362133819339,0,1
+state,RED,4,2019,NH,New Hampshire,MN:MN,TOTAL,All students,224.264004126578,0,1
+state,RED,4,2019,NJ,New Jersey,MN:MN,TOTAL,All students,227.189417167925,0,1
+state,RED,4,2019,NM,New Mexico,MN:MN,TOTAL,All students,207.564688511317,0,1
+state,RED,4,2019,NV,Nevada,MN:MN,TOTAL,All students,217.617561606892,0,1
+state,RED,4,2019,NY,New York,MN:MN,TOTAL,All students,219.604193649582,0,1
+state,RED,4,2019,OH,Ohio,MN:MN,TOTAL,All students,221.969268954792,0,1
+state,RED,4,2019,OK,Oklahoma,MN:MN,TOTAL,All students,216.35068432151,0,1
+state,RED,4,2019,OR,Oregon,MN:MN,TOTAL,All students,217.71771124627,0,1
+state,RED,4,2019,PA,Pennsylvania,MN:MN,TOTAL,All students,223.213382797261,0,1
+state,RED,4,2022,MT,Montana,MN:MN,TOTAL,All students,218.726121279142,0,1
+state,RED,4,2022,NC,North Carolina,MN:MN,TOTAL,All students,216.130141000817,0,1
+state,RED,4,2022,ND,North Dakota,MN:MN,TOTAL,All students,217.53456368653,0,1
+state,RED,4,2022,NE,Nebraska,MN:MN,TOTAL,All students,218.613653639063,0,1
+state,RED,4,2022,NH,New Hampshire,MN:MN,TOTAL,All students,222.537287495664,0,1
+state,RED,4,2022,NJ,New Jersey,MN:MN,TOTAL,All students,222.728282134377,0,1
+state,RED,4,2022,NM,New Mexico,MN:MN,TOTAL,All students,202.080998079384,0,1
+state,RED,4,2022,NV,Nevada,MN:MN,TOTAL,All students,211.525078548584,0,1
+state,RED,4,2022,NY,New York,MN:MN,TOTAL,All students,213.572630962094,0,1
+state,RED,4,2022,OH,Ohio,MN:MN,TOTAL,All students,218.56171629756,0,1
+state,RED,4,2022,OK,Oklahoma,MN:MN,TOTAL,All students,208.10830835914,0,1
+state,RED,4,2022,OR,Oregon,MN:MN,TOTAL,All students,210.314054419297,0,1
+state,RED,4,2022,PA,Pennsylvania,MN:MN,TOTAL,All students,218.894472303117,0,1
+state,RED,4,2024,MT,Montana,MN:MN,TOTAL,All students,217.208255117987,0,1
+state,RED,4,2024,NC,North Carolina,MN:MN,TOTAL,All students,213.35179919366,0,1
+state,RED,4,2024,ND,North Dakota,MN:MN,TOTAL,All students,215.507954176959,0,1
+state,RED,4,2024,NE,Nebraska,MN:MN,TOTAL,All students,211.705589804961,0,1
+state,RED,4,2024,NH,New Hampshire,MN:MN,TOTAL,All students,221.484849293639,0,1
+state,RED,4,2024,NJ,New Jersey,MN:MN,TOTAL,All students,221.636810430856,0,1
+state,RED,4,2024,NM,New Mexico,MN:MN,TOTAL,All students,200.638149466901,0,1
+state,RED,4,2024,NV,Nevada,MN:MN,TOTAL,All students,213.135730429508,0,1
+state,RED,4,2024,NY,New York,MN:MN,TOTAL,All students,214.630140897987,0,1
+state,RED,4,2024,OH,Ohio,MN:MN,TOTAL,All students,215.994421846674,0,1
+state,RED,4,2024,OK,Oklahoma,MN:MN,TOTAL,All students,207.26472277647,0,1
+state,RED,4,2024,OR,Oregon,MN:MN,TOTAL,All students,206.974907710936,0,1
+state,RED,4,2024,PA,Pennsylvania,MN:MN,TOTAL,All students,215.761958839465,0,1
+state,RED,4,2013,RI,Rhode Island,MN:MN,TOTAL,All students,222.802239753732,0,1
+state,RED,4,2013,SC,South Carolina,MN:MN,TOTAL,All students,213.64654387011,0,1
+state,RED,4,2013,SD,South Dakota,MN:MN,TOTAL,All students,217.930744868492,0,1
+state,RED,4,2013,TN,Tennessee,MN:MN,TOTAL,All students,219.735394665222,0,1
+state,RED,4,2013,TX,Texas,MN:MN,TOTAL,All students,216.909597076471,0,1
+state,RED,4,2013,UT,Utah,MN:MN,TOTAL,All students,222.767635531589,0,1
+state,RED,4,2013,VA,Virginia,MN:MN,TOTAL,All students,228.555737669337,0,1
+state,RED,4,2013,VT,Vermont,MN:MN,TOTAL,All students,227.986519076527,0,1
+state,RED,4,2013,WA,Washington,MN:MN,TOTAL,All students,225.048863335833,0,1
+state,RED,4,2013,WI,Wisconsin,MN:MN,TOTAL,All students,220.818103448031,0,1
+state,RED,4,2013,WV,West Virginia,MN:MN,TOTAL,All students,214.663401291545,0,1
+state,RED,4,2013,WY,Wyoming,MN:MN,TOTAL,All students,225.848974956602,0,1
+state,RED,4,2015,RI,Rhode Island,MN:MN,TOTAL,All students,225.485536668854,0,1
+state,RED,4,2015,SC,South Carolina,MN:MN,TOTAL,All students,217.969676534277,0,1
+state,RED,4,2015,SD,South Dakota,MN:MN,TOTAL,All students,220.469524583778,0,1
+state,RED,4,2015,TN,Tennessee,MN:MN,TOTAL,All students,218.613264393701,0,1
+state,RED,4,2015,TX,Texas,MN:MN,TOTAL,All students,217.942913018264,0,1
+state,RED,4,2015,UT,Utah,MN:MN,TOTAL,All students,226.143074882684,0,1
+state,RED,4,2015,VA,Virginia,MN:MN,TOTAL,All students,228.971255010227,0,1
+state,RED,4,2015,VT,Vermont,MN:MN,TOTAL,All students,230.098616569303,0,1
+state,RED,4,2015,WA,Washington,MN:MN,TOTAL,All students,225.892889059031,0,1
+state,RED,4,2015,WI,Wisconsin,MN:MN,TOTAL,All students,223.356355512935,0,1
+state,RED,4,2015,WV,West Virginia,MN:MN,TOTAL,All students,216.253287883864,0,1
+state,RED,4,2015,WY,Wyoming,MN:MN,TOTAL,All students,228.160802772906,0,1
+state,RED,4,2017,RI,Rhode Island,MN:MN,TOTAL,All students,223.353442679692,0,1
+state,RED,4,2017,SC,South Carolina,MN:MN,TOTAL,All students,213.127835391026,0,1
+state,RED,4,2017,SD,South Dakota,MN:MN,TOTAL,All students,221.750122908674,0,1
+state,RED,4,2017,TN,Tennessee,MN:MN,TOTAL,All students,218.952797117684,0,1
+state,RED,4,2017,TX,Texas,MN:MN,TOTAL,All students,214.87849345961,0,1
+state,RED,4,2017,UT,Utah,MN:MN,TOTAL,All students,225.159172916822,0,1
+state,RED,4,2017,VA,Virginia,MN:MN,TOTAL,All students,227.598382221255,0,1
+state,RED,4,2017,VT,Vermont,MN:MN,TOTAL,All students,226.445343411035,0,1
+state,RED,4,2017,WA,Washington,MN:MN,TOTAL,All students,223.123408781764,0,1
+state,RED,4,2017,WI,Wisconsin,MN:MN,TOTAL,All students,219.612694271246,0,1
+state,RED,4,2017,WV,West Virginia,MN:MN,TOTAL,All students,217.316396173819,0,1
+state,RED,4,2017,WY,Wyoming,MN:MN,TOTAL,All students,226.83121099577,0,1
+state,RED,4,2019,RI,Rhode Island,MN:MN,TOTAL,All students,220.193475524749,0,1
+state,RED,4,2019,SC,South Carolina,MN:MN,TOTAL,All students,215.981732374201,0,1
+state,RED,4,2019,SD,South Dakota,MN:MN,TOTAL,All students,222.004520540202,0,1
+state,RED,4,2019,TN,Tennessee,MN:MN,TOTAL,All students,219.061110000096,0,1
+state,RED,4,2019,TX,Texas,MN:MN,TOTAL,All students,216.044998438523,0,1
+state,RED,4,2019,UT,Utah,MN:MN,TOTAL,All students,225.148646813036,0,1
+state,RED,4,2019,VA,Virginia,MN:MN,TOTAL,All students,223.641834613407,0,1
+state,RED,4,2019,VT,Vermont,MN:MN,TOTAL,All students,221.825911338781,0,1
+state,RED,4,2019,WA,Washington,MN:MN,TOTAL,All students,219.692800380164,0,1
+state,RED,4,2019,WI,Wisconsin,MN:MN,TOTAL,All students,219.704274445441,0,1
+state,RED,4,2019,WV,West Virginia,MN:MN,TOTAL,All students,213.184518276667,0,1
+state,RED,4,2019,WY,Wyoming,MN:MN,TOTAL,All students,226.690277671218,0,1
+state,RED,4,2022,RI,Rhode Island,MN:MN,TOTAL,All students,217.261164309337,0,1
+state,RED,4,2022,SC,South Carolina,MN:MN,TOTAL,All students,216.388794375541,0,1
+state,RED,4,2022,SD,South Dakota,MN:MN,TOTAL,All students,218.067398995857,0,1
+state,RED,4,2022,TN,Tennessee,MN:MN,TOTAL,All students,214.000841671919,0,1
+state,RED,4,2022,TX,Texas,MN:MN,TOTAL,All students,214.198243688727,0,1
+state,RED,4,2022,UT,Utah,MN:MN,TOTAL,All students,221.085903820864,0,1
+state,RED,4,2022,VA,Virginia,MN:MN,TOTAL,All students,214.035607766354,0,1
+state,RED,4,2022,VT,Vermont,MN:MN,TOTAL,All students,216.982897590298,0,1
+state,RED,4,2022,WA,Washington,MN:MN,TOTAL,All students,216.690692889093,0,1
+state,RED,4,2022,WI,Wisconsin,MN:MN,TOTAL,All students,217.373606249923,0,1
+state,RED,4,2022,WV,West Virginia,MN:MN,TOTAL,All students,205.310453431884,0,1
+state,RED,4,2022,WY,Wyoming,MN:MN,TOTAL,All students,224.7935690166,0,1
+state,RED,4,2024,RI,Rhode Island,MN:MN,TOTAL,All students,216.300464930226,0,1
+state,RED,4,2024,SC,South Carolina,MN:MN,TOTAL,All students,214.909030050636,0,1
+state,RED,4,2024,SD,South Dakota,MN:MN,TOTAL,All students,214.054601095028,0,1
+state,RED,4,2024,TN,Tennessee,MN:MN,TOTAL,All students,215.059848694056,0,1
+state,RED,4,2024,TX,Texas,MN:MN,TOTAL,All students,211.922709722091,0,1
+state,RED,4,2024,UT,Utah,MN:MN,TOTAL,All students,219.323655324309,0,1
+state,RED,4,2024,VA,Virginia,MN:MN,TOTAL,All students,214.105878066384,0,1
+state,RED,4,2024,VT,Vermont,MN:MN,TOTAL,All students,212.685018123322,0,1
+state,RED,4,2024,WA,Washington,MN:MN,TOTAL,All students,215.715249116431,0,1
+state,RED,4,2024,WI,Wisconsin,MN:MN,TOTAL,All students,215.316172837383,0,1
+state,RED,4,2024,WV,West Virginia,MN:MN,TOTAL,All students,205.869976709566,0,1
+state,RED,4,2024,WY,Wyoming,MN:MN,TOTAL,All students,221.942661544784,0,1
+state,RED,8,2013,AK,Alaska,MN:MN,TOTAL,All students,261.256092625584,0,1
+state,RED,8,2013,AL,Alabama,MN:MN,TOTAL,All students,257.427838227608,0,1
+state,RED,8,2013,AR,Arkansas,MN:MN,TOTAL,All students,261.964490796451,0,1
+state,RED,8,2013,AZ,Arizona,MN:MN,TOTAL,All students,260.448287236627,0,1
+state,RED,8,2013,CA,California,MN:MN,TOTAL,All students,261.502455658701,0,1
+state,RED,8,2013,CO,Colorado,MN:MN,TOTAL,All students,271.009086942572,0,1
+state,RED,8,2013,CT,Connecticut,MN:MN,TOTAL,All students,274.459542474537,0,1
+state,RED,8,2013,DC,District of Columbia,MN:MN,TOTAL,All students,247.739153738325,0,1
+state,RED,8,2013,DE,Delaware,MN:MN,TOTAL,All students,265.984981498562,0,1
+state,RED,8,2013,FL,Florida,MN:MN,TOTAL,All students,265.828297127322,0,1
+state,RED,8,2013,GA,Georgia,MN:MN,TOTAL,All students,264.615713463699,0,1
+state,RED,8,2013,HI,Hawaii,MN:MN,TOTAL,All students,259.960569546835,0,1
+state,RED,8,2013,ID,Idaho,MN:MN,TOTAL,All students,270.224168550562,0,1
+state,RED,8,2015,AK,Alaska,MN:MN,TOTAL,All students,260.317018773005,0,1
+state,RED,8,2015,AL,Alabama,MN:MN,TOTAL,All students,258.753761500039,0,1
+state,RED,8,2015,AR,Arkansas,MN:MN,TOTAL,All students,258.768267976658,0,1
+state,RED,8,2015,AZ,Arizona,MN:MN,TOTAL,All students,262.769391809157,0,1
+state,RED,8,2015,CA,California,MN:MN,TOTAL,All students,258.986842564294,0,1
+state,RED,8,2015,CO,Colorado,MN:MN,TOTAL,All students,268.073225333677,0,1
+state,RED,8,2015,CT,Connecticut,MN:MN,TOTAL,All students,273.048030410962,0,1
+state,RED,8,2015,DC,District of Columbia,MN:MN,TOTAL,All students,247.653444946724,0,1
+state,RED,8,2015,DE,Delaware,MN:MN,TOTAL,All students,262.613290731544,0,1
+state,RED,8,2015,FL,Florida,MN:MN,TOTAL,All students,263.383001406664,0,1
+state,RED,8,2015,GA,Georgia,MN:MN,TOTAL,All students,262.268605314622,0,1
+state,RED,8,2015,HI,Hawaii,MN:MN,TOTAL,All students,257.35043981355,0,1
+state,RED,8,2015,ID,Idaho,MN:MN,TOTAL,All students,268.553479550783,0,1
+state,RED,8,2017,AK,Alaska,MN:MN,TOTAL,All students,257.667496756549,0,1
+state,RED,8,2017,AL,Alabama,MN:MN,TOTAL,All students,257.686520320925,0,1
+state,RED,8,2017,AR,Arkansas,MN:MN,TOTAL,All students,259.95579848311,0,1
+state,RED,8,2017,AZ,Arizona,MN:MN,TOTAL,All students,262.957456729335,0,1
+state,RED,8,2017,CA,California,MN:MN,TOTAL,All students,262.520630021396,0,1
+state,RED,8,2017,CO,Colorado,MN:MN,TOTAL,All students,270.338688509674,0,1
+state,RED,8,2017,CT,Connecticut,MN:MN,TOTAL,All students,272.537711456234,0,1
+state,RED,8,2017,DC,District of Columbia,MN:MN,TOTAL,All students,246.78775540229,0,1
+state,RED,8,2017,DE,Delaware,MN:MN,TOTAL,All students,263.089089818878,0,1
+state,RED,8,2017,FL,Florida,MN:MN,TOTAL,All students,266.553368977303,0,1
+state,RED,8,2017,GA,Georgia,MN:MN,TOTAL,All students,266.33044082589,0,1
+state,RED,8,2017,HI,Hawaii,MN:MN,TOTAL,All students,260.982318855375,0,1
+state,RED,8,2017,ID,Idaho,MN:MN,TOTAL,All students,269.673095440861,0,1
+state,RED,8,2019,AK,Alaska,MN:MN,TOTAL,All students,252.385089216065,0,1
+state,RED,8,2019,AL,Alabama,MN:MN,TOTAL,All students,253.398604872946,0,1
+state,RED,8,2019,AR,Arkansas,MN:MN,TOTAL,All students,258.78275377192,0,1
+state,RED,8,2019,AZ,Arizona,MN:MN,TOTAL,All students,259.480352131611,0,1
+state,RED,8,2019,CA,California,MN:MN,TOTAL,All students,258.829734032213,0,1
+state,RED,8,2019,CO,Colorado,MN:MN,TOTAL,All students,267.307705573783,0,1
+state,RED,8,2019,CT,Connecticut,MN:MN,TOTAL,All students,269.719107358588,0,1
+state,RED,8,2019,DC,District of Columbia,MN:MN,TOTAL,All students,249.81439917522,0,1
+state,RED,8,2019,DE,Delaware,MN:MN,TOTAL,All students,259.679402371344,0,1
+state,RED,8,2019,FL,Florida,MN:MN,TOTAL,All students,263.352557734343,0,1
+state,RED,8,2019,GA,Georgia,MN:MN,TOTAL,All students,262.386099206627,0,1
+state,RED,8,2019,HI,Hawaii,MN:MN,TOTAL,All students,258.159133626579,0,1
+state,RED,8,2019,ID,Idaho,MN:MN,TOTAL,All students,266.48281590721,0,1
+state,RED,8,2022,AK,Alaska,MN:MN,TOTAL,All students,252.553242858184,0,1
+state,RED,8,2022,AL,Alabama,MN:MN,TOTAL,All students,250.895926965125,0,1
+state,RED,8,2022,AR,Arkansas,MN:MN,TOTAL,All students,255.04244394381,0,1
+state,RED,8,2022,AZ,Arizona,MN:MN,TOTAL,All students,258.52899360086,0,1
+state,RED,8,2022,CA,California,MN:MN,TOTAL,All students,258.785181090586,0,1
+state,RED,8,2022,CO,Colorado,MN:MN,TOTAL,All students,263.454560711468,0,1
+state,RED,8,2022,CT,Connecticut,MN:MN,TOTAL,All students,263.807355777347,0,1
+state,RED,8,2022,DC,District of Columbia,MN:MN,TOTAL,All students,249.706657752553,0,1
+state,RED,8,2022,DE,Delaware,MN:MN,TOTAL,All students,253.007183169647,0,1
+state,RED,8,2022,FL,Florida,MN:MN,TOTAL,All students,259.631409925572,0,1
+state,RED,8,2022,GA,Georgia,MN:MN,TOTAL,All students,259.986245607579,0,1
+state,RED,8,2022,HI,Hawaii,MN:MN,TOTAL,All students,258.9835163369,0,1
+state,RED,8,2022,ID,Idaho,MN:MN,TOTAL,All students,263.535263579042,0,1
+state,RED,8,2024,AK,Alaska,MN:MN,TOTAL,All students,246.448911890448,0,1
+state,RED,8,2024,AL,Alabama,MN:MN,TOTAL,All students,249.60009682329,0,1
+state,RED,8,2024,AR,Arkansas,MN:MN,TOTAL,All students,254.774995307253,0,1
+state,RED,8,2024,AZ,Arizona,MN:MN,TOTAL,All students,254.343065835469,0,1
+state,RED,8,2024,CA,California,MN:MN,TOTAL,All students,254.372086569589,0,1
+state,RED,8,2024,CO,Colorado,MN:MN,TOTAL,All students,264.537032597706,0,1
+state,RED,8,2024,CT,Connecticut,MN:MN,TOTAL,All students,263.097427626236,0,1
+state,RED,8,2024,DC,District of Columbia,MN:MN,TOTAL,All students,251.297742017382,0,1
+state,RED,8,2024,DE,Delaware,MN:MN,TOTAL,All students,249.451534365685,0,1
+state,RED,8,2024,FL,Florida,MN:MN,TOTAL,All students,252.857903224996,0,1
+state,RED,8,2024,GA,Georgia,MN:MN,TOTAL,All students,259.326928809736,0,1
+state,RED,8,2024,HI,Hawaii,MN:MN,TOTAL,All students,257.283562729771,0,1
+state,RED,8,2024,ID,Idaho,MN:MN,TOTAL,All students,260.728544479058,0,1
+state,RED,8,2013,IA,Iowa,MN:MN,TOTAL,All students,269.003449619325,0,1
+state,RED,8,2013,IL,Illinois,MN:MN,TOTAL,All students,266.898720958132,0,1
+state,RED,8,2013,IN,Indiana,MN:MN,TOTAL,All students,267.272974657765,0,1
+state,RED,8,2013,KS,Kansas,MN:MN,TOTAL,All students,266.887523609855,0,1
+state,RED,8,2013,KY,Kentucky,MN:MN,TOTAL,All students,269.616471686598,0,1
+state,RED,8,2013,LA,Louisiana,MN:MN,TOTAL,All students,257.351242737394,0,1
+state,RED,8,2013,MA,Massachusetts,MN:MN,TOTAL,All students,277.009559086016,0,1
+state,RED,8,2013,MD,Maryland,MN:MN,TOTAL,All students,273.801903090503,0,1
+state,RED,8,2013,ME,Maine,MN:MN,TOTAL,All students,269.193764016326,0,1
+state,RED,8,2013,MI,Michigan,MN:MN,TOTAL,All students,265.942963067388,0,1
+state,RED,8,2013,MN,Minnesota,MN:MN,TOTAL,All students,271.019654579448,0,1
+state,RED,8,2013,MO,Missouri,MN:MN,TOTAL,All students,267.215011778953,0,1
+state,RED,8,2013,MS,Mississippi,MN:MN,TOTAL,All students,253.147818177655,0,1
+state,RED,8,2015,IA,Iowa,MN:MN,TOTAL,All students,268.200596266662,0,1
+state,RED,8,2015,IL,Illinois,MN:MN,TOTAL,All students,266.806728332711,0,1
+state,RED,8,2015,IN,Indiana,MN:MN,TOTAL,All students,268.253467680035,0,1
+state,RED,8,2015,KS,Kansas,MN:MN,TOTAL,All students,266.76553060986,0,1
+state,RED,8,2015,KY,Kentucky,MN:MN,TOTAL,All students,267.772900145423,0,1
+state,RED,8,2015,LA,Louisiana,MN:MN,TOTAL,All students,255.469417777569,0,1
+state,RED,8,2015,MA,Massachusetts,MN:MN,TOTAL,All students,274.497568115749,0,1
+state,RED,8,2015,MD,Maryland,MN:MN,TOTAL,All students,267.905529723763,0,1
+state,RED,8,2015,ME,Maine,MN:MN,TOTAL,All students,268.391236298695,0,1
+state,RED,8,2015,MI,Michigan,MN:MN,TOTAL,All students,264.496755061626,0,1
+state,RED,8,2015,MN,Minnesota,MN:MN,TOTAL,All students,270.236817756262,0,1
+state,RED,8,2015,MO,Missouri,MN:MN,TOTAL,All students,266.876351831946,0,1
+state,RED,8,2015,MS,Mississippi,MN:MN,TOTAL,All students,251.976165209278,0,1
+state,RED,8,2017,IA,Iowa,MN:MN,TOTAL,All students,267.675678851787,0,1
+state,RED,8,2017,IL,Illinois,MN:MN,TOTAL,All students,266.928549776657,0,1
+state,RED,8,2017,IN,Indiana,MN:MN,TOTAL,All students,272.023875675737,0,1
+state,RED,8,2017,KS,Kansas,MN:MN,TOTAL,All students,267.490027797007,0,1
+state,RED,8,2017,KY,Kentucky,MN:MN,TOTAL,All students,265.133438043566,0,1
+state,RED,8,2017,LA,Louisiana,MN:MN,TOTAL,All students,256.751471206395,0,1
+state,RED,8,2017,MA,Massachusetts,MN:MN,TOTAL,All students,277.782588599843,0,1
+state,RED,8,2017,MD,Maryland,MN:MN,TOTAL,All students,267.250532713498,0,1
+state,RED,8,2017,ME,Maine,MN:MN,TOTAL,All students,268.93063240911,0,1
+state,RED,8,2017,MI,Michigan,MN:MN,TOTAL,All students,265.468927541301,0,1
+state,RED,8,2017,MN,Minnesota,MN:MN,TOTAL,All students,268.616822331955,0,1
+state,RED,8,2017,MO,Missouri,MN:MN,TOTAL,All students,266.035006915021,0,1
+state,RED,8,2017,MS,Mississippi,MN:MN,TOTAL,All students,256.344701137275,0,1
+state,RED,8,2019,IA,Iowa,MN:MN,TOTAL,All students,262.329032641702,0,1
+state,RED,8,2019,IL,Illinois,MN:MN,TOTAL,All students,264.695664812992,0,1
+state,RED,8,2019,IN,Indiana,MN:MN,TOTAL,All students,265.954997612053,0,1
+state,RED,8,2019,KS,Kansas,MN:MN,TOTAL,All students,262.819050847892,0,1
+state,RED,8,2019,KY,Kentucky,MN:MN,TOTAL,All students,262.9635373774,0,1
+state,RED,8,2019,LA,Louisiana,MN:MN,TOTAL,All students,257.421808574891,0,1
+state,RED,8,2019,MA,Massachusetts,MN:MN,TOTAL,All students,273.113031464996,0,1
+state,RED,8,2019,MD,Maryland,MN:MN,TOTAL,All students,264.389022442559,0,1
+state,RED,8,2019,ME,Maine,MN:MN,TOTAL,All students,265.168656113462,0,1
+state,RED,8,2019,MI,Michigan,MN:MN,TOTAL,All students,262.579893670719,0,1
+state,RED,8,2019,MN,Minnesota,MN:MN,TOTAL,All students,263.813360590386,0,1
+state,RED,8,2019,MO,Missouri,MN:MN,TOTAL,All students,263.292024270598,0,1
+state,RED,8,2019,MS,Mississippi,MN:MN,TOTAL,All students,256.380475226081,0,1
+state,RED,8,2022,IA,Iowa,MN:MN,TOTAL,All students,259.767473810611,0,1
+state,RED,8,2022,IL,Illinois,MN:MN,TOTAL,All students,261.885979305147,0,1
+state,RED,8,2022,IN,Indiana,MN:MN,TOTAL,All students,260.504242115985,0,1
+state,RED,8,2022,KS,Kansas,MN:MN,TOTAL,All students,256.182078264314,0,1
+state,RED,8,2022,KY,Kentucky,MN:MN,TOTAL,All students,258.49198679453,0,1
+state,RED,8,2022,LA,Louisiana,MN:MN,TOTAL,All students,256.645731498475,0,1
+state,RED,8,2022,MA,Massachusetts,MN:MN,TOTAL,All students,268.753284817946,0,1
+state,RED,8,2022,MD,Maryland,MN:MN,TOTAL,All students,259.293557884938,0,1
+state,RED,8,2022,ME,Maine,MN:MN,TOTAL,All students,256.711628244573,0,1
+state,RED,8,2022,MI,Michigan,MN:MN,TOTAL,All students,258.514937797666,0,1
+state,RED,8,2022,MN,Minnesota,MN:MN,TOTAL,All students,260.469458119705,0,1
+state,RED,8,2022,MO,Missouri,MN:MN,TOTAL,All students,257.625326475664,0,1
+state,RED,8,2022,MS,Mississippi,MN:MN,TOTAL,All students,252.928904243024,0,1
+state,RED,8,2024,IA,Iowa,MN:MN,TOTAL,All students,260.700823621737,0,1
+state,RED,8,2024,IL,Illinois,MN:MN,TOTAL,All students,261.61991010845,0,1
+state,RED,8,2024,IN,Indiana,MN:MN,TOTAL,All students,261.657813224993,0,1
+state,RED,8,2024,KS,Kansas,MN:MN,TOTAL,All students,255.490124899527,0,1
+state,RED,8,2024,KY,Kentucky,MN:MN,TOTAL,All students,257.999548306392,0,1
+state,RED,8,2024,LA,Louisiana,MN:MN,TOTAL,All students,256.534204237025,0,1
+state,RED,8,2024,MA,Massachusetts,MN:MN,TOTAL,All students,268.01134585951,0,1
+state,RED,8,2024,MD,Maryland,MN:MN,TOTAL,All students,258.323688032782,0,1
+state,RED,8,2024,ME,Maine,MN:MN,TOTAL,All students,255.04307191495,0,1
+state,RED,8,2024,MI,Michigan,MN:MN,TOTAL,All students,255.062217154613,0,1
+state,RED,8,2024,MN,Minnesota,MN:MN,TOTAL,All students,260.066146684754,0,1
+state,RED,8,2024,MO,Missouri,MN:MN,TOTAL,All students,255.280888010341,0,1
+state,RED,8,2024,MS,Mississippi,MN:MN,TOTAL,All students,253.466620687592,0,1
+state,RED,8,2013,MT,Montana,MN:MN,TOTAL,All students,271.765782480696,0,1
+state,RED,8,2013,NC,North Carolina,MN:MN,TOTAL,All students,264.540999710832,0,1
+state,RED,8,2013,ND,North Dakota,MN:MN,TOTAL,All students,267.779199654396,0,1
+state,RED,8,2013,NE,Nebraska,MN:MN,TOTAL,All students,269.221914635868,0,1
+state,RED,8,2013,NH,New Hampshire,MN:MN,TOTAL,All students,274.307731748779,0,1
+state,RED,8,2013,NJ,New Jersey,MN:MN,TOTAL,All students,276.37798779341,0,1
+state,RED,8,2013,NM,New Mexico,MN:MN,TOTAL,All students,255.870077046042,0,1
+state,RED,8,2013,NV,Nevada,MN:MN,TOTAL,All students,261.695982235772,0,1
+state,RED,8,2013,NY,New York,MN:MN,TOTAL,All students,266.346063235407,0,1
+state,RED,8,2013,OH,Ohio,MN:MN,TOTAL,All students,269.086973442103,0,1
+state,RED,8,2013,OK,Oklahoma,MN:MN,TOTAL,All students,261.931495221637,0,1
+state,RED,8,2013,OR,Oregon,MN:MN,TOTAL,All students,268.282662715666,0,1
+state,RED,8,2013,PA,Pennsylvania,MN:MN,TOTAL,All students,272.085365342425,0,1
+state,RED,8,2015,MT,Montana,MN:MN,TOTAL,All students,269.956777592733,0,1
+state,RED,8,2015,NC,North Carolina,MN:MN,TOTAL,All students,260.594556550199,0,1
+state,RED,8,2015,ND,North Dakota,MN:MN,TOTAL,All students,266.95532299054,0,1
+state,RED,8,2015,NE,Nebraska,MN:MN,TOTAL,All students,269.426210864772,0,1
+state,RED,8,2015,NH,New Hampshire,MN:MN,TOTAL,All students,274.8067462817,0,1
+state,RED,8,2015,NJ,New Jersey,MN:MN,TOTAL,All students,270.85371153053,0,1
+state,RED,8,2015,NM,New Mexico,MN:MN,TOTAL,All students,253.227767643793,0,1
+state,RED,8,2015,NV,Nevada,MN:MN,TOTAL,All students,259.417376365165,0,1
+state,RED,8,2015,NY,New York,MN:MN,TOTAL,All students,263.247658592835,0,1
+state,RED,8,2015,OH,Ohio,MN:MN,TOTAL,All students,265.879220258589,0,1
+state,RED,8,2015,OK,Oklahoma,MN:MN,TOTAL,All students,262.673145850428,0,1
+state,RED,8,2015,OR,Oregon,MN:MN,TOTAL,All students,267.670519675172,0,1
+state,RED,8,2015,PA,Pennsylvania,MN:MN,TOTAL,All students,268.746120751013,0,1
+state,RED,8,2017,MT,Montana,MN:MN,TOTAL,All students,267.208219320757,0,1
+state,RED,8,2017,NC,North Carolina,MN:MN,TOTAL,All students,262.720476897929,0,1
+state,RED,8,2017,ND,North Dakota,MN:MN,TOTAL,All students,265.081921805495,0,1
+state,RED,8,2017,NE,Nebraska,MN:MN,TOTAL,All students,268.528555260402,0,1
+state,RED,8,2017,NH,New Hampshire,MN:MN,TOTAL,All students,274.786039733195,0,1
+state,RED,8,2017,NJ,New Jersey,MN:MN,TOTAL,All students,275.04455230693,0,1
+state,RED,8,2017,NM,New Mexico,MN:MN,TOTAL,All students,255.578543060787,0,1
+state,RED,8,2017,NV,Nevada,MN:MN,TOTAL,All students,259.806407268129,0,1
+state,RED,8,2017,NY,New York,MN:MN,TOTAL,All students,264.15758419309,0,1
+state,RED,8,2017,OH,Ohio,MN:MN,TOTAL,All students,268.450641614295,0,1
+state,RED,8,2017,OK,Oklahoma,MN:MN,TOTAL,All students,261.236933515587,0,1
+state,RED,8,2017,OR,Oregon,MN:MN,TOTAL,All students,266.216684155209,0,1
+state,RED,8,2017,PA,Pennsylvania,MN:MN,TOTAL,All students,269.55382331575,0,1
+state,RED,8,2019,MT,Montana,MN:MN,TOTAL,All students,264.831687514546,0,1
+state,RED,8,2019,NC,North Carolina,MN:MN,TOTAL,All students,262.530279226334,0,1
+state,RED,8,2019,ND,North Dakota,MN:MN,TOTAL,All students,263.232797461833,0,1
+state,RED,8,2019,NE,Nebraska,MN:MN,TOTAL,All students,263.989105578988,0,1
+state,RED,8,2019,NH,New Hampshire,MN:MN,TOTAL,All students,267.950506818944,0,1
+state,RED,8,2019,NJ,New Jersey,MN:MN,TOTAL,All students,270.357938474977,0,1
+state,RED,8,2019,NM,New Mexico,MN:MN,TOTAL,All students,251.699591686589,0,1
+state,RED,8,2019,NV,Nevada,MN:MN,TOTAL,All students,258.075061709817,0,1
+state,RED,8,2019,NY,New York,MN:MN,TOTAL,All students,261.75214468338,0,1
+state,RED,8,2019,OH,Ohio,MN:MN,TOTAL,All students,267.049051157634,0,1
+state,RED,8,2019,OK,Oklahoma,MN:MN,TOTAL,All students,258.197131397005,0,1
+state,RED,8,2019,OR,Oregon,MN:MN,TOTAL,All students,263.721671156725,0,1
+state,RED,8,2019,PA,Pennsylvania,MN:MN,TOTAL,All students,264.180562730245,0,1
+state,RED,8,2022,MT,Montana,MN:MN,TOTAL,All students,261.184863122528,0,1
+state,RED,8,2022,NC,North Carolina,MN:MN,TOTAL,All students,256.156371582761,0,1
+state,RED,8,2022,ND,North Dakota,MN:MN,TOTAL,All students,258.083568067166,0,1
+state,RED,8,2022,NE,Nebraska,MN:MN,TOTAL,All students,259.313241223676,0,1
+state,RED,8,2022,NH,New Hampshire,MN:MN,TOTAL,All students,263.182164385216,0,1
+state,RED,8,2022,NJ,New Jersey,MN:MN,TOTAL,All students,269.783593975822,0,1
+state,RED,8,2022,NM,New Mexico,MN:MN,TOTAL,All students,247.798592786218,0,1
+state,RED,8,2022,NV,Nevada,MN:MN,TOTAL,All students,258.889380790852,0,1
+state,RED,8,2022,NY,New York,MN:MN,TOTAL,All students,261.656845277671,0,1
+state,RED,8,2022,OH,Ohio,MN:MN,TOTAL,All students,261.99738322069,0,1
+state,RED,8,2022,OK,Oklahoma,MN:MN,TOTAL,All students,251.295531201592,0,1
+state,RED,8,2022,OR,Oregon,MN:MN,TOTAL,All students,257.051773431229,0,1
+state,RED,8,2022,PA,Pennsylvania,MN:MN,TOTAL,All students,259.099219218508,0,1
+state,RED,8,2024,MT,Montana,MN:MN,TOTAL,All students,260.53233472843,0,1
+state,RED,8,2024,NC,North Carolina,MN:MN,TOTAL,All students,254.901868130391,0,1
+state,RED,8,2024,ND,North Dakota,MN:MN,TOTAL,All students,257.390714797099,0,1
+state,RED,8,2024,NE,Nebraska,MN:MN,TOTAL,All students,256.132485931986,0,1
+state,RED,8,2024,NH,New Hampshire,MN:MN,TOTAL,All students,263.913058116918,0,1
+state,RED,8,2024,NJ,New Jersey,MN:MN,TOTAL,All students,265.962586543416,0,1
+state,RED,8,2024,NM,New Mexico,MN:MN,TOTAL,All students,245.055931705886,0,1
+state,RED,8,2024,NV,Nevada,MN:MN,TOTAL,All students,253.286888821065,0,1
+state,RED,8,2024,NY,New York,MN:MN,TOTAL,All students,256.867847392969,0,1
+state,RED,8,2024,OH,Ohio,MN:MN,TOTAL,All students,260.420681003641,0,1
+state,RED,8,2024,OK,Oklahoma,MN:MN,TOTAL,All students,248.787388013967,0,1
+state,RED,8,2024,OR,Oregon,MN:MN,TOTAL,All students,254.829850771172,0,1
+state,RED,8,2024,PA,Pennsylvania,MN:MN,TOTAL,All students,259.147392115949,0,1
+state,RED,8,2013,RI,Rhode Island,MN:MN,TOTAL,All students,266.677052388789,0,1
+state,RED,8,2013,SC,South Carolina,MN:MN,TOTAL,All students,261.449050699613,0,1
+state,RED,8,2013,SD,South Dakota,MN:MN,TOTAL,All students,268.100772835989,0,1
+state,RED,8,2013,TN,Tennessee,MN:MN,TOTAL,All students,265.359504625647,0,1
+state,RED,8,2013,TX,Texas,MN:MN,TOTAL,All students,263.684137731278,0,1
+state,RED,8,2013,UT,Utah,MN:MN,TOTAL,All students,270.041925765873,0,1
+state,RED,8,2013,VA,Virginia,MN:MN,TOTAL,All students,267.589864309109,0,1
+state,RED,8,2013,VT,Vermont,MN:MN,TOTAL,All students,274.368547733738,0,1
+state,RED,8,2013,WA,Washington,MN:MN,TOTAL,All students,272.036124410819,0,1
+state,RED,8,2013,WI,Wisconsin,MN:MN,TOTAL,All students,267.542994187833,0,1
+state,RED,8,2013,WV,West Virginia,MN:MN,TOTAL,All students,257.383509312362,0,1
+state,RED,8,2013,WY,Wyoming,MN:MN,TOTAL,All students,270.966172221906,0,1
+state,RED,8,2015,RI,Rhode Island,MN:MN,TOTAL,All students,265.050857832059,0,1
+state,RED,8,2015,SC,South Carolina,MN:MN,TOTAL,All students,260.331422813083,0,1
+state,RED,8,2015,SD,South Dakota,MN:MN,TOTAL,All students,267.079864989695,0,1
+state,RED,8,2015,TN,Tennessee,MN:MN,TOTAL,All students,264.771228998921,0,1
+state,RED,8,2015,TX,Texas,MN:MN,TOTAL,All students,260.655135980903,0,1
+state,RED,8,2015,UT,Utah,MN:MN,TOTAL,All students,269.430664700586,0,1
+state,RED,8,2015,VA,Virginia,MN:MN,TOTAL,All students,266.836053468874,0,1
+state,RED,8,2015,VT,Vermont,MN:MN,TOTAL,All students,273.961831447048,0,1
+state,RED,8,2015,WA,Washington,MN:MN,TOTAL,All students,267.250880666457,0,1
+state,RED,8,2015,WI,Wisconsin,MN:MN,TOTAL,All students,269.533726363214,0,1
+state,RED,8,2015,WV,West Virginia,MN:MN,TOTAL,All students,260.185272642999,0,1
+state,RED,8,2015,WY,Wyoming,MN:MN,TOTAL,All students,268.803363090763,0,1
+state,RED,8,2017,RI,Rhode Island,MN:MN,TOTAL,All students,265.767859953914,0,1
+state,RED,8,2017,SC,South Carolina,MN:MN,TOTAL,All students,259.753002398086,0,1
+state,RED,8,2017,SD,South Dakota,MN:MN,TOTAL,All students,267.355726574154,0,1
+state,RED,8,2017,TN,Tennessee,MN:MN,TOTAL,All students,262.046852903713,0,1
+state,RED,8,2017,TX,Texas,MN:MN,TOTAL,All students,260.342576542804,0,1
+state,RED,8,2017,UT,Utah,MN:MN,TOTAL,All students,268.7524196631,0,1
+state,RED,8,2017,VA,Virginia,MN:MN,TOTAL,All students,267.744778499104,0,1
+state,RED,8,2017,VT,Vermont,MN:MN,TOTAL,All students,273.402640307413,0,1
+state,RED,8,2017,WA,Washington,MN:MN,TOTAL,All students,271.617022995208,0,1
+state,RED,8,2017,WI,Wisconsin,MN:MN,TOTAL,All students,269.371456395493,0,1
+state,RED,8,2017,WV,West Virginia,MN:MN,TOTAL,All students,258.700303604492,0,1
+state,RED,8,2017,WY,Wyoming,MN:MN,TOTAL,All students,269.020028155068,0,1
+state,RED,8,2019,RI,Rhode Island,MN:MN,TOTAL,All students,262.146157582051,0,1
+state,RED,8,2019,SC,South Carolina,MN:MN,TOTAL,All students,258.976515885229,0,1
+state,RED,8,2019,SD,South Dakota,MN:MN,TOTAL,All students,262.770856466814,0,1
+state,RED,8,2019,TN,Tennessee,MN:MN,TOTAL,All students,262.462713482116,0,1
+state,RED,8,2019,TX,Texas,MN:MN,TOTAL,All students,255.742396588221,0,1
+state,RED,8,2019,UT,Utah,MN:MN,TOTAL,All students,267.417962093047,0,1
+state,RED,8,2019,VA,Virginia,MN:MN,TOTAL,All students,261.798121159611,0,1
+state,RED,8,2019,VT,Vermont,MN:MN,TOTAL,All students,268.481107043375,0,1
+state,RED,8,2019,WA,Washington,MN:MN,TOTAL,All students,266.277038164971,0,1
+state,RED,8,2019,WI,Wisconsin,MN:MN,TOTAL,All students,267.383822656073,0,1
+state,RED,8,2019,WV,West Virginia,MN:MN,TOTAL,All students,255.624126301159,0,1
+state,RED,8,2019,WY,Wyoming,MN:MN,TOTAL,All students,264.64162610574,0,1
+state,RED,8,2022,RI,Rhode Island,MN:MN,TOTAL,All students,259.392585006254,0,1
+state,RED,8,2022,SC,South Carolina,MN:MN,TOTAL,All students,253.86936782685,0,1
+state,RED,8,2022,SD,South Dakota,MN:MN,TOTAL,All students,261.839459552595,0,1
+state,RED,8,2022,TN,Tennessee,MN:MN,TOTAL,All students,257.559768339582,0,1
+state,RED,8,2022,TX,Texas,MN:MN,TOTAL,All students,255.173642493018,0,1
+state,RED,8,2022,UT,Utah,MN:MN,TOTAL,All students,265.218539076709,0,1
+state,RED,8,2022,VA,Virginia,MN:MN,TOTAL,All students,259.551310888157,0,1
+state,RED,8,2022,VT,Vermont,MN:MN,TOTAL,All students,263.779222922225,0,1
+state,RED,8,2022,WA,Washington,MN:MN,TOTAL,All students,261.539145444344,0,1
+state,RED,8,2022,WI,Wisconsin,MN:MN,TOTAL,All students,262.229783504344,0,1
+state,RED,8,2022,WV,West Virginia,MN:MN,TOTAL,All students,249.404708818444,0,1
+state,RED,8,2022,WY,Wyoming,MN:MN,TOTAL,All students,260.767448966272,0,1
+state,RED,8,2024,RI,Rhode Island,MN:MN,TOTAL,All students,257.767653131533,0,1
+state,RED,8,2024,SC,South Carolina,MN:MN,TOTAL,All students,253.687785775905,0,1
+state,RED,8,2024,SD,South Dakota,MN:MN,TOTAL,All students,259.886371256103,0,1
+state,RED,8,2024,TN,Tennessee,MN:MN,TOTAL,All students,258.965371035822,0,1
+state,RED,8,2024,TX,Texas,MN:MN,TOTAL,All students,252.267112664857,0,1
+state,RED,8,2024,UT,Utah,MN:MN,TOTAL,All students,261.193782118997,0,1
+state,RED,8,2024,VA,Virginia,MN:MN,TOTAL,All students,256.257512495574,0,1
+state,RED,8,2024,VT,Vermont,MN:MN,TOTAL,All students,257.283374473835,0,1
+state,RED,8,2024,WA,Washington,MN:MN,TOTAL,All students,259.269118662247,0,1
+state,RED,8,2024,WI,Wisconsin,MN:MN,TOTAL,All students,260.090272594273,0,1
+state,RED,8,2024,WV,West Virginia,MN:MN,TOTAL,All students,247.360374392079,0,1
+state,RED,8,2024,WY,Wyoming,MN:MN,TOTAL,All students,259.967322974106,0,1

@@ -1,0 +1,300 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1.1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage[hidelinks]{hyperref}
+\usepackage{url}
+\usepackage{natbib}
+\bibliographystyle{apalike}
+\captionsetup{font=small,labelfont=bf}
+\graphicspath{{../figures/}}
+\setlength{\parskip}{2pt}
+
+\title{Why Did American Student Achievement Decline?\\[4pt]
+\large Verifying the Trends and Testing Competing Explanations with NAEP Data}
+\author{}
+\date{June 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent American student achievement has fallen substantially over the past decade. Using data drawn directly from the National Assessment of Educational Progress (NAEP) Data Service API---national means and percentiles for mathematics and reading in grades 4 and 8 (1990--2024), the Long-Term Trend (LTT) assessment (1971--2023), state-level means, and demographic subgroups---this report first verifies the decline and characterizes its timing, distribution, and geography, then systematically evaluates eight candidate explanations. The data show a \emph{two-phase} decline. Phase one (roughly 2013--2019) was a slow erosion concentrated almost entirely among the lowest-performing students: at age 13, scores at the 10th percentile of the LTT mathematics distribution fell 12.6 points between 2012 and 2020 while the 90th percentile was flat. Phase two (2020--2022) was an abrupt, across-the-board drop coinciding with pandemic schooling disruptions, followed by a weak and incomplete recovery that has stalled at the bottom of the distribution. By 2024, grade 8 reading stood at its lowest level ever recorded and the 90th--10th percentile gap in every grade--subject combination was the widest on record. Testing hypotheses against the timing, distributional, subgroup, geographic, and international evidence: pandemic disruption clearly caused phase two but cannot explain phase one; the retreat from test-based accountability after 2012 and the diffusion of smartphones and digital media match the timing and (for accountability) the bottom-concentrated signature of phase one, with the international synchrony of the decline favoring an important role for digital media; chronic absenteeism roughly doubled after 2020 and is a leading brake on recovery; demographic change, school funding cuts, and teacher shortages contribute little. No single cause is sufficient; the evidence is most consistent with a pre-pandemic erosion driven by weakened accountability pressure and displacement of reading and study time by screens, compounded by a pandemic shock whose effects have not been remediated.
+\end{abstract}
+
+\section{Introduction}
+
+For two decades beginning in the early 1990s, American students made steady, historically large gains on the National Assessment of Educational Progress (NAEP), the nation's longest-running and most credible barometer of K--12 achievement. Fourth-grade mathematics scores rose nearly a full standard deviation between 1990 and 2013. That era is over. Every major NAEP series peaked between 2012 and 2015 and has fallen since, with the steepest losses after 2019. The reversal is large: by 2024, average grade 8 mathematics scores had returned to their 2000 level, and grade 8 reading scores were the lowest ever recorded in the assessment's history.
+
+This report does two things. First, it \emph{verifies} the decline directly from primary data, pulling national, state, percentile, and subgroup statistics from the NCES NAEP Data Service API rather than relying on secondary summaries \citep{naepapi}. Second, it \emph{tests} eight candidate explanations against five kinds of evidence: (i) the timing of the decline; (ii) its distribution across the achievement spectrum; (iii) its incidence across demographic subgroups; (iv) its geography across states; and (v) its presence or absence in other countries. Most public discussion attributes the decline to the COVID-19 pandemic. A central finding of this report is that the pandemic explanation, while clearly correct for the 2019--2022 drop, is incomplete: between a quarter and three-quarters of the total decline (depending on grade and subject) either predates March 2020 or postdates the return to in-person schooling, and the pre-pandemic phase has a distinctive signature---losses concentrated almost entirely among low performers---that any complete explanation must fit.
+
+The analysis is descriptive and abductive rather than causal in the experimental sense: national test-score trends do not admit randomized variation, and several candidate causes operate simultaneously. The discipline imposed here is that each hypothesis generates predictions about timing, distribution, subgroups, geography, and international comparability, and is scored against all five. Hypotheses that fit one fact but contradict another are weighed accordingly.
+
+\section{Data}
+
+\paragraph{Main NAEP.} The primary data are national public- and private-school average scale scores and percentile scores (10th, 25th, 50th, 75th, 90th) for mathematics and reading at grades 4 and 8, for all assessment years from 1990 (mathematics) and 1992 (reading) through 2024, retrieved from the NAEP Data Service API \citep{naepapi}. Subgroup means (race/ethnicity, sex, National School Lunch Program eligibility) and state-level means for 2013--2024 were retrieved from the same source.\footnote{NSLP-eligibility breakdowns are available through 2022; the API does not return them for 2024. Pre-2003 national figures use the no-accommodations samples for 1990--1996 and accommodated samples thereafter, following NAEP reporting conventions. All scores were re-validated against published NAEP report-card values.} NAEP scale scores are reported on 0--500 scales; the within-grade student standard deviation (SD), estimated from the 2013 percentile spread, is roughly 29 points for grade 4 mathematics, 36 for grade 8 mathematics, and 34--36 for reading. A useful rule of thumb is that 10--12 NAEP points correspond to roughly one grade level of learning.
+
+\paragraph{Long-Term Trend (LTT) NAEP.} The LTT assessment has measured 9-, 13-, and 17-year-olds with substantially unchanged content since the early 1970s, providing the longest consistent yardstick. National means and percentiles for ages 9 and 13 (1971--2023) were compiled from the Digest of Education Statistics and the LTT Data Service and cross-validated against published highlights \citep{nces2023ltt}. Two timing facts make the LTT unusually valuable here: the age 9 ``2020'' assessment was administered in January--March 2020, \emph{immediately before} the pandemic school closures, and the age 13 ``2020'' assessment in fall 2019. These provide clean pre-pandemic endpoints.
+
+\paragraph{International assessments.} U.S. and OECD-average PISA scores (2000--2022) and U.S. TIMSS mathematics scores (2011--2023) are taken from NCES and OECD publications \citep{oecd2023,nces2024timss}.
+
+\paragraph{Contextual evidence.} Published causal and descriptive research is used to test specific hypotheses: pandemic schooling-mode studies \citep{goldhaber2023,jack2023}, district-level recovery analyses \citep{kane2024,kane2025}, absenteeism tracking \citep{malkus2025,dee2024}, accountability research \citep{deejacob2011}, and school-finance research \citep{jackson2016,jacksonmackevicius2024,jacksonwigger2021}.
+
+\section{Verifying the Decline}
+\label{sec:verify}
+
+\subsection{National trends: a peak around 2013, then two distinct drops}
+
+Figure~\ref{fig:national} plots national average scale scores for the four main NAEP series. All four rose strongly through the 2000s, peaked in 2013 (grade 4 reading in 2015, fractionally above its 2013 level), drifted downward through 2019, dropped sharply between 2019 and 2022, and---except for a partial rebound in grade 4 mathematics---continued falling or stagnated through 2024.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=.92\textwidth]{fig_national_trends.pdf}
+\caption{National average NAEP scale scores, 1990--2024. Dotted line marks 2013; shaded band marks the period of pandemic-disrupted schooling. Data: NAEP Data Service API.}
+\label{fig:national}
+\end{figure}
+
+\begin{table}[t]
+\centering\small
+\caption{National average score changes by period (NAEP scale points).}
+\label{tab:changes}
+\begin{tabular}{lccccc}
+\toprule
+ & \multicolumn{3}{c}{Change by period} & \multicolumn{2}{c}{Total 2013--2024} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-6}
+Series & 2013--19 & 2019--22 & 2022--24 & Points & SD units \\
+\midrule
+Mathematics, grade 4 & $-1.0$ & $-4.6$ & $+1.5$ & $-4.1$ & $-0.14$ \\
+Mathematics, grade 8 & $-2.6$ & $-7.7$ & $-0.4$ & $-10.8$ & $-0.30$ \\
+Reading, grade 4     & $-1.4$ & $-3.0$ & $-2.5$ & $-6.8$ & $-0.19$ \\
+Reading, grade 8     & $-4.4$ & $-2.7$ & $-2.4$ & $-9.5$ & $-0.28$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Table~\ref{tab:changes} decomposes the decline. Three observations matter for everything that follows. First, the total losses are large: 0.14--0.30 student-level SD, roughly one grade level of learning in grade 8. In level terms, 2024 grade 4 mathematics matches 2005; grade 8 mathematics matches 2000; grade 4 reading is below every year since 1998; and grade 8 reading (258.0) is below its previous historical minimum. Second, the pandemic window accounts for the majority of the mathematics decline (71\% of the grade 8 total) but \emph{less than half} of the reading decline at grade 8, where 46\% of the loss had already occurred by 2019. Third, the post-pandemic period has produced essentially no aggregate recovery: only grade 4 mathematics regained ground (about a third of its pandemic loss), while both reading series fell \emph{further} between 2022 and 2024.
+
+\subsection{The Long-Term Trend assessment confirms the timing}
+
+The LTT data (Figure~\ref{fig:ltt}) rule out the possibility that the main-NAEP decline is an artifact of framework or administration changes. On test content held essentially constant since the 1970s, age 9 and age 13 scores peaked in 2012 and were already falling before the pandemic: age 13 mathematics fell from 285 in 2012 to 280 in fall 2019, and age 13 reading from 263 to 260, \emph{before any school closed}. The pandemic then produced the largest drops ever recorded in the series: age 9 mathematics fell 7 points between early 2020 and 2022 (its first statistically significant decline ever), and age 13 mathematics fell 9 further points by fall 2022, landing at its 1992 level. Age 13 reading in 2023 (256) was statistically indistinguishable from its 1971 baseline---a half-century of progress erased for the median young adolescent.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=.92\textwidth]{fig_ltt.pdf}
+\caption{NAEP Long-Term Trend average scores, ages 9 and 13, 1971--2023. The age 9 ``2020'' point was assessed January--March 2020 (pre-pandemic); the age 13 ``2020'' point in fall 2019. Dotted line marks 2012. Data: NCES Digest tables 221.85/222.85, validated against the LTT Data Service.}
+\label{fig:ltt}
+\end{figure}
+
+\subsection{The distributional signature: collapse at the bottom}
+\label{sec:dist}
+
+The single most diagnostic fact in the data is \emph{where} in the achievement distribution the losses occurred. Figure~\ref{fig:pctile} plots score changes since 2013 at the 10th through 90th percentiles for grade 8; Figure~\ref{fig:lttpct} shows the same comparison for the LTT, split into the pre-pandemic (2012$\rightarrow$2020) and pandemic (2020$\rightarrow$2022/23) windows.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=.92\textwidth]{fig_percentiles_g8.pdf}
+\caption{Grade 8 score changes since 2013 by percentile. Data: NAEP Data Service API.}
+\label{fig:pctile}
+\end{figure}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=.92\textwidth]{fig_ltt_percentiles.pdf}
+\caption{LTT score changes by percentile: pre-pandemic (left) versus pandemic era (right). The pre-pandemic decline is concentrated almost entirely among low performers; the pandemic-era decline hits everywhere but remains steepest at the bottom. Data: LTT Data Service.}
+\label{fig:lttpct}
+\end{figure}
+
+Before the pandemic, the decline was almost exclusively a bottom-of-the-distribution phenomenon. Between 2012 and 2020, age 13 LTT mathematics fell 12.6 points at the 10th percentile, 7.4 at the 25th, 4.4 at the median---and \emph{rose} 0.1 points at the 90th. Main NAEP shows the identical pattern: between 2013 and 2019, grade 8 mathematics fell 6.6 points at the 10th percentile while \emph{gaining} 2.7 points at the 90th; grade 8 reading fell 10.2 points at the 10th percentile against 1.1 at the 90th. America's strongest students were holding steady or improving through 2019; its weakest students were in free fall years before anyone had heard of COVID-19.
+
+The pandemic broke this pattern in an informative way: 2019--2022 losses appear across the entire distribution---in grade 8 mathematics the drop was essentially uniform, 6--9 points at every percentile, consistent with a shock (school disruption) that hit all students rather than only struggling ones. After 2022, the top of the distribution began recovering while the bottom kept falling: in grade 4 mathematics, 2022--2024 changes ranged from $+2.7$ points at the 75th percentile to $-0.6$ at the 10th.
+
+The cumulative effect on inequality is unprecedented in NAEP's history. The 90--10 gap (Figure~\ref{fig:gap}) widened between 2013 and 2024 by 13 points in grade 4 mathematics (75$\rightarrow$89), 16 points in grade 8 mathematics (93$\rightarrow$109), 15 points in grade 4 reading, and 16 points in grade 8 reading---in every case the widest gap ever recorded.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=.7\textwidth]{fig_gap9010.pdf}
+\caption{Gap between the 90th and 10th percentile scores, 2003--2024. Data: NAEP Data Service API.}
+\label{fig:gap}
+\end{figure}
+
+\subsection{Subgroups: declines within every group}
+\label{sec:subgroups}
+
+Score declines appear \emph{within} essentially every demographic subgroup, which constrains compositional explanations (Section~\ref{sec:h5}). Between 2013 and 2024, grade 8 mathematics fell 8.3 points among White students, 11.4 among Black students, 13.1 among Hispanic students, and was about flat ($-1.1$) only among Asian/Pacific Islander students. Both NSLP-eligible (lower-income) and non-eligible students lost ground through 2022 (grade 8 mathematics: $-10.4$ and $-9.9$ respectively). Pre-pandemic, the within-group pattern mirrors the percentile pattern: between 2013 and 2019 grade 8 mathematics scores among lunch-eligible students fell 3.6 points while non-eligible students lost only 1.0; Asian/Pacific Islander students \emph{gained} 3.5 points. Figure~\ref{fig:lunch} shows the level trends by lunch eligibility.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=.92\textwidth]{fig_lunch.pdf}
+\caption{Average scores by National School Lunch Program eligibility (available through 2022). Data: NAEP Data Service API.}
+\label{fig:lunch}
+\end{figure}
+
+\subsection{Geography: a national phenomenon, modulated by pandemic policy}
+\label{sec:states}
+
+The decline is not regional. Between 2013 and 2019, 75--94\% of states (depending on series) posted declines; by 2024, between 88\% and 100\% of states remained below their 2013 level. No state escaped the national trend in grade 8 mathematics. The two prominent partial exceptions are instructive: Mississippi rose from 49th to 29th in grade 4 reading between 2013 and 2019 following its 2013 early-literacy reform \citep{spencer2024}, and a handful of states (e.g., Alabama, Louisiana) regained or exceeded pre-pandemic grade 4 mathematics levels by 2024.
+
+State variation \emph{within} the pandemic window lines up with schooling-mode differences (Section~\ref{sec:h1}). States' 2019--2022 drops in grade 4 mathematics ranged from about $-13$ points to roughly zero. The states that fell most recovered somewhat faster afterward (correlation between 2019--22 change and 2022--24 change $\approx -0.3$ to $-0.5$; Figure~\ref{fig:states}), consistent with partial mean reversion as in-person schooling resumed---but the rebound slopes are shallow (about $-0.4$), implying that most of the pandemic-window loss has, so far, been persistent rather than transitory.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=.92\textwidth]{fig_states.pdf}
+\caption{State-level pandemic losses versus post-pandemic recovery, mathematics. Each point is a state. Data: NAEP Data Service API.}
+\label{fig:states}
+\end{figure}
+
+\subsection{International context: America is not alone}
+\label{sec:intl}
+
+The U.S. decline is part of a broader rich-world phenomenon (Figure~\ref{fig:intl}). The OECD-average PISA mathematics score fell 22 points between 2012 and 2022 (494$\rightarrow$472) and reading fell 20 points---declines that began \emph{before} the pandemic. The OECD itself concluded that the fall was ``only partly attributable to the COVID-19 pandemic,'' noting that reading and science had been sliding for roughly a decade \citep{oecd2023}. Twelve OECD systems---including Finland, the Netherlands, Belgium, and Canada---show statistically significant mathematics declines beginning before 2018. Notably, U.S. PISA \emph{reading} was flat (505$\rightarrow$504) between 2018 and 2022 while the OECD average fell 11 points, so the U.S. position relative to peers actually improved even as its NAEP reading scores fell; PISA samples 15-year-olds, whose NAEP-cohort losses were smaller than younger students'. U.S. TIMSS mathematics tells the same story as NAEP: grade 8 scores fell 27 points between 2019 and 2023, back to mid-1990s levels, with the lowest 10th-percentile scores since the study began \citep{nces2024timss}.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=.99\textwidth]{fig_intl.pdf}
+\caption{International assessments: PISA mathematics and reading (U.S. vs.\ OECD average) and U.S. TIMSS mathematics. Data: NCES/OECD publications.}
+\label{fig:intl}
+\end{figure}
+
+\subsection{Summary of facts to be explained}
+
+Any successful explanation must account for: (F1) a peak in 2012--2013 and slow decline through 2019; (F2) the pre-2019 losses concentrated overwhelmingly at the bottom of the distribution, with the top flat or rising; (F3) a large, across-the-distribution drop in 2019--2022; (F4) continued post-2022 decline in reading and at the bottom of every distribution, against partial recovery at the top and in younger students' mathematics; (F5) declines within every demographic group and nearly every state; (F6) similar pre-pandemic declines across many rich countries; and (F7) record-high achievement inequality.
+
+\section{Candidate Explanations}
+
+Eight hypotheses recur in research and public debate:
+
+\begin{enumerate}
+\item[H1.] \textbf{Pandemic disruption.} School closures, remote instruction, and associated social disruption caused learning loss.
+\item[H2.] \textbf{Smartphones and digital media.} The post-2012 saturation of adolescent life by smartphones and social media displaced reading, homework, and attention.
+\item[H3.] \textbf{Accountability retreat.} The dismantling of No Child Left Behind's test-based accountability (waivers from 2012, ESSA from 2015) removed pressure that had propped up achievement among low performers.
+\item[H4.] \textbf{Great Recession funding cuts.} State school-funding cuts after 2008 reduced school quality for the cohorts tested in the mid-2010s.
+\item[H5.] \textbf{Demographic change.} A rising share of disadvantaged students mechanically lowered average scores.
+\item[H6.] \textbf{Chronic absenteeism.} Students stopped attending school regularly after the pandemic.
+\item[H7.] \textbf{Declining reading practice.} Children read less, for school and pleasure, eroding literacy skills.
+\item[H8.] \textbf{Other: teacher shortages, lowered expectations/grade inflation.}
+\end{enumerate}
+
+\section{Testing the Hypotheses}
+
+\subsection{H1: Pandemic disruption --- decisive for 2019--2022, irrelevant before, incomplete after}
+\label{sec:h1}
+
+\textbf{Predictions.} A sharp drop between the 2019 and 2022 assessments; larger losses where schooling was remote longer; recovery as schooling normalized; no effect before 2020.
+
+\textbf{Evidence.} The 2019--2022 drop is unambiguous and its causal link to schooling disruption is among the best-documented findings in modern education research. Districts that were remote for more than half of 2020--21 saw mathematics achievement growth shortfalls of 0.44~SD in high-poverty schools, versus about 0.17~SD where instruction stayed in person \citep{goldhaber2023}. Across twelve states, district math pass rates fell 14.2 percentage points on average in spring 2021, but only 4.1 points in districts that remained fully in person \citep{jack2023}. The dose-response gradient, its replication across data sets, and the coincidence in time make H1 conclusively established for phase two---particularly for mathematics, which is learned mostly in school. Consistent with this, the 2019--2022 NAEP drop was nearly uniform across the achievement distribution (Section~\ref{sec:dist}), as expected from a shock to schooling itself.
+
+Two equally important negative results bound the hypothesis. First, H1 predicts nothing before 2020, yet roughly a quarter to a half of the total 2013--2024 decline predates the pandemic (Table~\ref{tab:changes}), including the entire 2012--2020 collapse at the bottom of the LTT distribution. Second, H1 predicts recovery, and recovery has been feeble: by spring 2023 students had regained only about a third of pandemic mathematics losses and a quarter of reading losses \citep{kane2024}; by 2025 only 17\% of students were in districts at or above 2019 mathematics levels \citep{kane2025}; and NAEP reading fell \emph{further} after 2022. The $\sim$$-0.4$ slope in Figure~\ref{fig:states} says the same thing in the NAEP data: states recovered only a fraction of what they uniquely lost.
+
+\textbf{Verdict.} \emph{Confirmed as the dominant cause of phase two (roughly half to three-quarters of the mathematics decline, less of reading); cannot explain phase one; the failure to recover requires additional explanation (H6, and the bottom-distribution forces of H2/H3).}
+
+\subsection{H2: Smartphones and digital media --- the best fit to the international, pre-pandemic facts}
+\label{sec:h2}
+
+\textbf{Predictions.} Decline beginning when smartphones saturated childhood ($\sim$2012--2015); present across countries, subjects, and demographic groups; strongest in reading and among students with the least adult structure; displacement of reading and homework time.
+
+\textbf{Evidence on timing.} Teen smartphone ownership in the U.S. went from 23\% in 2011 to 37\% in 2012, 73\% by 2015, and 95\% by 2018, with 45\% of teens online ``almost constantly'' by 2018 \citep{pew2013,pew2018}. The achievement peak (2012--2013) coincides almost exactly with the takeoff. Adolescent entertainment screen time reached 7h22m/day by 2019 and 8h39m by 2021 \citep{commonsense2021}. The collapse in recreational reading is dramatic and---critically---happened mostly \emph{before} the pandemic: the share of 13-year-olds reading for fun almost daily fell from 27\% in 2012 to 17\% in 2020 and 14\% in 2023, while the share who never or hardly ever read rose from 22\% to 31\% (Figure~\ref{fig:fun}).
+
+\textbf{Evidence on breadth.} H2 is the only hypothesis that naturally explains fact F6, the synchronized pre-pandemic decline across rich countries with very different school policies, funding trends, and accountability regimes \citep{oecd2023}. Within PISA 2022, 65\% of students across the OECD (66\% in the U.S.) reported digital-device distraction in mathematics class; distracted students scored 15 points lower, and students spending 5--7 hours per day on leisure device use scored 49 points below light users after adjusting for socioeconomic status \citep{oecd2024}. These are associations, not causal estimates, and the OECD says so; but the timing and cross-national synchrony carry the causal weight here.
+
+\textbf{Fit to the distributional signature.} A priori, screen exposure is near-universal, which sits awkwardly with the bottom-concentrated phase-one decline---unless effects are heterogeneous. That is what the broader literature suggests: displacement and distraction harm students with the least self-regulation and the least adult monitoring most \citep{haidt2024}, and the reading-for-fun decline was steepest among already-infrequent readers. The hypothesis is thus \emph{consistent} with F2, though it does not uniquely predict it.
+
+\textbf{Verdict.} \emph{Strongly supported as a major driver of phase one (and of the continued post-2022 slide in reading), on timing, international synchrony, and mechanism evidence; the individual-level causal evidence remains associational, so the magnitude is uncertain.}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=.62\textwidth]{fig_readingfun.pdf}
+\caption{Share of students reading for fun, NAEP LTT student survey. The decline pre-dates the pandemic. Data: LTT Data Service (variable S003501).}
+\label{fig:fun}
+\end{figure}
+
+\subsection{H3: Accountability retreat --- the best fit to the bottom-concentrated U.S. signature}
+\label{sec:h3}
+
+\textbf{Predictions.} Decline beginning after 2011--2012 (NCLB waivers) and deepening after 2015 (ESSA); concentrated among exactly the students accountability targeted---low performers and disadvantaged subgroups; U.S.-specific.
+
+\textbf{Evidence.} The timing matches precisely: the first waivers releasing states from NCLB's consequences were granted in February 2012, covering 34 jurisdictions within a year; the Every Student Succeeds Act (December 2015) made the rollback permanent. The best causal evidence on NCLB found it had raised grade 4 mathematics by roughly 0.23~SD, with gains \emph{concentrated among low-achieving, Black, Hispanic, and lunch-eligible students}, and no effect on grade 4 reading \citep{deejacob2011}. The post-2012 decline is nearly a mirror image of those gains: largest at the 10th percentile, among disadvantaged groups, and (initially) clearer in mathematics at the grades accountability touched most. If a policy raised the floor, removing it should drop the floor---and the floor is what dropped (F2). Commentators including Chad Aldeman and former IES director Mark Schneider have pressed this reading of the NAEP record \citep{aldeman2025}.
+
+The hypothesis has two limits. It cannot explain F6---Finland and the Netherlands did not pass ESSA---so it cannot be the sole driver. And because accountability operated through schools, it predicts little about the collapse in out-of-school reading (Figure~\ref{fig:fun}). The Mississippi counter-example cuts in H3's favor: the one state that \emph{intensified} early-grade stakes and instructional oversight after 2013 moved sharply against the national trend, with quasi-experimental evidence supporting a genuine policy effect \citep{spencer2024}.
+
+\textbf{Verdict.} \emph{Supported as a substantial contributor to the U.S. phase-one decline, especially its bottom-concentration; insufficient alone because the decline is international.}
+
+\subsection{H4: Great Recession funding cuts --- timing partially fits, magnitude does not}
+
+\textbf{Predictions.} Declines among cohorts schooled during 2009--2015 austerity, reversing as spending recovered after 2013.
+
+\textbf{Evidence.} Real per-pupil spending bottomed in 2012--13 and 29 states cut per-pupil funding between 2008 and 2016 \citep{leachman2017}; recession-induced cuts demonstrably reduced achievement \citep{jacksonwigger2021}. But the magnitudes are far too small: the consensus causal estimate is roughly 0.03~SD per \$1,000 per pupil sustained for four years \citep{jacksonmackevicius2024}. Recession-era cuts on the order of \$1,000--\$1,500 per pupil could account for perhaps 0.03--0.05~SD---a fraction of the 0.14--0.30~SD decline---and spending recovered steadily after 2013 while scores kept falling, the opposite of the predicted reversal. Funding also cannot explain F2's top-stability (cuts hit whole districts), F6, or the post-2020 dynamics, when an unprecedented \$190 billion federal infusion accompanied historic losses (its measured effect, $\sim$0.008~SD per \$1,000 per student, was positive but small relative to the shock).
+
+\textbf{Verdict.} \emph{Rejected as a major cause; plausibly a minor contributor to mid-2010s losses in the states that cut deepest.}
+
+\subsection{H5: Demographic change --- arithmetic rules it out}
+\label{sec:h5}
+
+\textbf{Predictions.} Stable or rising scores within each subgroup, with composition shifts toward lower-scoring groups driving the aggregate down.
+
+\textbf{Evidence.} The within-group facts in Section~\ref{sec:subgroups} directly contradict the prediction: scores fell within every major racial/ethnic group, within both lunch-eligibility groups, and for both sexes. Composition shifts were also too slow (Hispanic share up five percentage points over the decade; English learners up about one) to move national means more than a point or two, and the direction of some shifts (record-low child poverty in 2021) runs opposite the score trend. A back-of-envelope reweighting of 2024 grade 8 mathematics subgroup means at 2013 race shares recovers less than 2 of the 10.8 lost points.
+
+\textbf{Verdict.} \emph{Rejected as an explanation of the decline (a 1--2 point compositional drag at most); within-group declines are the phenomenon itself.}
+
+\subsection{H6: Chronic absenteeism --- a phase-two amplifier and the leading brake on recovery}
+
+\textbf{Predictions.} Score declines tracking the rise in absenteeism; weakest recovery where absenteeism stays elevated; no role before 2020.
+
+\textbf{Evidence.} Chronic absenteeism was flat at roughly 15\% from 2015 to 2019---so it cannot explain phase one---then nearly doubled to about 28.5\% in 2021--22, retreating only to 23.5\% by 2023--24 \citep{malkus2025}. The persistence of elevated absence is exactly what F4 (no aggregate recovery) needs: the Council of Economic Advisers calculated that elevated absence could account for roughly 27\% of the 2019--2022 grade 4 mathematics decline and 45\% of the reading decline \citep{cea2023}, and \citet{dee2024} and the Education Recovery Scorecard identify it as a first-order obstacle to recovery. Absence is concentrated among low-income students, fitting the post-2022 divergence between the recovering top and the still-falling bottom.
+
+\textbf{Verdict.} \emph{Confirmed as a significant amplifier of phase two and probably the single most important proximate explanation for the failure to recover; explains nothing before 2020. Absenteeism is partly a mediator---disengagement itself has causes (H1's disruption of attendance norms, H2's pull of screens).}
+
+\subsection{H7: Declining reading practice --- well-documented, overlapping H2}
+
+The collapse in voluntary reading (Figure~\ref{fig:fun}) is among the largest behavioral shifts measured in any NAEP survey: daily reading for fun at age 13 halved between 2012 and 2023, with most of the fall pre-pandemic. Reading achievement requires volume of practice, and the grade 8 reading series---where losses began earliest (F1) and 46\% of the decline predates COVID---is where practice effects should show first. As an explanation this is best understood not as a rival to H2 but as its principal \emph{mechanism} for literacy: the proximate cause is less reading; the distal cause is what replaced it. \emph{Verdict: supported as the mechanism for reading's early and continuing decline.}
+
+\subsection{H8: Other candidates}
+
+\textbf{Teacher shortages and quality.} Vacancies and underqualified staffing are real ($\geq$36{,}000 vacant positions and $\geq$163{,}000 filled by underqualified teachers \citep{nguyen2024}) but became acute mainly after 2020 and are concentrated in special education, STEM, and high-poverty schools; teacher-preparation enrollment fell through the 2010s. Plausibly a modest contributor to phase two and to bottom-distribution stagnation; the timing fits phase one poorly. \emph{Verdict: minor contributor.}
+
+\textbf{Lowered expectations and grade inflation.} High-school GPAs rose from 3.17 (2010) to 3.36 (2021) while ACT scores fell \citep{act2022}, and course rigor and homework time show parallel softening. This evidence indicates that \emph{signals} of learning became disconnected from learning, masking the decline from parents and muting corrective pressure---an enabling condition more than a first cause. \emph{Verdict: contributing background condition; direction of causality unclear.}
+
+\section{Synthesis: A Two-Phase Decline With Different Causes}
+
+\begin{table}[t]
+\centering\footnotesize
+\caption{Hypothesis scorecard against the facts of Section~\ref{sec:verify}.}
+\label{tab:scorecard}
+\begin{tabular}{lcccccc}
+\toprule
+ & F1 & F2 & F3 & F4 & F5/F7 & F6 \\
+Hypothesis & Timing & Bottom-heavy & COVID drop & No recovery & Within-group & Intern'l \\
+\midrule
+H1 Pandemic            & $\times$ & $\sim$ & \checkmark & $\sim$ & \checkmark & $\sim$ \\
+H2 Digital media       & \checkmark & $\sim$ & $\times$ & \checkmark & \checkmark & \checkmark \\
+H3 Accountability      & \checkmark & \checkmark & $\times$ & $\sim$ & \checkmark & $\times$ \\
+H4 Funding cuts        & $\sim$ & $\times$ & $\times$ & $\times$ & $\sim$ & $\times$ \\
+H5 Demographics        & $\times$ & $\times$ & $\times$ & $\times$ & $\times$ & $\times$ \\
+H6 Absenteeism         & $\times$ & \checkmark & \checkmark & \checkmark & \checkmark & $\sim$ \\
+H7 Reading practice    & \checkmark & $\sim$ & $\times$ & \checkmark & \checkmark & \checkmark \\
+H8 Teachers/inflation  & $\sim$ & $\sim$ & $\times$ & $\sim$ & $\sim$ & $\times$ \\
+\bottomrule
+\multicolumn{7}{l}{\footnotesize \checkmark{} = consistent; $\sim$ = partially consistent; $\times$ = inconsistent or silent.}
+\end{tabular}
+\end{table}
+
+The evidence is not consistent with any single-cause account, but it is well organized by a two-phase model (Table~\ref{tab:scorecard}):
+
+\textbf{Phase one (2013--2019): erosion at the bottom.} Slow national decline, concentrated almost entirely among the lowest-performing students, present in most states and many countries, alongside collapsing voluntary reading. The two hypotheses that fit are the accountability retreat (which uniquely predicts the bottom-concentration and the U.S. policy timing, and is corroborated in mirror image by Mississippi) and digital-media displacement (which uniquely predicts the international synchrony and the reading-practice collapse). They are complementary: one removed the institutional pressure that had been holding up the floor of the distribution, the other supplied a new, unsupervised use of time that competes directly with the activities that build skills---with the least-structured students most exposed on both margins. Funding, demographics, and teacher supply fail on timing, distribution, or magnitude.
+
+\textbf{Phase two (2019--2024): shock without recovery.} The pandemic caused the large 2019--2022 drop---the schooling-mode dose-response evidence is decisive---and hit the whole distribution. What demands explanation is the aftermath: four-plus years on, aggregate recovery is negligible, reading is still falling, and the bottom decile continues to sink while the top rebounds. Persistently doubled chronic absenteeism is the leading proximate cause, with the phase-one forces (weak accountability pressure, screen displacement) plausibly explaining why disengagement has not self-corrected. On the magnitudes in Table~\ref{tab:changes}, phase one accounts for roughly 20--45\% of the total 2013--2024 decline depending on the series, the pandemic window for roughly 30--70\%, and the post-2022 period for the remainder---meaning that even a complete reversal of pandemic losses would leave the United States well below its 2013 peak.
+
+Three implications follow. First, ``COVID recovery'' framing understates the problem: grade 8 reading was already down 4.4 points before the pandemic, and the forces behind that slide are still operating. Second, because losses are concentrated at the bottom, average-score targets understate the equity emergency; the 90--10 gap is the widest ever measured. Third, the two phase-one candidates imply very different policy responses---restoring instructional pressure and early-literacy stakes (where Mississippi provides an existence proof) versus regulating or displacing screen time (where several countries' school phone-ban experiments will soon provide evidence)---and distinguishing their relative shares is the most important open empirical question. A sharp test would exploit within- and cross-country variation in phone policies and accountability regimes against the next NAEP and PISA waves.
+
+\section{Limitations}
+
+This analysis is observational. The hypothesis tests rest on timing, distributional incidence, and cross-sectional comparisons, not experimental variation; several causes plausibly interact (absenteeism is partly downstream of screens and of weakened school engagement), so the phase shares above are accounting decompositions, not causal attributions. NAEP percentile statistics for the oldest years use no-accommodation samples; the NSLP-eligibility series ends in 2022 and is affected by community-eligibility expansion; PISA OECD averages shift membership across cycles; and the LTT format changed in 2004 (results are bridged). Excluded-student rates and assessment-participation changes could in principle affect trends, though NCES validity checks have not found effects of the magnitude observed. Finally, the digital-media evidence, while consistent across timing, international, and survey data, remains associational at the individual level.
+
+\section{Conclusion}
+
+The decline in American student achievement is real, large, and verifiable from primary data: roughly one grade level of learning lost at grade 8 since 2013, the lowest grade 8 reading scores ever recorded, and the widest achievement gaps in NAEP's history. It happened in two phases with different causes. A pre-pandemic erosion, nearly invisible in averages because it was confined to the bottom of the distribution, is best explained by the combination of the post-2012 retreat from test-based accountability and the contemporaneous saturation of childhood by smartphones and digital media---the first explaining why America's floor collapsed when its policy pressure was withdrawn, the second explaining why the same slide appeared across the rich world and why children stopped reading. The pandemic then imposed the largest schooling shock in modern history, whose effects, far from fading, have been locked in by chronic absenteeism that remains half again its pre-pandemic level. Funding cuts, demographic change, and teacher shortages are, on the evidence, second-order. The policy conclusion is uncomfortable but clear: returning to 2019 practices would only return the country to a trajectory that was already pointing down.
+
+\bibliography{refs}
+
+\end{document}
