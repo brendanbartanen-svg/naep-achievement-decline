@@ -17,8 +17,9 @@ footnote and, if it cannot be found in ~2 minutes, flag the row for re-coding.
 
 ### A1. `data/waivers.csv` (ESEA/NCLB waiver approval dates) — 9 rows
 
-> **VERIFIED by author, 2026-06-10:** A1 spot-check completed; no errors found.
-> All other checklist items (A2–A4, B) remain unverified.
+> **VERIFIED by author, 2026-06-10:** spot-checks A1–A4 completed (waivers,
+> phone bans, Common Core, TUDA crosswalk); no errors reported. Section B
+> (NAEP Data Explorer numbers) remains unverified.
 
 General sources recorded in report.tex (fn. 3) and README: ED's per-state ESEA flexibility
 pages, CRS Report R42328, EdWeek state-by-state tracking. No per-row URL is recorded in the
