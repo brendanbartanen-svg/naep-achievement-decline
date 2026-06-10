@@ -10,7 +10,14 @@ school-clustered, ESCS-adjusted): the distraction (−13 US / −15 OECD) and 5+
 concentrated among low performers within countries while flat across SES — matching the
 decline's bottom-heavy signature (`analyze_pisa.py`; raw 2GB SAV gitignored, re-download via
 https://webfs.oecd.org/pisa2022/STU_QQQ_SPSS.zip). Bleiberg due diligence in
-`evidence/novelty_check.md`. Final deliverable: `report/report.pdf` (28 pp).
+`evidence/novelty_check.md`. v1.6 closes the test-effort confounder (PISA effort thermometer
+2018→2022 via both microdata files: effort fell 0.13-0.16/10 pts → implies <5% of the score
+decline; OECD behavioral indicators stable; same decline on consequential SEDA state tests)
+and adds the quasi-experimental phone-ban literature to H2 (Beland-Murphy +0.14 SD for low
+achievers; Abrahamsson; Beneito; Figlio-Özek Florida) plus a pre-registered NAEP-2026 ban
+design (`docs/phoneban_design.md`, `data/phonebans.csv` — 50-state coding with effective
+dates). `analyze_effort.py`; 2018 PISA file gitignored
+(https://webfs.oecd.org/pisa2018/SPSS_STU_QQQ.zip). Final deliverable: `report/report.pdf` (30 pp).
 
 ## Structure
 - `naep_pull.py` — pulls main-NAEP national means/percentiles, subgroups (race, sex, NSLP),

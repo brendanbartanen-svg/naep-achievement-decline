@@ -1,0 +1,98 @@
+{
+ "thermometer": [
+  {
+   "year": 2018,
+   "scope": "USA",
+   "EFFORT1 (invested)": 8.25,
+   "EFFORT2 (if counted)": 9.44,
+   "gap": 1.2,
+   "pct EFFORT1<=5": 5.2
+  },
+  {
+   "year": 2018,
+   "scope": "OECD",
+   "EFFORT1 (invested)": 7.93,
+   "EFFORT2 (if counted)": 9.18,
+   "gap": 1.26,
+   "pct EFFORT1<=5": 9.6
+  },
+  {
+   "year": 2022,
+   "scope": "USA",
+   "EFFORT1 (invested)": 8.12,
+   "EFFORT2 (if counted)": 9.33,
+   "gap": 1.2,
+   "pct EFFORT1<=5": 5.6
+  },
+  {
+   "year": 2022,
+   "scope": "OECD",
+   "EFFORT1 (invested)": 7.77,
+   "EFFORT2 (if counted)": 9.11,
+   "gap": 1.34,
+   "pct EFFORT1<=5": 10.6
+  }
+ ],
+ "effort_score_oecd2022": {
+  "b": 3.88,
+  "se": 0.34
+ },
+ "effort_by_quartile": [
+  {
+   "year": 2018,
+   "quartile": "Q1",
+   "EFFORT1": 7.65,
+   "gap": 1.08
+  },
+  {
+   "year": 2018,
+   "quartile": "Q2",
+   "EFFORT1": 7.93,
+   "gap": 1.3
+  },
+  {
+   "year": 2018,
+   "quartile": "Q3",
+   "EFFORT1": 8.08,
+   "gap": 1.31
+  },
+  {
+   "year": 2018,
+   "quartile": "Q4",
+   "EFFORT1": 8.04,
+   "gap": 1.32
+  },
+  {
+   "year": 2022,
+   "quartile": "Q1",
+   "EFFORT1": 7.52,
+   "gap": 1.1
+  },
+  {
+   "year": 2022,
+   "quartile": "Q2",
+   "EFFORT1": 7.79,
+   "gap": 1.35
+  },
+  {
+   "year": 2022,
+   "quartile": "Q3",
+   "EFFORT1": 7.87,
+   "gap": 1.43
+  },
+  {
+   "year": 2022,
+   "quartile": "Q4",
+   "EFFORT1": 7.87,
+   "gap": 1.46
+  }
+ ],
+ "implied_USA": {
+  "d_effort": -0.13,
+  "implied_pts": -0.5
+ },
+ "implied_OECD": {
+  "d_effort": -0.16,
+  "implied_pts": -0.6
+ }
+}

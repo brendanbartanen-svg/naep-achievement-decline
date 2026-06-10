@@ -1,0 +1,52 @@
+state,type_2025_26,instrument,enacted,first_sy_effect,midyear_flag,grades,naep2026_exposure_group
+AL,BTB,FOCUS Act SB92,2025-05,2025-26,,K-12,short
+AK,DISTRICT,HB57,2025-05,2025-26,,K-12,short
+AZ,INSTR,HB2484,2025-04,2025-26,,K-12,short
+AR,BTB,SB142 Act122,2025-02,2025-26,,K-12,short
+CA,none_yet,AB3216,2024-09,2026-27,,K-12,untreated
+CO,none_yet,HB25-1135,2025,2026-27,,K-12,untreated
+CT,REC,SBOE policy,2024-08,,,,untreated
+DE,none_yet,SB106,2026-03,2026-27,,K-12,untreated
+DC,BTB_DCPS_only,DCPS policy + DFL Amendment Act,2025-06,2025-26,partial: charters 2026-27,K-12,short_partial
+FL,INSTR_2023_BTB_K8_2025,HB379 2023; HB1105 2025,2023-05,2023-24,,K-12 INSTR + K-8 BTB,long
+GA,none_yet,HB340,2025-04,2026-27,,K-8,untreated
+HI,none_yet,BOE policy,2026-02,2026-27,,K-12,untreated
+ID,DISTRICT,EO 2024-11 + SB1032,2024-10,2025-26,policies due 2025-12-31,K-12,minimal
+IL,none_yet,SB2427 pending signature,2026,2026-27,,K-12,untreated
+IN,INSTR,SB185,2024-03,2024-25,,K-12,medium
+IA,INSTR,HF782,2025-04,2025-26,,K-12,short
+KS,none_yet,HB2299,2026-03,2026-27,,K-12,untreated
+KY,INSTR,HB208,2025,2025-26,,K-12,short
+LA,BTB,SB207,2024-05,2024-25,,K-12,medium
+ME,none_yet,LD1234 + budget,2025-06,2026-27,,K-12,untreated
+MD,REC,SB368; BTB 2027-28,2025,2026-27,,K-12,untreated
+MA,none,,,,,,untreated
+MI,none_yet,HB4141,2026-02,2026-27,,K-12,untreated
+MN,DISTRICT,SF3567 121A.73,2024-05,2024-25,policies due 2025-03-15,K-12,minimal
+MS,none,,,,,,untreated
+MO,BTB,SB68,2025-07,2025-26,,K-12,short
+MT,none,,,,,,untreated
+NE,BTB,LB140,2025-05,2025-26,,K-12,short
+NV,DISTRICT,SB444,2025-05,2025-26,,K-12,short
+NH,BTB,HB2 budget,2025-06,2025-26,,K-12,short
+NJ,none_yet,PL2026,2026-01,2026-27,,K-12,untreated
+NM,DISTRICT,SB11,2025,2025-26,,K-12,short
+NY,BTB,FY2026 budget,2025-05,2025-26,,K-12,short
+NC,INSTR,HB959 SL2025-38,2025-07,2025-26,,K-12,short
+ND,BTB,HB1160,2025-04,2025-26,,K-12,short
+OH,DISTRICT_then_BAN,HB250 2024; HB96 2025,2024,2025-26,full ban from 2026-01,K-12,minimal
+OK,BTB,SB139 mandatory 2025-26 only,2025-05,2025-26,,K-12,short
+OR,BTB,EO 25-09,2025-07,2025-26,full effect 2026-01,K-12,minimal
+PA,REC,safety grants for pouches,2024-07,,,,untreated
+RI,none_yet,S771A/H5598,2025-06,2026-27,,K-12,untreated
+SC,BTB,Proviso 1.103 + SBOE model policy,2024-07,2024-25,statewide from 2025-01,K-12,medium
+SD,none,,,,,,untreated
+TN,INSTR,HB932/SB897,2025-04,2025-26,,K-12,short
+TX,BTB,HB1481,2025-06,2025-26,,K-12,short
+UT,INSTR,SB178 default rule,2025-03,2025-26,,K-12,short
+VT,none_yet,Act72,2025-06,2026-27,,K-12,untreated
+VA,DISTRICT_EO_then_BTB,EO33 2024; HB1961/SB738 2025,2024-07,2024-25,EO policies from 2025-01,K-12,medium
+WA,REC,SSB5346 encourage only,2026-03,,,,untreated
+WV,INSTR,HB2003,2025-04,2025-26,,K-12,short
+WI,none_yet,AB2 Act42,2025-10,2026-27,,K-12,untreated
+WY,none,,,,,,untreated
