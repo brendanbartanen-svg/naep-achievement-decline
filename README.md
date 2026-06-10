@@ -17,7 +17,14 @@ and adds the quasi-experimental phone-ban literature to H2 (Beland-Murphy +0.14 
 achievers; Abrahamsson; Beneito; Figlio-Özek Florida) plus a pre-registered NAEP-2026 ban
 design (`docs/phoneban_design.md`, `data/phonebans.csv` — 50-state coding with effective
 dates). `analyze_effort.py`; 2018 PISA file gitignored
-(https://webfs.oecd.org/pisa2018/SPSS_STU_QQQ.zip). Final deliverable: `report/report.pdf` (30 pp).
+(https://webfs.oecd.org/pisa2018/SPSS_STU_QQQ.zip). v1.7 integrates the 2025–26
+smartphone–fertility causal literature (Myers & Hooper NBER w35310 iPhone/AT&T design;
+Hudson & Moscoso Boedo 4G ruggedness IV — same shock, same 2007 timing, same
+adolescent-specific age profile as the achievement decline) plus Jain & Stemper's
+3G×PISA estimates (−0.04 to −0.08 SD, 82 countries) into H2 and Related Work, and adds
+a dual-criterion synthesis framing borrowed from the fertility-puzzle genre
+(`evidence/fertility_parallel.md`). Final deliverable: `report/report.pdf` (~31 pp)
++ `report/brief.pdf` (2 pp policy brief).
 
 ## Structure
 - `naep_pull.py` — pulls main-NAEP national means/percentiles, subgroups (race, sex, NSLP),
