@@ -1,0 +1,43 @@
+{
+  "item": "ST273Q06JA",
+  "item_label": "How often: Students get distracted by using [digital resources] (e.g. smartphones, websites, apps).",
+  "value_labels": {
+    "1.0": "Every lesson",
+    "2.0": "Most lessons",
+    "3.0": "Some lessons",
+    "4.0": "Never or almost never",
+    "95.0": "Valid Skip",
+    "97.0": "Not Applicable",
+    "98.0": "Invalid",
+    "99.0": "No Response"
+  },
+  "distracted_definition": "ST273Q06JA in {1 Every lesson, 2 Most lessons}; 95/97/98/99 missing",
+  "pooled_oecd_weighting": "senate weights (W_FSTUWT rescaled to sum 5000 per country) + country FE",
+  "se_method": "cluster-robust by CNTSCHID within each PV; Rubin's rules across 10 PVs (not BRR)",
+  "share_distracted": {
+    "usa_weighted": 0.2959,
+    "oecd_senate_weighted": 0.3045,
+    "oecd_raw_weighted": 0.2723
+  },
+  "usa_unadjusted": {
+    "estimate": -13.06,
+    "se": 4.485,
+    "n": 3029
+  },
+  "usa_adjusted_escs_quadratic": {
+    "estimate": -13.249,
+    "se": 3.913,
+    "n": 3019
+  },
+  "oecd_unadjusted": {
+    "estimate": -14.775,
+    "se": 0.694,
+    "n": 192353
+  },
+  "oecd_adjusted_escs_quadratic": {
+    "estimate": -13.281,
+    "se": 0.626,
+    "n": 186684
+  },
+  "n_oecd_countries": 37
+}

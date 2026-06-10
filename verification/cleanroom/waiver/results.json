@@ -1,0 +1,47 @@
+{
+ "spec_decisions": "Clean-room DiD of ESEA/NCLB waiver receipt on NAEP P10 scores.\n\nSpec decisions (recorded in results.json):\n- Outcome: grade 8 math 10th percentile (PC:P1), public-school state NAEP.\n- Treatment timing: first NAEP wave testing a school year >= the state's first\n  waiver school year (waivers.csv `first_sy_end`). NAEP wave y tests SY (y-1,y),\n  so first treated wave = first_sy_end if odd, else first_sy_end + 1.\n  -> early approvals (SY 2012-13): treated from 2013 wave.\n  -> late approvals (SY 2013-14) and IL (SY 2014-15): treated from 2015 wave.\n- WA (waiver revoked Apr 2014): kept as treated from 2013 (intent-to-treat,\n  absorbing treatment). Sensitivity not run; noted as judgment call.\n- Never-waiver controls: CA, IA, MT, NE, ND, VT, WY (7 states).\n- TWFE OLS, state + year FE, unweighted. Cluster-robust (state) SEs.\n- SD units: coefficient / cross-state SD of P10 in 2011.\n- Randomization inference: 2000 draws permuting the first-treated-wave vector\n  (incl. never = inf) across the 51 jurisdictions, re-estimating the pooled\n  TWFE coefficient. p = share of |perm coef| >= |actual|. MDE80 = 2.8 * sd(perm).\n- Event study: indicators for event time (NAEP waves relative to first treated\n  wave, in wave steps: ..., -2, -1, 0, +1, ...), omitted category = -1 (last\n  pre-wave); never-treated states contribute as pure controls (all indicators 0).",
+ "outcomes": {
+  "math_g8": {
+   "n_states_treated": 44,
+   "n_states_never": 7,
+   "sd_p10_2011_cross_state": 8.3909,
+   "twfe_2009_2019": {
+    "window": "2009-2019",
+    "coef_points": -1.1313,
+    "cluster_se": 1.2283,
+    "cluster_p": 0.3614,
+    "ri_p": 0.2495,
+    "ri_sd": 0.979,
+    "mde80_points": 2.7411,
+    "ri_n_perms": 2000,
+    "coef_sd_units": -0.1348
+   },
+   "twfe_2003_2019": {
+    "window": "2003-2019",
+    "coef_points": 0.2148,
+    "cluster_se": 1.3514,
+    "cluster_p": 0.8744,
+    "coef_sd_units": 0.0256
+   },
+   "event_study_2003_2019": {
+    "e-6": -3.758,
+    "e-5": -4.128,
+    "e-4": -2.688,
+    "e-3": -1.945,
+    "e-2": -0.753,
+    "e+0": -1.163,
+    "e+1": -1.627,
+    "e+2": -1.166,
+    "e+3": 0.911
+   },
+   "event_study_2009_2019": {
+    "e-3": -1.352,
+    "e-2": -0.586,
+    "e+0": -1.234,
+    "e+1": -1.741,
+    "e+2": -1.339,
+    "e+3": 0.607
+   }
+  }
+ }
+}

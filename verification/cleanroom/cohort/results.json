@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "source": "https://www.nationsreportcard.gov/DataService/GetAdhocData.aspx",
+    "stattype": "MN:MN",
+    "variable": "TOTAL",
+    "jurisdiction_used": "NT",
+    "jurisdiction_note": "Tried NT first per spec; NT returned data (label 'National'). NP (national public) not needed as fallback.",
+    "subscales": {
+      "mathematics": "MRPCM",
+      "reading": "RRPCM"
+    },
+    "years_requested": [
+      2003,
+      2005,
+      2007,
+      2009,
+      2011,
+      2013,
+      2015,
+      2017,
+      2019,
+      2022,
+      2024
+    ],
+    "pulled_at": "2026-06-10 15:10:41"
+  },
+  "levels_panel_2009_2024": {
+    "mathematics": {
+      "G4": {
+        "2009": 239.67,
+        "2011": 240.68,
+        "2013": 241.55,
+        "2015": 240.39,
+        "2017": 239.72,
+        "2019": 240.53,
+        "2022": 235.96,
+        "2024": 237.49
+      },
+      "G8": {
+        "2009": 282.91,
+        "2011": 283.85,
+        "2013": 284.61,
+        "2015": 282.22,
+        "2017": 282.84,
+        "2019": 282.0,
+        "2022": 274.27,
+        "2024": 273.83
+      }
+    },
+    "reading": {
+      "G4": {
+        "2009": 220.94,
+        "2011": 221.21,
+        "2013": 221.83,
+        "2015": 222.52,
+        "2017": 221.89,
+        "2019": 220.47,
+        "2022": 217.49,
+        "2024": 215.04
+      },
+      "G8": {
+        "2009": 264.01,
+        "2011": 265.2,
+        "2013": 267.6,
+        "2015": 265.44,
+        "2017": 266.58,
+        "2019": 263.15,
+        "2022": 260.47,
+        "2024": 258.05
+      }
+    }
+  },
+  "decompositions": {
+    "mathematics": {
+      "2013_to_2019": {
+        "g8_change_years": [
+          2013,
+          2019
+        ],
+        "g4_cohort_years": [
+          2009,
+          2015
+        ],
+        "G8_start": 284.61,
+        "G8_end": 282.0,
+        "delta_G8_total": -2.6,
+        "entry_component_G4_change": 0.72,
+        "growth_component_delta_pseudo_growth": -3.32,
+        "pseudo_growth_start_cohort": 44.93,
+        "pseudo_growth_end_cohort": 41.61,
+        "identity_check_entry_plus_growth": -2.6
+      },
+      "2019_to_2024": {
+        "g8_change_years": [
+          2019,
+          2024
+        ],
+        "g4_cohort_years": [
+          2015,
+          2019
+        ],
+        "G8_start": 282.0,
+        "G8_end": 273.83,
+        "delta_G8_total": -8.17,
+        "entry_component_G4_change": 0.14,
+        "growth_component_delta_pseudo_growth": -8.31,
+        "pseudo_growth_start_cohort": 41.61,
+        "pseudo_growth_end_cohort": 33.31,
+        "identity_check_entry_plus_growth": -8.17
+      }
+    },
+    "reading": {
+      "2013_to_2019": {
+        "g8_change_years": [
+          2013,
+          2019
+        ],
+        "g4_cohort_years": [
+          2009,
+          2015
+        ],
+        "G8_start": 267.6,
+        "G8_end": 263.15,
+        "delta_G8_total": -4.45,
+        "entry_component_G4_change": 1.57,
+        "growth_component_delta_pseudo_growth": -6.02,
+        "pseudo_growth_start_cohort": 46.65,
+        "pseudo_growth_end_cohort": 40.63,
+        "identity_check_entry_plus_growth": -4.45
+      },
+      "2019_to_2024": {
+        "g8_change_years": [
+          2019,
+          2024
+        ],
+        "g4_cohort_years": [
+          2015,
+          2019
+        ],
+        "G8_start": 263.15,
+        "G8_end": 258.05,
+        "delta_G8_total": -5.1,
+        "entry_component_G4_change": -2.04,
+        "growth_component_delta_pseudo_growth": -3.06,
+        "pseudo_growth_start_cohort": 40.63,
+        "pseudo_growth_end_cohort": 37.58,
+        "identity_check_entry_plus_growth": -5.1
+      }
+    }
+  },
+  "alignment_decisions": {
+    "2013_to_2019": "Exact alignment: G8 2013 cohort = G4 2009; G8 2019 cohort = G4 2015. Both are NAEP years; no approximation needed.",
+    "2019_to_2024": "Imperfect alignment: G8 2024 cohort was G4 in 2020, not a NAEP year. Nearest available assessment is G4 2019 (1 year before the true entry year; G4 2022 is 2 years after and contaminated by pandemic G4 losses). Used G4 2019, so the end-cohort pseudo-growth spans 5 calendar years (2019 G4 -> 2024 G8) vs 4 for the base cohort (2015 G4 -> 2019 G8); the growth component therefore mixes true G4-8 growth change with the 1-year alignment slippage and any 2019-2020 pre-pandemic G4 drift."
+  }
+}

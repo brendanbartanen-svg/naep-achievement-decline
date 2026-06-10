@@ -1,0 +1,241 @@
+year,sample,yearSampleLabel,Cohort,CohortLabel,stattype,subject,grade,scale,jurisdiction,jurisLabel,variable,variableLabel,varValue,varValueLabel,value,isStatDisplayable,errorFlag
+2013,R3,2013,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,245.690069877134,1,0
+2013,R3,2013,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,240.665305197813,1,0
+2013,R3,2013,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,235.139884939494,1,0
+2013,R3,2013,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,235.386202647767,1,0
+2013,R3,2013,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,218.37629513742,1,0
+2015,R3,2015,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,245.184411065247,1,0
+2015,R3,2015,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,239.567813031059,1,0
+2015,R3,2015,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,233.140032402001,1,0
+2015,R3,2015,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,231.289247236957,1,0
+2015,R3,2015,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,215.565604651749,1,0
+2017,R3,2017,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,246.183872800567,1,0
+2017,R3,2017,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,241.952690163075,1,0
+2017,R3,2017,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,234.641317586338,1,0
+2017,R3,2017,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,230.917325611051,1,0
+2017,R3,2017,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,211.919272862662,1,0
+2019,R3,2019,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,247.527075320236,1,0
+2019,R3,2019,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,241.158787598127,1,0
+2019,R3,2019,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,233.708580368792,1,0
+2019,R3,2019,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,229.480266467397,1,0
+2019,R3,2019,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,212.776270722345,1,0
+2022,R3,2022,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,244.880056732858,1,0
+2022,R3,2022,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,236.592049252945,1,0
+2022,R3,2022,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,231.659118614334,1,0
+2022,R3,2022,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,229.599481026012,1,0
+2022,R3,2022,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,216.857367534607,1,0
+2024,R3,2024,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,246.009001599181,1,0
+2024,R3,2024,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,238.995362343627,1,0
+2024,R3,2024,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,232.18123279109,1,0
+2024,R3,2024,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,227.122410470595,1,0
+2024,R3,2024,1,Grade 4,MN:MN,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,211.68640590627,1,0
+2013,R3,2013,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,50.1250993464043,1,0
+2013,R3,2013,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,30.4213102934059,1,0
+2013,R3,2013,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,11.8583711609968,1,0
+2013,R3,2013,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,5.067860937218,1,0
+2013,R3,2013,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,2.52735826197505,1,0
+2015,R3,2015,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,50.8550660377946,1,0
+2015,R3,2015,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,29.8913408842467,1,0
+2015,R3,2015,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,11.6986725488904,1,0
+2015,R3,2015,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,4.83706429308014,1,0
+2015,R3,2015,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,2.71785623598824,1,0
+2017,R3,2017,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,43.8688283654056,1,0
+2017,R3,2017,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,31.844417612637,1,0
+2017,R3,2017,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,13.4590109393286,1,0
+2017,R3,2017,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,6.17951584452672,1,0
+2017,R3,2017,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,4.64822723810221,1,0
+2019,R3,2019,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,43.5790346132665,1,0
+2019,R3,2019,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,32.0744250901031,1,0
+2019,R3,2019,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,13.710732387695,1,0
+2019,R3,2019,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,6.34581223230388,1,0
+2019,R3,2019,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,4.2899956766315,1,0
+2022,R3,2022,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,37.5396518941071,1,0
+2022,R3,2022,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,27.4324911672061,1,0
+2022,R3,2022,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,14.0334179675761,1,0
+2022,R3,2022,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,11.3382736060198,1,0
+2022,R3,2022,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,9.65616536509092,1,0
+2024,R3,2024,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,38.2023966002985,1,0
+2024,R3,2024,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,31.3933894004917,1,0
+2024,R3,2024,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,15.4887201075158,1,0
+2024,R3,2024,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,8.93971183796424,1,0
+2024,R3,2024,1,Grade 4,RP:RP,MAT,4,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,5.97578205372972,1,0
+2013,R3,2013,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,290.155184945253,1,0
+2013,R3,2013,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,285.262731064403,1,0
+2013,R3,2013,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,274.655540267657,1,0
+2013,R3,2013,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,270.889003259532,1,0
+2013,R3,2013,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,253.704067829625,1,0
+2015,R3,2015,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,288.303830334993,1,0
+2015,R3,2015,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,282.640196819544,1,0
+2015,R3,2015,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,271.72225252573,1,0
+2015,R3,2015,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,265.735295064802,1,0
+2015,R3,2015,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,251.009053927432,1,0
+2017,R3,2017,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,289.285635366283,1,0
+2017,R3,2017,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,284.001597780871,1,0
+2017,R3,2017,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,273.541503461361,1,0
+2017,R3,2017,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,267.590418883449,1,0
+2017,R3,2017,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,250.33197669354,1,0
+2019,R3,2019,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,289.627849254412,1,0
+2019,R3,2019,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,282.575492650111,1,0
+2019,R3,2019,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,270.564323453907,1,0
+2019,R3,2019,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,265.405530845685,1,0
+2019,R3,2019,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,245.706996207819,1,0
+2022,R3,2022,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,283.133601764103,1,0
+2022,R3,2022,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,276.239716702674,1,0
+2022,R3,2022,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,265.805460536494,1,0
+2022,R3,2022,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,264.206077440922,1,0
+2022,R3,2022,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,252.304184242374,1,0
+2024,R3,2024,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,283.756751666839,1,0
+2024,R3,2024,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,276.507811152597,1,0
+2024,R3,2024,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,264.325018783086,1,0
+2024,R3,2024,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,258.937428257604,1,0
+2024,R3,2024,2,Grade 8,MN:MN,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,241.475167485138,1,0
+2013,R3,2013,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,44.1554879905633,1,0
+2013,R3,2013,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,36.2943917768359,1,0
+2013,R3,2013,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,13.0971446757614,1,0
+2013,R3,2013,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,4.80670698695288,1,0
+2013,R3,2013,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,1.64626856988654,1,0
+2015,R3,2015,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,44.775900925066,1,0
+2015,R3,2015,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,36.2917298189765,1,0
+2015,R3,2015,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,12.5712586031936,1,0
+2015,R3,2015,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,4.72052638740383,1,0
+2015,R3,2015,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,1.64058426536005,1,0
+2017,R3,2017,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,40.3652142096279,1,0
+2017,R3,2017,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,38.1122461929441,1,0
+2017,R3,2017,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,14.2469337019671,1,0
+2017,R3,2017,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,5.57841014264523,1,0
+2017,R3,2017,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,1.69719575281573,1,0
+2019,R3,2019,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,41.0756268382313,1,0
+2019,R3,2019,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,37.2989088491026,1,0
+2019,R3,2019,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,14.1752291911347,1,0
+2019,R3,2019,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,5.48382344220929,1,0
+2019,R3,2019,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,1.9664116793221,1,0
+2022,R3,2022,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,34.3044617228644,1,0
+2022,R3,2022,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,33.2417068576317,1,0
+2022,R3,2022,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,16.2434871340389,1,0
+2022,R3,2022,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,11.0122617934372,1,0
+2022,R3,2022,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,5.1980824920278,1,0
+2024,R3,2024,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,1,None,33.3348037096756,1,0
+2024,R3,2024,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,37.1726483571244,1,0
+2024,R3,2024,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,17.9014031988844,1,0
+2024,R3,2024,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,8.29202576574114,1,0
+2024,R3,2024,2,Grade 8,RP:RP,MAT,8,MRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,3.29911896857445,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,225.462359382365,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,221.66110460177,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,217.030756709693,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,215.600474723665,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,193.132859123469,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,226.971749527149,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,222.331284968196,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,215.119734294724,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,213.922800590347,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,192.494814138669,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,228.377732683787,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,224.976737725553,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,218.600121779705,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,210.05412609961,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,183.157470610486,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,227.780812264704,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,222.267031704278,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,215.354324261682,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,207.816387156096,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,185.106625874155,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,227.069894856806,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,220.657462165926,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,213.378755151228,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,209.305657541348,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,192.993472232487,1,0
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,223.411293485732,1,0
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,219.062198663468,1,0
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,211.969382307501,1,0
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,202.76159808428,1,0
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,182.196766586077,1,0
+2013,R3,2013,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,50.5309707675786,1,0
+2013,R3,2013,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,29.949507149036,1,0
+2013,R3,2013,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,12.020533420347,1,0
+2013,R3,2013,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,5.13839381265578,1,0
+2013,R3,2013,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,2.36059485038255,1,0
+2015,R3,2015,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,51.9799073103147,1,0
+2015,R3,2015,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,29.2679181750447,1,0
+2015,R3,2015,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,11.3711296869724,1,0
+2015,R3,2015,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,4.7926494206876,1,0
+2015,R3,2015,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,2.5883954069806,1,0
+2017,R3,2017,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,44.5448092868693,1,0
+2017,R3,2017,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,32.3863914950207,1,0
+2017,R3,2017,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,13.3321032615101,1,0
+2017,R3,2017,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,5.75884331304041,1,0
+2017,R3,2017,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,3.97785264355951,1,0
+2019,R3,2019,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,43.7463521860648,1,0
+2019,R3,2019,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,31.7541475646992,1,0
+2019,R3,2019,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,13.4897734429987,1,0
+2019,R3,2019,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,6.53546008806232,1,0
+2019,R3,2019,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,4.47426671817491,1,0
+2022,R3,2022,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,38.0228842375563,1,0
+2022,R3,2022,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,27.1465522454422,1,0
+2022,R3,2022,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,13.8041708572993,1,0
+2022,R3,2022,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,11.3882104203529,1,0
+2022,R3,2022,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,9.63818223934921,1,0
+2024,R3,2024,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,37.6180771922262,1,0
+2024,R3,2024,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,31.5251633461754,1,0
+2024,R3,2024,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,15.5665537639748,1,0
+2024,R3,2024,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,8.82204125752488,1,0
+2024,R3,2024,1,Grade 4,RP:RP,RED,4,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,6.46816444009875,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,271.329393882018,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,268.528660769491,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,260.466896314647,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,257.685881733436,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,242.283021254492,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,270.117790015366,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,266.145545663534,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,257.210890515616,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,251.059398962112,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,235.513972962819,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,270.636688354965,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,267.946045418175,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,260.370916375895,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,255.781539689727,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,236.41699811297,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,268.307011673943,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,264.255338641612,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,255.819543700622,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,248.968817169742,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,226.401923585217,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,267.222278979238,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,262.211463729105,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,255.012660269079,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,252.083026864309,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,239.952771122139,1,0
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,263.806661510908,1,0
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,260.970771394734,1,0
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,253.160754589263,1,0
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,247.131150762039,1,0
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,227.82443437925,1,0
+2013,R3,2013,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,44.4371076839146,1,0
+2013,R3,2013,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,36.4977323530214,1,0
+2013,R3,2013,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,12.8809592608145,1,0
+2013,R3,2013,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,4.74202801141538,1,0
+2013,R3,2013,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,1.44217269083409,1,0
+2015,R3,2015,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,45.3238329221303,1,0
+2015,R3,2015,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,36.3386136224195,1,0
+2015,R3,2015,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,12.4628367320146,1,0
+2015,R3,2015,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,4.43611398225953,1,0
+2015,R3,2015,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,1.43860274117608,1,0
+2017,R3,2017,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,41.3562285131739,1,0
+2017,R3,2017,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,38.3452718726651,1,0
+2017,R3,2017,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,13.8581502312729,1,0
+2017,R3,2017,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,4.98269357586238,1,0
+2017,R3,2017,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,1.45765580702567,1,0
+2019,R3,2019,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,41.3824868317667,1,0
+2019,R3,2019,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,37.913863833924,1,0
+2019,R3,2019,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,13.8011483637049,1,0
+2019,R3,2019,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,5.12738759921843,1,0
+2019,R3,2019,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,1.775113371386,1,0
+2022,R3,2022,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,34.5807843356047,1,0
+2022,R3,2022,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,33.4639476251955,1,0
+2022,R3,2022,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,16.2532315621874,1,0
+2022,R3,2022,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,10.7442051669183,1,0
+2022,R3,2022,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,4.95783131009404,1,0
+2024,R3,2024,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,1,None,33.0832677331396,1,0
+2024,R3,2024,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,2,1-2 days,37.4676054136796,1,0
+2024,R3,2024,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,3,3-4 days,18.4546195030854,1,0
+2024,R3,2024,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,4,5-10 days,8.01933533741968,1,0
+2024,R3,2024,2,Grade 8,RP:RP,RED,8,RRPCM,NT,National,B018101,Days absent from school in the last month,5,More than 10 days,2.97517201267574,1,0

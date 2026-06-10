@@ -23,8 +23,22 @@ Hudson & Moscoso Boedo 4G ruggedness IV — same shock, same 2007 timing, same
 adolescent-specific age profile as the achievement decline) plus Jain & Stemper's
 3G×PISA estimates (−0.04 to −0.08 SD, 82 countries) into H2 and Related Work, and adds
 a dual-criterion synthesis framing borrowed from the fertility-puzzle genre
-(`evidence/fertility_parallel.md`). Final deliverable: `report/report.pdf` (~31 pp)
-+ `report/brief.pdf` (2 pp policy brief).
+(`evidence/fertility_parallel.md`). v1.8 executes the within-US 4G-rollout design end to
+end (first of its kind): county high-speed-mobile coverage built from the free archived
+National Broadband Map (459/459 state-waves, validated against FCC benchmarks and
+Verizon's Dec-2010 launch markets; `seda4g/` pipeline) × SEDA 5.0 county scores
+2009-2019 — Callaway–Sant'Anna event study, continuous dose, and an adolescent-exposure
+gradient all return a precise null on the arrival-timing margin (dose −0.002 SD,
+perm p=.66, MDE80 0.013; gradient +0.011/yr, perm p=.12, MDE80 0.016; 10-spec
+robustness grid all |coef|≤0.003 with flipping signs; visible urban-rural pre-trend
+disclosed). Read: the decline did not ride on local cell-tower timing — disciplines the
+mechanics of H2 without touching its national, adoption-driven channel (report §4G).
+v1.8 also adds a verification layer: `evidence/claims_audit.md` (41 load-bearing claims
+with <5-min verification paths), `checks.py` (62 assertions, all passing),
+`docs/verification_checklists.md` (human spot-check lists), and blind clean-room
+replications of the riskiest computed numbers in `verification/cleanroom/`
+(cohort decomposition, PISA distraction, Kitagawa, waiver null all reproduce).
+Final deliverable: `report/report.pdf` (~32 pp) + `report/brief.pdf` (2 pp policy brief).
 
 ## Structure
 - `naep_pull.py` — pulls main-NAEP national means/percentiles, subgroups (race, sex, NSLP),
