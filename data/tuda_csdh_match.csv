@@ -1,0 +1,27 @@
+jur,label,district,share_virtual,share_hybrid,share_inperson
+XA,Atlanta,Atlanta Public Schools,1.00,0.00,0.00
+XB,Boston,Boston,0.47,0.33,0.20
+XC,Chicago,City of Chicago SD 299,0.68,0.32,0.00
+XD,San Diego,San Diego Unified,0.73,0.27,0.00
+XE,Duval County (FL),Duval,0.01,0.00,0.99
+XF,Fresno,Fresno Unified,0.73,0.27,0.00
+XG,Guilford County (NC),Guilford County Schools,0.30,0.30,0.40
+XH,Houston,Houston ISD,0.04,0.00,0.96
+XI,Miami-Dade,Miami-Dade,0.03,0.00,0.97
+XJ,Jefferson County (KY),Jefferson County,0.78,0.22,0.00
+XK,Milwaukee,Milwaukee School District,0.75,0.13,0.12
+XL,Los Angeles,Los Angeles Unified,0.73,0.27,0.00
+XM,Baltimore City,Baltimore City,0.42,0.58,0.00
+XN,New York City,NYC geographic districts (mean of 32),0.146,0.854,0.00
+XO,Hillsborough County (FL),Hillsborough,0.00,0.00,1.00
+XP,Philadelphia,Philadelphia City SD,1.00,0.00,0.00
+XQ,Albuquerque,Albuquerque Public Schools,0.79,0.00,0.21
+XR,Detroit,Detroit Public Schools Community District,0.33,0.22,0.44
+XS,Dallas,Dallas ISD,0.00,0.00,1.00
+XT,Charlotte,Charlotte-Mecklenburg Schools,0.50,0.50,0.00
+XU,Austin,Austin ISD (NCES 4808940),0.34,0.00,0.66
+XV,Cleveland,Cleveland Municipal City,0.73,0.28,0.00
+XW,District of Columbia (DCPS),District of Columbia Public Schools,0.50,0.50,0.00
+XX,Clark County (NV),Clark County School District,0.69,0.20,0.12
+XY,Denver,Denver County 1,0.60,0.40,0.00
+XZ,Fort Worth (TX),Fort Worth ISD,0.02,0.00,0.98

@@ -1,9 +1,10 @@
 # Why Did American Student Achievement Decline?
 
 Self-contained analysis verifying the post-2013 NAEP decline and testing eight candidate
-explanations, three discriminating tests (v1.1), two mechanism checks (v1.2), and an
-inference/robustness upgrade with a verified related-literature positioning (v1.3).
-Final deliverable: `report/report.pdf` (24 pp).
+explanations, discriminating tests (v1.1), mechanism checks (v1.2), an inference/robustness
+upgrade with verified related-literature positioning (v1.3), and an exhaustive-avenues
+extension (v1.4: Common Core test, TUDA district dose-response, adult-PIAAC mirror, grade 12,
+validity checks, documented try-and-cut analyses). Final deliverable: `report/report.pdf` (27 pp).
 
 ## Structure
 - `naep_pull.py` — pulls main-NAEP national means/percentiles, subgroups (race, sex, NSLP),
@@ -60,6 +61,17 @@ cd report && tectonic report.tex
   novelty verified: first staggered waiver event study on state NAEP percentiles (Dewey et
   al. 2026 call this counterfactual "never tested"), first formal cohort/period decomposition,
   first systematic sector test of the accountability hypothesis.
+- v1.4 exhaustive-avenues sprint: (i) Common Core fails its state-variation test — never-adopters
+  (AK,NE,TX,VA) declined as much or more (pooled P10 diff −0.4, p=0.72); Minnesota's non-CC math
+  fell *less* than its CC reading; (ii) TUDA district dose-response (26 districts × CSDH shares,
+  0→100% virtual range): weak gradient (pooled −0.18 pts/10pp, p=0.23), wide CIs — limitation,
+  not contradiction, of the growth-based literature; (iii) adult-PIAAC mirror: US literacy −12
+  (2017→2023), ≤Level-1 share 19%→28%, top stable; declines in 19 OECD countries — adults are
+  untouched by school policy; (iv) G12 2024: lowest math/reading ever, same bottom-heavy
+  signature; (v) validity: exclusion flat 1-3%, participation unchanged 2022→2024 — artifact
+  explanations ruled out; (vi) tried-and-cut: opioid correlation (null/inconsistent, kept in
+  analyze_v14.py), cross-country smartphone timing (data quality), cannabis, discipline reform
+  (no clean variation) — documented in report §"Avenues examined and set aside".
 - v1.2 mechanism checks: (i) between-state variation in 2020-21 virtual schooling explains
   almost none of between-state NAEP declines (pooled −0.04 pts/10pp virtual, p=0.80) — the
   district-level closure effect washes out under state aggregation; (ii) NAEP's own absence

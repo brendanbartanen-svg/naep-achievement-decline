@@ -1,0 +1,176 @@
+{
+ "tuda": [
+  {
+   "series": "Math G4",
+   "n": 25,
+   "drop b/10pp": -0.29,
+   "p": 0.115,
+   "spearman": -0.23,
+   "net1924 b/10pp": -0.13,
+   "p_net": 0.561
+  },
+  {
+   "series": "Math G8",
+   "n": 25,
+   "drop b/10pp": -0.09,
+   "p": 0.631,
+   "spearman": -0.1,
+   "net1924 b/10pp": 0.02,
+   "p_net": 0.941
+  },
+  {
+   "series": "Reading G4",
+   "n": 25,
+   "drop b/10pp": -0.34,
+   "p": 0.158,
+   "spearman": -0.25,
+   "net1924 b/10pp": 0.06,
+   "p_net": 0.805
+  },
+  {
+   "series": "Reading G8",
+   "n": 25,
+   "drop b/10pp": -0.01,
+   "p": 0.963,
+   "spearman": -0.13,
+   "net1924 b/10pp": 0.1,
+   "p_net": 0.664
+  }
+ ],
+ "tuda_pooled": {
+  "drop_b10": -0.18,
+  "p": 0.2274,
+  "net_b10": 0.01,
+  "p_net": 0.9531
+ },
+ "commoncore_groups": [
+  {
+   "series": "Math G4",
+   "group": "adopters",
+   "n": 46,
+   "mean chg": -2.3,
+   "P10 chg": -6.0
+  },
+  {
+   "series": "Math G4",
+   "group": "never (AK,NE,TX,VA)",
+   "n": 4,
+   "mean chg": -0.2,
+   "P10 chg": -2.8
+  },
+  {
+   "series": "Math G4",
+   "group": "repealed 2014 (IN,OK,SC)",
+   "n": 3,
+   "mean chg": -1.8,
+   "P10 chg": -5.4
+  },
+  {
+   "series": "Math G8",
+   "group": "adopters",
+   "n": 46,
+   "mean chg": -2.8,
+   "P10 chg": -7.3
+  },
+  {
+   "series": "Math G8",
+   "group": "never (AK,NE,TX,VA)",
+   "n": 4,
+   "mean chg": -4.2,
+   "P10 chg": -9.1
+  },
+  {
+   "series": "Math G8",
+   "group": "repealed 2014 (IN,OK,SC)",
+   "n": 3,
+   "mean chg": -1.5,
+   "P10 chg": -3.8
+  },
+  {
+   "series": "Reading G4",
+   "group": "adopters",
+   "n": 46,
+   "mean chg": -1.4,
+   "P10 chg": -6.1
+  },
+  {
+   "series": "Reading G4",
+   "group": "never (AK,NE,TX,VA)",
+   "n": 4,
+   "mean chg": -2.9,
+   "P10 chg": -6.1
+  },
+  {
+   "series": "Reading G4",
+   "group": "repealed 2014 (IN,OK,SC)",
+   "n": 3,
+   "mean chg": -0.6,
+   "P10 chg": -4.6
+  },
+  {
+   "series": "Reading G8",
+   "group": "adopters",
+   "n": 46,
+   "mean chg": -3.7,
+   "P10 chg": -9.9
+  },
+  {
+   "series": "Reading G8",
+   "group": "never (AK,NE,TX,VA)",
+   "n": 4,
+   "mean chg": -7.0,
+   "P10 chg": -12.9
+  },
+  {
+   "series": "Reading G8",
+   "group": "repealed 2014 (IN,OK,SC)",
+   "n": 3,
+   "mean chg": -2.5,
+   "P10 chg": -8.1
+  }
+ ],
+ "cc_never_diff": {
+  "b": -0.39,
+  "p": 0.724
+ },
+ "minnesota": [
+  {
+   "grade": 4,
+   "MN math chg vs other states": -2.9,
+   "MN reading chg vs other states": -3.1,
+   "triple-diff (math - reading)": 0.2
+  },
+  {
+   "grade": 8,
+   "MN math chg vs other states": -0.9,
+   "MN reading chg vs other states": -3.2,
+   "triple-diff (math - reading)": 2.3
+  }
+ ],
+ "opioid": [
+  {
+   "series": "Math G4",
+   "b per +10/100k": -0.1,
+   "p": 0.929,
+   "r": -0.02
+  },
+  {
+   "series": "Math G8",
+   "b per +10/100k": -0.81,
+   "p": 0.386,
+   "r": -0.14
+  },
+  {
+   "series": "Reading G4",
+   "b per +10/100k": -2.85,
+   "p": 0.124,
+   "r": -0.32
+  },
+  {
+   "series": "Reading G8",
+   "b per +10/100k": -0.36,
+   "p": 0.695,
+   "r": -0.07
+  }
+ ]
+}
