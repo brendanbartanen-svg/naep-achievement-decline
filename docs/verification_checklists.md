@@ -17,6 +17,13 @@ footnote and, if it cannot be found in ~2 minutes, flag the row for re-coding.
 
 ### A1. `data/waivers.csv` (ESEA/NCLB waiver approval dates) — 9 rows
 
+> **VERIFIED by author, 2026-06-10.** Brendan spot-checked the waiver coding with
+> focus on the binding margins: the early/late boundary around the Jan–Mar 2013
+> NAEP administration (incl. Idaho, Oct 2012), the earliest "late" states (HI/WV/AK,
+> May 2013), the seven never-waiver control states (incl. the CA CORE
+> districts-only judgment call), WA's Apr 2014 revocation, and IL's Apr 2014
+> approval. No errors found.
+
 General sources recorded in report.tex (fn. 3) and README: ED's per-state ESEA flexibility
 pages, CRS Report R42328, EdWeek state-by-state tracking. No per-row URL is recorded in the
 repo, so each row below inherits **no recorded per-row source — verify against ED/CRS/EdWeek
