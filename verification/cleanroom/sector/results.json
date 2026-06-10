@@ -1,0 +1,389 @@
+{
+ "metadata": {
+  "means_sds_source": "NAEP Data Service API GetAdhocData (type=data, stattype MN:MN and SD:SD), variable SCHTYPE, jurisdiction NT",
+  "official_sig_source": "NAEP Data Service API GetAdhocData (type=sigacrossyear and type=gaponvaracrossyear) - NAEP's own significance tests using its internal standard errors",
+  "se_method": "APPROXIMATED from SD (stattype SD:SD): SE = SD*sqrt(deff/n). True SEs live in the NAEP Data Explorer, whose backend (POST /ndecore/api/dataTable) could not be invoked programmatically (HTTP 400; undocumented contract) and whose UI requires an interactive session that repeatedly froze. n from official technical-appendix participation tables (assessed-student counts); Catholic n assumed 55% of private-school n (range 40-70%); design effect assumed 3 (range 2-4).",
+  "n_assumptions": {
+   "('RED', 8, 2013)": {
+    "public": 171800,
+    "private": 2600
+   },
+   "('MAT', 8, 2013)": {
+    "public": 170100,
+    "private": 2700
+   },
+   "('RED', 8, 2019)": {
+    "public": 138100,
+    "private": 2600
+   },
+   "('MAT', 8, 2019)": {
+    "public": 142200,
+    "private": 2700
+   },
+   "('RED', 8, 2024)": {
+    "public": 108000,
+    "private": 1500
+   },
+   "('MAT', 8, 2024)": {
+    "public": 107700,
+    "private": 1500
+   }
+  },
+  "catholic_share_of_private_n": 0.55,
+  "design_effect": 3.0
+ },
+ "grade8": {
+  "reading": {
+   "public_change_2013_2019": {
+    "y1": 2013,
+    "y2": 2019,
+    "mean_y1": 266.02,
+    "mean_y2": 262.0,
+    "change": -4.02,
+    "se_approx": 0.23,
+    "z_approx": -17.67,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 4.02,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "public_change_2019_2024": {
+    "y1": 2019,
+    "y2": 2024,
+    "mean_y1": 262.0,
+    "mean_y2": 256.66,
+    "change": -5.34,
+    "se_approx": 0.28,
+    "z_approx": -19.28,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 5.34,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "public_change_2013_2024": {
+    "y1": 2013,
+    "y2": 2024,
+    "mean_y1": 266.02,
+    "mean_y2": 256.66,
+    "change": -9.36,
+    "se_approx": 0.26,
+    "z_approx": -36.48,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 9.36,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "catholic_change_2013_2019": {
+    "y1": 2013,
+    "y2": 2019,
+    "mean_y1": 286.18,
+    "mean_y2": 278.38,
+    "change": -7.8,
+    "se_approx": 1.95,
+    "z_approx": -4.01,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 7.8,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "catholic_change_2019_2024": {
+    "y1": 2019,
+    "y2": 2024,
+    "mean_y1": 278.38,
+    "mean_y2": 276.99,
+    "change": -1.39,
+    "se_approx": 2.44,
+    "z_approx": -0.57,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 1.39,
+     "verdict_focal_vs_target": "EQUAL"
+    }
+   },
+   "catholic_change_2013_2024": {
+    "y1": 2013,
+    "y2": 2024,
+    "mean_y1": 286.18,
+    "mean_y2": 276.99,
+    "change": -9.19,
+    "se_approx": 2.43,
+    "z_approx": -3.78,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 9.19,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "DiD_publicMinusCatholic_2013_2019": {
+    "public_change": -4.02,
+    "catholic_change": -7.8,
+    "did": 3.78,
+    "se_approx": 1.96,
+    "z_approx": 1.93,
+    "official_naep_gap_test": {
+     "innerDiff_focal": -20.16,
+     "innerDiff_target": -16.39,
+     "gap_DiD": -3.78,
+     "verdict": "EQUAL",
+     "val1": "Public",
+     "val2": "Catholic"
+    }
+   },
+   "DiD_publicMinusCatholic_2019_2024": {
+    "public_change": -5.34,
+    "catholic_change": -1.39,
+    "did": -3.95,
+    "se_approx": 2.46,
+    "z_approx": -1.61,
+    "official_naep_gap_test": {
+     "innerDiff_focal": -16.39,
+     "innerDiff_target": -20.33,
+     "gap_DiD": 3.94,
+     "verdict": "HIGHER",
+     "val1": "Public",
+     "val2": "Catholic"
+    }
+   }
+  },
+  "math": {
+   "public_change_2013_2019": {
+    "y1": 2013,
+    "y2": 2019,
+    "mean_y1": 283.62,
+    "mean_y2": 280.99,
+    "change": -2.63,
+    "se_approx": 0.24,
+    "z_approx": -11.02,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 2.63,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "public_change_2019_2024": {
+    "y1": 2019,
+    "y2": 2024,
+    "mean_y1": 280.99,
+    "mean_y2": 272.23,
+    "change": -8.75,
+    "se_approx": 0.29,
+    "z_approx": -30.46,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 8.75,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "public_change_2013_2024": {
+    "y1": 2013,
+    "y2": 2024,
+    "mean_y1": 283.62,
+    "mean_y2": 272.23,
+    "change": -11.38,
+    "se_approx": 0.27,
+    "z_approx": -42.26,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 11.38,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "catholic_change_2013_2019": {
+    "y1": 2013,
+    "y2": 2019,
+    "mean_y1": 294.88,
+    "mean_y2": 293.42,
+    "change": -1.46,
+    "se_approx": 2.16,
+    "z_approx": -0.68,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 1.46,
+     "verdict_focal_vs_target": "EQUAL"
+    }
+   },
+   "catholic_change_2019_2024": {
+    "y1": 2019,
+    "y2": 2024,
+    "mean_y1": 293.42,
+    "mean_y2": 292.55,
+    "change": -0.88,
+    "se_approx": 2.78,
+    "z_approx": -0.32,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 0.88,
+     "verdict_focal_vs_target": "EQUAL"
+    }
+   },
+   "catholic_change_2013_2024": {
+    "y1": 2013,
+    "y2": 2024,
+    "mean_y1": 294.88,
+    "mean_y2": 292.55,
+    "change": -2.34,
+    "se_approx": 2.75,
+    "z_approx": -0.85,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 2.34,
+     "verdict_focal_vs_target": "EQUAL"
+    }
+   },
+   "DiD_publicMinusCatholic_2013_2019": {
+    "public_change": -2.63,
+    "catholic_change": -1.46,
+    "did": -1.17,
+    "se_approx": 2.17,
+    "z_approx": -0.54,
+    "official_naep_gap_test": {
+     "innerDiff_focal": -11.27,
+     "innerDiff_target": -12.44,
+     "gap_DiD": 1.17,
+     "verdict": "EQUAL",
+     "val1": "Public",
+     "val2": "Catholic"
+    }
+   },
+   "DiD_publicMinusCatholic_2019_2024": {
+    "public_change": -8.75,
+    "catholic_change": -0.88,
+    "did": -7.87,
+    "se_approx": 2.8,
+    "z_approx": -2.82,
+    "official_naep_gap_test": {
+     "innerDiff_focal": -12.44,
+     "innerDiff_target": -20.31,
+     "gap_DiD": 7.88,
+     "verdict": "HIGHER",
+     "val1": "Public",
+     "val2": "Catholic"
+    }
+   }
+  }
+ },
+ "grade4_descriptive": {
+  "reading": {
+   "public_2013_2019": {
+    "mean_y1": 220.67,
+    "mean_y2": 219.44,
+    "change": -1.23,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 1.23,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "public_2019_2024": {
+    "mean_y1": 219.44,
+    "mean_y2": 214.27,
+    "change": -5.17,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 5.17,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "catholic_2013_2019": {
+    "mean_y1": 235.15,
+    "mean_y2": 235.06,
+    "change": -0.09,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 0.09,
+     "verdict_focal_vs_target": "EQUAL"
+    }
+   },
+   "catholic_2019_2024": {
+    "mean_y1": 235.06,
+    "mean_y2": 229.73,
+    "change": -5.33,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 5.33,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   }
+  },
+  "math": {
+   "public_2013_2019": {
+    "mean_y1": 241.18,
+    "mean_y2": 240.0,
+    "change": -1.18,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 1.18,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "public_2019_2024": {
+    "mean_y1": 240.0,
+    "mean_y2": 237.3,
+    "change": -2.7,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 2.7,
+     "verdict_focal_vs_target": "HIGHER"
+    }
+   },
+   "catholic_2013_2019": {
+    "mean_y1": 246.09,
+    "mean_y2": 246.09,
+    "change": -0.0,
+    "official_naep_test": {
+     "gap_y1_minus_y2": 0.0,
+     "verdict_focal_vs_target": "EQUAL"
+    }
+   },
+   "catholic_2019_2024": {
+    "mean_y1": 246.09,
+    "mean_y2": 247.13,
+    "change": 1.05,
+    "official_naep_test": {
+     "gap_y1_minus_y2": -1.05,
+     "verdict_focal_vs_target": "EQUAL"
+    }
+   }
+  }
+ },
+ "grade8_mean_trends": {
+  "MAT_G8_catholic": {
+   "2003": 289.45,
+   "2005": 290.15,
+   "2007": 291.91,
+   "2009": 296.74,
+   "2011": 295.24,
+   "2013": 294.88,
+   "2015": 293.36,
+   "2017": 294.2,
+   "2019": 293.42,
+   "2022": 287.6,
+   "2024": 292.55
+  },
+  "MAT_G8_public": {
+   "2003": 276.12,
+   "2005": 277.52,
+   "2007": 280.17,
+   "2009": 281.67,
+   "2011": 282.73,
+   "2013": 283.62,
+   "2015": 281.28,
+   "2017": 281.96,
+   "2019": 280.99,
+   "2022": 273.13,
+   "2024": 272.23
+  },
+  "RED_G8_catholic": {
+   "2003": 281.24,
+   "2005": 279.99,
+   "2007": 282.01,
+   "2009": 281.1,
+   "2011": 283.12,
+   "2013": 286.18,
+   "2015": 283.8,
+   "2017": 283.44,
+   "2019": 278.38,
+   "2022": 279.49,
+   "2024": 276.99
+  },
+  "RED_G8_public": {
+   "2003": 261.33,
+   "2005": 260.4,
+   "2007": 261.01,
+   "2009": 262.29,
+   "2011": 263.59,
+   "2013": 266.02,
+   "2015": 263.99,
+   "2017": 265.33,
+   "2019": 262.0,
+   "2022": 259.11,
+   "2024": 256.66
+  }
+ }
+}
