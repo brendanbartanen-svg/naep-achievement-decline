@@ -38,7 +38,7 @@ with <5-min verification paths), `checks.py` (62 assertions, all passing),
 `docs/verification_checklists.md` (human spot-check lists), and blind clean-room
 replications of the riskiest computed numbers in `verification/cleanroom/`
 (cohort decomposition, PISA distraction, Kitagawa, waiver null all reproduce).
-Final deliverable: `report/report.pdf` (~32 pp) + `report/brief.pdf` (2 pp policy brief).
+Final deliverables: `report/report.pdf` (~32 pp), `report/brief.pdf` (2 pp policy brief), `report/slides.pdf` (28-slide academic talk; `slides.tex`).
 
 ## Structure
 - `naep_pull.py` — pulls main-NAEP national means/percentiles, subgroups (race, sex, NSLP),
