@@ -2,6 +2,7 @@
 \usepackage[margin=1.1in]{geometry}
 \usepackage{amsmath,amssymb}
 \usepackage{graphicx}
+\usepackage[section]{placeins}
 \usepackage{booktabs}
 \usepackage{caption}
 \usepackage[hidelinks]{hyperref}
@@ -64,14 +65,14 @@ Beyond the three tests, the report's integrative device---deriving distinct pred
 
 Figure~\ref{fig:national} plots national average scale scores for the four main NAEP series. All four rose strongly through the 2000s, peaked in 2013 (grade 4 reading in 2015, fractionally above its 2013 level), drifted downward through 2019, dropped sharply between 2019 and 2022, and---except for a partial rebound in grade 4 mathematics---continued falling or stagnated through 2024.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.92\textwidth]{fig_national_trends.pdf}
 \caption{National average NAEP scale scores, 1990--2024. Dotted line marks 2013; shaded band marks the period of pandemic-disrupted schooling. Data: NAEP Data Service API.}
 \label{fig:national}
 \end{figure}
 
-\begin{table}[t]
+\begin{table}[tbp]
 \centering\small
 \caption{National average score changes by period (NAEP scale points).}
 \label{tab:changes}
@@ -95,7 +96,7 @@ Table~\ref{tab:changes} decomposes the decline. Three observations matter for ev
 
 The LTT data (Figure~\ref{fig:ltt}) rule out the possibility that the main-NAEP decline is an artifact of framework or administration changes. On test content held essentially constant since the 1970s, age 9 and age 13 scores peaked in 2012 and were already falling before the pandemic: age 13 mathematics fell from 285 in 2012 to 280 in fall 2019, and age 13 reading from 263 to 260, \emph{before any school closed}. The pandemic then produced the largest drops ever recorded in the series: age 9 mathematics fell 7 points between early 2020 and 2022 (its first statistically significant decline ever), and age 13 mathematics fell 9 further points by fall 2022, landing at its 1992 level. Age 13 reading in 2023 (256) was statistically indistinguishable from its 1971 baseline---a half-century of progress erased for the median young adolescent.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.92\textwidth]{fig_ltt.pdf}
 \caption{NAEP Long-Term Trend average scores, ages 9 and 13, 1971--2023. The age 9 ``2020'' point was assessed January--March 2020 (pre-pandemic); the age 13 ``2020'' point in fall 2019. Dotted line marks 2012. Data: NCES Digest tables 221.85/222.85, validated against the LTT Data Service.}
@@ -107,14 +108,14 @@ The LTT data (Figure~\ref{fig:ltt}) rule out the possibility that the main-NAEP 
 
 The single most diagnostic fact in the data is \emph{where} in the achievement distribution the losses occurred. Figure~\ref{fig:pctile} plots score changes since 2013 at the 10th through 90th percentiles for grade 8; Figure~\ref{fig:lttpct} shows the same comparison for the LTT, split into the pre-pandemic (2012$\rightarrow$2020) and pandemic (2020$\rightarrow$2022/23) windows.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.92\textwidth]{fig_percentiles_g8.pdf}
 \caption{Grade 8 score changes since 2013 by percentile. Data: NAEP Data Service API.}
 \label{fig:pctile}
 \end{figure}
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.92\textwidth]{fig_ltt_percentiles.pdf}
 \caption{LTT score changes by percentile: pre-pandemic (left) versus pandemic era (right). The pre-pandemic decline is concentrated almost entirely among low performers; the pandemic-era decline hits everywhere but remains steepest at the bottom. Data: LTT Data Service.}
@@ -127,7 +128,7 @@ The pandemic broke this pattern in an informative way: 2019--2022 losses appear 
 
 The cumulative effect on inequality is unprecedented in NAEP's history. The 90--10 gap (Figure~\ref{fig:gap}) widened between 2013 and 2024 by 13 points in grade 4 mathematics (75$\rightarrow$89), 16 points in grade 8 mathematics (93$\rightarrow$109), 15 points in grade 4 reading, and 16 points in grade 8 reading---in every case the widest gap ever recorded.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.7\textwidth]{fig_gap9010.pdf}
 \caption{Gap between the 90th and 10th percentile scores, 2003--2024. Data: NAEP Data Service API.}
@@ -139,7 +140,7 @@ The cumulative effect on inequality is unprecedented in NAEP's history. The 90--
 
 Score declines appear \emph{within} essentially every demographic subgroup, which constrains compositional explanations (Section~\ref{sec:h5}). Between 2013 and 2024, grade 8 mathematics fell 8.3 points among White students, 11.4 among Black students, 13.1 among Hispanic students, and was about flat ($-1.1$) only among Asian/Pacific Islander students. Both NSLP-eligible (lower-income) and non-eligible students lost ground through 2022 (grade 8 mathematics: $-10.4$ and $-9.9$ respectively). Pre-pandemic, the within-group pattern mirrors the percentile pattern: between 2013 and 2019 grade 8 mathematics scores among lunch-eligible students fell 3.6 points while non-eligible students lost only 1.0; Asian/Pacific Islander students \emph{gained} 3.5 points. Figure~\ref{fig:lunch} shows the level trends by lunch eligibility.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.92\textwidth]{fig_lunch.pdf}
 \caption{Average scores by National School Lunch Program eligibility (available through 2022). Data: NAEP Data Service API.}
@@ -153,7 +154,7 @@ The decline is not regional. Between 2013 and 2019, 75--94\% of states (dependin
 
 State variation \emph{within} the pandemic window lines up with schooling-mode differences (Section~\ref{sec:h1}). States' 2019--2022 drops in grade 4 mathematics ranged from about $-13$ points to roughly zero. The states that fell most recovered somewhat faster afterward (correlation between 2019--22 change and 2022--24 change $\approx -0.3$ to $-0.5$; Figure~\ref{fig:states}), consistent with partial mean reversion as in-person schooling resumed---but the rebound slopes are shallow (about $-0.4$), implying that most of the pandemic-window loss has, so far, been persistent rather than transitory.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.92\textwidth]{fig_states.pdf}
 \caption{State-level pandemic losses versus post-pandemic recovery, mathematics. Each point is a state. Data: NAEP Data Service API.}
@@ -165,7 +166,7 @@ State variation \emph{within} the pandemic window lines up with schooling-mode d
 
 The U.S. decline is part of a broader rich-world phenomenon (Figure~\ref{fig:intl}). The OECD-average PISA mathematics score fell 22 points between 2012 and 2022 (494$\rightarrow$472) and reading fell 20 points---declines that began \emph{before} the pandemic. The OECD itself concluded that the fall was ``only partly attributable to the COVID-19 pandemic,'' noting that reading and science had been sliding for roughly a decade \citep{oecd2023}. Twelve OECD systems---including Finland, the Netherlands, Belgium, and Canada---show statistically significant mathematics declines beginning before 2018. Notably, U.S. PISA \emph{reading} was flat (505$\rightarrow$504) between 2018 and 2022 while the OECD average fell 11 points, so the U.S. position relative to peers actually improved even as its NAEP reading scores fell; PISA samples 15-year-olds, whose NAEP-cohort losses were smaller than younger students'. U.S. TIMSS mathematics tells the same story as NAEP: grade 8 scores fell 27 points between 2019 and 2023, back to mid-1990s levels, with the lowest 10th-percentile scores since the study began \citep{nces2024timss}.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.99\textwidth]{fig_intl.pdf}
 \caption{International assessments: PISA mathematics and reading (U.S. vs.\ OECD average) and U.S. TIMSS mathematics. Data: NCES/OECD publications.}
@@ -228,7 +229,7 @@ Two equally important negative results bound the hypothesis. First, H1 predicts 
 
 \textbf{Verdict.} \emph{Strongly supported as a major driver of phase one (and of the continued post-2022 slide in reading): timing, international synchrony, mechanism evidence, quasi-experimental ban studies whose effect heterogeneity---low performers gain most when phones are removed---matches the distributional signature of the decline, and an independent rollout-based causal literature on fertility, mental health, and international test scores that recovers the same adolescent-specific, 2007-onset shock. The discriminating tests of Section~\ref{sec:sharper}---an adolescent-specific period effect, sector-neutral declines, and the failure of policy-variation tests---all land on the side this hypothesis predicts.}
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.62\textwidth]{fig_readingfun.pdf}
 \caption{Share of students reading for fun, NAEP LTT student survey. The decline pre-dates the pandemic. Data: LTT Data Service (variable S003501).}
@@ -297,7 +298,7 @@ Define cohort-matched pseudo-growth as the grade 8 average in year $t$ minus the
 
 This is a period effect concentrated in adolescence, not a cohort effect. It is unfavorable to explanations rooted in early childhood or school inputs broadly (which would depress grade 4 entry too), and it matches the exposure profile of smartphones and social media, which saturate ages 11--14 far more than ages 5--9. It is compatible with the accountability hypothesis only in the version where pressure mattered most in the middle grades. The result formalizes what \citet{petrilli2020} observed informally for two graduating classes and supplies the demonstration behind \citet{malkus2025theories}'s narrative argument against cohort-cascade accounts.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.95\textwidth]{fig_cohort.pdf}
 \caption{Cohort vs.\ period. Left: cohort-matched pseudo-growth (grade 8 mean minus the same cohort's grade 4 mean four years earlier), relative to the 2007 value. Right: mathematics scores by approximate birth year for four age groups, each relative to its series peak. Data: NAEP Data Service API; LTT.}
@@ -311,7 +312,7 @@ Federal test-based accountability never applied to private schools, while the di
 
 Figure~\ref{fig:pubcath} shows changes since 2013, and because Catholic estimates carry standard errors near 1.6 points (vs.\ 0.3 for public; Digest table 222.32a), formal tests matter here. The statistically informative contrast is reading: Catholic grade 8 reading fell $-7.8$ points between 2013 and 2019 ($z=-3.4$ on published SEs)---at least as much as the public-school decline of $-4.0$---so the subject in which the pre-pandemic decline was largest and earliest was falling just as fast inside schools that NCLB and its repeal never touched. In mathematics the Catholic samples are too noisy to be informative: the $-1.5$ change is indistinguishable from zero and from the public $-2.6$. A pure accountability story predicts flat private-sector trends; the reading evidence contradicts that, while grade 4 (Catholic flat, public bottom decile falling) leaves room for an accountability contribution in the early grades. After 2019 the sectors diverge sharply and significantly in grade 8 mathematics: public schools fell 7.9 points more than Catholic schools ($z=-2.6$, using a conservative 2.5-point SE for recent Catholic estimates), by 2024 leaving Catholic students within 2.3 points of their 2013 level while public students were 11.4 points below---consistent with private schools' shorter closures and lower post-pandemic absenteeism.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.92\textwidth]{fig_pubcath.pdf}
 \caption{Average scores by school sector, relative to 2013. Data: NAEP Data Service API (SCHTYPE), national.}
@@ -329,7 +330,7 @@ Because the comparison group is only seven states, conventional cluster asymptot
 
 One scope limitation remains: a waiver is one notch of deregulation. If the operative change was a national shift in expectations and stakes culminating in ESSA, it hit all states simultaneously and is absorbed in year effects, invisible to this design. What the test rules out is the strong form of the hypothesis in which the formal release from NCLB consequences drove a state's low performers downward.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.95\textwidth]{fig_waiver.pdf}
 \caption{Waiver-timing tests, pre-COVID panel (2003--2019). Left: mean 10th-percentile grade 8 mathematics score by waiver group, relative to 2011. Right: event-study coefficients (early-waiver $\times$ year, base 2011, never-waiver comparison), all four grade--subject cells pooled in SD units; bars are 95\% confidence intervals, clustered by state. Data: NAEP Data Service API; waiver dates from ED/CRS/EdWeek.}
@@ -343,7 +344,7 @@ A third policy hypothesis with usable state variation is the Common Core: nearly
 
 The test fails to implicate the standards (Figure~\ref{fig:cc}). Between 2013 and 2019, never-adopter states' 10th-percentile scores fell about as much as adopters' at grade 4 and \emph{more} than adopters' at grade 8 (mathematics: $-9.1$ vs.\ $-7.3$; reading: $-12.9$ vs.\ $-9.9$); pooled across the four series, the never-adopter difference in bottom-decile change is $-0.4$ points ($p=0.72$). The 2014 repealers look marginally better than adopters, but with three states the difference is uninformative. Minnesota's within-state subject contrast---its mathematics standards were never Common Core while its reading standards were---shows its mathematics performance falling \emph{less}, relative to other states, than its reading performance (a $+2.3$-point triple-difference at grade 8), the opposite of what Common-Core-harmed-math would predict for an untreated subject, though a single state cannot carry much weight. As with the waiver test, the spillover caveat applies (never-adopter states still bought nationally aligned textbooks and materials); what the test rules out is the strong claim that adopting or keeping the standards is what drove a state's decline.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.78\textwidth]{fig_commoncore.pdf}
 \caption{10th-percentile score changes, 2013--2019, by Common Core adoption status. Data: NAEP Data Service API; adoption coding from NCES State Education Reforms.}
@@ -359,7 +360,7 @@ The result is a precise null on every margin the design can identify (Figure~\re
 
 Three limits keep this null from being a refutation of the hypothesis it tests. First, any national component of the smartphone effect---the channel most of Section~\ref{sec:h2}'s evidence concerns---is absorbed by year fixed effects; the design speaks only to whether \emph{local 4G arrival timing} mattered. Second, smartphone adoption ran substantially on existing 3G networks (teen ownership was already 37\% in 2012), so coverage timing is a noisy and partly anticipated instrument for exposure. Third, controls are exhausted by 2015 (the never-treated remainder is 117 deep-rural counties, half a percent of population), so slowly accumulating effects materializing four or more years after arrival are outside the design's reach. What the test does establish is informative on its own terms: the decline did not propagate through differences in when high-speed mobile infrastructure arrived---in instructive contrast to teen fertility, where the same variation produces large effects \citep{hudsonmoscoso2026}, and to the cross-country 3G margin, where \citet{jainstemper2024} find achievement effects of $0.04$--$0.08$ SD, several times our MDE on the within-U.S. 4G margin. Whatever digital media did to American adolescents' learning, it arrived with the device and its saturation of social life, not with the local cell tower upgrade.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.8\textwidth]{fig_4g_eventstudy.pdf}
 \caption{Event study of county 4G (LTE) arrival on SEDA county test scores, pooled grades 3--8, mathematics and reading, 2009--2019. Cohort-weighted ATT$(g,t)$ aggregates by event time, with county-block-bootstrap 95\% CIs; the restricted series uses only comparisons for which not-yet-treated controls exist. Treatment = first wave county high-speed mobile coverage exceeds 50\% of population (NBM/SBDD archive). Units: SEDA cohort-standardized (SD) scale.}
@@ -405,21 +406,21 @@ A caution survives: across countries, the change in even \emph{hypothetical} (``
 
 Several further hypotheses were tested or scoped and judged not to merit headline treatment; they are recorded here so the reader knows they were not overlooked. \emph{Opioid epidemic / family distress}: regressing states' 2013--2019 bottom-decile changes on the change in CDC age-adjusted drug-overdose death rates yields right-signed but statistically null estimates in three of four series (the largest, grade 4 reading, has $r=-0.32$, $p=0.12$); with heavy geographic confounding and no dose-response consistency, the test neither supports nor rules out a contributing role. \emph{Cross-country smartphone-adoption timing vs.\ PISA declines}: country-level adoption series are too inconsistently measured across sources to support a credible event-time alignment; this remains the right design for future work with better data. \emph{School discipline reform} (the 2014 federal guidance and suspension declines) has the right timing and a bottom-concentrated prediction, but no clean cross-state policy variation independent of the accountability and political variables already examined; it remains untested rather than rejected. \emph{Cannabis legalization} fails on first inspection: adolescent use was roughly flat through the 2010s in national surveys, and legalization timing is collinear with state politics and pandemic schooling mode. \emph{PISA smartphone-use frequency} (the ICT item available for U.S. students) was examined and discarded as an exposure measure: ``uses a smartphone several times daily'' is positively associated with scores (+70 points vs.\ never-users, SES-adjusted) because in a 95\%-saturated population the abstainers are a highly atypical, disadvantaged group---frequency of use measures access, not excess; the hours-of-use and distraction items above do not share this defect.
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.95\textwidth]{fig_tuda.pdf}
 \caption{TUDA district dose-response: change in NAEP mathematics means, 2019--2022, against each district's CSDH share of 2020--21 spent fully virtual.}
 \label{fig:tuda}
 \end{figure}
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.95\textwidth]{fig_doseresponse.pdf}
 \caption{State dose-response. Left: change in grade 4 mathematics, 2019--2022, against the enrollment-weighted share of the 2020--21 school year spent fully virtual (COVID-19 School Data Hub). Right: net change 2019--2024 against the rise in chronic absenteeism, 2018-19 to 2023-24 (FutureEd state tracker).}
 \label{fig:dose}
 \end{figure}
 
-\begin{figure}[t]
+\begin{figure}[tbp]
 \centering
 \includegraphics[width=.95\textwidth]{fig_absence.pdf}
 \caption{Student-reported absence inside NAEP (B018101). Left: share reporting 3+ missed days in the month before the assessment. Right: grade 8 mathematics score changes since 2013 by absence category. Data: NAEP Data Service API.}
@@ -428,7 +429,7 @@ Several further hypotheses were tested or scoped and judged not to merit headlin
 
 \section{Synthesis: A Two-Phase Decline With Different Causes}
 
-\begin{table}[t]
+\begin{table}[tbp]
 \centering\footnotesize
 \caption{Hypothesis scorecard against the facts of Section~\ref{sec:verify}.}
 \label{tab:scorecard}

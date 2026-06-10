@@ -56,6 +56,7 @@ for ax, (title, data) in zip(axes, [("Pre-pandemic: 2012 $\\rightarrow$ 2020", p
     ax.set_xticks(pcts)
     ax.set_xlabel("Percentile of score distribution")
 axes[0].set_ylabel("Score change (LTT points)")
+axes[1].tick_params(axis="y", labelleft=True)
 axes[0].legend(frameon=False, fontsize=7.5)
 fig.tight_layout()
 fig.savefig("figures/fig_ltt_percentiles.pdf"); plt.close(fig)
