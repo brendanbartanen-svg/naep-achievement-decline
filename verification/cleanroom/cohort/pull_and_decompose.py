@@ -170,7 +170,7 @@ def main():
         "1-year alignment slippage and any 2019-2020 pre-pandemic G4 drift."
     )
 
-    out = ("/Users/yvp3tf/Documents/CC Sandbox/naep-achievement-decline/"
+    out = (""
            "verification/cleanroom/cohort/results.json")
     with open(out, "w") as f:
         json.dump(results, f, indent=2)

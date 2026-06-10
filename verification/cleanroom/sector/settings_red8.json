@@ -1,0 +1,300 @@
+{
+ "independentVariables": [
+  {
+   "text": "Type of school as categorized by one of five types: Public, other private, Catholic, Bureau of Indian Education, Department of Defense Education Activity",
+   "valueLabels": [
+    "Public",
+    "Other private",
+    "Catholic",
+    "Bureau of Indian Education",
+    "Department of Defense"
+   ],
+   "valueCodesLabels": [
+    {
+     "code": "1",
+     "label": "Public"
+    },
+    {
+     "code": "2",
+     "label": "Other private"
+    },
+    {
+     "code": "3",
+     "label": "Catholic"
+    },
+    {
+     "code": "4",
+     "label": "Bureau of Indian Education"
+    },
+    {
+     "code": "5",
+     "label": "Department of Defense"
+    }
+   ],
+   "groupNumber": 1,
+   "levelNumber": 5,
+   "sortOrder": 1,
+   "groupLabel": "Major Reporting Groups",
+   "levelLabel": "School Factors",
+   "combValueLabels": [
+    {
+     "code": "1",
+     "label": "Public",
+     "selected": true
+    },
+    {
+     "code": "2",
+     "label": "Other private",
+     "selected": true
+    },
+    {
+     "code": "3",
+     "label": "Catholic",
+     "selected": true
+    },
+    {
+     "code": "4",
+     "label": "Bureau of Indian Education",
+     "selected": true
+    },
+    {
+     "code": "5",
+     "label": "Department of Defense",
+     "selected": true
+    }
+   ],
+   "valueLabelsALASVAR": [],
+   "valueLabelsProfileStat": [],
+   "indexVariableData": {
+    "topHeaderText": "",
+    "memberTables": []
+   },
+   "groupString": "1|5",
+   "dimensionType": 8,
+   "code": "SCHTYPE",
+   "label": "Public or nonpublic school, 5 categories",
+   "language": 1033
+  }
+ ],
+ "dependentVariables": [
+  {
+   "text": "NAEP Reading Scale: Composite",
+   "isComposite": true,
+   "isScalar": true,
+   "dimensionType": 4,
+   "code": "RRPCM",
+   "label": "Composite scale",
+   "language": 1033
+  }
+ ],
+ "subject": {
+  "dimensionType": 1,
+  "code": "RED",
+  "label": "Reading",
+  "language": 1033
+ },
+ "cohort": {
+  "cohort": "2",
+  "dimensionType": 2,
+  "code": "8",
+  "label": "Grade 8",
+  "language": 1033
+ },
+ "framework": {
+  "dimensionType": 3,
+  "code": "2",
+  "label": "1992 Reading",
+  "language": 1033
+ },
+ "dependentVariable": {
+  "text": "NAEP Reading Scale: Composite",
+  "isComposite": true,
+  "isScalar": true,
+  "dimensionType": 4,
+  "code": "RRPCM",
+  "label": "Composite scale",
+  "language": 1033
+ },
+ "yearSamples": [
+  {
+   "year": "2013",
+   "sample": "R3",
+   "isNonAccommodated": false,
+   "framework": "2",
+   "frameworkLabel": "1992 Reading",
+   "frameworkSortOrder": 1,
+   "dimensionType": 5,
+   "code": "2013R3",
+   "label": "2013",
+   "language": 0
+  },
+  {
+   "year": "2015",
+   "sample": "R3",
+   "isNonAccommodated": false,
+   "framework": "2",
+   "frameworkLabel": "1992 Reading",
+   "frameworkSortOrder": 1,
+   "dimensionType": 5,
+   "code": "2015R3",
+   "label": "2015",
+   "language": 0
+  },
+  {
+   "year": "2017",
+   "sample": "R3",
+   "isNonAccommodated": false,
+   "framework": "2",
+   "frameworkLabel": "1992 Reading",
+   "frameworkSortOrder": 1,
+   "dimensionType": 5,
+   "code": "2017R3",
+   "label": "2017",
+   "language": 0
+  },
+  {
+   "year": "2019",
+   "sample": "R3",
+   "isNonAccommodated": false,
+   "framework": "2",
+   "frameworkLabel": "1992 Reading",
+   "frameworkSortOrder": 1,
+   "dimensionType": 5,
+   "code": "2019R3",
+   "label": "2019",
+   "language": 0
+  },
+  {
+   "year": "2022",
+   "sample": "R3",
+   "isNonAccommodated": false,
+   "framework": "2",
+   "frameworkLabel": "1992 Reading",
+   "frameworkSortOrder": 1,
+   "dimensionType": 5,
+   "code": "2022R3",
+   "label": "2022",
+   "language": 0
+  },
+  {
+   "year": "2024",
+   "sample": "R3",
+   "isNonAccommodated": false,
+   "framework": "2",
+   "frameworkLabel": "1992 Reading",
+   "frameworkSortOrder": 1,
+   "dimensionType": 5,
+   "code": "2024R3",
+   "label": "2024",
+   "language": 0
+  }
+ ],
+ "jurisdictions": [
+  {
+   "level": 0,
+   "sortOrder": 10,
+   "restOf": false,
+   "dimensionType": 7,
+   "code": "NT",
+   "label": "National",
+   "language": 1033
+  }
+ ],
+ "independentVariable": {
+  "text": "Type of school as categorized by one of five types: Public, other private, Catholic, Bureau of Indian Education, Department of Defense Education Activity",
+  "valueLabels": [
+   "Public",
+   "Other private",
+   "Catholic",
+   "Bureau of Indian Education",
+   "Department of Defense"
+  ],
+  "valueCodesLabels": [
+   {
+    "code": "1",
+    "label": "Public"
+   },
+   {
+    "code": "2",
+    "label": "Other private"
+   },
+   {
+    "code": "3",
+    "label": "Catholic"
+   },
+   {
+    "code": "4",
+    "label": "Bureau of Indian Education"
+   },
+   {
+    "code": "5",
+    "label": "Department of Defense"
+   }
+  ],
+  "groupNumber": 1,
+  "levelNumber": 5,
+  "sortOrder": 1,
+  "groupLabel": "Major Reporting Groups",
+  "levelLabel": "School Factors",
+  "combValueLabels": [
+   {
+    "code": "1",
+    "label": "Public",
+    "selected": true
+   },
+   {
+    "code": "2",
+    "label": "Other private",
+    "selected": true
+   },
+   {
+    "code": "3",
+    "label": "Catholic",
+    "selected": true
+   },
+   {
+    "code": "4",
+    "label": "Bureau of Indian Education",
+    "selected": true
+   },
+   {
+    "code": "5",
+    "label": "Department of Defense",
+    "selected": true
+   }
+  ],
+  "valueLabelsALASVAR": [],
+  "valueLabelsProfileStat": [],
+  "indexVariableData": {
+   "topHeaderText": "",
+   "memberTables": []
+  },
+  "groupString": "1|5",
+  "dimensionType": 8,
+  "code": "SCHTYPE",
+  "label": "Public or nonpublic school, 5 categories",
+  "language": 1033
+ },
+ "statTypes": [
+  {
+   "cohort": "2",
+   "sortOrder": 1,
+   "elementsList": [
+    {
+     "code": "MN",
+     "label": "Average scale scores",
+     "sortOrder": 1
+    }
+   ],
+   "cohortIds": [],
+   "subjectIds": [],
+   "dimensionType": 13,
+   "code": "MN",
+   "label": "Average scale scores",
+   "language": 1033
+  }
+ ],
+ "showMissing": false,
+ "showVarNameInTitle": false,
+ "useParensBrackets": false
+}

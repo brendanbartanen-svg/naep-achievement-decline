@@ -11,7 +11,7 @@ import urllib.parse
 import pandas as pd
 
 BASE = "https://www.nationsreportcard.gov/DataService/GetAdhocData.aspx"
-OUT = "/Users/yvp3tf/Documents/CC Sandbox/naep-achievement-decline/verification/cleanroom/absence"
+OUT = "verification/cleanroom/absence"
 
 SUBJECTS = [("mathematics", "MRPCM"), ("reading", "RRPCM")]
 GRADES = [4, 8]

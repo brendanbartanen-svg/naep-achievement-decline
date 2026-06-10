@@ -22,8 +22,8 @@ import pandas as pd
 import pyreadstat
 import statsmodels.api as sm
 
-SAV = "/Users/yvp3tf/Documents/CC Sandbox/naep-achievement-decline/data/external/pisa/CY08MSP_STU_QQQ.SAV"
-OUT = "/Users/yvp3tf/Documents/CC Sandbox/naep-achievement-decline/verification/cleanroom/pisa/results.json"
+SAV = "data/external/pisa/CY08MSP_STU_QQQ.SAV"
+OUT = "verification/cleanroom/pisa/results.json"
 
 PVS = [f"PV{i}MATH" for i in range(1, 11)]
 COLS = ["CNT", "CNTSCHID", "OECD", "ST273Q06JA", "ESCS", "W_FSTUWT"] + PVS

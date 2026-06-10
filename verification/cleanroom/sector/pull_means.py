@@ -27,6 +27,6 @@ for subj, scale in SUBJECTS:
                         time.sleep(5)
                 time.sleep(1)
 
-with open("/Users/yvp3tf/Documents/CC Sandbox/naep-achievement-decline/verification/cleanroom/sector/api_means_sd.json","w") as f:
+with open("verification/cleanroom/sector/api_means_sd.json","w") as f:
     json.dump(rows, f, indent=1)
 print("total rows:", len(rows))

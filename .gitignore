@@ -14,3 +14,6 @@ data/external/pisa/*.SAV
 data/external/pisa/*.zip
 data/external/pisa/STU/
 data/external/seda4g/
+seda4g/SEDA_LOCAL_COPY.md
+__pycache__/
+*.pyc

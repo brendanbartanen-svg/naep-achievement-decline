@@ -1,6 +1,6 @@
 # Project state (frozen 2026-06-10, post-v1.6)
 
-Single source of truth for resuming work. Repo: github.com/brendanbartanen-svg/naep-achievement-decline (private). Local: `/Users/yvp3tf/Documents/CC Sandbox/naep-achievement-decline/`. Deliverables: `report/report.pdf` (30pp), `report/brief.pdf` (2pp policy brief). Compile: `cd report && tectonic report.tex` (plain bibtex/natbib — NOT the AERJ pinned-biber setup).
+Single source of truth for resuming work. Repo: github.com/brendanbartanen-svg/naep-achievement-decline. Deliverables: `report/report.pdf` (30pp), `report/brief.pdf` (2pp policy brief). Compile: `cd report && tectonic report.tex` (plain bibtex/natbib — NOT the AERJ pinned-biber setup).
 
 ## Versions (all tagged + GitHub releases with PDF)
 - v1.0 baseline: trends verified from NCES API; 8 hypotheses tested; 16pp.

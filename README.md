@@ -112,3 +112,16 @@ cd report && tectonic report.tex
   item shows disengagement rising pre-pandemic (3+ days absent: ~19.5% 2013 → 24% 2019 →
   ~30% 2024) and a Kitagawa decomposition attributes 25-42% of the 2019-24 declines (but
   only 7-19% of pre-pandemic G8 declines) to the absence shift.
+
+## License and data terms
+Code and text in this repository are MIT-licensed (see LICENSE). Data notes:
+- **NAEP/NCES, PIAAC, NTIA SBDD/National Broadband Map, FCC Form 477**: U.S. federal
+  government data, public domain; small extracts are committed in `data/`.
+- **COVID-19 School Data Hub** and **FutureEd** absenteeism compilations: redistributed
+  small derived tables with attribution; provenance and URLs in `data/external/SOURCES.md`.
+- **SEDA 5.0** (Stanford Education Data Archive) and **PISA microdata** are NOT
+  redistributed here (gitignored); download from edopportunity.org and oecd.org under
+  their own terms. Only derived aggregate estimates appear in this repository.
+- Policy codings (`data/waivers.csv`, `data/phonebans.csv`, `data/commoncore.csv`,
+  `data/tuda_csdh_match.csv`) were hand-assembled for this project; verify before reuse
+  (see `docs/verification_checklists.md`).
