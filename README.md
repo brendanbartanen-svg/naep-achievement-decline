@@ -4,7 +4,13 @@ Self-contained analysis verifying the post-2013 NAEP decline and testing eight c
 explanations, discriminating tests (v1.1), mechanism checks (v1.2), an inference/robustness
 upgrade with verified related-literature positioning (v1.3), and an exhaustive-avenues
 extension (v1.4: Common Core test, TUDA district dose-response, adult-PIAAC mirror, grade 12,
-validity checks, documented try-and-cut analyses). Final deliverable: `report/report.pdf` (27 pp).
+validity checks, documented try-and-cut analyses). v1.5 adds a PISA 2022 student-microdata analysis (613,744 students; Rubin-combined PVs,
+school-clustered, ESCS-adjusted): the distraction (−13 US / −15 OECD) and 5+hr leisure-use
+(−40.5) score gaps survive SES adjustment, and device over-engagement is monotonically
+concentrated among low performers within countries while flat across SES — matching the
+decline's bottom-heavy signature (`analyze_pisa.py`; raw 2GB SAV gitignored, re-download via
+https://webfs.oecd.org/pisa2022/STU_QQQ_SPSS.zip). Bleiberg due diligence in
+`evidence/novelty_check.md`. Final deliverable: `report/report.pdf` (28 pp).
 
 ## Structure
 - `naep_pull.py` — pulls main-NAEP national means/percentiles, subgroups (race, sex, NSLP),

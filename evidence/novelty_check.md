@@ -11,3 +11,9 @@ https://edworkingpapers.com/policy-practice-series/ai25-1197
 https://fordhaminstitute.org/national/commentary/about-those-12th-grade-naep-scores-cake-was-mostly-baked-years-ago
 https://www.aei.org/education/tough-search-for-causes-of-falling-naep-scores/
 https://www.chalkbeat.org/2022/10/24/23417139/naep-test-scores-pandemic-school-reopening/
+
+## Bleiberg due diligence (June 2026 agent, dissertation read in full)
+- Bleiberg, J.F. (2020) "The Effects of National Standards-Based Reforms on Academically Vulnerable Students," PhD diss., Vanderbilt. http://hdl.handle.net/1803/16101
+- Ch. III "Did Revoking NCLB Regulations 'Waive' in Better Student Outcomes?": waiver effects on student-level NAEP, BINARY by-2013 treatment (34 treated; 2013-14 adopters treated as controls), MEAN outcomes only, 2003-2013 (+confounded 2015 extension), TWFE DiD; finds NO average effect, suggestive racial-gap narrowing. No staggered event study, no percentile/quantile outcomes, no post-2015 window.
+- Published Educational Policy (2026) paper = school-level designation effects within waiver states (different margin).
+- Our deltas: staggered timing + never-treated through 2019; P10/P25 outcomes; randomization inference + MDE benchmark. His null corroborates ours at the mean.
