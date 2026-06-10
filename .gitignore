@@ -17,3 +17,4 @@ data/external/seda4g/
 seda4g/SEDA_LOCAL_COPY.md
 __pycache__/
 *.pyc
+docs/TRANSCRIPT.md
