@@ -304,8 +304,8 @@ PISA 2022, 613{,}744 students; Rubin-combined PVs, school-clustered, ESCS-adjust
 \begin{itemize}
 \item Dose: \textbf{$-0.002$ SD} (perm $p=0.66$; \textbf{MDE$_{80}=0.013$}). Gradient: $+0.011$/yr (perm $p=0.12$; MDE $0.016$).
 \item 10-spec robustness grid: all $|\hat\beta|\le0.003$, signs flip. Pre-trend drift disclosed.
-\item Reading: \red{the decline did not ride on local cell-tower timing.} The national, adoption-driven channel is invisible here by construction (year FE; 3G-era adoption; controls exhausted by 2015).
-\item Instructive contrast: the \emph{same} variation moves teen fertility a lot --- and test scores not at all.
+\item Reading: \red{the decline did not ride on local cell-tower timing.} The national, adoption-driven channel is invisible here (year FE; 3G-era adoption; controls gone by 2015).
+\item Contrast: the \emph{same} variation moves teen fertility --- not test scores.
 \end{itemize}
 \end{columns}
 \end{frame}
@@ -326,10 +326,11 @@ Borrowed from the fertility-puzzle debate (Kearney--Levine; Evans): a candidate 
 \end{frame}
 
 \begin{frame}{Scorecard}
-\centering\small
+\centering\scriptsize
+\setlength{\tabcolsep}{4pt}
 \begin{tabular}{lcccccc}
 \toprule
- & Timing & Bottom-heavy & COVID drop & No recovery & Within-group & Intern'l \\
+ & Timing & Bottom-heavy & COVID drop & No recovery & Within-grp & Int'l \\
 \midrule
 H1 Pandemic            & $\times$ & $\sim$ & \checkmark & $\sim$ & \checkmark & $\sim$ \\
 \textbf{H2 Digital media} & \checkmark & $\sim$ & $\times$ & \checkmark & \checkmark & \checkmark \\
@@ -389,7 +390,7 @@ Also on the docket: restricted-use NAEP microdata; PISA 2012$\to$2022 ICT panel;
 \centering\small
 \begin{tabular}{lcc}
 \toprule
-Specification & Coef.\ (SD) & $p$ \\
+Specification & Coef.\ (SD) & $p$ (cluster) \\
 \midrule
 Dose, t7 (primary) & $-0.0022$ & .57 \\
 Binary first\_t7\_50 & $-0.0017$ & .58 \\
