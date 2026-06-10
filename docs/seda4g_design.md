@@ -2,7 +2,33 @@
 
 Scoped 2026-06-10 (agent-verified: sample files downloaded, schemas inspected,
 FCC report statistics read from the PDFs). Status: **GO, conditionally** — feasible
-with 100% free data, but NOT with FCC Form 477 alone. Companion literature context
+with 100% free data, but NOT with FCC Form 477 alone.
+
+**UPDATE 2026-06-10, validation exercise complete: QUALIFIED PASS.** Pipeline in
+`seda4g/` (01_download.sh, 02_build_exposure.py, 03_validate.py); county×wave panel
+in `seda4g/exposure_county_panel.csv` (national 3,234 counties × 7 waves from NBM
+Analyze Tables + 8-state block-level builds); all numbers in
+`seda4g/validation_results.json`. Key results: (a) trajectory matches FCC benchmarks
+(t7 share 57.9% Jun-11 → 90.4% Dec-12 → 98.2% Jun-14; FCC's 85.6% Oct-12 interpolates
+exactly); (b) Verizon Dec-2010 launch metros visible (Dallas .93, Seattle .97 vs
+non-launch mean .14–.16; rural RUCC-8/9 = 0.0); (c) rural lag confirmed —
+Spearman(RUCC, rollout wave)=0.61, metro crosses 50% ≈late-2011 vs nonmetro
+≈early-2013; (d) Form 477 Dec-2015 splice: 477 ≥ SBDD in 93–100% of counties,
+Spearman .63–.70 where variance remains. The <2-sq-mi large-block problem does NOT
+apply to wireless (coverage of state pop ≥95.7% every wave; corr 0.994 vs NTIA's own
+overlays). TWO CAVEATS: (1) Analyze-Table speed-tier columns include FIXED wireless
+(WISP leakage 2.5pp pop-weighted at Dec-2012, county p90 = 20pp) — primary exposure
+must be built from state Wireless CSVs (`transtech==80`) for all 9 waves × 51 states
+(~10–15GB, few hours; pipeline already does it for 8 states); Analyze Tables are for
+validation only. (2) Grantee speed-coding heterogeneity in early waves (MA/DE coded
+LTE tier 7; TX/WA tier 6; CO invisible until Dec-2011; CO/MO artifacts Jun-2011) —
+mandatory tier≥6/tier-7/Verizon-only robustness codings + state FE. Also note
+2010-wave files use 2000-census blocks (2000 PL94-171 weights), naming scheme
+`SBDD_XX_Fall2010.zip`, some zips need Deflate64 handling. SEDA county long 5.0
+downloads directly with no registration:
+`https://stacks.stanford.edu/file/druid:cs829jn7849/seda_county_long_cs_5.0.csv`
+(354,949 rows, 3,104 counties, 2009–2019); local district-level copy + crosswalk
+per `seda4g/SEDA_LOCAL_COPY.md`. Companion literature context
 in `evidence/fertility_parallel.md`. As of June 2026 nobody has run mobile-rollout
 variation against US test scores (adjacent work: fertility — Myers & Hooper w35310,
 Hudson & Moscoso Boedo; phone bans — Figlio & Özek w34388, Dee w35132; cross-country

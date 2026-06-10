@@ -1,0 +1,736 @@
+{
+  "census_reconciliation": [
+    {
+      "fips": "30111",
+      "published": 147972,
+      "built": 147972,
+      "match": true
+    },
+    {
+      "fips": "28049",
+      "published": 245285,
+      "built": 245285,
+      "match": true
+    },
+    {
+      "fips": "10003",
+      "published": 538479,
+      "built": 538479,
+      "match": true
+    },
+    {
+      "fips": "48201",
+      "published": 4092459,
+      "built": 4092459,
+      "match": true
+    },
+    {
+      "fips": "53033",
+      "published": 1931249,
+      "built": 1931249,
+      "match": true
+    }
+  ],
+  "trajectory": {
+    "national_analyze_table": [
+      {
+        "wave": "2011-06",
+        "terrmobilewless": 0.9837,
+        "wireless_advdl_gr3000k": 0.9466,
+        "wireless_advdl_gr6000k": 0.7003,
+        "wireless_advdl_gr10000k": 0.5789
+      },
+      {
+        "wave": "2011-12",
+        "terrmobilewless": 0.9858,
+        "wireless_advdl_gr3000k": 0.8452,
+        "wireless_advdl_gr6000k": 0.7925,
+        "wireless_advdl_gr10000k": 0.7427
+      },
+      {
+        "wave": "2012-06",
+        "terrmobilewless": 0.9887,
+        "wireless_advdl_gr3000k": 0.9459,
+        "wireless_advdl_gr6000k": 0.8417,
+        "wireless_advdl_gr10000k": 0.8066
+      },
+      {
+        "wave": "2012-12",
+        "terrmobilewless": 0.9891,
+        "wireless_advdl_gr3000k": 0.9696,
+        "wireless_advdl_gr6000k": 0.9202,
+        "wireless_advdl_gr10000k": 0.9035
+      },
+      {
+        "wave": "2013-06",
+        "terrmobilewless": 0.9894,
+        "wireless_advdl_gr3000k": 0.9792,
+        "wireless_advdl_gr6000k": 0.9585,
+        "wireless_advdl_gr10000k": 0.9512
+      },
+      {
+        "wave": "2013-12",
+        "terrmobilewless": 0.99,
+        "wireless_advdl_gr3000k": 0.9863,
+        "wireless_advdl_gr6000k": 0.9788,
+        "wireless_advdl_gr10000k": 0.9753
+      },
+      {
+        "wave": "2014-06",
+        "terrmobilewless": 0.9939,
+        "wireless_advdl_gr3000k": 0.9928,
+        "wireless_advdl_gr6000k": 0.9847,
+        "wireless_advdl_gr10000k": 0.9822
+      }
+    ],
+    "pilot8_block_2010_waves": [
+      {
+        "wave": "2010-06",
+        "mobile_t7_wt": 0.0,
+        "mobile_t6_wt": 0.2615,
+        "mobile_any_wt": 0.9836,
+        "mobile_t7_vzw_wt": 0.0
+      },
+      {
+        "wave": "2010-12",
+        "mobile_t7_wt": 0.0686,
+        "mobile_t6_wt": 0.7043,
+        "mobile_any_wt": 0.989,
+        "mobile_t7_vzw_wt": 0.0649
+      }
+    ],
+    "pilot8_block_2014_06": {
+      "mobile_t7_wt": 0.9915,
+      "mobile_t6_wt": 0.9928,
+      "mobile_any_wt": 0.9988,
+      "mobile_t7_vzw_wt": 0.9813,
+      "anywless_t7_wt": 0.9926
+    },
+    "fcc_benchmarks": {
+      "2010-06_any_lte": 0.0,
+      "2012-10_any_lte_mosaik": 0.856,
+      "2014-01_any_lte": 0.985
+    }
+  },
+  "verizon_dec2010": {
+    "launch_metro_counties_t7": [
+      {
+        "fips": "08031",
+        "name": "Denver CO",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "08005",
+        "name": "Arapahoe CO (Denver metro)",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "53033",
+        "name": "King WA (Seattle)",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "53053",
+        "name": "Pierce WA (Tacoma)",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "48113",
+        "name": "Dallas TX",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "48439",
+        "name": "Tarrant TX (Ft Worth)",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "48201",
+        "name": "Harris TX (Houston)",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "48029",
+        "name": "Bexar TX (San Antonio)",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "25025",
+        "name": "Suffolk MA (Boston)",
+        "vzw_t7": 0.9974,
+        "any_t7": 0.9974
+      },
+      {
+        "fips": "25017",
+        "name": "Middlesex MA (Boston)",
+        "vzw_t7": 0.8637,
+        "any_t7": 0.8637
+      },
+      {
+        "fips": "39049",
+        "name": "Franklin OH (Columbus)",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "39035",
+        "name": "Cuyahoga OH (Cleveland)",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "39061",
+        "name": "Hamilton OH (Cincinnati)",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      },
+      {
+        "fips": "39153",
+        "name": "Summit OH (Akron)",
+        "vzw_t7": 0.0,
+        "any_t7": 0.0
+      }
+    ],
+    "rural_MT_MS_rucc8_9_t7": {
+      "n_counties": 50,
+      "mean_vzw_t7": 0.0,
+      "n_counties_vzw_t7_gt_1pct": 0,
+      "max_vzw_t7": 0.0
+    },
+    "statewide_t7_dec2010": {
+      "DE": 0.4753,
+      "CO": 0.0,
+      "MS": 0.0,
+      "OH": 0.0,
+      "WA": 0.0,
+      "TX": 0.0094,
+      "MA": 0.4863,
+      "MT": 0.0
+    },
+    "grantee_coding_note": "Dec-2010 Verizon speed-tier coding varies by state grantee: MA/DE tier7, TX/WA tier6, OH tier6-everywhere (uninformative), CO tier5 (LTE invisible until Dec-2011 wave).",
+    "launch_check_grantee_adjusted": {
+      "TX": {
+        "tier_used": 6,
+        "launch_counties": {
+          "48113": 0.927,
+          "48439": 0.904,
+          "48201": 0.969,
+          "48029": 0.987
+        },
+        "nonlaunch_popwt_mean": 0.1363,
+        "nonlaunch_share_counties_gt10pct": 0.048
+      },
+      "WA": {
+        "tier_used": 6,
+        "launch_counties": {
+          "53033": 0.966,
+          "53053": 0.328
+        },
+        "nonlaunch_popwt_mean": 0.1563,
+        "nonlaunch_share_counties_gt10pct": 0.0811
+      },
+      "MA": {
+        "tier_used": 7,
+        "launch_counties": {
+          "25025": 0.997,
+          "25017": 0.864
+        },
+        "nonlaunch_popwt_mean": 0.2704,
+        "nonlaunch_share_counties_gt10pct": 0.25
+      },
+      "DE": {
+        "tier_used": 7,
+        "launch_counties": {},
+        "nonlaunch_popwt_mean": 0.4753,
+        "nonlaunch_share_counties_gt10pct": 0.3333
+      }
+    }
+  },
+  "grantee_artifacts": {
+    "2011-06": [
+      "Alaska",
+      "Colorado",
+      "Iowa",
+      "Maine",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "North Dakota",
+      "South Dakota",
+      "Vermont",
+      "West Virginia"
+    ],
+    "2011-12": [
+      "Alaska",
+      "Hawaii",
+      "Maine",
+      "Montana",
+      "Vermont",
+      "West Virginia"
+    ],
+    "2012-06": [
+      "Alaska",
+      "Montana"
+    ],
+    "2012-12": [],
+    "note": "States with statewide t7<5%. Jun-2011 list mixes genuine no-LTE rural states (MT ND SD ME VT MS IA AK) with grantee under-coding (CO: Denver was a Dec-2010 launch metro yet t7=0 until the Dec-2011 wave; MO: St. Louis launched Apr-2011). Self-correcting by Dec-2012."
+  },
+  "rural_lag": {
+    "wave_index": {
+      "2011-06": 0,
+      "2011-12": 1,
+      "2012-06": 2,
+      "2012-12": 3,
+      "2013-06": 4,
+      "2013-12": 5,
+      "2014-06": 6
+    },
+    "by_metro_nonmetro": {
+      "nonmetro": {
+        "popwt_mean_first_wave": 3.1491,
+        "share_counties_never_ge50_by_jun2014": 0.0591,
+        "n": 1996.0
+      },
+      "metro": {
+        "popwt_mean_first_wave": 0.4797,
+        "share_counties_never_ge50_by_jun2014": 0.004,
+        "n": 1236.0
+      }
+    },
+    "spearman_rucc_vs_first_wave": [
+      0.6146,
+      0.0
+    ]
+  },
+  "splice_477_dec2015": [
+    {
+      "state": "MT",
+      "n_counties": 56,
+      "spearman_477_vs_sbdd_block_t7": 0.6388,
+      "pearson_477_vs_sbdd_block_t7": 0.6438,
+      "spearman_477_vs_analyze_t7": 0.6631,
+      "mean_lte477": 0.9673,
+      "mean_sbdd_t7": 0.9122,
+      "share_counties_477_ge_sbdd": 0.9286
+    },
+    {
+      "state": "MS",
+      "n_counties": 82,
+      "spearman_477_vs_sbdd_block_t7": 0.6953,
+      "pearson_477_vs_sbdd_block_t7": 0.6766,
+      "spearman_477_vs_analyze_t7": 0.6612,
+      "mean_lte477": 0.9966,
+      "mean_sbdd_t7": 0.9925,
+      "share_counties_477_ge_sbdd": 1.0
+    },
+    {
+      "state": "MA",
+      "n_counties": 14,
+      "spearman_477_vs_sbdd_block_t7": 0.4377,
+      "pearson_477_vs_sbdd_block_t7": 0.9046,
+      "spearman_477_vs_analyze_t7": 0.1722,
+      "mean_lte477": 0.9999,
+      "mean_sbdd_t7": 0.9982,
+      "share_counties_477_ge_sbdd": 1.0
+    },
+    {
+      "state": "TX",
+      "n_counties": 254,
+      "spearman_477_vs_sbdd_block_t7": 0.6291,
+      "pearson_477_vs_sbdd_block_t7": 0.3226,
+      "spearman_477_vs_analyze_t7": 0.6219,
+      "mean_lte477": 0.9996,
+      "mean_sbdd_t7": 0.9922,
+      "share_counties_477_ge_sbdd": 1.0
+    }
+  ],
+  "large_block_problem": {
+    "note": "SBDD wireless coverage was submitted as shapefiles; NTIA overlaid them on ALL census blocks, so the Wireless CSV has no <2-sq-mi restriction (that restriction applies to the wireline CBLOCK/Address-Street split). Quantified below: share of state pop in blocks that appear in the wireless CSV at all.",
+    "diagnostics": [
+      {
+        "wave": "2010-06",
+        "state": "DE",
+        "vintage": 2000,
+        "state_pop": 783600,
+        "n_blocks_census": 17483,
+        "n_blocks_in_csv": 17483,
+        "pop_share_in_csv": 1.0,
+        "csv_blocks_not_in_census": 1,
+        "csv_rows": 357827
+      },
+      {
+        "wave": "2010-06",
+        "state": "CO",
+        "vintage": 2000,
+        "state_pop": 4301261,
+        "n_blocks_census": 141040,
+        "n_blocks_in_csv": 134294,
+        "pop_share_in_csv": 0.9979,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 529727
+      },
+      {
+        "wave": "2010-06",
+        "state": "MS",
+        "vintage": 2000,
+        "state_pop": 2844658,
+        "n_blocks_census": 136150,
+        "n_blocks_in_csv": 125988,
+        "pop_share_in_csv": 0.9655,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 1261070
+      },
+      {
+        "wave": "2010-06",
+        "state": "OH",
+        "vintage": 2000,
+        "state_pop": 11353140,
+        "n_blocks_census": 277807,
+        "n_blocks_in_csv": 268619,
+        "pop_share_in_csv": 0.9944,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 1842857
+      },
+      {
+        "wave": "2010-06",
+        "state": "WA",
+        "vintage": 2000,
+        "state_pop": 5894121,
+        "n_blocks_census": 170871,
+        "n_blocks_in_csv": 158110,
+        "pop_share_in_csv": 0.9968,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 744007
+      },
+      {
+        "wave": "2010-06",
+        "state": "TX",
+        "vintage": 2000,
+        "state_pop": 20851820,
+        "n_blocks_census": 675062,
+        "n_blocks_in_csv": 630969,
+        "pop_share_in_csv": 0.9941,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 5099186
+      },
+      {
+        "wave": "2010-06",
+        "state": "MA",
+        "vintage": 2000,
+        "state_pop": 6349097,
+        "n_blocks_census": 109997,
+        "n_blocks_in_csv": 109996,
+        "pop_share_in_csv": 1.0,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 1417396
+      },
+      {
+        "wave": "2010-06",
+        "state": "MT",
+        "vintage": 2000,
+        "state_pop": 902195,
+        "n_blocks_census": 99018,
+        "n_blocks_in_csv": 98939,
+        "pop_share_in_csv": 1.0,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 428274
+      },
+      {
+        "wave": "2010-12",
+        "state": "DE",
+        "vintage": 2000,
+        "state_pop": 783600,
+        "n_blocks_census": 17483,
+        "n_blocks_in_csv": 17476,
+        "pop_share_in_csv": 1.0,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 114714
+      },
+      {
+        "wave": "2010-12",
+        "state": "CO",
+        "vintage": 2000,
+        "state_pop": 4301261,
+        "n_blocks_census": 141040,
+        "n_blocks_in_csv": 134489,
+        "pop_share_in_csv": 0.998,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 1082472
+      },
+      {
+        "wave": "2010-12",
+        "state": "MS",
+        "vintage": 2000,
+        "state_pop": 2844658,
+        "n_blocks_census": 136150,
+        "n_blocks_in_csv": 132395,
+        "pop_share_in_csv": 0.9893,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 716353
+      },
+      {
+        "wave": "2010-12",
+        "state": "OH",
+        "vintage": 2000,
+        "state_pop": 11353140,
+        "n_blocks_census": 277807,
+        "n_blocks_in_csv": 269390,
+        "pop_share_in_csv": 0.9954,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 1556630
+      },
+      {
+        "wave": "2010-12",
+        "state": "WA",
+        "vintage": 2000,
+        "state_pop": 5894121,
+        "n_blocks_census": 170871,
+        "n_blocks_in_csv": 156268,
+        "pop_share_in_csv": 0.9961,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 1207769
+      },
+      {
+        "wave": "2010-12",
+        "state": "TX",
+        "vintage": 2000,
+        "state_pop": 20851820,
+        "n_blocks_census": 675062,
+        "n_blocks_in_csv": 650487,
+        "pop_share_in_csv": 0.997,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 5411524
+      },
+      {
+        "wave": "2010-12",
+        "state": "MA",
+        "vintage": 2000,
+        "state_pop": 6349097,
+        "n_blocks_census": 109997,
+        "n_blocks_in_csv": 109447,
+        "pop_share_in_csv": 0.9996,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 801061
+      },
+      {
+        "wave": "2010-12",
+        "state": "MT",
+        "vintage": 2000,
+        "state_pop": 902195,
+        "n_blocks_census": 99018,
+        "n_blocks_in_csv": 74709,
+        "pop_share_in_csv": 0.9571,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 152116
+      },
+      {
+        "wave": "2012-12",
+        "state": "CO",
+        "vintage": 2010,
+        "state_pop": 5029196,
+        "n_blocks_census": 201062,
+        "n_blocks_in_csv": 191314,
+        "pop_share_in_csv": 0.9983,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 2248100
+      },
+      {
+        "wave": "2012-12",
+        "state": "MS",
+        "vintage": 2010,
+        "state_pop": 2967297,
+        "n_blocks_census": 171778,
+        "n_blocks_in_csv": 171678,
+        "pop_share_in_csv": 0.9999,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 1708378
+      },
+      {
+        "wave": "2012-12",
+        "state": "MA",
+        "vintage": 2010,
+        "state_pop": 6547629,
+        "n_blocks_census": 157508,
+        "n_blocks_in_csv": 156557,
+        "pop_share_in_csv": 0.9998,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 2078301
+      },
+      {
+        "wave": "2012-12",
+        "state": "MT",
+        "vintage": 2010,
+        "state_pop": 989415,
+        "n_blocks_census": 132288,
+        "n_blocks_in_csv": 117541,
+        "pop_share_in_csv": 0.9916,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 420755
+      },
+      {
+        "wave": "2014-06",
+        "state": "DE",
+        "vintage": 2010,
+        "state_pop": 897934,
+        "n_blocks_census": 24115,
+        "n_blocks_in_csv": 24052,
+        "pop_share_in_csv": 1.0,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 253022
+      },
+      {
+        "wave": "2014-06",
+        "state": "CO",
+        "vintage": 2010,
+        "state_pop": 5029196,
+        "n_blocks_census": 201062,
+        "n_blocks_in_csv": 197288,
+        "pop_share_in_csv": 0.9998,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 3890688
+      },
+      {
+        "wave": "2014-06",
+        "state": "MS",
+        "vintage": 2010,
+        "state_pop": 2967297,
+        "n_blocks_census": 171778,
+        "n_blocks_in_csv": 171775,
+        "pop_share_in_csv": 1.0,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 2376347
+      },
+      {
+        "wave": "2014-06",
+        "state": "OH",
+        "vintage": 2010,
+        "state_pop": 11536504,
+        "n_blocks_census": 365344,
+        "n_blocks_in_csv": 364860,
+        "pop_share_in_csv": 0.9999,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 7481083
+      },
+      {
+        "wave": "2014-06",
+        "state": "WA",
+        "vintage": 2010,
+        "state_pop": 6724540,
+        "n_blocks_census": 195574,
+        "n_blocks_in_csv": 190924,
+        "pop_share_in_csv": 0.9992,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 3843432
+      },
+      {
+        "wave": "2014-06",
+        "state": "TX",
+        "vintage": 2010,
+        "state_pop": 25145561,
+        "n_blocks_census": 914231,
+        "n_blocks_in_csv": 911762,
+        "pop_share_in_csv": 0.9999,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 19240368
+      },
+      {
+        "wave": "2014-06",
+        "state": "MA",
+        "vintage": 2010,
+        "state_pop": 6547629,
+        "n_blocks_census": 157508,
+        "n_blocks_in_csv": 156991,
+        "pop_share_in_csv": 1.0,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 3953515
+      },
+      {
+        "wave": "2014-06",
+        "state": "MT",
+        "vintage": 2010,
+        "state_pop": 989415,
+        "n_blocks_census": 132288,
+        "n_blocks_in_csv": 117674,
+        "pop_share_in_csv": 0.9924,
+        "csv_blocks_not_in_census": 0,
+        "csv_rows": 535849
+      }
+    ]
+  },
+  "blockcsv_vs_analyze_jun2014": {
+    "n_counties": 600,
+    "corr_mobile_any": 0.9407,
+    "corr_anywless_t7": 0.9942,
+    "mean_abs_diff_mobile_any": 0.0061,
+    "mean_abs_diff_anywless_t7": 0.0135
+  },
+  "fixed_wireless_leakage_jun2014": {
+    "popwt_mean_anywless_t7_minus_mobile_t7": 0.0011,
+    "p50": 0.0,
+    "p90": 0.0038,
+    "max": 0.9322
+  },
+  "fixed_wireless_leakage_dec2012": {
+    "states": "MT MS CO MA",
+    "popwt_mean_anywless_t7_minus_mobile_t7": 0.0251,
+    "p50": 0.0,
+    "p90": 0.1999,
+    "corr_analyze_t7_vs_block_anywless_t7": 1.0,
+    "corr_analyze_t7_vs_block_mobile_t7": 0.838,
+    "by_state_popwt": {
+      "08": {
+        "analyze_t7": 0.9659,
+        "mobile_t7": 0.9042
+      },
+      "25": {
+        "analyze_t7": 0.9715,
+        "mobile_t7": 0.9716
+      },
+      "28": {
+        "analyze_t7": 0.7596,
+        "mobile_t7": 0.7598
+      },
+      "30": {
+        "analyze_t7": 0.6957,
+        "mobile_t7": 0.612
+      }
+    },
+    "note": "Analyze-table t7 column is numerically identical to the block-built ANY-wireless t7 (corr 1.000) \u2014 it includes fixed wireless. Mobile-only exposure must come from the block CSVs (transtech==80), or the analyze tables need a fixed-wireless adjustment. Leakage is concentrated in WISP-heavy rural states (CO, MT); ~0 in MA/MS."
+  },
+  "fixed_wireless_leakage_jun2010": {
+    "popwt_mean_anywless_t7_minus_mobile_t7": 0.1186
+  },
+  "fixed_wireless_leakage_dec2010": {
+    "popwt_mean_anywless_t7_minus_mobile_t7": 0.1527
+  },
+  "seda": {
+    "status": "downloaded, no registration wall",
+    "url": "https://stacks.stanford.edu/file/druid:cs829jn7849/seda_county_long_cs_5.0.csv",
+    "rows": 354949,
+    "years": [
+      2009,
+      2019
+    ],
+    "counties": 3104,
+    "subjects": [
+      "mth",
+      "rla"
+    ],
+    "grades": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}
