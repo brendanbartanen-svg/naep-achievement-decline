@@ -18,8 +18,8 @@ footnote and, if it cannot be found in ~2 minutes, flag the row for re-coding.
 ### A1. `data/waivers.csv` (ESEA/NCLB waiver approval dates) — 9 rows
 
 > **VERIFIED by author, 2026-06-10:** spot-checks A1–A4 completed (waivers,
-> phone bans, Common Core, TUDA crosswalk); no errors reported. Section B
-> (NAEP Data Explorer numbers) remains unverified.
+> phone bans, Common Core, TUDA crosswalk) and B1–B5 confirmed (NAEP Data
+> Explorer headline numbers). No errors reported.
 
 General sources recorded in report.tex (fn. 3) and README: ED's per-state ESEA flexibility
 pages, CRS Report R42328, EdWeek state-by-state tracking. No per-row URL is recorded in the
@@ -147,3 +147,19 @@ section (P10 240 → 227 between 2012 and 2020; P90 unchanged). Cross-check the 
 Digest table 222.85: https://nces.ed.gov/programs/digest/d23/tables/dt23_222.85.asp.
 This number is hand-compiled in this repo (see claims_audit.md, known gap #1), so the
 external check matters more than usual.
+
+
+## C. Additional checks (from the prioritized verification plan)
+
+- **C1. 4G treatment dates, personal-knowledge check — NOT PERFORMED** (2026-06-10):
+  the author has not lived in the area long enough to recall local LTE rollout
+  timing. Standing evidence for the exposure panel remains the pipeline
+  validation: national trajectory matches FCC published benchmarks (85.6%
+  Oct-2012, 98.5% Jan-2014), Verizon Dec-2010 launch markets appear correctly
+  (Boston, Dallas via tier-6 coding), rural RUCC-8/9 counties at zero in 2010,
+  and the Form 477 Dec-2015 splice is consistent. Optional future check:
+  cross-reference a sample of counties' first_t7_50 against carriers'
+  contemporaneous market-launch press releases.
+- **C2. Adversarial read of the Synthesis section — DONE** (2026-06-10): a
+  colleague reviewed §9 (dual-criterion framing and scorecard) and judged the
+  argument sound.
