@@ -261,3 +261,13 @@ actually read/consulted, not just cited.
   data section, §LTT, §distribution + new ¶, F4, H1, H2 reading-for-fun, synthesis, limitations
   SE caveat, verification counts + 2025-gap note). brief.tex 3 edits + header fix; slides.tex 5.
 - All PDFs recompiled (report 36pp, brief 2pp, slides 28); affected pages rendered + inspected.
+
+## 2026-06-12 — repo link + authorship restructure
+- Added public repo URL to report (title stamp, disclosure, §Verification) and brief footer
+  (slides already had it). Verified repo visibility = PUBLIC.
+- Byline changed to sole human author "Brendan Bartanen / University of Virginia" (user
+  direction); disclosure paragraph rewritten to stay accurate (Claude produced research,
+  code, text; author directed/verified, wrote none of the prose; byline-convention sentence
+  added). One-line AI-production disclosures added to brief footer and slides verification
+  appendix ([shrink=10] to fit). "Human verifier" phrasing → "the author" in §Verification.
+- All three PDFs recompiled and visually QA'd (36/2/28 pages); checks 71/71.

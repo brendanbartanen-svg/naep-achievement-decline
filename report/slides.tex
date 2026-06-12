@@ -24,7 +24,7 @@
 
 \title{Why Did American Student Achievement Decline?}
 \subtitle{Verifying the post-2013 fall and testing its explanations}
-\author{Claude Fable 5 (Anthropic)\\ \small Human Prompter/Verifier: Brendan Bartanen}
+\author{Brendan Bartanen\\ \small University of Virginia}
 \date{June 12, 2026 (v1.9)}
 
 \begin{document}
@@ -373,7 +373,7 @@ Also on the docket: restricted-use NAEP microdata; PISA 2012$\to$2022 ICT panel;
 
 % ================= APPENDIX =================
 \appendix
-\begin{frame}{Appendix: verification layer}
+\begin{frame}[shrink=10]{Appendix: verification layer}
 \begin{itemize}
 \item \textbf{Claims audit:} 42 load-bearing claims, each typed (citation/pulled/computed) with a $<$5-minute verification path; 71-assertion test suite runs clean.
 \item \textbf{Blind clean-room replications} (independent agents, no access to analysis code, fresh API/microdata pulls) --- \textbf{5/5 reproduce}, no pipeline errors:
@@ -382,7 +382,8 @@ Also on the docket: restricted-use NAEP microdata; PISA 2012$\to$2022 ICT panel;
   \end{itemize}
 \item \textbf{External anchors:} waiver null $\leftrightarrow$ Bleiberg (2020); state-aggregation null $\leftrightarrow$ Goldhaber/Jack--Oster; sector pattern $\leftrightarrow$ Malkus/Petrilli; PISA gaps $\leftrightarrow$ OECD published bivariates; 4G panel $\leftrightarrow$ FCC benchmarks + Verizon launch markets.
 \item \textbf{Human verification:} all four hand-coded policy datasets spot-checked against primary documents; five headline numbers re-pulled manually from the NAEP Data Explorer; Synthesis section adversarially reviewed by an independent colleague.
-\item Full record: report \S Verification; \texttt{evidence/claims\_audit.md}; \texttt{verification/cleanroom/COMPARISON.md}.
+\item \textbf{Production:} research, code, and text by Claude (Fable 5, Anthropic); directed and verified by the author.
+\item Full record: report \S Verification \& production disclosure; \texttt{evidence/claims\_audit.md}; \texttt{verification/cleanroom/COMPARISON.md}.
 \end{itemize}
 \end{frame}
 
