@@ -25,7 +25,7 @@
 \title{Why Did American Student Achievement Decline?}
 \subtitle{Verifying the post-2013 fall and testing its explanations}
 \author{Claude Fable 5 (Anthropic)\\ \small Human Prompter/Verifier: Brendan Bartanen}
-\date{June 2026}
+\date{June 12, 2026 (v1.9)}
 
 \begin{document}
 
@@ -71,6 +71,7 @@
 \begin{itemize}
 \item Age-13 math, 2012$\to$2020 (pre-pandemic): \red{P10 $-12.6$} vs.\ P90 $+0.1$.
 \item 2022--24: the top recovers; \red{the bottom keeps falling}. G8 math 90--10 gap: 93 $\to$ 109.
+\item LTT 2025 (June 2026 release): age-13 math \red{P10 $-2.8$ more} vs.\ P90 $+2.3$ --- gap 114, widest ever. Age 9 rebounds \emph{bottom-led} (P10 $+7.5$ math / $+9.3$ reading).
 \end{itemize}
 \src{NAEP Long-Term Trend; main-NAEP percentile series confirm (PC:P1--P9).}
 \end{frame}
@@ -110,7 +111,7 @@
 \item Onset $\sim$2013, well before COVID \hfill \gray{timing}
 \item Concentrated at the bottom decile; top flat-to-rising pre-2020 \hfill \gray{distribution}
 \item Within every demographic group and state \hfill \gray{not composition}
-\item Uniform 2019--22 drop; post-2022 recovery only at the top \hfill \gray{two phases}
+\item Uniform 2019--22 drop; post-2022 recovery at the top --- and, by 2025, among 9-year-olds \hfill \gray{two phases}
 \item Present in Catholic schools \hfill \gray{not school policy?}
 \item Synchronized internationally \hfill \gray{not U.S.\ policy}
 \item Extends to adults \hfill \gray{not schooling at all?}
@@ -253,7 +254,7 @@ Strategy: derive \emph{distinct predictions} from each across timing, distributi
 \column{.5\textwidth}
 \begin{itemize}
 \item Teen smartphone ownership: 23\% (2011) $\to$ 73\% (2015) $\to$ 95\% (2018). The peak-and-decline sits exactly on the takeoff.
-\item Reading for fun (age 13, almost daily): 27\% $\to$ 14\%, \emph{mostly pre-pandemic}.
+\item Reading for fun (age 13, almost daily): 27\% $\to$ 14\%, \emph{mostly pre-pandemic}; still 14\% in 2025.
 \item H2 is the only hypothesis that natively explains the international \emph{and adult} synchrony.
 \end{itemize}
 \end{columns}
@@ -374,7 +375,7 @@ Also on the docket: restricted-use NAEP microdata; PISA 2012$\to$2022 ICT panel;
 \appendix
 \begin{frame}{Appendix: verification layer}
 \begin{itemize}
-\item \textbf{Claims audit:} 41 load-bearing claims, each typed (citation/pulled/computed) with a $<$5-minute verification path; 62-assertion test suite runs clean.
+\item \textbf{Claims audit:} 42 load-bearing claims, each typed (citation/pulled/computed) with a $<$5-minute verification path; 71-assertion test suite runs clean.
 \item \textbf{Blind clean-room replications} (independent agents, no access to analysis code, fresh API/microdata pulls) --- \textbf{5/5 reproduce}, no pipeline errors:
   \begin{itemize}
   \item Cohort decomposition exact ($-4.45 = +1.57 - 6.02$); PISA distraction exact U.S.\ ($-13.25$), item coding independently recovered from file metadata; Kitagawa data to the decimal; Catholic-sector changes exact (official NAEP tests agree); waiver null + MDE confirmed, point estimate spec-dependent ($\approx$0).

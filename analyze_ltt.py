@@ -30,7 +30,8 @@ axes[0].legend(frameon=False, fontsize=8, loc="upper left")
 fig.tight_layout()
 fig.savefig("figures/fig_ltt.pdf"); plt.close(fig)
 
-# Fig: LTT percentile changes, pre-pandemic (2012->2020) vs pandemic (2020->2022/23)
+# Fig: LTT percentile changes, pre-pandemic (2012->2020), pandemic (2020->2022/23),
+# post-pandemic (2022/23->2025; sources: evidence/ltt_2025.md API pull)
 pcts = [10, 25, 50, 75, 90]
 pre = {  # 2012 -> 2020
     "Age 13 math": [-12.6, -7.4, -4.4, -1.5, 0.1],
@@ -44,11 +45,18 @@ post = {  # 2020 -> 2022/2023
     "Age 9 math": [-12.3, -10.6, -7.5, -5.2, -2.5],
     "Age 9 reading": [-9.5, -7.6, -4.3, -2.8, -2.4],
 }
-fig, axes = plt.subplots(1, 2, figsize=(7, 3.2), sharey=True)
+post2 = {  # 2022/2023 -> 2025
+    "Age 13 math": [-2.8, -1.1, -0.8, -0.4, 2.3],
+    "Age 13 reading": [1.2, 0.3, 0.1, 0.1, 0.6],
+    "Age 9 math": [7.5, 5.9, 3.5, 1.6, 0.7],
+    "Age 9 reading": [9.3, 6.3, 2.5, 1.2, 0.9],
+}
+fig, axes = plt.subplots(1, 3, figsize=(9.3, 3.1), sharey=True)
 colors = {"Age 13 math": "#1f5fa8", "Age 13 reading": "#7fb0d8",
           "Age 9 math": "#b03a2e", "Age 9 reading": "#e09b94"}
 for ax, (title, data) in zip(axes, [("Pre-pandemic: 2012 $\\rightarrow$ 2020", pre),
-                                    ("Pandemic era: 2020 $\\rightarrow$ 2022/23", post)]):
+                                    ("Pandemic era: 2020 $\\rightarrow$ 2022/23", post),
+                                    ("Post-pandemic: 2022/23 $\\rightarrow$ 2025", post2)]):
     for k, v in data.items():
         ax.plot(pcts, v, "-o", ms=3.5, color=colors[k], label=k)
     ax.axhline(0, color="k", lw=0.6)
@@ -56,15 +64,16 @@ for ax, (title, data) in zip(axes, [("Pre-pandemic: 2012 $\\rightarrow$ 2020", p
     ax.set_xticks(pcts)
     ax.set_xlabel("Percentile of score distribution")
 axes[0].set_ylabel("Score change (LTT points)")
-axes[1].tick_params(axis="y", labelleft=True)
+for ax in axes[1:]:
+    ax.tick_params(axis="y", labelleft=True)
 axes[0].legend(frameon=False, fontsize=7.5)
 fig.tight_layout()
 fig.savefig("figures/fig_ltt_percentiles.pdf"); plt.close(fig)
 
 # Fig: reading for fun + screen context
-years9 = [2008, 2012, 2020, 2022]; vals9 = [47.6, 52.5, 42.0, 39.3]
-years13 = [2008, 2012, 2020, 2023]; vals13 = [25.6, 27.1, 17.1, 14.3]
-never13_y = [2008, 2012, 2020, 2023]; never13 = [24.0, 21.9, 29.1, 31.2]
+years9 = [2008, 2012, 2020, 2022, 2025]; vals9 = [47.6, 52.5, 42.0, 39.3, 37.0]
+years13 = [2008, 2012, 2020, 2023, 2025]; vals13 = [25.6, 27.1, 17.1, 14.3, 14.2]
+never13_y = [2008, 2012, 2020, 2023, 2025]; never13 = [24.0, 21.9, 29.1, 31.2, 28.9]
 fig, ax = plt.subplots(figsize=(5.2, 3.2))
 ax.plot(years9, vals9, "-o", ms=4, color="#b03a2e", label="Age 9: reads for fun almost daily")
 ax.plot(years13, vals13, "-o", ms=4, color="#1f5fa8", label="Age 13: reads for fun almost daily")
@@ -72,6 +81,7 @@ ax.plot(never13_y, never13, "--s", ms=4, color="#1f5fa8", alpha=0.6,
         label="Age 13: never/hardly ever reads for fun")
 ax.set_ylabel("Percent of students")
 ax.set_ylim(0, 60)
+ax.set_xticks([2008, 2012, 2016, 2020, 2025])
 ax.legend(frameon=False, fontsize=8)
 fig.tight_layout()
 fig.savefig("figures/fig_readingfun.pdf"); plt.close(fig)

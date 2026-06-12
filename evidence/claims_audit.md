@@ -1,6 +1,6 @@
 # Claims audit — load-bearing numbers in `report/report.tex`
 
-*Built 2026-06-10. Every claim the report's argument rests on, classified by provenance:*
+*Built 2026-06-10; extended 2026-06-12 (v1.9, LTT 2025 wave). Every claim the report's argument rests on, classified by provenance:*
 - **CITATION** = a published number we merely cite (verify against the cited source).
 - **PULLED** = retrieved from a federal API or published statistical table (verify against NAEP Data Explorer / Digest).
 - **COMPUTED** = produced by this repo's analysis code (verify by re-running the script or `python3 checks.py`).
@@ -26,7 +26,8 @@ Automated freeze/recompute tests for the COMPUTED rows live in `checks.py` (repo
 | A11 | U.S. TIMSS G8 math fell 27 pts 2019→2023, to mid-1990s level (§4.6) | 515→488 | CITATION | NCES TIMSS 2023 highlights; `evidence/pisa_evidence.md` | https://nces.ed.gov/timss/results23/ (G8 math trend table) |
 | A12 | G12 2024: math 146.9 and reading 282.6, both lowest ever; 2019–24 math P10 −5 vs P90 n.s. (§4.7) | 146.9 / 282.6 | CITATION (published report-card values) | `evidence/piaac_g12_validity.md` | https://www.nationsreportcard.gov/reports/mathematics/2024/g12/national-trends/ and .../reading/2024/g12/national-trends/ |
 | A13 | PIAAC 2023: U.S. literacy −12 (2017→2023); at/below Level 1 19%→28%; top stable; literacy fell in 19 OECD countries (§4.7) | −12; 19→28% | CITATION | NCES PIAAC 2023 national results; `evidence/piaac_g12_validity.md` | https://nces.ed.gov/surveys/piaac/2023/national_results.asp |
-| A14 | Reading for fun (age 13) "almost daily" 27%→17%→14% (2012/2020/2023); never/hardly-ever 22%→31% (§5 H2, Fig 9) | 27.1/17.1/14.3; 21.9→31.2 | PULLED (LTT Data Service, variable S003501; hard-coded in `analyze_ltt.py`, sourced in `evidence/ltt_evidence.md`) | `analyze_ltt.py` | LTT 2023 highlights, survey-questionnaire section: https://www.nationsreportcard.gov/highlights/ltt/2023/ |
+| A14 | Reading for fun (age 13) "almost daily" 27%→17%→14% (2012/2020/2023), holding at 14% in 2025; never/hardly-ever 22%→31%→29% (§5 H2, Fig 9) | 27.1/17.1/14.3/14.2; 21.9→31.2→28.9 | PULLED (LTT Data Service, variable S003501; hard-coded in `analyze_ltt.py`, sourced in `evidence/ltt_evidence.md` + `evidence/ltt_2025.md`) | `analyze_ltt.py`; `checks.py` T1.12i | LTT 2023 highlights, survey-questionnaire section: https://www.nationsreportcard.gov/highlights/ltt/2023/; 2025: API query in `evidence/ltt_2025.md` |
+| A15 | LTT 2025 wave (2024–25 SY, released 2026-06-10): age 9 recovered +3.8 in both subjects vs 2022, bottom-led (math P10 +7.5, reading P10 +9.3); age 13 flat vs 2023 (math 270.3, reading 256.1) with math P10 −2.8 further while P90 +2.3; age-13 math 90–10 gap 114.0, widest ever (§4.2–4.3, Figs 4–5) | as listed | PULLED (LTT Data Service API; means in `data/ltt.csv`, percentile arrays hard-coded in `analyze_ltt.py`, full pull tables in `evidence/ltt_2025.md`) | `analyze_ltt.py`; `checks.py` T1.12–T1.12i | Paste into a browser: https://www.nationsreportcard.gov/NRCDataService/GetAdhocData.aspx?type=data&subject=mathematics&cohort=2&subscale=MRPSCT&variable=TOTAL&jurisdiction=NT&stattype=MN:MN&Year=2023,2025&Program=LTT (and stattype=PC:P1/PC:P9 for percentiles); press anchor: https://www.americanexperiment.org/new-test-results-show-growth-for-9-year-olds-stagnation-for-13-year-olds (−7 reading / −15 math vs 2012, matches) |
 
 ## B. Hypothesis tests (the three discriminating tests + policy-variation tests)
 

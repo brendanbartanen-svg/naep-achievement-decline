@@ -146,6 +146,31 @@ with open(os.path.join(ROOT, "evidence", "ltt_evidence.md")) as f:
 check("T1.11b evidence/ltt_evidence.md documents the -12.6 P10 change",
       ("−12.6" in ev) or ("-12.6" in ev), True)
 
+# T1.12 LTT 2025 wave (released 2026-06-10; API pull in evidence/ltt_2025.md)
+check("T1.12 LTT age-13 math 2025 level", round(a13m[2025], 1), 270.3, tol=0.2)
+check("T1.12b LTT age-13 math 2023->2025 flat",
+      round(a13m[2025] - a13m[2023], 1), -0.4, tol=0.3)
+a9m = ltt[ltt.series == "age9_math"].set_index("year").value
+a9r = ltt[ltt.series == "age9_reading"].set_index("year").value
+check("T1.12c LTT age-9 math 2022->2025 recovery",
+      round(a9m[2025] - a9m[2022], 1), 3.8, tol=0.3)
+check("T1.12d LTT age-9 reading 2022->2025 recovery",
+      round(a9r[2025] - a9r[2022], 1), 3.8, tol=0.3)
+check("T1.12e LTT age-13 reading 2025 level", round(a13r[2025], 1), 256.1, tol=0.2)
+# pin the post-pandemic percentile dict (third panel) to the evidence file:
+# age-13 math P10 fell 2.8 more 2023->2025 while P90 rose 2.3 (fan-out continues)
+m2 = re.search(r'post2 = \{[^}]*"Age 13 math":\s*\[(-?[\d.]+),[^\]]*?(-?[\d.]+)\]', src)
+check("T1.12f analyze_ltt.py post2 age-13 math P10 change (2023->2025)",
+      float(m2.group(1)) if m2 else None, -2.8, tol=0.01)
+check("T1.12g analyze_ltt.py post2 age-13 math P90 change (2023->2025)",
+      float(m2.group(2)) if m2 else None, 2.3, tol=0.01)
+check("T1.12h evidence files document the 2025 percentile fan-out (114.0 gap)",
+      ("114.0" in ev) or ("114.0" in open(os.path.join(ROOT, "evidence", "ltt_2025.md")).read()), True)
+# reading-for-fun floor: age-13 "almost every day" 14.2 in 2025
+m3 = re.search(r"vals13 = \[[^\]]*?(-?[\d.]+)\]", src)
+check("T1.12i analyze_ltt.py reading-for-fun age-13 2025 share",
+      float(m3.group(1)) if m3 else None, 14.2, tol=0.01)
+
 # ----------------------------------------------------------------------
 # Tier 2 — freeze the computed-results JSONs at their 2026-06-10 values
 # ----------------------------------------------------------------------

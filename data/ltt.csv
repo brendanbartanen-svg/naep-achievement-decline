@@ -14,6 +14,7 @@ age9_reading,2008,220.1
 age9_reading,2012,220.8
 age9_reading,2020,219.7
 age9_reading,2022,214.6
+age9_reading,2025,218.4
 age9_math,1978,218.6
 age9_math,1982,219.0
 age9_math,1986,221.7
@@ -27,6 +28,7 @@ age9_math,2008,242.9
 age9_math,2012,244.0
 age9_math,2020,241.4
 age9_math,2022,233.9
+age9_math,2025,237.7
 age13_reading,1971,255.2
 age13_reading,1975,255.9
 age13_reading,1980,258.5
@@ -42,6 +44,7 @@ age13_reading,2008,259.7
 age13_reading,2012,262.8
 age13_reading,2020,260.1
 age13_reading,2023,255.7
+age13_reading,2025,256.1
 age13_math,1978,264.1
 age13_math,1982,268.6
 age13_math,1986,269.0
@@ -55,3 +58,4 @@ age13_math,2008,281.5
 age13_math,2012,285.0
 age13_math,2020,279.7
 age13_math,2023,270.7
+age13_math,2025,270.3

@@ -38,7 +38,16 @@ with <5-min verification paths), `checks.py` (62 assertions, all passing),
 `docs/verification_checklists.md` (human spot-check lists), and blind clean-room
 replications of the riskiest computed numbers in `verification/cleanroom/`
 (cohort decomposition, PISA distraction, Kitagawa, waiver null all reproduce).
-Final deliverables: `report/report.pdf` (~32 pp), `report/brief.pdf` (2 pp policy brief), `report/slides.pdf` (28-slide academic talk; `slides.tex`).
+v1.9 (June 12, 2026) folds in the 2025 Long-Term Trend wave released June 10, 2026
+(ages 9/13, 2024-25 school year; pulled directly from the LTT Data Service,
+`evidence/ltt_2025.md`): age 13 stays flat at multi-decade lows with the mathematics
+bottom decile still falling while the top recovers (90-10 gap 114.0, widest ever);
+age 9 posts the data's first bottom-led recovery (+3.8 both subjects, P10 +7.5/+9.3);
+reading-for-fun at age 13 holds at its 14% floor. Verdicts unchanged, sharpened.
+v1.9 also adds a version/date stamp and a "How this report was produced" disclosure
+paragraph (human-AI division of labor) ahead of the abstract; claims audit grows to
+42 rows, `checks.py` to 71 assertions.
+Final deliverables: `report/report.pdf` (~36 pp), `report/brief.pdf` (2 pp policy brief), `report/slides.pdf` (28-slide academic talk; `slides.tex`).
 
 ## Structure
 - `naep_pull.py` — pulls main-NAEP national means/percentiles, subgroups (race, sex, NSLP),
@@ -78,8 +87,10 @@ cd report && tectonic report.tex
 - All four main-NAEP series peaked 2013 (G4 reading 2015); 2024 levels: G4 math ≈ 2005,
   G8 math ≈ 2000, G4 reading < 1998, G8 reading = lowest ever recorded.
 - Two-phase decline: 2013-2019 erosion concentrated at the bottom decile (LTT age-13 math
-  P10 −12.6 pts 2012→2020 vs P90 +0.1); 2020-2022 across-the-board pandemic drop; no aggregate
-  recovery since (reading still falling; 90-10 gaps widest on record).
+  P10 −12.6 pts 2012→2020 vs P90 +0.1); 2020-2022 across-the-board pandemic drop; among
+  adolescents no aggregate recovery since (reading still falling; age-13 math P10 fell further
+  through 2025 while P90 recovered; 90-10 gaps widest on record). The 2025 LTT wave shows the
+  first genuine bright spot: a bottom-led age-9 rebound (+3.8 in both subjects vs 2022).
 - Verdicts: pandemic disruption = dominant cause of phase 2 only; chronic absenteeism =
   main brake on recovery; demographics, funding cuts, teacher shortages = minor.
 - v1.1 discriminating tests (all three favor the digital-media hypothesis over accountability

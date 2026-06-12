@@ -250,3 +250,14 @@ actually read/consulted, not just cited.
 - Verified checks.py LTT assertions are year-indexed → appending 2025 rows is safe.
 - Verdict: update warranted but modest; verdicts unchanged/strengthened; one claim
   ("no aggregate recovery") needs an age-9 nuance. Report not yet touched.
+
+## 2026-06-12 — v1.9 executed: LTT 2025 + provenance stamp
+- ltt.csv +4 rows (2025 wave); evidence/ltt_evidence.md extended; ltt_2025.md = provenance record.
+- analyze_ltt.py: third percentile panel (2022/23→2025), reading-for-fun 2025 points, integer
+  x-ticks; all three LTT figures regenerated and visually QA'd.
+- checks.py 62→71 (T1.12a-i freeze 2025 means, post2 percentile literals, 14.2% floor); 71/71 PASS.
+- claims_audit.md: A15 added (PULLED, API one-click verification URL), A14 extended; 42 claims.
+- report.tex: 19 edits (date/version stamp, human-AI disclosure before abstract, abstract +2025,
+  data section, §LTT, §distribution + new ¶, F4, H1, H2 reading-for-fun, synthesis, limitations
+  SE caveat, verification counts + 2025-gap note). brief.tex 3 edits + header fix; slides.tex 5.
+- All PDFs recompiled (report 36pp, brief 2pp, slides 28); affected pages rendered + inspected.
