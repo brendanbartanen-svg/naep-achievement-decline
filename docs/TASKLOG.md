@@ -240,3 +240,13 @@ actually read/consulted, not just cited.
   blind replications; all agent findings written to `evidence/` dossiers with URLs.
 - Memory/state docs (`docs/STATE.md`, `docs/TASKLOG.md`) maintained so the project
   survives context resets.
+
+## 2026-06-12 — LTT 2025 release assessment
+- Identified the 2026-06-10 release (NYT link from user; NYT paywalled) as the LTT 2025
+  wave, ages 9/13, via NAGB/NPR/Chalkbeat.
+- Pulled full 2025 wave from NAEP Data Service API: 4 means, 20 percentiles, S003501
+  reading-for-fun shares; anchored against American Experiment summary (−7 read / −15 math,
+  age 13 vs 2012 — match). Recorded in evidence/ltt_2025.md with v1.9 scope.
+- Verified checks.py LTT assertions are year-indexed → appending 2025 rows is safe.
+- Verdict: update warranted but modest; verdicts unchanged/strengthened; one claim
+  ("no aggregate recovery") needs an age-9 nuance. Report not yet touched.
