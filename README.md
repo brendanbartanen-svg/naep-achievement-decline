@@ -47,7 +47,21 @@ reading-for-fun at age 13 holds at its 14% floor. Verdicts unchanged, sharpened.
 v1.9 also adds a version/date stamp and a "How this report was produced" disclosure
 paragraph (human-AI division of labor) ahead of the abstract; claims audit grows to
 42 rows, `checks.py` to 71 assertions.
-Final deliverables: `report/report.pdf` (~36 pp), `report/brief.pdf` (2 pp policy brief), `report/slides.pdf` (28-slide academic talk; `slides.tex`).
+v2.0 (July 2, 2026) responds to a written external review with no changes to analyses,
+estimates, or data: claim-strength calibration throughout (the synthesis now claims a
+consistency ranking, not a causal estimate, with the inferential strategy stated in the
+Introduction); symmetric five-part treatment of the two null designs (waiver timing and
+4G rollout, the latter framed as the project's own adversarial test of its leading
+candidate); adolescent mental health added as a named rival hypothesis with web-verified
+CDC YRBS and Mojtabai et al. sourcing (claims audit rows B15--B16; audit now 44 rows),
+its own scorecard row, and an honest cannot-separate assessment; an exposure-vs-pathway
+taxonomy for H2; and a full organizational and line-level edit (abstract 300 words,
+em-dashes cut 87%, Limitations restructured). One directional misreading of the Minnesota
+Common Core triple-difference was found during the revision and corrected with in-text
+disclosure (claims-audit row B9 updated). Process artifacts (charter, 11 agent proposals,
+reconciled edit plan, apply log, and a point-by-point response memo) are in
+`docs/revision_v2/`.
+Final deliverables: `report/report.pdf` (~39 pp), `report/brief.pdf` (2 pp policy brief), `report/slides.pdf` (28-slide academic talk; `slides.tex`).
 
 ## Structure
 - `naep_pull.py` — pulls main-NAEP national means/percentiles, subgroups (race, sex, NSLP),
@@ -107,8 +121,9 @@ cd report && tectonic report.tex
   al. 2026 call this counterfactual "never tested"), first formal cohort/period decomposition,
   first systematic sector test of the accountability hypothesis.
 - v1.4 exhaustive-avenues sprint: (i) Common Core fails its state-variation test — never-adopters
-  (AK,NE,TX,VA) declined as much or more (pooled P10 diff −0.4, p=0.72); Minnesota's non-CC math
-  fell *less* than its CC reading; (ii) TUDA district dose-response (26 districts × CSDH shares,
+  (AK,NE,TX,VA) declined as much or more (pooled P10 diff −0.4, p=0.72); Minnesota's spared (non-CC) mathematics showed no
+  protective effect relative to other states (v2.0 corrects an earlier directional misreading
+  of its +2.3 triple-difference); (ii) TUDA district dose-response (26 districts × CSDH shares,
   0→100% virtual range): weak gradient (pooled −0.18 pts/10pp, p=0.23), wide CIs — limitation,
   not contradiction, of the growth-based literature; (iii) adult-PIAAC mirror: US literacy −12
   (2017→2023), ≤Level-1 share 19%→28%, top stable; declines in 19 OECD countries — adults are

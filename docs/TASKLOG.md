@@ -271,3 +271,15 @@ actually read/consulted, not just cited.
   added). One-line AI-production disclosures added to brief footer and slides verification
   appendix ([shrink=10] to fit). "Human verifier" phrasing → "the author" in §Verification.
 - All three PDFs recompiled and visually QA'd (36/2/28 pages); checks 71/71.
+
+## Phase 12 — v2.0 critique-response revision (July 2, 2026)
+
+- Adjudicated a written external review point-by-point against the paper's actual text (grep-verified every quoted phrase; found one quote was a paraphrase of "almost by construction, not an education-policy variable").
+- Wrote an editorial charter (docs/revision_v2/CHARTER.md): the critique verbatim, an adjudication of which points land, a five-tier claim-strength ladder, a symmetry template for the two null designs, style rules, and hard non-negotiables (numbers/labels frozen, no invented citations).
+- Ran an 11-agent diagnostic swarm over report.tex: four aspect auditors (claim calibration; waiver/4G symmetry; rival hypotheses with live web verification; mechanism taxonomy), six part editors (one per section range), one whole-paper structure agent. All proposals in docs/revision_v2/proposals/.
+- Reconciled the 11 proposals into a single 110-edit, 4-move plan (docs/revision_v2/edit_plan.md) with every anchor grep-verified and a charter-decision coverage table.
+- Orchestrator gate: verified the swarm's Minnesota flag against data/v14_results.json (the paper had misread the +2.3 triple-difference direction; the CC-unfriendly fact is the −0.9 relative math decline); wrote the binding PART G addendum (correction text, mental-health adult-margin precision, "almost by construction" rewrite, sign-offs, authorized-numbers list).
+- Web-verified all new facts before use: CDC YRBS persistent-sadness trend (28/37/42/40) and Mojtabai/Olfson/Han 2016 MDE prevalence (8.7→11.3), with URLs recorded in refs.bib and claims-audit rows B15/B16.
+- Applied the plan (110 applied, 2 adapted, 0 skipped; tectonic clean) and ran four verifiers in parallel: numbers integrity (numeral set-diff vs HEAD showed only authorized additions; checks.py 71/71), a blind referee simulation given only the original critique and the revised paper ("would survive my review... accept with minor revisions"), a fresh-eyes coherence read with rendered-PDF inspection, and a drafted response memo (docs/revision_v2/response_to_critique.md).
+- Orchestrator residual pass from verifier findings: conclusion reframed as an entangled pair per the referee's remaining ask; Synthesis/jointly-imply duplication removed; falsifiability sentence added to the age-gradient paragraph; scorecard promises softened to match the table; Synthesis phase-share ranges corrected against tab:changes (20–46%; grade 4 math pandemic exceeds the net total); front-matter de-duplication. Recompiled (39 pp), re-ran checks (71/71) and terminology greps (all clean).
+- Updated claims_audit.md (B9 corrected, B15/B16 added, count 44), README.md, docs/STATE.md; committed as v2.0.
